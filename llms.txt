@@ -19,7 +19,7 @@ Top tags:
 - ui-mockup: 63
 - storytelling: 54
 - lighting-weather: 36
-- infographic: 33
+- infographic: 34
 - photoreal: 33
 - worldbuilding: 33
 - education: 23

@@ -46,7 +46,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `ui-mockup` (63)
 - `storytelling` (54)
 - `lighting-weather` (36)
-- `infographic` (33)
+- `infographic` (34)
 - `photoreal` (33)
 - `worldbuilding` (33)
 - `education` (23)
@@ -67,6 +67,13 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 
 ### Latest Play Tags
 
+- `sand-scroll-prompt-raking` - Use Case Sand Scroll: Prompt Raking
+- `stroke-prompt` - Use Case Sand Scroll: Prompt Raking
+- `pebble-reference` - Use Case Sand Scroll: Prompt Raking
+- `edit-window` - Use Case Sand Scroll: Prompt Raking
+- `caption-furrow` - Use Case Sand Scroll: Prompt Raking
+- `texture-drift` - Use Case Sand Scroll: Prompt Raking
+- `memory-path` - Use Case Sand Scroll: Prompt Raking
 - `rake-maze-league` - Derived Play: Rake Maze League
 - `rake-budget` - Derived Play: Rake Maze League
 - `pebble-anchor` - Derived Play: Rake Maze League
@@ -74,13 +81,6 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `text-furrow` - Derived Play: Rake Maze League
 - `wind-reset` - Derived Play: Rake Maze League
 - `memory-scar` - Derived Play: Rake Maze League
-- `sand-tray-prompt-raking` - Use Case Sand Tray: Prompt Raking
-- `stroke-prompt` - Use Case Sand Tray: Prompt Raking
-- `pebble-reference` - Use Case Sand Tray: Prompt Raking
-- `edit-window` - Use Case Sand Tray: Prompt Raking
-- `caption-furrow` - Use Case Sand Tray: Prompt Raking
-- `texture-drift` - Use Case Sand Tray: Prompt Raking
-- `memory-path` - Use Case Sand Tray: Prompt Raking
 - `ice-core-relay` - Derived Play: Ice Core Relay
 - `freeze-draft` - Derived Play: Ice Core Relay
 - `thaw-window` - Derived Play: Ice Core Relay
@@ -113,7 +113,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `ui-mockup` (63)
 - `storytelling` (54)
 - `lighting-weather` (36)
-- `infographic` (33)
+- `infographic` (34)
 - `photoreal` (33)
 - `worldbuilding` (33)
 - `education` (23)
@@ -330,7 +330,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `root-memory-chain` (1)
 - `safe-fiction-cloudbreak` (1)
 - `safe-harbor-swap` (1)
-- `sand-tray-prompt-raking` (1)
+- `sand-scroll-prompt-raking` (1)
 - `scale-frame` (1)
 - `scale-shift-registration` (1)
 - `scan-line-item` (1)
@@ -425,7 +425,40 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 
 ## Prompt Gallery
 
-### 001. Derived Play: Rake Maze League
+### 001. Use Case Sand Scroll: Prompt Raking
+
+![Use Case Sand Scroll: Prompt Raking](assets/images/145-use-case-sand-scroll-prompt-raking.png)
+
+**Tags:** `caption-furrow` `edit-window` `infographic` `memory-path` `pebble-reference` `sand-scroll-prompt-raking` `stroke-prompt` `texture-drift`
+
+**Prompt excerpt:** Create a single polished gallery image for an original GPT Image 2 use-case concept. Title text visible: "Use Case Sand Scroll: Prompt Raking" Output format: one long horizontal tabletop sand-scroll artifact, seen from above, like a narrow...
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Create a single polished gallery image for an original GPT Image 2 use-case concept.
+
+Title text visible: "Use Case Sand Scroll: Prompt Raking"
+Output format: one long horizontal tabletop sand-scroll artifact, seen from above, like a narrow shallow wooden tray shaped as an S-curve river of sand. It must be one continuous serpentine path from left to right with six milestone markers placed along the path in sequence. Do not arrange content in rows or columns. Do not create panels, tiles, cards, a 2x3 board, a grid, a machine console, a lab rack, or separate compartments.
+
+Visible milestone labels, clean and legible, exactly these short labels, placed along the single path:
+"Stroke Prompt" -> "Pebble Reference" -> "Edit Window" -> "Caption Furrow" -> "Texture Drift" -> "Memory Path"
+
+Use-case mechanisms shown as one continuous workflow:
+- Stroke Prompt: the starting segment has wide, narrow, and broken rake strokes showing prompt emphasis.
+- Pebble Reference: the next bend has abstract slate pebble constellations that represent fictional image references without copying real brands, people, artworks, or characters.
+- Edit Window: the middle bend has a single smooth rectangular patch re-raked inside the path while surrounding grooves remain intact.
+- Caption Furrow: one straight groove contains a short fictional carved phrase: "clear mark" to test text readability.
+- Texture Drift: the next bend gradually shifts from fine sand to coarser grains, showing variant detail drift.
+- Memory Path: the final bend contains faint older rake scars underneath the current path, showing multi-turn context memory.
+
+Visual style: calm premium overhead editorial photography, tactile fine sand, walnut rim, slate pebbles, tiny brass pins, ivory milestone tags pinned directly into the sand path, soft angled sunlight, crisp shadows, high-detail texture. The composition should read as a single elongated artifact with generous negative space and no grid structure. No humans, no real logos, no famous characters, no living-artist style imitation, no politics, no violence, no sexual content, no dangerous instructions, no watermark.
+```
+
+</details>
+
+### 002. Derived Play: Rake Maze League
 
 ![Derived Play: Rake Maze League](assets/images/143-a-second-polished-gallery-image-that-derives-a-playable-original.png)
 
@@ -459,44 +492,6 @@ Gameplay mechanics:
 - Memory Scar: faint old grooves count as reusable context if they still align with the goal.
 
 Visual style: refined overhead editorial photography, tactile sand detail, shallow walnut tray, black pebbles, brass score beads, tiny ivory rule tags, one small wooden rake resting at the edge, soft angled sunlight, crisp shadows, professional gallery image. No humans, no real logos, no famous characters, no living-artist style imitation, no politics, no violence, no sexual content, no dangerous instructions, no watermark.
-```
-
-</details>
-
-### 002. Use Case Sand Tray: Prompt Raking
-
-![Use Case Sand Tray: Prompt Raking](assets/images/144-a-single-polished-gallery-image-for-an-original-gpt-image-2-use-.png)
-
-**Tags:** `caption-furrow` `edit-window` `memory-path` `pebble-reference` `sand-tray-prompt-raking` `stroke-prompt` `texture-drift`
-
-**Prompt excerpt:** Create a single polished gallery image for an original GPT Image 2 use-case concept. Title text visible: "Use Case Sand Tray: Prompt Raking" Output format: a continuous top-down tabletop sand tray artifact, not a 2x3 board, not a card spre...
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-Create a single polished gallery image for an original GPT Image 2 use-case concept.
-
-Title text visible: "Use Case Sand Tray: Prompt Raking"
-Output format: a continuous top-down tabletop sand tray artifact, not a 2x3 board, not a card spread, not a machine console. The image should feel like one cohesive shallow wooden tray filled with fine pale sand, dark basalt pebbles, tiny brass marker pins, miniature paper tabs, and raked groove paths. Six use-case zones are embedded as connected terrain features along one winding raked path, not separate panels.
-
-Visible zone labels, clean and legible, exactly these short labels:
-1. "Stroke Prompt"
-2. "Pebble Reference"
-3. "Edit Window"
-4. "Caption Furrow"
-5. "Texture Drift"
-6. "Memory Path"
-
-Use-case mechanisms:
-- Stroke Prompt: prompt length and emphasis become wide, narrow, or interrupted rake strokes.
-- Pebble Reference: fictional reference inputs appear as small abstract pebble clusters that guide composition without copying real brands, people, or artworks.
-- Edit Window: a small smooth rectangular patch shows a local edit area re-raked while the surrounding sand stays intact.
-- Caption Furrow: short fictional text is carved into a straight furrow to test image text readability.
-- Texture Drift: two adjacent sand textures show how fine details survive variant generation.
-- Memory Path: faint previous rake paths remain visible as multi-turn iteration memory.
-
-Visual style: calm editorial product photography, overhead camera, high-detail tactile sand texture, subtle side light, refined neutral palette with slate pebbles and brass pins, premium design-magazine quality. Include small annotation arrows but keep them integrated into the tray. No humans, no real logos, no famous characters, no living-artist style imitation, no politics, no violence, no sexual content, no dangerous instructions, no watermark.
 ```
 
 </details>

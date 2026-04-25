@@ -18,8 +18,56 @@
   },
   "images": [
     {
+      "title": "Use Case Sand Scroll: Prompt Raking",
+      "caption": "把 GPT Image 的生成、参考输入、局部编辑、文字可读性、纹理漂移和多轮记忆转译成一条连续 S 形沙盘长卷：机制沿单一路径推进，不使用 2x3 面板。",
+      "path": "assets/images/145-use-case-sand-scroll-prompt-raking.png",
+      "alt": "Overhead S-shaped tabletop sand scroll showing GPT Image prompt raking use cases along one continuous path",
+      "width": 1983,
+      "height": 793,
+      "createdAt": "2026-04-25 22:18:33",
+      "batch": "019dc4f8-027f-7fe3-b050-ea732283052c",
+      "tags": [
+        "sand-scroll-prompt-raking",
+        "stroke-prompt",
+        "pebble-reference",
+        "edit-window",
+        "caption-furrow",
+        "texture-drift",
+        "memory-path",
+        "batch-019dc4f8"
+      ],
+      "prompt": "Create a single polished gallery image for an original GPT Image 2 use-case concept.\n\nTitle text visible: \"Use Case Sand Scroll: Prompt Raking\"\nOutput format: one long horizontal tabletop sand-scroll artifact, seen from above, like a narrow shallow wooden tray shaped as an S-curve river of sand. It must be one continuous serpentine path from left to right with six milestone markers placed along the path in sequence. Do not arrange content in rows or columns. Do not create panels, tiles, cards, a 2x3 board, a grid, a machine console, a lab rack, or separate compartments.\n\nVisible milestone labels, clean and legible, exactly these short labels, placed along the single path:\n\"Stroke Prompt\" -> \"Pebble Reference\" -> \"Edit Window\" -> \"Caption Furrow\" -> \"Texture Drift\" -> \"Memory Path\"\n\nUse-case mechanisms shown as one continuous workflow:\n- Stroke Prompt: the starting segment has wide, narrow, and broken rake strokes showing prompt emphasis.\n- Pebble Reference: the next bend has abstract slate pebble constellations that represent fictional image references without copying real brands, people, artworks, or characters.\n- Edit Window: the middle bend has a single smooth rectangular patch re-raked inside the path while surrounding grooves remain intact.\n- Caption Furrow: one straight groove contains a short fictional carved phrase: \"clear mark\" to test text readability.\n- Texture Drift: the next bend gradually shifts from fine sand to coarser grains, showing variant detail drift.\n- Memory Path: the final bend contains faint older rake scars underneath the current path, showing multi-turn context memory.\n\nVisual style: calm premium overhead editorial photography, tactile fine sand, walnut rim, slate pebbles, tiny brass pins, ivory milestone tags pinned directly into the sand path, soft angled sunlight, crisp shadows, high-detail texture. The composition should read as a single elongated artifact with generous negative space and no grid structure. No humans, no real logos, no famous characters, no living-artist style imitation, no politics, no violence, no sexual content, no dangerous instructions, no watermark.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt_with_documentation_background",
+        "sourceNote": "Original concept and prompt generated locally; OpenAI documentation was consulted only for current GPT Image capability boundaries."
+      },
+      "promptSources": [
+        {
+          "title": "Image generation guide",
+          "url": "https://platform.openai.com/docs/guides/image-generation",
+          "authorOrPublisher": "OpenAI",
+          "license": "OpenAI public documentation; referenced for capability background, not reused as prompt text or visual source",
+          "accessedAt": "2026-04-25",
+          "usedAs": "Capability background for generate/edit, multi-turn iteration, image inputs, revised prompts, text rendering limits, and output sizing; no external prompt or artwork was copied"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Prompt and generated content were screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful instructions, and graphic violence."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc4f8-027f-7fe3-b050-ea732283052c/ig_0a4949ca6e8370340169ecccfb4668819693b2c28eb2b3004b.png"
+    },
+    {
       "title": "Derived Play: Rake Maze League",
-      "caption": "从沙盘用例派生出的可玩机制：玩家用有限耙痕预算重写提示路径，用锚石锁住约束，用风扇重置弱路径，并让旧耙痕作为可复用上下文。",
+      "caption": "从沙盘长卷派生出的可玩机制：玩家用有限耙痕预算重写提示路径，用锚石锁住约束，用风扇重置弱路径，并让旧耙痕作为可复用上下文。",
       "path": "assets/images/143-a-second-polished-gallery-image-that-derives-a-playable-original.png",
       "alt": "Overhead sand tray maze game with rake budget, pebble anchors, smooth patch edit zone, and memory scar rules",
       "width": 1536,
@@ -64,54 +112,6 @@
         "reviewNote": "Prompt and generated content were screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful instructions, and graphic violence."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc4f8-027f-7fe3-b050-ea732283052c/ig_0a4949ca6e8370340169eccb96a55c819680d6428a0a58bd05.png"
-    },
-    {
-      "title": "Use Case Sand Tray: Prompt Raking",
-      "caption": "把 GPT Image 的生成、参考输入、局部编辑、文字可读性、纹理漂移和多轮记忆转译成一张连续桌面沙盘：prompt 像耙痕，reference 像锚石，edit 像可重画的平滑窗口。",
-      "path": "assets/images/144-a-single-polished-gallery-image-for-an-original-gpt-image-2-use-.png",
-      "alt": "Overhead tabletop sand tray showing GPT Image prompt raking use cases as connected raked terrain features",
-      "width": 1536,
-      "height": 1024,
-      "createdAt": "2026-04-25 22:11:36",
-      "batch": "019dc4f8-027f-7fe3-b050-ea732283052c",
-      "tags": [
-        "sand-tray-prompt-raking",
-        "stroke-prompt",
-        "pebble-reference",
-        "edit-window",
-        "caption-furrow",
-        "texture-drift",
-        "memory-path",
-        "batch-019dc4f8"
-      ],
-      "prompt": "Create a single polished gallery image for an original GPT Image 2 use-case concept.\n\nTitle text visible: \"Use Case Sand Tray: Prompt Raking\"\nOutput format: a continuous top-down tabletop sand tray artifact, not a 2x3 board, not a card spread, not a machine console. The image should feel like one cohesive shallow wooden tray filled with fine pale sand, dark basalt pebbles, tiny brass marker pins, miniature paper tabs, and raked groove paths. Six use-case zones are embedded as connected terrain features along one winding raked path, not separate panels.\n\nVisible zone labels, clean and legible, exactly these short labels:\n1. \"Stroke Prompt\"\n2. \"Pebble Reference\"\n3. \"Edit Window\"\n4. \"Caption Furrow\"\n5. \"Texture Drift\"\n6. \"Memory Path\"\n\nUse-case mechanisms:\n- Stroke Prompt: prompt length and emphasis become wide, narrow, or interrupted rake strokes.\n- Pebble Reference: fictional reference inputs appear as small abstract pebble clusters that guide composition without copying real brands, people, or artworks.\n- Edit Window: a small smooth rectangular patch shows a local edit area re-raked while the surrounding sand stays intact.\n- Caption Furrow: short fictional text is carved into a straight furrow to test image text readability.\n- Texture Drift: two adjacent sand textures show how fine details survive variant generation.\n- Memory Path: faint previous rake paths remain visible as multi-turn iteration memory.\n\nVisual style: calm editorial product photography, overhead camera, high-detail tactile sand texture, subtle side light, refined neutral palette with slate pebbles and brass pins, premium design-magazine quality. Include small annotation arrows but keep them integrated into the tray. No humans, no real logos, no famous characters, no living-artist style imitation, no politics, no violence, no sexual content, no dangerous instructions, no watermark.",
-      "provenance": {
-        "status": "external_attributed",
-        "origin": "local_codex_revised_prompt_with_documentation_background",
-        "sourceNote": "Original concept and prompt generated locally; OpenAI documentation was consulted only for current GPT Image capability boundaries."
-      },
-      "promptSources": [
-        {
-          "title": "Image generation guide",
-          "url": "https://platform.openai.com/docs/guides/image-generation",
-          "authorOrPublisher": "OpenAI",
-          "license": "OpenAI public documentation; referenced for capability background, not reused as prompt text or visual source",
-          "accessedAt": "2026-04-25",
-          "usedAs": "Capability background for generate/edit, multi-turn iteration, image inputs, revised prompts, text rendering limits, and output sizing; no external prompt or artwork was copied"
-        }
-      ],
-      "contentSafety": {
-        "status": "screened",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
-        "reviewNote": "Prompt and generated content were screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful instructions, and graphic violence."
-      },
-      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc4f8-027f-7fe3-b050-ea732283052c/ig_0a4949ca6e8370340169eccb52f6048196bb6e1445608572d2.png"
     },
     {
       "title": "Derived Play: Ice Core Relay",

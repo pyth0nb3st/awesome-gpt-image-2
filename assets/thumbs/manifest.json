@@ -3,13 +3,13 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/145-use-case-sand-scroll-prompt-raking.png": {
+      "path": "assets/thumbs/145-use-case-sand-scroll-prompt-raking.jpg",
+      "width": 768,
+      "height": 308
+    },
     "assets/images/143-a-second-polished-gallery-image-that-derives-a-playable-original.png": {
       "path": "assets/thumbs/143-a-second-polished-gallery-image-that-derives-a-playable-original.jpg",
-      "width": 768,
-      "height": 512
-    },
-    "assets/images/144-a-single-polished-gallery-image-for-an-original-gpt-image-2-use-.png": {
-      "path": "assets/thumbs/144-a-single-polished-gallery-image-for-an-original-gpt-image-2-use-.jpg",
       "width": 768,
       "height": 512
     },

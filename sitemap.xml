@@ -6,14 +6,14 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/145-use-case-sand-scroll-prompt-raking.png</image:loc>
+      <image:title>Use Case Sand Scroll: Prompt Raking</image:title>
+      <image:caption>Create a single polished gallery image for an original GPT Image 2 use-case concept. Title text visible: &quot;Use Case Sand Scroll: Prompt Raking&quot; Output format: one long horizontal tabletop sand-scroll artifact, seen from above, like a narrow...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/143-a-second-polished-gallery-image-that-derives-a-playable-original.png</image:loc>
       <image:title>Derived Play: Rake Maze League</image:title>
       <image:caption>Create a second polished gallery image that derives a playable original mechanic from the previous sand-tray use case. Title text visible: &quot;Derived Play: Rake Maze League&quot; Output format: one tabletop sand-tray game seen from above, shaped...</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://gptimg2.best/assets/images/144-a-single-polished-gallery-image-for-an-original-gpt-image-2-use-.png</image:loc>
-      <image:title>Use Case Sand Tray: Prompt Raking</image:title>
-      <image:caption>Create a single polished gallery image for an original GPT Image 2 use-case concept. Title text visible: &quot;Use Case Sand Tray: Prompt Raking&quot; Output format: a continuous top-down tabletop sand tray artifact, not a 2x3 board, not a card spre...</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://gptimg2.best/assets/images/141-make-a-single-public-gallery-image-an-original-derived-play-chal.png</image:loc>
@@ -719,6 +719,17 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://gptimg2.best/prompts/145-use-case-sand-scroll-prompt-raking/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/145-use-case-sand-scroll-prompt-raking.png</image:loc>
+      <image:title>Use Case Sand Scroll: Prompt Raking</image:title>
+      <image:caption>Create a single polished gallery image for an original GPT Image 2 use-case concept. Title text visible: &quot;Use Case Sand Scroll: Prompt Raking&quot; Output format: one long horizontal tabletop sand-scroll artifact, seen from above, like a narrow...</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://gptimg2.best/prompts/143-a-second-polished-gallery-image-that-derives-a-playable-original/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>monthly</changefreq>
@@ -727,17 +738,6 @@
       <image:loc>https://gptimg2.best/assets/images/143-a-second-polished-gallery-image-that-derives-a-playable-original.png</image:loc>
       <image:title>Derived Play: Rake Maze League</image:title>
       <image:caption>Create a second polished gallery image that derives a playable original mechanic from the previous sand-tray use case. Title text visible: &quot;Derived Play: Rake Maze League&quot; Output format: one tabletop sand-tray game seen from above, shaped...</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://gptimg2.best/prompts/144-a-single-polished-gallery-image-for-an-original-gpt-image-2-use/</loc>
-    <lastmod>2026-04-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://gptimg2.best/assets/images/144-a-single-polished-gallery-image-for-an-original-gpt-image-2-use-.png</image:loc>
-      <image:title>Use Case Sand Tray: Prompt Raking</image:title>
-      <image:caption>Create a single polished gallery image for an original GPT Image 2 use-case concept. Title text visible: &quot;Use Case Sand Tray: Prompt Raking&quot; Output format: a continuous top-down tabletop sand tray artifact, not a 2x3 board, not a card spre...</image:caption>
     </image:image>
   </url>
   <url>
