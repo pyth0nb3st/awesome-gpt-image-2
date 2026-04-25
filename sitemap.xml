@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/188-derived-play-stack-slip-syllabus.png</image:loc>
+      <image:title>Derived Play: Stack Slip Syllabus</image:title>
+      <image:caption>Create a single polished gallery image for a derived play concept titled Derived Play: Stack Slip Syllabus. It should be a different artifact from the catalog cabinet: show a compact tabletop game built from upright book-spine tiles, remov...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/189-use-case-library-prompt-catalog-cabinet.png</image:loc>
+      <image:title>Use Case Library: Prompt Catalog Cabinet</image:title>
+      <image:caption>Create a single polished gallery image for a new GPT Image 2 use case titled Use Case Library: Prompt Catalog Cabinet. Show a tall miniature library catalog cabinet fused with a narrow bookcase on a neutral studio table, no people and no r...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/186-derived-play-prism-split-draft.png</image:loc>
       <image:title>Derived Play: Prism Split Draft</image:title>
       <image:caption>Create a single polished gallery image for a derived play concept titled Derived Play: Prism Split Draft. It should be a different artifact from the optical bench: show a compact cooperative tabletop game made from a triangular prism hub,...</image:caption>
@@ -917,6 +927,28 @@
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/188-derived-play-stack-slip-syllabus/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/188-derived-play-stack-slip-syllabus.png</image:loc>
+      <image:title>Derived Play: Stack Slip Syllabus</image:title>
+      <image:caption>Create a single polished gallery image for a derived play concept titled Derived Play: Stack Slip Syllabus. It should be a different artifact from the catalog cabinet: show a compact tabletop game built from upright book-spine tiles, remov...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/189-use-case-library-prompt-catalog-cabinet/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/189-use-case-library-prompt-catalog-cabinet.png</image:loc>
+      <image:title>Use Case Library: Prompt Catalog Cabinet</image:title>
+      <image:caption>Create a single polished gallery image for a new GPT Image 2 use case titled Use Case Library: Prompt Catalog Cabinet. Show a tall miniature library catalog cabinet fused with a narrow bookcase on a neutral studio table, no people and no r...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/186-derived-play-prism-split-draft/</loc>
@@ -3038,6 +3070,12 @@
   </url>
   <url>
     <loc>https://gptimg2.best/tags/crop-gate/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/crop-shelf/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>

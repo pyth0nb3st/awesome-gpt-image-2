@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/188-derived-play-stack-slip-syllabus.png": {
+      "path": "assets/thumbs/188-derived-play-stack-slip-syllabus.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/189-use-case-library-prompt-catalog-cabinet.png": {
+      "path": "assets/thumbs/189-use-case-library-prompt-catalog-cabinet.jpg",
+      "width": 768,
+      "height": 1152
+    },
     "assets/images/186-derived-play-prism-split-draft.png": {
       "path": "assets/thumbs/186-derived-play-prism-split-draft.jpg",
       "width": 768,
