@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/111-an-original-gpt-image-2-derived-play-scene-as-one-3-2-landscape-.png</image:loc>
+      <image:title>Original GPT Image 2 derived-play scene as one 3:2 landscape image, not a contact</image:title>
+      <image:caption>Create an original GPT Image 2 derived-play scene as one 3:2 landscape image, not a contact sheet, not a 2x3 grid, not separate poster panels. Format: a single photographed circular tabletop &quot;rules machine&quot; with nested rotating rings, wind...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/112-an-original-gpt-image-2-use-case-scene-as-one-3-2-landscape-imag.png</image:loc>
+      <image:title>Original GPT Image 2 use-case scene as one 3:2 landscape image, not a contact she</image:title>
+      <image:caption>Create an original GPT Image 2 use-case scene as one 3:2 landscape image, not a contact sheet, not a 2x3 grid, not separate poster panels. Format: a single overhead photographed fold-out &quot;visual instrument case&quot; on a neutral workbench, lik...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/109-a-second-polished-original-gpt-image-2-derived-play-mechanics-bo.png</image:loc>
       <image:title>Derived Play Modes: Material Arcade</image:title>
       <image:caption>Create a second polished original GPT Image 2 derived-play mechanics board as a single 3:2 landscape image, clean 2x3 contact-sheet layout with six clearly separated panels. No logos, no real brands, no celebrity likenesses, no public figu...</image:caption>
@@ -567,6 +577,28 @@
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/111-an-original-gpt-image-2-derived-play-scene-as-one-3-2-landscape/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/111-an-original-gpt-image-2-derived-play-scene-as-one-3-2-landscape-.png</image:loc>
+      <image:title>Original GPT Image 2 derived-play scene as one 3:2 landscape image, not a contact</image:title>
+      <image:caption>Create an original GPT Image 2 derived-play scene as one 3:2 landscape image, not a contact sheet, not a 2x3 grid, not separate poster panels. Format: a single photographed circular tabletop &quot;rules machine&quot; with nested rotating rings, wind...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/112-an-original-gpt-image-2-use-case-scene-as-one-3-2-landscape-imag/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/112-an-original-gpt-image-2-use-case-scene-as-one-3-2-landscape-imag.png</image:loc>
+      <image:title>Original GPT Image 2 use-case scene as one 3:2 landscape image, not a contact she</image:title>
+      <image:caption>Create an original GPT Image 2 use-case scene as one 3:2 landscape image, not a contact sheet, not a 2x3 grid, not separate poster panels. Format: a single overhead photographed fold-out &quot;visual instrument case&quot; on a neutral workbench, lik...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/109-a-second-polished-original-gpt-image-2-derived-play-mechanics-bo/</loc>
