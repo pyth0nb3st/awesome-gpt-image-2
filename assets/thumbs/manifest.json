@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/148-a-second-polished-public-gallery-image-that-derives-a-playable-o.png": {
+      "path": "assets/thumbs/148-a-second-polished-public-gallery-image-that-derives-a-playable-o.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/149-a-single-polished-public-gallery-image-for-an-original-gpt-image.png": {
+      "path": "assets/thumbs/149-a-single-polished-public-gallery-image-for-an-original-gpt-image.jpg",
+      "width": 768,
+      "height": 432
+    },
     "assets/images/146-a-second-polished-gallery-image-that-derives-a-playable-original.png": {
       "path": "assets/thumbs/146-a-second-polished-gallery-image-that-derives-a-playable-original.jpg",
       "width": 768,
