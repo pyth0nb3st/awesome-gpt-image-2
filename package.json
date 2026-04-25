@@ -4,6 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "build:brand": "python3 scripts/build-brand-assets.py",
     "validate:gallery": "node scripts/validate-gallery-policy.mjs",
     "prebuild": "npm run validate:gallery && node scripts/generate-thumbnails.mjs",
     "dev": "next dev",

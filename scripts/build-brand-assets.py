@@ -16,6 +16,10 @@ def load_rgb(path: Path) -> Image.Image:
     return Image.open(path).convert("RGB")
 
 
+def load_rgba(path: Path) -> Image.Image:
+    return Image.open(path).convert("RGBA")
+
+
 def save_png(image: Image.Image, path: Path) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     image.save(path, format="PNG", optimize=True)
@@ -32,7 +36,7 @@ def main() -> None:
     apple_icon = ImageOps.fit(icon_source, (180, 180), method=Image.Resampling.LANCZOS, centering=(0.5, 0.5))
     save_png(apple_icon, APP_DIR / "apple-icon.png")
 
-    favicon_source = ImageOps.fit(icon_source, (256, 256), method=Image.Resampling.LANCZOS, centering=(0.5, 0.5))
+    favicon_source = ImageOps.fit(load_rgba(ICON_SOURCE), (256, 256), method=Image.Resampling.LANCZOS, centering=(0.5, 0.5))
     favicon_source.save(APP_DIR / "favicon.ico", sizes=[(16, 16), (32, 32), (48, 48), (64, 64)])
 
 

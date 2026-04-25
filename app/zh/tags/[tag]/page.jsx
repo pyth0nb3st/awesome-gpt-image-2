@@ -2,6 +2,7 @@ import { notFound } from "next/navigation";
 import TagDetailPageContent from "../../../../components/pages/TagDetailPage";
 import { getEntriesByTag, tagEntries, tagUrl } from "../../../../lib/gallery";
 import { getCopy, tagLabel } from "../../../../lib/i18n";
+import { SITE_OG_IMAGE, SITE_OG_IMAGE_METADATA } from "../../../../lib/site-assets";
 
 export function generateStaticParams() {
   return tagEntries.map(([tag]) => ({ tag }));
@@ -30,6 +31,13 @@ export async function generateMetadata({ params }) {
       title: `${label} GPT Image 2 示例`,
       description,
       url: `/zh${tagUrl(tag)}`,
+      images: [SITE_OG_IMAGE_METADATA],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: `${label} GPT Image 2 示例`,
+      description,
+      images: [SITE_OG_IMAGE],
     },
   };
 }
