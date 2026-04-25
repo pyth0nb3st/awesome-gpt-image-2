@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/191-derived-play-notch-fitting-swap.png</image:loc>
+      <image:title>Derived Play: Notch Fitting Swap</image:title>
+      <image:caption>Create a single gallery image titled Derived Play: Notch Fitting Swap. Show a curved miniature dress-form stand used as a magnetic fitting game, not a flat board, not cards, not a grid, not a contact sheet. Players would place paper patter...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/192-use-case-textile-prompt-fitting-toile.png</image:loc>
+      <image:title>Use Case Textile: Prompt Fitting Toile</image:title>
+      <image:caption>Create a single gallery image titled Use Case Textile: Prompt Fitting Toile. Show one headless dress form wearing a translucent muslin toile assembled from labeled paper pattern pieces; no person is present. The fictional subject is a pock...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/190-derived-play-index-hunt-zine.png</image:loc>
       <image:title>Derived Play: Index Hunt Zine</image:title>
       <image:caption>Create a single polished gallery image for a derived play concept titled Derived Play: Index Hunt Zine. It should be a different artifact from the catalog cabinet: show an accordion-fold library zine opened across a shallow reading tray, w...</image:caption>
@@ -927,6 +937,28 @@
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/191-derived-play-notch-fitting-swap/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/191-derived-play-notch-fitting-swap.png</image:loc>
+      <image:title>Derived Play: Notch Fitting Swap</image:title>
+      <image:caption>Create a single gallery image titled Derived Play: Notch Fitting Swap. Show a curved miniature dress-form stand used as a magnetic fitting game, not a flat board, not cards, not a grid, not a contact sheet. Players would place paper patter...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/192-use-case-textile-prompt-fitting-toile/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/192-use-case-textile-prompt-fitting-toile.png</image:loc>
+      <image:title>Use Case Textile: Prompt Fitting Toile</image:title>
+      <image:caption>Create a single gallery image titled Use Case Textile: Prompt Fitting Toile. Show one headless dress form wearing a translucent muslin toile assembled from labeled paper pattern pieces; no person is present. The fictional subject is a pock...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/190-derived-play-index-hunt-zine/</loc>

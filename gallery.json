@@ -18,6 +18,92 @@
   },
   "images": [
     {
+      "title": "Derived Play: Notch Fitting Swap",
+      "caption": "从样衣校样派生出的弧形裁片置换玩法：Grain Pick、Notch Lock、Lining Swap、Seam Ban、Hem Crop、Stitch Read、Dart Scale、Bolt Limit 和 Fit Proof 让玩家用磁性纸样改写 prompt 并保持同一虚构物件。",
+      "path": "assets/images/191-derived-play-notch-fitting-swap.png",
+      "alt": "Magnetic tailor fitting game with curved dress-form stand, paper pattern pieces, notch locks, lining swatches, seam ban tape, hem crop ruler, stitch read tags, dart scale clips, bolt limit rolls, and fit proof tickets",
+      "width": 1536,
+      "height": 1024,
+      "createdAt": "2026-04-26 05:52:29",
+      "batch": "019dc69d-2ca7-75a2-901a-4d6326a7361c",
+      "tags": [
+        "notch-fitting-swap",
+        "grain-pick",
+        "notch-lock",
+        "lining-swap",
+        "seam-ban",
+        "hem-crop",
+        "stitch-read",
+        "dart-scale",
+        "bolt-limit",
+        "fit-proof",
+        "batch-019dc69d"
+      ],
+      "prompt": "Create a single gallery image titled Derived Play: Notch Fitting Swap. Show a curved miniature dress-form stand used as a magnetic fitting game, not a flat board, not cards, not a grid, not a contact sheet. Players would place paper pattern pieces around the form: choose one grain pick, close two notch locks, swap one lining, ban one seam, set a hem crop ruler, attach a stitch read tag, adjust a dart scale clip, and obey a bolt limit roll. The win condition is three fit proof tickets preserving the same pocket-size amber compass across applique, label, and icon. Labels: Grain Pick, Notch Lock, Lining Swap, Seam Ban, Hem Crop, Stitch Read, Dart Scale, Bolt Limit, Fit Proof. Crisp product photo in a fictional tailor studio, no people, no hands, no brand marks, harmless original content, no public figures, no copyrighted characters, no political content, no harmful instructions, no weapons, no gore, no sexual or nude content, no living artist style imitation.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original magnetic pattern-piece fitting game generated locally from the Prompt Fitting Toile concept. No external prompt, article, image, artwork, repository, brand, character, or case-study source was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Original fictional no-person tailor-studio fitting game with invented amber compass fit proof tickets only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc69d-2ca7-75a2-901a-4d6326a7361c/ig_0b9d2281822506f50169ed375e7cc88196b930707ff6c6658a.png"
+    },
+    {
+      "title": "Use Case Textile: Prompt Fitting Toile",
+      "caption": "把 GPT Image 2 的提示变成一件半透明样衣：Motif Grain、Notch Pair、Reference Lining、Forbidden Seam、Crop Hem、Caption Stitch、Scale Dart、Palette Bolt 和 Toile Proof 用纸样、样衣和缝线来校验主体、比例、文字与禁用元素。",
+      "path": "assets/images/192-use-case-textile-prompt-fitting-toile.png",
+      "alt": "Transparent dress form wearing a prompt fitting toile with paper pattern pieces, paired notches, reference lining swatches, forbidden seam tape, crop hem gauge, caption stitches, scale darts, palette bolts, and proof tags",
+      "width": 1024,
+      "height": 1536,
+      "createdAt": "2026-04-26 05:51:27",
+      "batch": "019dc69d-2ca7-75a2-901a-4d6326a7361c",
+      "tags": [
+        "prompt-fitting-toile",
+        "motif-grain",
+        "notch-pair",
+        "reference-lining",
+        "forbidden-seam",
+        "crop-hem",
+        "caption-stitch",
+        "scale-dart",
+        "palette-bolt",
+        "toile-proof",
+        "batch-019dc69d"
+      ],
+      "prompt": "Create a single gallery image titled Use Case Textile: Prompt Fitting Toile. Show one headless dress form wearing a translucent muslin toile assembled from labeled paper pattern pieces; no person is present. The fictional subject is a pocket-size amber compass stitched as an applique on sleeve, pocket, and hem. Prompt controls appear as sewing features: motif grain line, paired notches, reference lining swatches, forbidden seam tape for exclusions, crop hem gauge, caption embroidery sampler, scale darts, palette bolts, and three toile proof tags. Labels: Motif Grain, Notch Pair, Reference Lining, Forbidden Seam, Crop Hem, Caption Stitch, Scale Dart, Palette Bolt, Toile Proof. Premium atelier product photograph, linen table, pins, thread, readable labels; fictional content only, no brand marks, no public figures, no copyrighted characters, no political content, no harmful instructions, no weapons, no gore, no sexual or nude content, no living artist style imitation.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original textile fitting-toile prompt-control concept generated locally from existing-gallery gap analysis. No external prompt, article, image, artwork, repository, brand, character, or case-study source was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Original fictional no-person tailor-studio prompt fitting toile with invented amber compass applique only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc69d-2ca7-75a2-901a-4d6326a7361c/ig_0b9d2281822506f50169ed37294a9081969cb467971de34382.png"
+    },
+    {
       "title": "Derived Play: Index Hunt Zine",
       "caption": "从编目柜派生出的折页索引寻宝玩法：Shelfmark Tab、Citation Ribbon、Margin Lens、Return Pocket、Errata Flap、Concordance Strip、Folio Gate、Quiet Rule 和 Index Proof 把 prompt 追踪性变成穿线、翻页、开窗和一条索引证明。",
       "path": "assets/images/190-derived-play-index-hunt-zine.png",

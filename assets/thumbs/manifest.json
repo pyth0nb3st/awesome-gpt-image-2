@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/191-derived-play-notch-fitting-swap.png": {
+      "path": "assets/thumbs/191-derived-play-notch-fitting-swap.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/192-use-case-textile-prompt-fitting-toile.png": {
+      "path": "assets/thumbs/192-use-case-textile-prompt-fitting-toile.jpg",
+      "width": 768,
+      "height": 1152
+    },
     "assets/images/190-derived-play-index-hunt-zine.png": {
       "path": "assets/thumbs/190-derived-play-index-hunt-zine.jpg",
       "width": 768,
