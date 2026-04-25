@@ -42,31 +42,45 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 
 - `product-mockup` (80)
 - `typography` (77)
-- `game-design` (70)
+- `game-design` (68)
 - `ui-mockup` (63)
-- `storytelling` (55)
-- `lighting-weather` (38)
+- `storytelling` (54)
+- `lighting-weather` (36)
 - `infographic` (34)
 - `photoreal` (33)
 - `worldbuilding` (33)
-- `education` (24)
+- `education` (23)
 - `interior-design` (23)
-- `material-study` (19)
-- `operations` (17)
-- `evaluation` (16)
+- `material-study` (17)
+- `evaluation` (15)
+- `operations` (15)
 - `productivity-visual` (15)
 - `stylized-concept` (15)
 - `illustration-story` (9)
-- `prompt-game` (8)
 - `ads-marketing` (7)
+- `prompt-game` (7)
 - `infographic-diagram` (6)
 - `scientific-educational` (5)
-- `sound-to-scene` (5)
+- `sound-to-scene` (3)
 - `photorealistic-natural` (2)
 - `ui-fiction-simulator` (2)
 
 ### Latest Play Tags
 
+- `tilt-gate-league` - Derived Play: Tilt Gate League
+- `angle-lock` - Derived Play: Tilt Gate League
+- `rib-count-bid` - Derived Play: Tilt Gate League
+- `ghost-frame-rescue` - Derived Play: Tilt Gate League
+- `crop-shutter-dash` - Derived Play: Tilt Gate League
+- `glint-caption-check` - Derived Play: Tilt Gate League
+- `edge-stripe-audit` - Derived Play: Tilt Gate League
+- `lenticular-prompt-gates` - Use Case Arcade: Lenticular Prompt Gates
+- `reference-lock` - Use Case Arcade: Lenticular Prompt Gates
+- `edit-reveal` - Use Case Arcade: Lenticular Prompt Gates
+- `rib-text-test` - Use Case Arcade: Lenticular Prompt Gates
+- `crop-sweep` - Use Case Arcade: Lenticular Prompt Gates
+- `style-phase` - Use Case Arcade: Lenticular Prompt Gates
+- `edge-provenance` - Use Case Arcade: Lenticular Prompt Gates
 - `grout-route-mosaic-league` - Derived Play: Grout Route Mosaic League
 - `subject-tile-draft` - Derived Play: Grout Route Mosaic League
 - `border-context-locks` - Derived Play: Grout Route Mosaic League
@@ -89,51 +103,38 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `subtotal-dial` - Derived Play: Receipt Run League
 - `receipt-audit-gate` - Derived Play: Receipt Run League
 - `prompt-line-itemization` - Use Case Receipt: Prompt Accounting
-- `constraint-subtotal` - Use Case Receipt: Prompt Accounting
-- `edit-refund-lane` - Use Case Receipt: Prompt Accounting
-- `style-coupon-clipping` - Use Case Receipt: Prompt Accounting
-- `provenance-stamp` - Use Case Receipt: Prompt Accounting
-- `aspect-ratio-price-check` - Use Case Receipt: Prompt Accounting
-- `visual-reconciliation` - Use Case Receipt: Prompt Accounting
-- `ridge-draft` - Derived Play: Contour Sandbox League
-- `fence-veto` - Derived Play: Contour Sandbox League
-- `mold-memory` - Derived Play: Contour Sandbox League
-- `shadow-wager` - Derived Play: Contour Sandbox League
-- `frame-squeeze` - Derived Play: Contour Sandbox League
-- `sign-whisper` - Derived Play: Contour Sandbox League
-- `contour-brief` - Use Case Sandbox: Contour Image Rehearsal
-- `boundary-edit` - Use Case Sandbox: Contour Image Rehearsal
 
 <details>
 <summary>All generated tags</summary>
 
 - `product-mockup` (80)
 - `typography` (77)
-- `game-design` (70)
+- `game-design` (68)
 - `ui-mockup` (63)
-- `storytelling` (55)
-- `lighting-weather` (38)
+- `storytelling` (54)
+- `lighting-weather` (36)
 - `infographic` (34)
 - `photoreal` (33)
 - `worldbuilding` (33)
-- `education` (24)
+- `education` (23)
 - `interior-design` (23)
-- `material-study` (19)
-- `operations` (17)
-- `evaluation` (16)
+- `material-study` (17)
+- `evaluation` (15)
+- `operations` (15)
 - `productivity-visual` (15)
 - `stylized-concept` (15)
 - `illustration-story` (9)
-- `prompt-game` (8)
 - `ads-marketing` (7)
+- `prompt-game` (7)
 - `infographic-diagram` (6)
 - `scientific-educational` (5)
-- `sound-to-scene` (5)
+- `sound-to-scene` (3)
 - `photorealistic-natural` (2)
 - `ui-fiction-simulator` (2)
 - `accessibility-pollinator-view` (1)
 - `altimeter-bid` (1)
 - `ambiguity-scope` (1)
+- `angle-lock` (1)
 - `archive-color-lab` (1)
 - `archive-detective` (1)
 - `archive-label-restorer` (1)
@@ -179,6 +180,8 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `crop-curtain-sprint` (1)
 - `crop-heddle-router` (1)
 - `crop-loom-race` (1)
+- `crop-shutter-dash` (1)
+- `crop-sweep` (1)
 - `data-to-poster` (1)
 - `dataset-postcard-sampler` (1)
 - `decision-thread` (1)
@@ -189,9 +192,12 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `drawer-tetris-draft` (1)
 - `dream-errand-planner` (1)
 - `eclipse-token-lock` (1)
+- `edge-provenance` (1)
+- `edge-stripe-audit` (1)
 - `edit-humidity-gauge` (1)
 - `edit-refund-lane` (1)
 - `edit-replacement-tiles` (1)
+- `edit-reveal` (1)
 - `edit-tile-swaps` (1)
 - `edition-ledger-trail` (1)
 - `edition-trail-memory` (1)
@@ -215,7 +221,9 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `game-asset-sheet` (1)
 - `gel-wheel-tint` (1)
 - `gesture-to-tool-mockup` (1)
+- `ghost-frame-rescue` (1)
 - `glaze-mood-wagers` (1)
+- `glint-caption-check` (1)
 - `glitch-taxonomy-draft` (1)
 - `glyph-constellation-typeset` (1)
 - `glyph-meteor-race` (1)
@@ -239,6 +247,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `learning-card-deck` (1)
 - `lens-compression-sketch` (1)
 - `lens-distance-bet` (1)
+- `lenticular-prompt-gates` (1)
 - `light-logic-proof` (1)
 - `lighting-glaze-tests` (1)
 - `localized-shelf-packaging` (1)
@@ -298,6 +307,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `recipe-to-comic` (1)
 - `red-pencil-auction` (1)
 - `reference-drift-windsock` (1)
+- `reference-lock` (1)
 - `reference-parallax-check` (1)
 - `reference-warp-thread` (1)
 - `refund-conflict-detail` (1)
@@ -306,6 +316,8 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `relation-ramp` (1)
 - `repair-triage-photos` (1)
 - `restoration-what-if` (1)
+- `rib-count-bid` (1)
+- `rib-text-test` (1)
 - `ridge-draft` (1)
 - `rights-safe-forme-lock` (1)
 - `rights-safe-starfield-swap` (1)
@@ -335,6 +347,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `state-lock` (1)
 - `storyboard-continuity-game` (1)
 - `style-coupon-clipping` (1)
+- `style-phase` (1)
 - `style-pollination-dome` (1)
 - `style-transfer` (1)
 - `subject-tile-draft` (1)
@@ -349,6 +362,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `thread-budget-auction` (1)
 - `thumbnail-gate` (1)
 - `thumbnail-stress` (1)
+- `tilt-gate-league` (1)
 - `time-machine-before-after` (1)
 - `tone-switchboard` (1)
 - `triage-relay` (1)
@@ -397,11 +411,11 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 
 ## Prompt Gallery
 
-### 001. One high-resolution original derived-play scene titled with small readable labels: "
+### 001. Derived Play: Tilt Gate League
 
-![One high-resolution original derived-play scene titled with small readable labels: "](assets/images/139-one-high-resolution-original-derived-play-scene-titled-with-smal.png)
+![Derived Play: Tilt Gate League](assets/images/139-one-high-resolution-original-derived-play-scene-titled-with-smal.png)
 
-**Tags:** `education` `evaluation` `game-design` `infographic` `lighting-weather` `material-study` `operations` `sound-to-scene`
+**Tags:** `angle-lock` `crop-shutter-dash` `edge-stripe-audit` `ghost-frame-rescue` `glint-caption-check` `infographic` `rib-count-bid` `tilt-gate-league`
 
 **Prompt excerpt:** Create one high-resolution original derived-play scene titled with small readable labels: "GPT Image 2 Tilt Gate League". Asset type: 16:9 landscape walk-through lenticular challenge installation, not a grid, not a contact sheet, not cards...
 
@@ -432,11 +446,11 @@ Originality and safety: original prompt and gameplay concept; suitable for a pub
 
 </details>
 
-### 002. One high-resolution original GPT Image use-case concept scene titled only with small
+### 002. Use Case Arcade: Lenticular Prompt Gates
 
-![One high-resolution original GPT Image use-case concept scene titled only with small](assets/images/140-one-high-resolution-original-gpt-image-use-case-concept-scene-ti.png)
+![Use Case Arcade: Lenticular Prompt Gates](assets/images/140-one-high-resolution-original-gpt-image-use-case-concept-scene-ti.png)
 
-**Tags:** `game-design` `lighting-weather` `material-study` `operations` `prompt-game` `sound-to-scene` `storytelling` `typography`
+**Tags:** `crop-sweep` `edge-provenance` `edit-reveal` `lenticular-prompt-gates` `reference-lock` `rib-text-test` `style-phase` `typography`
 
 **Prompt excerpt:** Create one high-resolution original GPT Image use-case concept scene titled only with small readable fictional labels: "GPT Image 2 Lenticular Prompt Arcade". Asset type: 16:9 landscape immersive lenticular flip-panel corridor, not a grid,...
 
