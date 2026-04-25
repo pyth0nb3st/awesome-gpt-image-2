@@ -72,7 +72,7 @@ const blockedPatterns = [
   ["harmful", /\b(bomb making|weapon construction|terrorist|self-harm|suicide instructions|bypass safety)\b|炸弹制作|武器制造|自杀教程|绕过安全/i],
 ];
 const negatedBlockedMention =
-  /\b(?:no|avoid|without|excluding)\s+(?:[\w-]+\s+){0,6}(?:nsfw|porn|pornographic|explicit sexual|nudity|nude|erotic|gore|graphic violence|blood-soaked|dismember(?:ment)?|decapitat\w*|torture|election|campaign rally|political party|president|prime minister|senator|parliament|propaganda|bomb making|weapon construction|terrorist|self-harm|suicide instructions|bypass safety)\b/gi;
+  /\b(?:no|avoid|without|excluding|do\s+not\s+include)\s+(?:[\w-]+\s+){0,14}(?:nsfw|porn|pornographic|explicit sexual|sexual content|nudity|nude|erotic|gore|graphic violence|blood-soaked|dismember(?:ment)?|decapitat\w*|torture|election|elections|campaign rally|political party|political figures|president|prime minister|senator|parliament|propaganda|bomb making|weapon construction|weapons?|terrorist|self-harm|suicide instructions|bypass safety)\b/gi;
 
 const errors = [];
 const warnings = [];
@@ -148,6 +148,8 @@ const recordText = (image) =>
 const safetyScanText = (image) =>
   [image.title, image.caption, image.alt, image.prompt, ...(image.tags ?? [])]
     .join("\n")
+    .replace(/^Safety and rights constraints:[^\n]+$/gim, " ")
+    .replace(/^Safety constraints:[^\n]+$/gim, " ")
     .replace(negatedBlockedMention, " ");
 
 const similarity = (left, right) => {

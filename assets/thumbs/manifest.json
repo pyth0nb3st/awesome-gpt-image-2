@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/156-derived-play-kite-line-league.png": {
+      "path": "assets/thumbs/156-derived-play-kite-line-league.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/157-use-case-wind-tunnel-prompt-kite-flights.png": {
+      "path": "assets/thumbs/157-use-case-wind-tunnel-prompt-kite-flights.jpg",
+      "width": 768,
+      "height": 432
+    },
     "assets/images/154-visible-title-derived-play-bellhop-key-relay.png": {
       "path": "assets/thumbs/154-visible-title-derived-play-bellhop-key-relay.jpg",
       "width": 768,

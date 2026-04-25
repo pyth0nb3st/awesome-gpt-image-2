@@ -18,6 +18,73 @@
   },
   "images": [
     {
+      "title": "Derived Play: Kite Line League",
+      "caption": "从风洞用例派生出的竖向航线游戏：玩家抽发射结、竞价张力线轴、扭转阵风 token、交换尾翼、过轮廓漂移点、读短字飘带，最后锁定降落环。",
+      "path": "assets/images/156-derived-play-kite-line-league.png",
+      "alt": "Kinetic kite line route game with reels, airflow lanes, checkpoints, and landing hoops",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-25 23:53:30",
+      "batch": "019dc553-912c-77d1-bfa5-aa3be064183e",
+      "tags": [
+        "kite-line-league",
+        "launch-knot-draft",
+        "tension-reel-bid",
+        "gust-token-twist",
+        "tail-trim-trade",
+        "silhouette-drift-check",
+        "caption-flutter-read",
+        "landing-hoop-lock",
+        "batch-019dc553"
+      ],
+      "prompt": "Use case: stylized-concept / derived play mechanic: kite-wind-route-league\nAsset type: public-gallery derived-play concept image, 16:9 landscape\nPrimary request: Derive a playable \"Kite Line League\" from the Prompt Kite Wind Tunnel use-case: a kinetic floor-to-ceiling route game where players tune prompt tension, airflow, and landing format through line reels and cloth markers. Make it clearly different from a 2x3 research board, card spread, tabletop board, hotel cabinet, greenhouse, chef counter, patchbay, lantern, seismograph, mosaic, or film stage.\nScene/backdrop: an open fictional training hall with a tall vertical wind wall, pulley reels mounted around the room, colored string routes crossing through harmless airflow lanes, fabric kites as abstract geometric craft objects, and landing hoops suspended at different aspect ratios.\nSubject/game rules: show seven original play stations as physical mechanisms along one continuous route: launch knot draft, tension reel bid, gust token twist, tail trim trade, silhouette drift checkpoint, caption flutter read, landing hoop lock. Each station should look like a playable rule in a family-safe kinetic game, using ropes, pulleys, ribbons, rings, chalk score arcs, and fabric tabs.\nComposition/framing: cinematic wide angle, one continuous looping route from lower left launch spool to upper right landing hoops; no panel grid; no cards; no UI screen. Use sparse fictional labels only; avoid dense readable text.\nStyle/medium: whimsical precision craft photography meets polished 3D editorial illustration; cotton string, bamboo, brass pulleys, vellum fabric, chalk, transparent airflow, warm daylight, crisp material detail.\nMechanic focus: the derived play should test prompt balance, reference pull, style drift recovery, silhouette stability, short-label readability, and output-format landing through physical route choices.\nSafety and rights constraints: all objects, labels, institutions, data, and characters are fictional. Do not include people, animals, mascots, real brands, trademarks, celebrities, copyrighted characters, living-artist style imitation, political persuasion, parties, elections, public political figures, sexual content, nudity, harmful instructions, weapons, or graphic violence.\nOutput constraints: landscape image, high detail, no watermark, no logo, no QR code, no real product names.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original concept and prompt generated locally. No external prompt, image, article, case study, repository, or artwork source was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-25",
+        "reviewNote": "Original fictional kinetic-route game concept; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful instructions, weapons, and graphic violence."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc553-912c-77d1-bfa5-aa3be064183e/ig_0492c9f4b482e93b0169ece2f7829881979e08a81da26df07f.png"
+    },
+    {
+      "title": "Use Case Wind Tunnel: Prompt Kite Flights",
+      "caption": "把 GPT Image 2 的提示调试转成连续风洞航线：用主体骨架、负空间尾翼、参考牵引结、风格阵风、短字飘带和多比例降落环来观察生成是否平衡。",
+      "path": "assets/images/157-use-case-wind-tunnel-prompt-kite-flights.png",
+      "alt": "Indoor wind tunnel with handmade kites testing GPT Image 2 prompt balance and format landing",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-25 23:51:17",
+      "batch": "019dc553-912c-77d1-bfa5-aa3be064183e",
+      "tags": [
+        "prompt-kite-wind-tunnel",
+        "subject-spar-frame",
+        "negative-space-tail",
+        "reference-tether-knot",
+        "style-gust-ribbon",
+        "caption-streamer-read",
+        "format-landing-hoop",
+        "batch-019dc553"
+      ],
+      "prompt": "Use case: infographic-diagram / original GPT Image 2 use-case concept\nAsset type: public-gallery concept image, 16:9 landscape\nPrimary request: Create a single continuous \"Prompt Kite Wind Tunnel\" scene that visualizes fresh GPT Image 2 use cases as wind-tested kites, not as a grid, not as a dashboard, not as a tabletop board.\nScene/backdrop: a bright fictional indoor wind tunnel shaped like a long curved hangar, with transparent airflow ribbons, hanging calibration weights, chalk marks on the floor, and six different handmade kites suspended along one sweeping S-shaped flight path.\nSubject: each kite demonstrates a different image-generation play mechanic: subject spar frame, negative-space tail, reference tether knot, style gust ribbon, tiny-caption streamer, multi-format landing hoop. The mechanics should be communicated through physical kite parts, line tension, airflow traces, and landing targets rather than literal UI panels.\nComposition/framing: one panoramic continuous scene from left foreground to right background; the viewer follows the S-shaped kite path through the hangar. Use small fictional labels only where useful; avoid dense readable text. No 2x3 panel layout.\nStyle/medium: polished editorial 3D illustration with tactile craft materials, vellum, bamboo spars, thread, translucent fabric, chalk dust, and soft studio light.\nInteraction idea: the image should imply that GPT Image 2 can test prompt balance, reference pull, style drift, legibility in motion, and aspect-ratio landing accuracy through a playful wind-tunnel artifact.\nSafety and rights constraints: all objects, labels, institutions, data, and characters are fictional. No real brands, trademarks, celebrities, copyrighted characters, living-artist style imitation, political persuasion, parties, elections, public political figures, sexual content, nudity, harmful instructions, weapons, or graphic violence.\nOutput constraints: landscape image, high detail, no watermark, no logo, no QR code, no real product names.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original concept and prompt generated locally. No external prompt, image, article, case study, repository, or artwork source was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-25",
+        "reviewNote": "Original fictional wind-tunnel craft concept; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful instructions, weapons, and graphic violence."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc553-912c-77d1-bfa5-aa3be064183e/ig_0492c9f4b482e93b0169ece2b32818819798c44949311fdde1.png"
+    },
+    {
       "title": "Derived Play: Bellhop Key Relay",
       "caption": "竖柜酒店游戏：大堂抽行李牌，电梯带钥匙换房，清洁车修错物，送餐托盘换材质，电话单读短字，窗框验外形，失物柜盖章结算。",
       "path": "assets/images/154-visible-title-derived-play-bellhop-key-relay.png",

@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/156-derived-play-kite-line-league.png</image:loc>
+      <image:title>Derived Play: Kite Line League</image:title>
+      <image:caption>Use case: stylized-concept / derived play mechanic: kite-wind-route-league Asset type: public-gallery derived-play concept image, 16:9 landscape Primary request: Derive a playable &quot;Kite Line League&quot; from the Prompt Kite Wind Tunnel use-cas...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/157-use-case-wind-tunnel-prompt-kite-flights.png</image:loc>
+      <image:title>Use Case Wind Tunnel: Prompt Kite Flights</image:title>
+      <image:caption>Use case: infographic-diagram / original GPT Image 2 use-case concept Asset type: public-gallery concept image, 16:9 landscape Primary request: Create a single continuous &quot;Prompt Kite Wind Tunnel&quot; scene that visualizes fresh GPT Image 2 us...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/154-visible-title-derived-play-bellhop-key-relay.png</image:loc>
       <image:title>Derived Play: Bellhop Key Relay</image:title>
       <image:caption>Visible title: &quot;Derived Play: Bellhop Key Relay&quot;. Build a wall-mounted magnetic dollhouse hotel cabinet, vertical and playable. An elevator marker climbs between open rooms; brass key hooks, luggage counters, sliding maid-cart doors, room-...</image:caption>
@@ -757,6 +767,28 @@
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/156-derived-play-kite-line-league/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/156-derived-play-kite-line-league.png</image:loc>
+      <image:title>Derived Play: Kite Line League</image:title>
+      <image:caption>Use case: stylized-concept / derived play mechanic: kite-wind-route-league Asset type: public-gallery derived-play concept image, 16:9 landscape Primary request: Derive a playable &quot;Kite Line League&quot; from the Prompt Kite Wind Tunnel use-cas...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/157-use-case-wind-tunnel-prompt-kite-flights/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/157-use-case-wind-tunnel-prompt-kite-flights.png</image:loc>
+      <image:title>Use Case Wind Tunnel: Prompt Kite Flights</image:title>
+      <image:caption>Use case: infographic-diagram / original GPT Image 2 use-case concept Asset type: public-gallery concept image, 16:9 landscape Primary request: Create a single continuous &quot;Prompt Kite Wind Tunnel&quot; scene that visualizes fresh GPT Image 2 us...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/154-visible-title-derived-play-bellhop-key-relay/</loc>
@@ -2495,13 +2527,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/prompt-game/</loc>
+    <loc>https://gptimg2.best/tags/infographic-diagram/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/infographic-diagram/</loc>
+    <loc>https://gptimg2.best/tags/prompt-game/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
