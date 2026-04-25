@@ -18,6 +18,98 @@
   },
   "images": [
     {
+      "title": "Derived Play: Orbit Mobile League",
+      "caption": "从星图穹顶派生出的悬挂式 kinetic mobile 玩法：移动参考挂件、锁定遮罩月影、抽取裁切轨道、读短字流星、分拣提示星云，并把真实感标记换成虚构安全符号后计分。",
+      "path": "assets/images/125-derived-play-orbit-mobile-league.png",
+      "alt": "Suspended kinetic mobile game for GPT Image 2 play mechanics with crop frames, moon tokens, reference charms, and fictional safety symbols",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-25 19:33:19",
+      "batch": "019dc465-13e8-7f80-bf2b-4d6aa94e0555",
+      "tags": [
+        "parallax-star-hop",
+        "eclipse-token-lock",
+        "orbit-window-draft",
+        "glyph-meteor-race",
+        "nebula-signal-sort",
+        "safe-harbor-swap"
+      ],
+      "prompt": "Create a single high-quality landscape concept image showing an original derived GPT Image 2 play mode called Orbit Mobile League, as a suspended kinetic mobile sculpture game, not a board, not a grid, not cards, not a circular rules machine. The image should feel like a playable tabletop object hanging in space: brass arms, translucent crop frames, magnetic moon tokens, reference-image charms, small mask shutters, and balance weights suspended from thin wires above a clean dark tabletop.\n\nRepresent six game mechanics as physical actions on the mobile, integrated into one sculpture: 1) parallax-star-hop, players move a reference charm between depth hooks to test whether the generated scene preserves the intended object; 2) eclipse-token-lock, a moon token can cover exactly one harmless edit area before the next prompt; 3) orbit-window-draft, players draft aspect-ratio frames and must keep the focal subject inside the moving frame; 4) glyph-meteor-race, short invented labels are checked for legibility as they pass through a narrow light beam; 5) nebula-signal-sort, messy prompt fragments are sorted into useful constraints versus vague fog; 6) safe-harbor-swap, any real-looking mark is swapped for a fictional symbol before scoring.\n\nVisual style: polished miniature product photography mixed with refined 3D illustration, clear rule affordances, rich material detail, elegant museum-object presentation. Composition: wide 16:9, shallow perspective, the mobile sculpture occupies the center with visible hanging pieces and a few small score beads, no six boxed panels, no route map, no arcade table, no weather gauges, no loom, no printshop, no film set. Palette: matte black tabletop, warm brass, translucent glass, pearl white, teal shadows, small coral scoring marks. Safety constraints: all symbols are fictional; no real brands, no logos, no celebrity likenesses, no public political figures, no parties or elections, no sexual content, no harmful instructions, no graphic violence, no copyrighted characters, no living-artist style imitation, no watermark.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original automation concept and prompt; OpenAI documentation was consulted only for current capability background. No external prompt, image, artwork, repository, or case-study source was reused."
+      },
+      "promptSources": [
+        {
+          "title": "Image generation guide",
+          "url": "https://platform.openai.com/docs/guides/image-generation",
+          "authorOrPublisher": "OpenAI",
+          "license": "OpenAI public documentation; used as capability background only, no prompt or image copied",
+          "accessedAt": "2026-04-25",
+          "usedAs": "Current GPT Image capability background for generation, edits, masks, text rendering, output sizing, and limitations."
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Prompt and visible concept were screened to avoid political persuasion, real brands, public figures, unsafe instructions, sexual content, copyrighted characters, living-artist style imitation, and graphic violence."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc465-13e8-7f80-bf2b-4d6aa94e0555/ig_0b1753315b0c60210169eca63d8d9c8194a51d09b8bfd13bb9.png"
+    },
+    {
+      "title": "Use Case Planetarium: Image Navigation",
+      "caption": "把 GPT Image 2 的参考保真、局部编辑、裁切窗口、短字可读性、提示降噪和权利安全替换，做成一座连续天象穹顶，而不是研究板或工作台。",
+      "path": "assets/images/126-use-case-planetarium-image-navigation.png",
+      "alt": "Immersive planetarium dome showing GPT Image 2 use cases as celestial instruments for references, masks, crops, labels, prompt cleanup, and fictionalized symbols",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-25 19:32:14",
+      "batch": "019dc465-13e8-7f80-bf2b-4d6aa94e0555",
+      "tags": [
+        "reference-parallax-check",
+        "mask-eclipse-edit",
+        "orbit-crop-planner",
+        "glyph-constellation-typeset",
+        "nebula-noise-denoiser",
+        "rights-safe-starfield-swap"
+      ],
+      "prompt": "Create a single high-quality landscape concept image titled only through small fictional diagram labels, showing an original GPT Image 2 use-case atlas as an immersive planetarium dome, not a grid and not a contact sheet. The whole image is one continuous cutaway room under a dark teal observatory dome, with projected constellations, crop windows, reference-image parallax rails, mask eclipses, short glyph labels, and safety-safe fictional replacement zones.\n\nShow six distinct use cases as integrated celestial instruments around the dome, without boxed panels: 1) reference-parallax-check, comparing a fictional object reference against a generated scene by shifting star sightlines; 2) mask-eclipse-edit, a local edit shown as a soft eclipse shadow over one harmless object; 3) orbit-crop-planner, multiple aspect-ratio windows riding along orbital tracks; 4) glyph-constellation-typeset, very short readable invented labels placed as star names; 5) nebula-noise-denoiser, messy prompt fog condensing into a clearer image region; 6) rights-safe-starfield-swap, real-world-looking but fully fictional marks and characters replaced by neutral invented symbols.\n\nVisual style: premium editorial 3D illustration plus technical drawing, precise and playful, cinematic observatory lighting, crisp labels and arrows but no dense text. Composition: wide 16:9, one continuous environment with a central telescope console and dome projection, no 2x3 layout, no cards, no loom, no weather station, no printshop, no film stage. Palette: deep teal, midnight blue, warm brass, soft white starlight, restrained coral highlights. Safety constraints: no real brands or logos, no celebrity likeness, no public political figures, no election or party material, no sexual content, no harmful instructions, no graphic violence, no copyrighted characters, no living-artist style imitation, no watermark.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original automation concept and prompt; OpenAI documentation was consulted only for current capability background. No external prompt, image, artwork, repository, or case-study source was reused."
+      },
+      "promptSources": [
+        {
+          "title": "Image generation guide",
+          "url": "https://platform.openai.com/docs/guides/image-generation",
+          "authorOrPublisher": "OpenAI",
+          "license": "OpenAI public documentation; used as capability background only, no prompt or image copied",
+          "accessedAt": "2026-04-25",
+          "usedAs": "Current GPT Image capability background for generation, edits, masks, text rendering, output sizing, and limitations."
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Prompt and visible concept were screened to avoid political persuasion, real brands, public figures, unsafe instructions, sexual content, copyrighted characters, living-artist style imitation, and graphic violence."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc465-13e8-7f80-bf2b-4d6aa94e0555/ig_0b1753315b0c60210169eca5b538f881948ef55132ba7d3d65.png"
+    },
+    {
       "title": "Derived Play: Proof Press League",
       "caption": "从印刷校样工坊派生出的活字排版游戏：拼 brief、调套准针、下注分色、竞价红笔、救出版框、记忆版次轨迹。",
       "path": "assets/images/123-derived-play-proof-press-league.png",

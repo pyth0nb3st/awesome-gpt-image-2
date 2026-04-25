@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/125-derived-play-orbit-mobile-league.png</image:loc>
+      <image:title>Derived Play: Orbit Mobile League</image:title>
+      <image:caption>Create a single high-quality landscape concept image showing an original derived GPT Image 2 play mode called Orbit Mobile League, as a suspended kinetic mobile sculpture game, not a board, not a grid, not cards, not a circular rules machi...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/126-use-case-planetarium-image-navigation.png</image:loc>
+      <image:title>Use Case Planetarium: Image Navigation</image:title>
+      <image:caption>Create a single high-quality landscape concept image titled only through small fictional diagram labels, showing an original GPT Image 2 use-case atlas as an immersive planetarium dome, not a grid and not a contact sheet. The whole image i...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/123-derived-play-proof-press-league.png</image:loc>
       <image:title>Derived Play: Proof Press League</image:title>
       <image:caption>Create one original GPT Image 2 derived-play concept image as a 16:9 landscape scene. Title inside the image, small and legible: &quot;GPT Image 2 Proof Press League&quot;. Core format: a playable letterpress workshop game derived from the Proof Pre...</image:caption>
@@ -637,6 +647,28 @@
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/125-derived-play-orbit-mobile-league/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/125-derived-play-orbit-mobile-league.png</image:loc>
+      <image:title>Derived Play: Orbit Mobile League</image:title>
+      <image:caption>Create a single high-quality landscape concept image showing an original derived GPT Image 2 play mode called Orbit Mobile League, as a suspended kinetic mobile sculpture game, not a board, not a grid, not cards, not a circular rules machi...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/126-use-case-planetarium-image-navigation/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/126-use-case-planetarium-image-navigation.png</image:loc>
+      <image:title>Use Case Planetarium: Image Navigation</image:title>
+      <image:caption>Create a single high-quality landscape concept image titled only through small fictional diagram labels, showing an original GPT Image 2 use-case atlas as an immersive planetarium dome, not a grid and not a contact sheet. The whole image i...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/123-derived-play-proof-press-league/</loc>
@@ -2057,13 +2089,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/interior-design/</loc>
+    <loc>https://gptimg2.best/tags/education/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/education/</loc>
+    <loc>https://gptimg2.best/tags/interior-design/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>

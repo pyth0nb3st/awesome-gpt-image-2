@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/125-derived-play-orbit-mobile-league.png": {
+      "path": "assets/thumbs/125-derived-play-orbit-mobile-league.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/126-use-case-planetarium-image-navigation.png": {
+      "path": "assets/thumbs/126-use-case-planetarium-image-navigation.jpg",
+      "width": 768,
+      "height": 432
+    },
     "assets/images/123-derived-play-proof-press-league.png": {
       "path": "assets/thumbs/123-derived-play-proof-press-league.jpg",
       "width": 768,
