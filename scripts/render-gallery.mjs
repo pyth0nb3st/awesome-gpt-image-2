@@ -182,6 +182,25 @@ const html = `<!doctype html>
         font-weight: 800;
       }
 
+      .repo-strip {
+        width: fit-content;
+        max-width: 100%;
+        margin-top: 12px;
+        border-left: 4px solid var(--accent);
+        background: var(--panel);
+        padding: 9px 12px;
+        color: var(--muted);
+        font-family: ui-sans-serif, system-ui, sans-serif;
+        font-size: 13px;
+        font-weight: 700;
+        word-break: break-word;
+      }
+
+      .repo-strip a {
+        color: var(--accent);
+        font-weight: 900;
+      }
+
       .stats {
         display: grid;
         grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -423,6 +442,7 @@ const html = `<!doctype html>
             <a href="sitemap.xml">Sitemap</a>
             <a href="llms.txt">LLMs.txt</a>
           </nav>
+          <p class="repo-strip">GitHub source: <a href="${REPO_URL}">${REPO_URL}</a></p>
         </div>
         <div class="stats" aria-label="gallery stats">
           <div class="stat"><strong>${data.images.length}</strong><span>images</span></div>
@@ -448,6 +468,7 @@ ${cards}
 
       <footer>
         <span>Built from Codex image-generation session logs. Images, prompts, tags, and metadata are preserved in this repository for static hosting and search indexing.</span>
+        <span>GitHub source: <a href="${REPO_URL}">${REPO_URL}</a></span>
         <span>SEO basics included: canonical URL, descriptive image alt text, structured data, sitemap.xml, robots.txt, and prompt text in server-rendered HTML.</span>
       </footer>
     </main>
