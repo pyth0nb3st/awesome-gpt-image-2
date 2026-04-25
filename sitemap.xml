@@ -7,12 +7,12 @@
     <priority>1.0</priority>
     <image:image>
       <image:loc>https://gptimg2.best/assets/images/121-one-original-gpt-image-2-derived-play-concept-image-as-a-16-9-la.png</image:loc>
-      <image:title>One original GPT Image 2 derived-play concept image as a 16:9 landscape scene</image:title>
+      <image:title>Derived Play: Shuttle Draft</image:title>
       <image:caption>Create one original GPT Image 2 derived-play concept image as a 16:9 landscape scene. Title inside the image, small and legible: &quot;GPT Image 2 Shuttle Draft&quot;. Core format: a playable upright loom game derived from the Reference Loom idea. I...</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://gptimg2.best/assets/images/122-one-original-gpt-image-2-use-case-concept-image-as-a-16-9-landsc.png</image:loc>
-      <image:title>One original GPT Image 2 use-case concept image as a 16:9 landscape scene</image:title>
+      <image:title>Use Case Loom: Reference Weaving</image:title>
       <image:caption>Create one original GPT Image 2 use-case concept image as a 16:9 landscape scene. Title inside the image, small and legible: &quot;GPT Image 2 Reference Loom&quot;. Core format: a single upright studio weaving loom reimagined as an image-generation...</image:caption>
     </image:image>
     <image:image>
@@ -635,7 +635,7 @@
     <priority>0.7</priority>
     <image:image>
       <image:loc>https://gptimg2.best/assets/images/121-one-original-gpt-image-2-derived-play-concept-image-as-a-16-9-la.png</image:loc>
-      <image:title>One original GPT Image 2 derived-play concept image as a 16:9 landscape scene</image:title>
+      <image:title>Derived Play: Shuttle Draft</image:title>
       <image:caption>Create one original GPT Image 2 derived-play concept image as a 16:9 landscape scene. Title inside the image, small and legible: &quot;GPT Image 2 Shuttle Draft&quot;. Core format: a playable upright loom game derived from the Reference Loom idea. I...</image:caption>
     </image:image>
   </url>
@@ -646,7 +646,7 @@
     <priority>0.7</priority>
     <image:image>
       <image:loc>https://gptimg2.best/assets/images/122-one-original-gpt-image-2-use-case-concept-image-as-a-16-9-landsc.png</image:loc>
-      <image:title>One original GPT Image 2 use-case concept image as a 16:9 landscape scene</image:title>
+      <image:title>Use Case Loom: Reference Weaving</image:title>
       <image:caption>Create one original GPT Image 2 use-case concept image as a 16:9 landscape scene. Title inside the image, small and legible: &quot;GPT Image 2 Reference Loom&quot;. Core format: a single upright studio weaving loom reimagined as an image-generation...</image:caption>
     </image:image>
   </url>
@@ -2025,13 +2025,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/education/</loc>
+    <loc>https://gptimg2.best/tags/interior-design/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/interior-design/</loc>
+    <loc>https://gptimg2.best/tags/education/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -2043,13 +2043,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/operations/</loc>
+    <loc>https://gptimg2.best/tags/evaluation/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/evaluation/</loc>
+    <loc>https://gptimg2.best/tags/operations/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>

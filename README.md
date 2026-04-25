@@ -42,18 +42,18 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 
 - `product-mockup` (75)
 - `typography` (72)
-- `game-design` (65)
+- `game-design` (63)
 - `ui-mockup` (60)
-- `storytelling` (54)
-- `lighting-weather` (37)
+- `storytelling` (53)
+- `lighting-weather` (36)
 - `photoreal` (33)
 - `worldbuilding` (33)
 - `infographic` (30)
-- `education` (23)
 - `interior-design` (23)
-- `material-study` (19)
-- `operations` (17)
-- `evaluation` (16)
+- `education` (22)
+- `material-study` (17)
+- `evaluation` (15)
+- `operations` (15)
 - `stylized-concept` (15)
 - `productivity-visual` (14)
 - `illustration-story` (8)
@@ -61,12 +61,24 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `prompt-game` (7)
 - `infographic-diagram` (6)
 - `scientific-educational` (5)
-- `sound-to-scene` (4)
+- `sound-to-scene` (3)
 - `photorealistic-natural` (2)
 - `ui-fiction-simulator` (2)
 
 ### Latest Play Tags
 
+- `shuttle-order-draft` - Derived Play: Shuttle Draft
+- `thread-budget-auction` - Derived Play: Shuttle Draft
+- `mask-knot-rescue` - Derived Play: Shuttle Draft
+- `crop-loom-race` - Derived Play: Shuttle Draft
+- `label-stitch-judge` - Derived Play: Shuttle Draft
+- `selvedge-drift-trap` - Derived Play: Shuttle Draft
+- `reference-warp-thread` - Use Case Loom: Reference Weaving
+- `mask-weft-edit` - Use Case Loom: Reference Weaving
+- `crop-heddle-router` - Use Case Loom: Reference Weaving
+- `text-label-embroider` - Use Case Loom: Reference Weaving
+- `selvedge-consistency-check` - Use Case Loom: Reference Weaving
+- `compression-swatch-proof` - Use Case Loom: Reference Weaving
 - `altimeter-bid` - Derived Play: Forecast Rally
 - `windsock-swap` - Derived Play: Forecast Rally
 - `humidity-lock` - Derived Play: Forecast Rally
@@ -91,36 +103,24 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `continuity-prop-witness` - Use Case Stage: Lens Rehearsals
 - `caption-to-shot-list` - Use Case Stage: Lens Rehearsals
 - `readable-crop-rehearsal` - Use Case Stage: Lens Rehearsals
-- `prompt-seed-vault` - Use Case Conservatory: Prompt Ecosystems
-- `style-pollination-dome` - Use Case Conservatory: Prompt Ecosystems
-- `negative-space-trellis` - Use Case Conservatory: Prompt Ecosystems
-- `caption-compost-bin` - Use Case Conservatory: Prompt Ecosystems
-- `continuity-mycelium` - Use Case Conservatory: Prompt Ecosystems
-- `accessibility-pollinator-view` - Use Case Conservatory: Prompt Ecosystems
-- `seed-trait-draft` - Derived Play: Prompt Orchard League
-- `pollination-swap` - Derived Play: Prompt Orchard League
-- `prune-the-prompt` - Derived Play: Prompt Orchard League
-- `weather-stress-test` - Derived Play: Prompt Orchard League
-- `root-memory-chain` - Derived Play: Prompt Orchard League
-- `harvest-judge` - Derived Play: Prompt Orchard League
 
 <details>
 <summary>All generated tags</summary>
 
 - `product-mockup` (75)
 - `typography` (72)
-- `game-design` (65)
+- `game-design` (63)
 - `ui-mockup` (60)
-- `storytelling` (54)
-- `lighting-weather` (37)
+- `storytelling` (53)
+- `lighting-weather` (36)
 - `photoreal` (33)
 - `worldbuilding` (33)
 - `infographic` (30)
-- `education` (23)
 - `interior-design` (23)
-- `material-study` (19)
-- `operations` (17)
-- `evaluation` (16)
+- `education` (22)
+- `material-study` (17)
+- `evaluation` (15)
+- `operations` (15)
 - `stylized-concept` (15)
 - `productivity-visual` (14)
 - `illustration-story` (8)
@@ -128,7 +128,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `prompt-game` (7)
 - `infographic-diagram` (6)
 - `scientific-educational` (5)
-- `sound-to-scene` (4)
+- `sound-to-scene` (3)
 - `photorealistic-natural` (2)
 - `ui-fiction-simulator` (2)
 - `accessibility-pollinator-view` (1)
@@ -148,12 +148,15 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `cardboard-kit-forge` (1)
 - `catalog-transformer` (1)
 - `cloudbreak-audit` (1)
+- `compression-swatch-proof` (1)
 - `constraint-auction` (1)
 - `constraint-posterizer` (1)
 - `continuity-mycelium` (1)
 - `continuity-prop-witness` (1)
 - `crop-contract` (1)
 - `crop-curtain-sprint` (1)
+- `crop-heddle-router` (1)
+- `crop-loom-race` (1)
 - `data-to-poster` (1)
 - `dataset-postcard-sampler` (1)
 - `decision-thread` (1)
@@ -186,6 +189,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `interior-style-matrix` (1)
 - `jetstream-cut` (1)
 - `kitchen-mise-map` (1)
+- `label-stitch-judge` (1)
 - `language-mood-matrix` (1)
 - `learning-card-deck` (1)
 - `lens-compression-sketch` (1)
@@ -194,7 +198,9 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `localized-shelf-packaging` (1)
 - `margin-multiball` (1)
 - `mascot-mood-notes` (1)
+- `mask-knot-rescue` (1)
 - `mask-peek` (1)
+- `mask-weft-edit` (1)
 - `material-honesty-audit` (1)
 - `meeting-memory-board` (1)
 - `memory-palace-map` (1)
@@ -230,6 +236,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `recipe-reality-check` (1)
 - `recipe-to-comic` (1)
 - `reference-drift-windsock` (1)
+- `reference-warp-thread` (1)
 - `relation-ramp` (1)
 - `repair-triage-photos` (1)
 - `restoration-what-if` (1)
@@ -239,9 +246,12 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `scent-palette-translator` (1)
 - `season-wear-simulator` (1)
 - `seed-trait-draft` (1)
+- `selvedge-consistency-check` (1)
+- `selvedge-drift-trap` (1)
 - `shadow-court` (1)
 - `shelf-spec-poker` (1)
 - `shot-list-rescue` (1)
+- `shuttle-order-draft` (1)
 - `sound-shape-notation` (1)
 - `spec-to-shelf-prototype` (1)
 - `state-lock` (1)
@@ -250,8 +260,10 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `style-transfer` (1)
 - `tabletop-quest-props` (1)
 - `tactile-diagram-draft` (1)
+- `text-label-embroider` (1)
 - `text-legibility-barometer` (1)
 - `texture-cipher-relay` (1)
+- `thread-budget-auction` (1)
 - `time-machine-before-after` (1)
 - `tone-switchboard` (1)
 - `triage-relay` (1)
@@ -297,11 +309,11 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 
 ## Prompt Gallery
 
-### 001. One original GPT Image 2 derived-play concept image as a 16:9 landscape scene
+### 001. Derived Play: Shuttle Draft
 
-![One original GPT Image 2 derived-play concept image as a 16:9 landscape scene](assets/images/121-one-original-gpt-image-2-derived-play-concept-image-as-a-16-9-la.png)
+![Derived Play: Shuttle Draft](assets/images/121-one-original-gpt-image-2-derived-play-concept-image-as-a-16-9-la.png)
 
-**Tags:** `education` `evaluation` `game-design` `material-study` `operations` `product-mockup` `storytelling` `ui-mockup`
+**Tags:** `crop-loom-race` `label-stitch-judge` `mask-knot-rescue` `product-mockup` `selvedge-drift-trap` `shuttle-order-draft` `thread-budget-auction` `ui-mockup`
 
 **Prompt excerpt:** Create one original GPT Image 2 derived-play concept image as a 16:9 landscape scene. Title inside the image, small and legible: "GPT Image 2 Shuttle Draft". Core format: a playable upright loom game derived from the Reference Loom idea. I...
 
@@ -334,11 +346,11 @@ Composition: low frontal three-quarter view with the whole loom visible. The six
 
 </details>
 
-### 002. One original GPT Image 2 use-case concept image as a 16:9 landscape scene
+### 002. Use Case Loom: Reference Weaving
 
-![One original GPT Image 2 use-case concept image as a 16:9 landscape scene](assets/images/122-one-original-gpt-image-2-use-case-concept-image-as-a-16-9-landsc.png)
+![Use Case Loom: Reference Weaving](assets/images/122-one-original-gpt-image-2-use-case-concept-image-as-a-16-9-landsc.png)
 
-**Tags:** `game-design` `lighting-weather` `material-study` `operations` `product-mockup` `sound-to-scene` `storytelling`
+**Tags:** `compression-swatch-proof` `crop-heddle-router` `mask-weft-edit` `product-mockup` `reference-warp-thread` `selvedge-consistency-check` `storytelling` `text-label-embroider`
 
 **Prompt excerpt:** Create one original GPT Image 2 use-case concept image as a 16:9 landscape scene. Title inside the image, small and legible: "GPT Image 2 Reference Loom". Core format: a single upright studio weaving loom reimagined as an image-generation...
 
