@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/172-derived-play-footwork-prompt-rally.png</image:loc>
+      <image:title>Derived Play: Footwork Prompt Rally</image:title>
+      <image:caption>Create an original derived-play image based on the Prompt Choreography Score concept, with no external source inspiration. Derived play concept: Footwork Prompt Rally. Show a playable tabletop-floor hybrid game where players draft image pr...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/173-use-case-score-prompt-choreography.png</image:loc>
+      <image:title>Use Case Score: Prompt Choreography</image:title>
+      <image:caption>Create an original GPT Image 2 use-case visualization with no external source inspiration. Use case concept: Prompt Choreography Score. Show GPT Image 2 prompt design as spatial movement notation instead of a research board or machine. The...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/170-use-case-magnet-field-spectrum.png</image:loc>
       <image:title>Use Case Magnet: Field Spectrum</image:title>
       <image:caption>Visible title: &quot;Use Case Magnet: Field Spectrum&quot;. Create a single 16:9 macro product photo of a sealed tabletop field-spectrum instrument for GPT Image 2 prompt experiments. Under clear glass, graphite filings form elegant magnetic contour...</image:caption>
@@ -837,6 +847,28 @@
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/172-derived-play-footwork-prompt-rally/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/172-derived-play-footwork-prompt-rally.png</image:loc>
+      <image:title>Derived Play: Footwork Prompt Rally</image:title>
+      <image:caption>Create an original derived-play image based on the Prompt Choreography Score concept, with no external source inspiration. Derived play concept: Footwork Prompt Rally. Show a playable tabletop-floor hybrid game where players draft image pr...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/173-use-case-score-prompt-choreography/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/173-use-case-score-prompt-choreography.png</image:loc>
+      <image:title>Use Case Score: Prompt Choreography</image:title>
+      <image:caption>Create an original GPT Image 2 use-case visualization with no external source inspiration. Use case concept: Prompt Choreography Score. Show GPT Image 2 prompt design as spatial movement notation instead of a research board or machine. The...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/170-use-case-magnet-field-spectrum/</loc>

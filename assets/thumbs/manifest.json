@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/172-derived-play-footwork-prompt-rally.png": {
+      "path": "assets/thumbs/172-derived-play-footwork-prompt-rally.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/173-use-case-score-prompt-choreography.png": {
+      "path": "assets/thumbs/173-use-case-score-prompt-choreography.jpg",
+      "width": 768,
+      "height": 1152
+    },
     "assets/images/170-use-case-magnet-field-spectrum.png": {
       "path": "assets/thumbs/170-use-case-magnet-field-spectrum.jpg",
       "width": 768,

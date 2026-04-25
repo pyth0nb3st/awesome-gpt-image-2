@@ -18,6 +18,90 @@
   },
   "images": [
     {
+      "title": "Derived Play: Footwork Prompt Rally",
+      "caption": "从 Prompt Choreography Score 派生出的地面节拍玩法：Step Draft、Pivot Steal、Reference Tap、Mask Sidestep、Caption Rest、Tempo Swap、Crop Gate 和 Bow Score 把提示构建变成沿不规则跳格路线移动的计分游戏。",
+      "path": "assets/images/172-derived-play-footwork-prompt-rally.png",
+      "alt": "Irregular cork rehearsal mat game with colored footprint tokens, beat counters, pivot hinges, caption rest, tempo slider, crop gate, and safety bow score pad",
+      "width": 1536,
+      "height": 1024,
+      "createdAt": "2026-04-26 02:53:54",
+      "batch": "019dc5f8-6281-7d10-bee0-11c126d2ee18",
+      "tags": [
+        "footwork-prompt-rally",
+        "step-draft",
+        "pivot-steal",
+        "reference-tap",
+        "mask-sidestep",
+        "caption-rest",
+        "tempo-swap",
+        "crop-gate",
+        "bow-score",
+        "batch-019dc5f8"
+      ],
+      "prompt": "Create an original derived-play image based on the Prompt Choreography Score concept, with no external source inspiration.\n\nDerived play concept: Footwork Prompt Rally. Show a playable tabletop-floor hybrid game where players draft image prompts by moving abstract shoe-print tokens across a compact rehearsal mat. The mat is not a 2x3 board and not a circular arena: it is an irregular hopscotch-like path shaped like a bent lightning bolt, with embedded beat counters, pivot hinges, pause wells, crop gates, style tempo sliders, and a final Safety Bow finish pad.\n\nGame mechanics to depict as readable short labels on the mat: Step Draft, Pivot Steal, Reference Tap, Mask Sidestep, Caption Rest, Tempo Swap, Crop Gate, Bow Score. Add small non-branded tokens: colored footprint pieces, blank prompt slips, tiny thumbnail tiles, beat chips, and neutral score clips. The rules should feel like a prompt-building movement game: every step changes subject, context, reference strength, edit mask, caption clarity, style speed, frame boundary, or safety review.\n\nComposition: one high-detail isometric scene on a studio table/floor surface; no six-panel research board, no cards-only spread, no magnets, no neon, no watch gears, no puppet strings, no abacus beads, no microfluidic channels, no greenhouse, no weather station. Make it clearly derived from the choreography score but mechanically more game-like and interactive.\n\nVisual style: premium photographed prototype, tactile cork mat, painted rehearsal tape, brass beat chips, translucent acrylic gates, small paper slips, crisp shadows, playful but disciplined. Palette: cork tan, charcoal, brass, coral, cyan, leaf green, and white.\n\nSafety and originality constraints: fictional objects only; no real brands, no logos, no trademarks, no celebrities, no public figures, no copyrighted characters, no political persuasion, no elections or parties, no harmful instructions, no weapons, no sexual or nude content, no gore or graphic violence, no living-artist style imitation, no watermark.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original footwork prompt-game mechanic and prompt generated locally from the Prompt Choreography Score concept. No external prompt, article, image, artwork, repository, brand, character, or case-study source was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Original fictional tabletop-floor prompt game with no real people, brands, public figures, copyrighted characters, sexual content, dangerous instructions, weapons, gore, graphic violence, or political persuasion."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc5f8-6281-7d10-bee0-11c126d2ee18/ig_02162f9b25fc85840169ed0d7e642c8193a038ac4c44960525.png"
+    },
+    {
+      "title": "Use Case Score: Prompt Choreography",
+      "caption": "把 GPT Image 2 的提示流程写成一张连续脚步谱：Entrance Seed、Context Pivot、Reference Step、Mask Dodge、Caption Pause、Style Tempo、Crop Exit 和 Safety Bow 用脚印、节拍尺、缩略图和动线检验提示如何被编排。",
+      "path": "assets/images/173-use-case-score-prompt-choreography.png",
+      "alt": "Long continuous prompt choreography floor-score sheet with colored footprints, brass timing bars, arrows, crop frames, thumbnails, swatches, and safety check notes",
+      "width": 1024,
+      "height": 1536,
+      "createdAt": "2026-04-26 02:52:47",
+      "batch": "019dc5f8-6281-7d10-bee0-11c126d2ee18",
+      "tags": [
+        "prompt-choreography-score",
+        "entrance-seed",
+        "context-pivot",
+        "reference-step",
+        "mask-dodge",
+        "caption-pause",
+        "style-tempo",
+        "crop-exit",
+        "safety-bow",
+        "batch-019dc5f8"
+      ],
+      "prompt": "Create an original GPT Image 2 use-case visualization with no external source inspiration.\n\nUse case concept: Prompt Choreography Score. Show GPT Image 2 prompt design as spatial movement notation instead of a research board or machine. The image is one long continuous studio floor-score sheet viewed from a high three-quarter angle: pale drafting paper unrolled across a matte charcoal floor, with inlaid brass timing bars, colored footprint pairs, turning arrows, pause marks, crop boundary frames, small abstract scene thumbnails, and tiny material swatches pinned along a curved route.\n\nMechanism labels to include as short readable fictional tags: Entrance Seed, Context Pivot, Reference Step, Mask Dodge, Caption Pause, Style Tempo, Crop Exit, Safety Bow. Treat each tag as a waypoint in a single choreography path for building and testing an image prompt.\n\nComposition: no 2x3 grid, no cards, no circular arena, no lab apparatus, no magnets, no folded paper, no loom, no receipt, no neon tube, no watch, no puppet, no abacus. Make the entire artifact a continuous dance-notation scroll with one route crossing the page diagonally and changing rhythm.\n\nVisual style: polished editorial product-photography render, tactile paper grain, brass inlays, matte ink, colored rehearsal tape, small clean thumbnails, refined shadows, crisp top-down spatial logic. Palette should mix charcoal, warm paper, brass, coral, cyan, and leaf green without becoming monochrome.\n\nSafety and originality constraints: fictional objects only; no real brands, no logos, no trademarks, no celebrities, no public figures, no copyrighted characters, no political persuasion, no elections or parties, no harmful instructions, no weapons, no sexual or nude content, no gore or graphic violence, no living-artist style imitation, no watermark.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original choreography-score prompt-control concept and prompt generated locally from existing-gallery gap analysis. No external prompt, article, image, artwork, repository, brand, character, or case-study source was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Original fictional prompt-notation artifact with no real people, brands, public figures, copyrighted characters, sexual content, dangerous instructions, weapons, gore, graphic violence, or political persuasion."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc5f8-6281-7d10-bee0-11c126d2ee18/ig_02162f9b25fc85840169ed0ce3a600819395c1bae714552d2f.png"
+    },
+    {
       "title": "Use Case Magnet: Field Spectrum",
       "caption": "把 GPT Image 2 的提示影响力做成一台密封场线谱仪：Seed Pole、Mood Flip、Negative Repel、Reference Bend、Trace Memory、Word Needle、Frame Guard 和 Source Shield 用石墨铁粉、罗盘针和玻璃刻度展示约束如何互相牵引。",
       "path": "assets/images/170-use-case-magnet-field-spectrum.png",
