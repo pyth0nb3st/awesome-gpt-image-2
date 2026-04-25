@@ -65,7 +65,7 @@ const cards = data.images
             <ul class="tags">
               ${tagList}
             </ul>
-            <a class="detail-link" href="${escapeAttribute(pagePath)}">Open prompt SEO page</a>
+            <a class="detail-link" href="${escapeAttribute(pagePath)}">Open prompt page</a>
             <details>
               <summary>Prompt</summary>
               <pre>${escapeHtml(image.prompt)}</pre>
@@ -624,7 +624,7 @@ ${cards}
         <span>Built from Codex image-generation session logs. Images, prompts, tags, and metadata are preserved in this repository for static hosting and search indexing.</span>
         <span>Creator tools: <a href="${DRILL_URL}">Drill</a> for deeper reading workflows and <a href="${VIBEART_URL}">VibeArt</a> for AI visual creation.</span>
         <span>GitHub source: <a href="${REPO_URL}">${REPO_URL}</a></span>
-        <span>SEO basics included: canonical URL, descriptive image alt text, structured data, sitemap.xml, robots.txt, and prompt text in server-rendered HTML.</span>
+        <span>Shareable pages include canonical URLs, descriptive image alt text, structured data, sitemap.xml, robots.txt, and prompt text in server-rendered HTML.</span>
       </footer>
     </main>
     <div class="image-modal" id="image-modal" role="dialog" aria-modal="true" aria-labelledby="modal-title" hidden>

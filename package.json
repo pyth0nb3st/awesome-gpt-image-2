@@ -4,7 +4,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "prebuild": "node scripts/generate-thumbnails.mjs",
+    "validate:gallery": "node scripts/validate-gallery-policy.mjs",
+    "prebuild": "npm run validate:gallery && node scripts/generate-thumbnails.mjs",
     "dev": "next dev",
     "build": "next build && node scripts/copy-export-assets.mjs",
     "start": "next start"

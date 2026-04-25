@@ -14,7 +14,7 @@ import {
 
 const data = JSON.parse(await readFile(new URL("../gallery.json", import.meta.url), "utf8"));
 const counts = tagCounts(data.images);
-const seoDescription = buildSeoDescription(data.images);
+const galleryDescription = buildSeoDescription(data.images);
 
 const tagIndex = counts
   .map(([tag, count]) => `- \`${tag}\` (${count})`)
@@ -50,9 +50,9 @@ const readme = `# Awesome GPT Image 2
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-live-2ea44f)](${SITE_URL})
 [![Images](https://img.shields.io/badge/images-${data.images.length}-0f766e)](${SITE_URL})
 [![Prompts](https://img.shields.io/badge/prompts-${data.images.length}-a34716)](${SITE_URL})
-[![License](https://img.shields.io/badge/license-research%20archive-lightgrey)](#notes)
+[![License](https://img.shields.io/badge/license-code%20MIT%20%2B%20content%20review-lightgrey)](LICENSE.md)
 
-> ${seoDescription}
+> ${galleryDescription}
 
 **Live gallery:** ${SITE_URL}  
 **Repository:** ${REPO_URL}  
@@ -66,7 +66,8 @@ This is an awesome-style archive for GPT Image 2 / GPT Image prompt exploration.
 - [Popular Tags](#popular-tags)
 - [Gallery Features](#gallery-features)
 - [Creator Tools](#creator-tools)
-- [SEO Landing Pages](#seo-landing-pages)
+- [Example Pages](#example-pages)
+- [Content And Source Policy](#content-and-source-policy)
 - [Prompt Gallery](#prompt-gallery)
 - [Rebuild](#rebuild)
 - [Notes](#notes)
@@ -78,7 +79,7 @@ Most prompt examples disappear into chat history. This repo turns image-generati
 - Browse GPT Image prompt examples by visual output.
 - Reuse prompt structures for product mockups, UI concepts, educational diagrams, game assets, and storytelling.
 - Compare generated images against their exact prompt text.
-- Give search engines and AI assistants crawlable text next to the image assets.
+- Keep browsable text next to the image assets so examples stay easy to find and reference.
 
 ## Popular Tags
 
@@ -87,22 +88,30 @@ ${tagIndex}
 ## Gallery Features
 
 - **Searchable static site:** title, prompt text, captions, and tags are filterable in the browser.
-- **SEO-ready HTML:** canonical URL, meta description, Open Graph tags, structured data, robots.txt, and image sitemap.
-- **Image SEO:** descriptive filenames, alt text, captions, and full prompt text near every image.
+- **Shareable static HTML:** canonical URL, meta description, Open Graph tags, structured data, robots.txt, and image sitemap.
+- **Descriptive image records:** filenames, alt text, captions, and full prompt text near every image.
 - **Prompt preservation:** prompts are recovered from Codex image-generation session logs and stored in \`gallery.json\`.
 - **GitHub Pages ready:** the public site is served from the repository root.
-- **Programmatic inner pages:** every image has a dedicated prompt page, and recurring tags have crawlable collection pages.
+- **Dedicated example pages:** every image has a prompt page, and recurring tags have collection pages.
 
 ## Creator Tools
 
 - [Drill](${DRILL_URL}) helps readers drill into dense articles, papers, and technical ideas.
 - [VibeArt](${VIBEART_URL}) is an AI visual creation workspace for turning prompts and concepts into usable visual assets.
 
-## SEO Landing Pages
+## Example Pages
 
 - [Prompt page index](${SITE_URL}prompts/) links to ${data.images.length} individual GPT Image 2 prompt examples.
 - [Tag page index](${SITE_URL}tags/) groups examples by visual intent, asset type, and workflow.
 - Each generated prompt page includes a unique title, meta description, canonical URL, Open Graph image, image schema, full prompt text, and related internal links.
+
+## Content And Source Policy
+
+- Code is MIT licensed; generated gallery content is treated as a research archive pending provenance review.
+- Existing records created before source tracking was added are marked as \`needs_review\` rather than pretending that external source provenance exists.
+- Future externally inspired records must include source title, URL, author or publisher, license or permission note, access date, and how the source was used.
+- Gallery content must avoid political persuasion, harmful or illegal instructions, sexual content, and graphic violence.
+- See [LICENSE.md](LICENSE.md) and [CONTENT_POLICY.md](CONTENT_POLICY.md).
 
 ## Prompt Gallery
 
@@ -113,13 +122,14 @@ ${promptCards}
 \`\`\`bash
 node scripts/render-gallery.mjs
 node scripts/render-readme.mjs
+npm run validate:gallery
 \`\`\`
 
 ## Add A New Image
 
 1. Copy the generated image into \`assets/images/\`.
-2. Add a record to \`gallery.json\` with \`title\`, \`caption\`, \`path\`, \`width\`, \`height\`, \`tags\`, and \`prompt\`.
-3. Run both render scripts.
+2. Add a record to \`gallery.json\` with \`title\`, \`caption\`, \`path\`, \`width\`, \`height\`, \`tags\`, \`prompt\`, \`provenance\`, \`promptSources\`, and \`contentSafety\`.
+3. Run the policy check and render scripts.
 4. Commit and push.
 
 ## Notes
@@ -127,7 +137,7 @@ node scripts/render-readme.mjs
 - Images are AI-generated research artifacts.
 - Prompts may be revised prompts captured from image generation session logs.
 - This is not an official OpenAI repository.
-- The public site is optimized for crawlability, but search ranking depends on indexing, backlinks, and external search engine behavior.
+- Search and discovery behavior depends on external indexers and referral paths outside this repository.
 `;
 
 await writeFile(new URL("../README.md", import.meta.url), readme);

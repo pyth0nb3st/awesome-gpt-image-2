@@ -229,7 +229,7 @@ const pageShell = ({ title, description, canonical, imageUrl, jsonLd, body }) =>
       </nav>
       ${body}
       <footer>
-        <span>Awesome GPT Image 2 preserves generated images, exact prompts, and prompt tags as crawlable static pages.</span>
+        <span>Awesome GPT Image 2 preserves generated images, exact prompts, and prompt tags as easy-to-browse static pages.</span>
         <span>Creator tools: <a href="${DRILL_URL}">Drill</a> and <a href="${VIBEART_URL}">VibeArt</a>.</span>
       </footer>
     </main>
@@ -308,7 +308,7 @@ await writeHtml(
     body: `<header>
         <p class="meta">Prompt index · ${images.length} pages · Updated ${escapeHtml(updated)}</p>
         <h1>GPT Image 2 Prompt Pages</h1>
-        <p class="lead">Every generated image has its own crawlable prompt page with the exact prompt, visual output, tags, and related examples.</p>
+        <p class="lead">Every generated image has its own prompt page with the exact prompt, visual output, tags, and related examples.</p>
       </header>
       ${cardGrid(images)}`,
   }),

@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/107-a-second-polished-gpt-image-2-derived-play-board-as-a-single-3-2.png": {
+      "path": "assets/thumbs/107-a-second-polished-gpt-image-2-derived-play-board-as-a-single-3-2.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/108-a-polished-gpt-image-2-use-case-research-board-as-a-single-3-2-l.png": {
+      "path": "assets/thumbs/108-a-polished-gpt-image-2-use-case-research-board-as-a-single-3-2-l.jpg",
+      "width": 768,
+      "height": 512
+    },
     "assets/images/105-derived-play-modes-context-loop-arcade.png": {
       "path": "assets/thumbs/105-derived-play-modes-context-loop-arcade.jpg",
       "width": 768,
