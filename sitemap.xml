@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/152-derived-play-trellis-tournament.png</image:loc>
+      <image:title>Derived Play: Trellis Tournament</image:title>
+      <image:caption>Create a second polished public-gallery image that derives a playable original mechanic from the greenhouse prompt-cultivar use case. Visible title, small and clean: &quot;Derived Play: Trellis Tournament&quot; Output format: a single overhead table...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/153-use-case-greenhouse-prompt-cultivar-trials.png</image:loc>
+      <image:title>Use Case Greenhouse: Prompt Cultivar Trials</image:title>
+      <image:caption>Create one polished public-gallery image for an original GPT Image 2 use-case concept. Visible title, small and clean: &quot;Use Case Greenhouse: Prompt Cultivar Trials&quot; Output format: a single continuous glasshouse propagation bench seen in th...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/150-a-second-polished-public-gallery-image-that-derives-a-playable-o.png</image:loc>
       <image:title>Derived Play: Palate Pass League</image:title>
       <image:caption>Create a second polished public-gallery image that derives a playable original mechanic from the tasting-menu prompt use case. Visible title, small and clean: &quot;Derived Play: Palate Pass League&quot; Output format: one playable chef's-counter ta...</image:caption>
@@ -737,6 +747,28 @@
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/152-derived-play-trellis-tournament/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/152-derived-play-trellis-tournament.png</image:loc>
+      <image:title>Derived Play: Trellis Tournament</image:title>
+      <image:caption>Create a second polished public-gallery image that derives a playable original mechanic from the greenhouse prompt-cultivar use case. Visible title, small and clean: &quot;Derived Play: Trellis Tournament&quot; Output format: a single overhead table...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/153-use-case-greenhouse-prompt-cultivar-trials/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/153-use-case-greenhouse-prompt-cultivar-trials.png</image:loc>
+      <image:title>Use Case Greenhouse: Prompt Cultivar Trials</image:title>
+      <image:caption>Create one polished public-gallery image for an original GPT Image 2 use-case concept. Visible title, small and clean: &quot;Use Case Greenhouse: Prompt Cultivar Trials&quot; Output format: a single continuous glasshouse propagation bench seen in th...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/150-a-second-polished-public-gallery-image-that-derives-a-playable-o/</loc>

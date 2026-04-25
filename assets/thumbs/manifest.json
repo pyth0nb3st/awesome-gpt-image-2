@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/152-derived-play-trellis-tournament.png": {
+      "path": "assets/thumbs/152-derived-play-trellis-tournament.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/153-use-case-greenhouse-prompt-cultivar-trials.png": {
+      "path": "assets/thumbs/153-use-case-greenhouse-prompt-cultivar-trials.jpg",
+      "width": 768,
+      "height": 512
+    },
     "assets/images/150-a-second-polished-public-gallery-image-that-derives-a-playable-o.png": {
       "path": "assets/thumbs/150-a-second-polished-public-gallery-image-that-derives-a-playable-o.jpg",
       "width": 768,

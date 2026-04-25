@@ -18,6 +18,74 @@
   },
   "images": [
     {
+      "title": "Derived Play: Trellis Tournament",
+      "caption": "从温室育种派生出的藤架路径游戏：玩家抽 Seed Draft，接 Graft Swap，交换 Pollen Trade，用 Prune Pass 修剪细节，保存 Dormancy Save，再用 Pest Callout 和 Bloom Frame 计分。",
+      "path": "assets/images/152-derived-play-trellis-tournament.png",
+      "alt": "Overhead greenhouse tabletop game called Trellis Tournament with branching vine paths, seed tokens, pollen beads, shears, loupes, and scoring blossoms",
+      "width": 1536,
+      "height": 1024,
+      "createdAt": "2026-04-25 23:13:57",
+      "batch": "019dc52e-f1bb-74c1-9c06-d90378dcb1f6",
+      "tags": [
+        "trellis-tournament",
+        "seed-draft",
+        "graft-swap",
+        "pollen-trade",
+        "prune-pass",
+        "dormancy-save",
+        "pest-callout",
+        "bloom-frame",
+        "batch-019dc52e"
+      ],
+      "prompt": "Create a second polished public-gallery image that derives a playable original mechanic from the greenhouse prompt-cultivar use case.\n\nVisible title, small and clean: \"Derived Play: Trellis Tournament\"\n\nOutput format: a single overhead tabletop game photographed inside a fictional greenhouse, built around a branching trellis path shaped like a living vine. Not a grid, not a six-panel research board, not a card spread, not a tasting counter, not a seismograph roll, not a sand tray, not a mosaic wall, not a receipt, not a patchbay, not a stage set. It should read as a playable image-prompt game with tokens, rule markers, turn order, and score blossoms.\n\nDerived rules shown visually with concise labels:\n- Seed Draft: each player picks a tiny prompt seed token with a subject icon and one constraint.\n- Graft Swap: attach one reference twig to the vine, but keep the silhouette tag intact.\n- Pollen Trade: exchange mood-color pollen beads to change atmosphere without changing subject identity.\n- Prune Pass: spend shears token to remove one unwanted safe fictional detail from a branch.\n- Dormancy Save: bank a consistency bulb so the same object survives the next seasonal turn.\n- Pest Callout: use a loupe token to mark conflicts such as unreadable text, style drift, or mismatched lighting.\n- Bloom Frame: finish by placing the grown result into square, tall, or wide flower-frame scoring slots.\n\nVisual requirements: playful but clear, original fictional game, no real brands or logos, no public figures, no copyrighted characters, no harmful/sexual/violent content. Use only short readable labels: Seed Draft, Graft Swap, Pollen Trade, Prune Pass, Dormancy Save, Pest Callout, Bloom Frame, Rights-Safe. Materials: cork board, green felt vine paths, wooden seed tokens, colored pollen beads, tiny shears token, glass bulb markers, flower-frame score slots, and greenhouse light. Make the mechanism visibly different from ordinary cards or panels: the rule path must be an organic branching trellis with movable tokens and scoring blossoms.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original branching trellis game mechanic and prompt generated locally. No external prompt, image, article, case study, repository, or artwork source was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-25",
+        "reviewNote": "Original fictional greenhouse tabletop game; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful instructions, and graphic violence."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc52e-f1bb-74c1-9c06-d90378dcb1f6/ig_09055fd08c88f0780169ecd9de34dc8193a4510a1450ac62f4.png"
+    },
+    {
+      "title": "Use Case Greenhouse: Prompt Cultivar Trials",
+      "caption": "把 GPT Image 2 的图像生成评测做成一条温室繁殖台：从 Seed Brief、Graft Ref、Palette Pollen、Prune Mask、Dormancy Memory、Pest Spotter 到 Bloom Frame，观察提示如何生长、嫁接、授粉、修剪和跨格式开花。",
+      "path": "assets/images/153-use-case-greenhouse-prompt-cultivar-trials.png",
+      "alt": "Continuous greenhouse propagation bench showing Prompt Cultivar Trials GPT Image 2 use cases with specimen trays and safety labels",
+      "width": 1536,
+      "height": 1024,
+      "createdAt": "2026-04-25 23:12:31",
+      "batch": "019dc52e-f1bb-74c1-9c06-d90378dcb1f6",
+      "tags": [
+        "prompt-cultivar-trials",
+        "seed-brief-tray",
+        "graft-reference-branch",
+        "pollination-palette-net",
+        "pruning-mask-dome",
+        "dormancy-memory-crate",
+        "pest-spotter-loupe",
+        "bloom-format-frame",
+        "batch-019dc52e"
+      ],
+      "prompt": "Create one polished public-gallery image for an original GPT Image 2 use-case concept.\n\nVisible title, small and clean: \"Use Case Greenhouse: Prompt Cultivar Trials\"\n\nOutput format: a single continuous glasshouse propagation bench seen in three-quarter view, not a grid, not a six-panel research board, not a card spread, not a tasting counter, not a seismograph roll, not a sand tray, not a mosaic wall, not a receipt, not a patchbay, not a stage set. The image should feel like a high-end editorial diagram photograph of a fictional botanical lab, with tiny legible specimen tags and colored twine paths.\n\nCore idea: GPT Image 2 prompts are tested like plant cultivars. Show one long greenhouse bench with living specimen trays that represent distinct image-generation use cases and evaluation angles:\n1. Seed Brief Tray: turn a sparse prompt seed into several clearly different but related visual seedlings.\n2. Graft Reference Branch: blend a fictional reference object into a new composition while preserving the branch shape.\n3. Pollination Palette Net: cross two mood/color pollen jars into a controlled hybrid palette.\n4. Pruning Mask Dome: remove or alter one safe fictional detail inside a glass cloche without disturbing surrounding leaves.\n5. Dormancy Memory Crate: keep a recurring fictional object consistent across seasons and lighting changes.\n6. Pest Spotter Loupe: locate prompt conflicts, unreadable text, or style drift as harmless leaf spots.\n7. Bloom Format Frame: test the same subject in square, tall, and wide trellis frames.\n\nVisual requirements: no real brands, no real institutions, no celebrity likeness, no public figures, no copyrighted characters. Use fictional plant labels only: Seed Brief, Graft Ref, Palette Pollen, Prune Mask, Dormancy Memory, Pest Spotter, Bloom Frame. Include small safety shelf labels: Fictional Inputs, Rights-Safe, No Real Brands. Keep all text short and readable but not dominant. Bright natural greenhouse light, glass reflections, clay pots, seed packets with abstract icons, twine, tags, loupe, cloches, and trellis frames. Original concept, public-gallery safe, playful and precise.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original greenhouse cultivar metaphor and prompt generated locally. No external prompt, image, article, case study, repository, or artwork source was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-25",
+        "reviewNote": "Original fictional greenhouse lab concept; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful instructions, and graphic violence."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc52e-f1bb-74c1-9c06-d90378dcb1f6/ig_09055fd08c88f0780169ecd944f0c88193b088a660d620dbc8.png"
+    },
+    {
       "title": "Derived Play: Palate Pass League",
       "caption": "从品鉴菜单派生出的厨台路线游戏：玩家先定主体勺，再交换情绪酸、下注质感脆、盲测轮廓、混合配色、验证短词、携带记忆余味，最后通过权益冲洗门。",
       "path": "assets/images/150-a-second-polished-public-gallery-image-that-derives-a-playable-o.png",
