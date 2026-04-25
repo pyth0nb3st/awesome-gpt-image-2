@@ -299,7 +299,7 @@ const html = `<!doctype html>
         <div class="stats" aria-label="gallery stats">
           <div class="stat"><strong>${data.images.length}</strong><span>images</span></div>
           <div class="stat"><strong>${new Set(data.images.flatMap((image) => image.tags ?? [])).size}</strong><span>tags</span></div>
-          <div class="stat"><strong>77</strong><span>prompts</span></div>
+          <div class="stat"><strong>${data.images.length}</strong><span>prompts</span></div>
           <div class="stat"><strong>Pages</strong><span>ready</span></div>
         </div>
       </header>
