@@ -36,6 +36,77 @@ Most prompt examples disappear into chat history. This repo turns image-generati
 
 ## Popular Tags
 
+These lists are regenerated from `gallery.json`. Top themes are broad reusable categories, while latest play tags surface the newest batch-specific mechanics so fresh additions are easier to spot.
+
+### Top Themes
+
+- `product-mockup` (71)
+- `typography` (69)
+- `game-design` (58)
+- `ui-mockup` (55)
+- `storytelling` (50)
+- `lighting-weather` (36)
+- `photoreal` (33)
+- `worldbuilding` (32)
+- `infographic` (30)
+- `interior-design` (23)
+- `education` (22)
+- `material-study` (17)
+- `operations` (15)
+- `evaluation` (14)
+- `productivity-visual` (14)
+- `stylized-concept` (13)
+- `illustration-story` (8)
+- `ads-marketing` (7)
+- `prompt-game` (7)
+- `infographic-diagram` (6)
+- `scientific-educational` (5)
+- `sound-to-scene` (3)
+- `photorealistic-natural` (2)
+- `ui-fiction-simulator` (2)
+
+### Latest Play Tags
+
+- `texture-cipher-relay` - Derived Play Modes: Material Arcade
+- `drawer-tetris-draft` - Derived Play Modes: Material Arcade
+- `weather-oracle-cards` - Derived Play Modes: Material Arcade
+- `prototype-punch-out-duel` - Derived Play Modes: Material Arcade
+- `mood-mascot-mixer` - Derived Play Modes: Material Arcade
+- `mini-tour-stamp-rally` - Derived Play Modes: Material Arcade
+- `tactile-diagram-draft` - Use Case Lab: Material and Accessibility Play
+- `drawer-shadow-planner` - Use Case Lab: Material and Accessibility Play
+- `season-wear-simulator` - Use Case Lab: Material and Accessibility Play
+- `cardboard-kit-forge` - Use Case Lab: Material and Accessibility Play
+- `mascot-mood-notes` - Use Case Lab: Material and Accessibility Play
+- `fictional-exhibit-mini-tours` - Use Case Lab: Material and Accessibility Play
+- `week-remix-draft` - Derived Play Modes: Context Loop Arcade
+- `decision-thread` - Derived Play Modes: Context Loop Arcade
+- `fact-postcard-duel` - Derived Play Modes: Context Loop Arcade
+- `triage-relay` - Derived Play Modes: Context Loop Arcade
+- `tone-switchboard` - Derived Play Modes: Context Loop Arcade
+- `shelf-spec-poker` - Derived Play Modes: Context Loop Arcade
+- `calendar-scene-forge` - Use Case Lab: Live Context Loops
+- `meeting-memory-board` - Use Case Lab: Live Context Loops
+- `dataset-postcard-sampler` - Use Case Lab: Live Context Loops
+- `repair-triage-photos` - Use Case Lab: Live Context Loops
+- `language-mood-matrix` - Use Case Lab: Live Context Loops
+- `spec-to-shelf-prototype` - Use Case Lab: Live Context Loops
+- `observation-bingo` - Derived Play Modes: Evidence to Systems
+- `constraint-auction` - Derived Play Modes: Evidence to Systems
+- `recipe-forensics` - Derived Play Modes: Evidence to Systems
+- `policy-storyboard-race` - Derived Play Modes: Evidence to Systems
+- `archive-detective` - Derived Play Modes: Evidence to Systems
+- `glitch-taxonomy-draft` - Derived Play Modes: Evidence to Systems
+- `state-lock` - Operations Arcade
+- `evidence-garden` - Operations Arcade
+- `scenario-switch` - Operations Arcade
+- `prep-race` - Operations Arcade
+- `palette-detective` - Operations Arcade
+- `failure-ladder` - Operations Arcade
+
+<details>
+<summary>All generated tags</summary>
+
 - `product-mockup` (71)
 - `typography` (69)
 - `game-design` (58)
@@ -132,6 +203,8 @@ Most prompt examples disappear into chat history. This repo turns image-generati
 - `weather-oracle-cards` (1)
 - `week-remix-draft` (1)
 - `worldbuilding-atlas` (1)
+
+</details>
 
 ## Gallery Features
 

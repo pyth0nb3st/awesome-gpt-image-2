@@ -15,10 +15,40 @@ import {
 const data = JSON.parse(await readFile(new URL("../gallery.json", import.meta.url), "utf8"));
 const counts = tagCounts(data.images);
 const galleryDescription = buildSeoDescription(data.images);
+const technicalTagPattern = /^(batch-|historical-import$|prompt-recovered$|prompt-missing$)/;
 
-const tagIndex = counts
+const topThemeIndex = counts
+  .filter(([, count]) => count > 1)
+  .slice(0, 24)
   .map(([tag, count]) => `- \`${tag}\` (${count})`)
   .join("\n");
+
+const latestPlayTags = [];
+const seenLatestPlayTags = new Set();
+
+for (const [imageIndex, image] of data.images.slice(0, 12).entries()) {
+  for (const tag of image.tags ?? []) {
+    if (technicalTagPattern.test(tag) || seenLatestPlayTags.has(tag)) {
+      continue;
+    }
+
+    seenLatestPlayTags.add(tag);
+    latestPlayTags.push({
+      tag,
+      title: cleanTitle(image, imageIndex),
+    });
+  }
+}
+
+const latestPlayTagIndex =
+  latestPlayTags.length > 0
+    ? latestPlayTags
+        .slice(0, 36)
+        .map(({ tag, title }) => `- \`${tag}\` - ${markdownEscape(title)}`)
+        .join("\n")
+    : "- No recent play tags found.";
+
+const allTagIndex = counts.map(([tag, count]) => `- \`${tag}\` (${count})`).join("\n");
 
 const promptCards = data.images
   .map((image, index) => {
@@ -83,7 +113,22 @@ Most prompt examples disappear into chat history. This repo turns image-generati
 
 ## Popular Tags
 
-${tagIndex}
+These lists are regenerated from \`gallery.json\`. Top themes are broad reusable categories, while latest play tags surface the newest batch-specific mechanics so fresh additions are easier to spot.
+
+### Top Themes
+
+${topThemeIndex}
+
+### Latest Play Tags
+
+${latestPlayTagIndex}
+
+<details>
+<summary>All generated tags</summary>
+
+${allTagIndex}
+
+</details>
 
 ## Gallery Features
 
