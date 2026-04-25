@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/168-derived-play-glow-circuit-rodeo.png</image:loc>
+      <image:title>Derived Play: Glow Circuit Rodeo</image:title>
+      <image:caption>Use case: stylized-concept Asset type: derived play image from Prompt Tube Bending, fictional neon routing game artifact, 3:4 portrait Primary request: Create a polished original image titled &quot;Derived Play: Glow Circuit Rodeo&quot; showing a ta...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/169-use-case-neon-prompt-tube-bending.png</image:loc>
+      <image:title>Use Case Neon: Prompt Tube Bending</image:title>
+      <image:caption>Use case: stylized-concept Asset type: original GPT Image 2 play concept, fictional neon glass workshop artifact, 3:4 portrait Primary request: Create a polished concept image titled &quot;Use Case Neon: Prompt Tube Bending&quot; that visualizes GPT...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/166-derived-play-gear-drift-derby.png</image:loc>
       <image:title>Derived Play: Gear Drift Derby</image:title>
       <image:caption>Visible title: &quot;Derived Play: Gear Drift Derby&quot;. A shallow circular transparent clockwork racing puzzle, 16:9 low oblique product photo. Interlocking brass gear lanes, removable tooth tokens, winding keys, balance-wheel gates, jewel checkp...</image:caption>
@@ -817,6 +827,28 @@
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/168-derived-play-glow-circuit-rodeo/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/168-derived-play-glow-circuit-rodeo.png</image:loc>
+      <image:title>Derived Play: Glow Circuit Rodeo</image:title>
+      <image:caption>Use case: stylized-concept Asset type: derived play image from Prompt Tube Bending, fictional neon routing game artifact, 3:4 portrait Primary request: Create a polished original image titled &quot;Derived Play: Glow Circuit Rodeo&quot; showing a ta...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/169-use-case-neon-prompt-tube-bending/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/169-use-case-neon-prompt-tube-bending.png</image:loc>
+      <image:title>Use Case Neon: Prompt Tube Bending</image:title>
+      <image:caption>Use case: stylized-concept Asset type: original GPT Image 2 play concept, fictional neon glass workshop artifact, 3:4 portrait Primary request: Create a polished concept image titled &quot;Use Case Neon: Prompt Tube Bending&quot; that visualizes GPT...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/166-derived-play-gear-drift-derby/</loc>

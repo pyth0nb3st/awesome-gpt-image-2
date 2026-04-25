@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/168-derived-play-glow-circuit-rodeo.png": {
+      "path": "assets/thumbs/168-derived-play-glow-circuit-rodeo.jpg",
+      "width": 768,
+      "height": 1024
+    },
+    "assets/images/169-use-case-neon-prompt-tube-bending.png": {
+      "path": "assets/thumbs/169-use-case-neon-prompt-tube-bending.jpg",
+      "width": 768,
+      "height": 1024
+    },
     "assets/images/166-derived-play-gear-drift-derby.png": {
       "path": "assets/thumbs/166-derived-play-gear-drift-derby.jpg",
       "width": 768,

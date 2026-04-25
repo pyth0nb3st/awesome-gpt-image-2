@@ -18,6 +18,92 @@
   },
   "images": [
     {
+      "title": "Derived Play: Glow Circuit Rodeo",
+      "caption": "从霓虹弯管概念派生出的发光路线游戏：Bend Draft、Hue Bet、Bridge Clip、Letter Check、Spill Tax、Halo Keep 和 Seal Finish 把提示约束变成一条可搭建、可计分的光路。",
+      "path": "assets/images/168-derived-play-glow-circuit-rodeo.png",
+      "alt": "Dark tabletop prototype with modular unpowered glowing acrylic tube route, bend pieces, hue caps, bridge clips, crop rings, letter checks, and source tags",
+      "width": 1086,
+      "height": 1448,
+      "createdAt": "2026-04-26 02:19:38",
+      "batch": "019dc5d3-d7e0-7980-9ee3-9033c68a14b9",
+      "tags": [
+        "glow-circuit-rodeo",
+        "bend-draft",
+        "hue-bet",
+        "bridge-clip",
+        "letter-check",
+        "spill-tax",
+        "halo-keep",
+        "seal-finish",
+        "batch-019dc5d3"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: derived play image from Prompt Tube Bending, fictional neon routing game artifact, 3:4 portrait\nPrimary request: Create a polished original image titled \"Derived Play: Glow Circuit Rodeo\" showing a tabletop light-routing game derived from GPT Image 2 prompt tube-bending experiments. It must not look like a 2x3 research board, card spread, app UI, printing press, loom, paper scroll, microfluidic maze, abacus, marionette rig, origami court, hotel cabinet, ice rack, kiln, mosaic wall, pinball table, or standard board-game grid.\nScene/backdrop: overhead editorial photo of a dark matte tabletop with a modular fictional neon-tube route made of safe unpowered glowing acrylic segments, small insulated-looking tokens, color caps, bridge clips, crop rings, and paper provenance tags. No real brand marks.\nGame mechanism: players build one continuous glow route through abstract prompt checkpoints; they draft bends, bid on hue caps, bridge around blockers, test letter clarity, manage glow spill, keep the route inside crop halos, and finish with a tag seal.\nVisible rule stations integrated as physical pieces along the route, not equal panels: \"Bend Draft\" picks a curved tube segment, \"Hue Bet\" locks color influence, \"Bridge Clip\" jumps over an obstacle, \"Letter Check\" scores a readable word tile, \"Spill Tax\" pays for excess glow, \"Halo Keep\" keeps the route inside frame rings, and \"Seal Finish\" completes the safe source tag.\nVisual language: premium handmade prototype photography, cyan amber magenta glow, clear acrylic and rubber feet, tactile labels, sophisticated playful design, dark bench with reflections.\nSafety and originality: fictional unpowered light toy metaphor only; no real brands, no public figures, no political content, no weapons, no operational electrical instructions, no sexual content, no graphic violence, no copyrighted characters, no living-artist style.\nComposition: portrait orientation; a continuous glowing route loops diagonally through irregular checkpoints with tokens and tags; visually related to the neon use-case but clearly a separate game format.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original fictional glow-routing game mechanic and prompt generated locally. OpenAI image-generation documentation was consulted only as current capability background; no external prompt, image, article concept, case study, repository, artwork, brand, or character source was reused."
+      },
+      "promptSources": [
+        {
+          "title": "Image generation | OpenAI API",
+          "url": "https://platform.openai.com/docs/guides/image-generation",
+          "authorOrPublisher": "OpenAI",
+          "license": "OpenAI website terms; used only for factual image-generation capability background, with no prompt text or artwork reused.",
+          "accessedAt": "2026-04-26",
+          "usedAs": "Capability background for prompt-driven image generation and editing workflows; final glow-routing game concept, wording, labels, and layout are original."
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "reviewNote": "Original fictional unpowered light-toy game metaphor; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc5d3-d7e0-7980-9ee3-9033c68a14b9/ig_0337c825aa013d540169ed056dfccc8190bcb2e92bd33ca0d8.png"
+    },
+    {
+      "title": "Use Case Neon: Prompt Tube Bending",
+      "caption": "把 GPT Image 2 的提示变量变成一条连续霓虹玻璃管：Path Bend、Hue Fill、Bridge Mask、Letter Burn、Glow Spill、Crop Halo 和 Tag Seal 用弯管、发光、绕障、可读字和来源标签测试生成约束。",
+      "path": "assets/images/169-use-case-neon-prompt-tube-bending.png",
+      "alt": "Fictional neon workshop bench with one continuous glowing tube path, acrylic tracing plates, hue samples, bridge masks, crop halos, and provenance tags",
+      "width": 1086,
+      "height": 1448,
+      "createdAt": "2026-04-26 02:18:22",
+      "batch": "019dc5d3-d7e0-7980-9ee3-9033c68a14b9",
+      "tags": [
+        "prompt-tube-bending",
+        "path-bend",
+        "hue-fill",
+        "bridge-mask",
+        "letter-burn",
+        "glow-spill",
+        "crop-halo",
+        "tag-seal",
+        "batch-019dc5d3"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: original GPT Image 2 play concept, fictional neon glass workshop artifact, 3:4 portrait\nPrimary request: Create a polished concept image titled \"Use Case Neon: Prompt Tube Bending\" that visualizes GPT Image 2 experimentation as a safe fictional neon-sign design workshop. It must not be a 2x3 board, card spread, app UI, printing press, loom, paper scroll, microfluidic chip, abacus, marionette rig, origami court, hotel cabinet, ice rack, kiln, mosaic wall, pinball table, or maze.\nScene/backdrop: a clean imaginary neon studio bench with cool glass tubes, unpowered sample letters, color gas swatches as sealed display vials, frosted acrylic tracing plates, transformer-shaped dummy props clearly labeled as nonfunctional, and paper pattern guides. No real brand marks.\nSubject: one continuous luminous workshop composition where prompt variables become tube-bending decisions: line path, color fill, occlusion bridge, readable letter test, glow spill, crop safe zone, and provenance tag.\nVisible mechanisms arranged along one flowing glass-tube path, not as equal panels: \"Path Bend\" sets subject silhouette, \"Hue Fill\" chooses color influence, \"Bridge Mask\" routes around an obstruction, \"Letter Burn\" tests readable short text, \"Glow Spill\" checks lighting on nearby surfaces, \"Crop Halo\" checks edge clearance, and \"Tag Seal\" attaches a source and safety label.\nVisual language: premium editorial still life, dark matte bench, cyan and warm amber glow, clear glass reflections, acrylic tracing marks, precise diagram labels, playful but sophisticated.\nSafety and originality: fictional unpowered design metaphor only; no real brands, no public figures, no political content, no weapons, no operational electrical instructions, no sexual content, no graphic violence, no copyrighted characters, no living-artist style.\nText accuracy: include the title \"Prompt Tube Bending\" and all seven short mechanism labels exactly; labels should be readable on small acrylic tags.\nComposition: portrait orientation, one continuous S-shaped glowing tube from upper left to lower right, tools and tags orbiting the line; clearly different from a research board.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original fictional neon-tube prompt-control concept and prompt generated locally. OpenAI image-generation documentation was consulted only as current capability background; no external prompt, image, article concept, case study, repository, artwork, brand, or character source was reused."
+      },
+      "promptSources": [
+        {
+          "title": "Image generation | OpenAI API",
+          "url": "https://platform.openai.com/docs/guides/image-generation",
+          "authorOrPublisher": "OpenAI",
+          "license": "OpenAI website terms; used only for factual image-generation capability background, with no prompt text or artwork reused.",
+          "accessedAt": "2026-04-26",
+          "usedAs": "Capability background for prompt-driven image generation and editing workflows; final neon workshop concept, wording, labels, and layout are original."
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "reviewNote": "Original fictional unpowered neon design metaphor; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc5d3-d7e0-7980-9ee3-9033c68a14b9/ig_0337c825aa013d540169ed0527b8888190881d7210c80ced6e.png"
+    },
+    {
       "title": "Derived Play: Gear Drift Derby",
       "caption": "从 Prompt Escapement 派生的圆形齿轮漂移赛：Wind Claim、Crown Set、Tooth Trade、Fork Release、Jewel Read、Pendulum Return 和 Caseback Seal 把提示节拍变成一局可玩的钟表策略。",
       "path": "assets/images/166-derived-play-gear-drift-derby.png",
