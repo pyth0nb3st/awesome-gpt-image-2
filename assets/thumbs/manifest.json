@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/117-one-original-gpt-image-2-derived-play-concept-image-as-a-16-9-la.png": {
+      "path": "assets/thumbs/117-one-original-gpt-image-2-derived-play-concept-image-as-a-16-9-la.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/118-one-original-gpt-image-2-use-case-concept-image-as-a-16-9-landsc.png": {
+      "path": "assets/thumbs/118-one-original-gpt-image-2-use-case-concept-image-as-a-16-9-landsc.jpg",
+      "width": 768,
+      "height": 432
+    },
     "assets/images/115-use-case-conservatory-prompt-ecosystems.png": {
       "path": "assets/thumbs/115-use-case-conservatory-prompt-ecosystems.jpg",
       "width": 768,

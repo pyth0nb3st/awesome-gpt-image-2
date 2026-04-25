@@ -71,6 +71,8 @@ const blockedPatterns = [
   ["graphic_violence", /\b(gore|graphic violence|blood-soaked|dismember|decapitat|torture)\b|血腥|肢解|酷刑/i],
   ["harmful", /\b(bomb making|weapon construction|terrorist|self-harm|suicide instructions|bypass safety)\b|炸弹制作|武器制造|自杀教程|绕过安全/i],
 ];
+const negatedBlockedMention =
+  /\b(?:no|avoid|without|excluding)\s+(?:[\w-]+\s+){0,6}(?:nsfw|porn|pornographic|explicit sexual|nudity|nude|erotic|gore|graphic violence|blood-soaked|dismember(?:ment)?|decapitat\w*|torture|election|campaign rally|political party|president|prime minister|senator|parliament|propaganda|bomb making|weapon construction|terrorist|self-harm|suicide instructions|bypass safety)\b/gi;
 
 const errors = [];
 const warnings = [];
@@ -143,6 +145,11 @@ const recordText = (image) =>
     ...(image.promptSources ?? []).map((source) => `${source.title} ${source.usedAs}`),
   ].join("\n");
 
+const safetyScanText = (image) =>
+  [image.title, image.caption, image.alt, image.prompt, ...(image.tags ?? [])]
+    .join("\n")
+    .replace(negatedBlockedMention, " ");
+
 const similarity = (left, right) => {
   const leftTokens = unique(tokenize(recordText(left)));
   const rightTokens = unique(tokenize(recordText(right)));
@@ -205,7 +212,7 @@ for (const [index, image] of (data.images ?? []).entries()) {
     errors.push(`${label}: missing contentSafety.status = screened`);
   }
 
-  const scanText = [image.title, image.caption, image.alt, image.prompt, ...(image.tags ?? [])].join("\n");
+  const scanText = safetyScanText(image);
   for (const [category, pattern] of blockedPatterns) {
     if (pattern.test(scanText)) {
       errors.push(`${label}: blocked content category detected: ${category}`);

@@ -18,6 +18,80 @@
   },
   "images": [
     {
+      "title": "Derived Play: Shot-Cue Relay",
+      "caption": "从镜头排练能力派生成影棚接力玩法：选机位、赌焦距、换焦点胶带、检查道具证词、抢救镜头单，再用裁切帘冲刺验收。",
+      "path": "assets/images/117-one-original-gpt-image-2-derived-play-concept-image-as-a-16-9-la.png",
+      "alt": "Playable isometric film-stage relay course for GPT Image 2 with dolly marks, lens bets, focus tape swaps, prop witness checks, shot list rescue, and crop curtain sprint",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-25 17:15:09",
+      "batch": "019dc3e4-e031-7ed0-9a34-328d8d388ded",
+      "tags": [
+        "dolly-mark-draft",
+        "lens-distance-bet",
+        "focus-tape-swap",
+        "prop-witness-check",
+        "shot-list-rescue",
+        "crop-curtain-sprint"
+      ],
+      "prompt": "Create one original GPT Image 2 derived-play concept image as a 16:9 landscape scene.\n\nTitle in the image, small and legible: \"GPT Image 2 Shot-Cue Relay\".\n\nCore format: a continuous playable film-stage relay challenge inside a miniature studio, seen as an isometric cutaway with moving dolly tracks, cue-light towers, focus-puller wheels, stage tape lanes, prop check stations, small projection screens, accepted/rejected shot tickets, and a director-style scoring rail. It must be one integrated playable rehearsal space, not a contact sheet, not a 2x3 grid, not cards, not a dashboard, not an arcade table, not a pinball board, not a circular rules machine, not a greenhouse, not an orchard, and not a tabletop strategy board.\n\nDerive the play rules from the Lens Rehearsal Stage use cases. Show six distinct mechanics as labeled physical zones in the same studio relay course:\n1 \"Dolly Mark Draft\" - players choose camera-floor marks before the image is generated; score when the fictional object stays recognizable from each chosen view.\n2 \"Lens Distance Bet\" - players predict whether compressed or spacious scene depth will best match the prompt goal, then compare tiny output strips.\n3 \"Focus Tape Swap\" - colored foreground, midground, and background tapes are rearranged between rounds; bonus if the intended subject remains visually dominant.\n4 \"Prop Witness Check\" - a prop token moves through four scene gates; players pass only when silhouette, color chips, and wear marks remain consistent.\n5 \"Shot List Rescue\" - messy fictional caption scraps travel through cleanup rollers and become a concise shot ticket; penalties for extra clutter.\n6 \"Crop Curtain Sprint\" - square, vertical, and wide curtains close over the projection; players win if the central idea survives every crop.\n\nVisual requirements: one coherent studio relay course with all six labels embedded into props or overhead placards, visible tokens in motion, cue lights changing color, small image printouts, score rails, crop curtains, lens carts, floor tape, fabric flats, metal tracks, and paper tickets. Premium editorial 3D illustration, crisp details, varied color palette, warm spotlighting, professional but playful. Text should be sparse: only the title and the six exact labels. No logos, no real brands, no celebrity likenesses, no public figures, no politics, no elections, no political persuasion, no copyrighted characters, no living-artist style imitation, no sexual content, no nudity, no dangerous instructions, no graphic violence, no gore, no watermark.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "automation_original_prompt",
+        "sourceNote": "Original concept and prompt created in this automation run. No external prompt, image, article, repository, case study, or artwork source was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Prompt and visible output were screened before publishing; all people, brands, places, institutions, and data are fictional or generic."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc3e4-e031-7ed0-9a34-328d8d388ded/ig_0ca77354804425060169ec857695d08197b864023ffa9f168d.png"
+    },
+    {
+      "title": "Use Case Stage: Lens Rehearsals",
+      "caption": "把 GPT Image 2 当作小型影棚来研究：镜头机位、焦距压缩、景深层次、道具连续性、caption 到镜头单，以及多比例裁切可读性。",
+      "path": "assets/images/118-one-original-gpt-image-2-use-case-concept-image-as-a-16-9-landsc.png",
+      "alt": "Isometric miniature film-stage rehearsal scene for GPT Image 2 use cases with camera blocking, lens compression, depth cues, prop continuity, shot lists, and crop rehearsals",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-25 17:12:25",
+      "batch": "019dc3e4-e031-7ed0-9a34-328d8d388ded",
+      "tags": [
+        "camera-blocking-rehearsal",
+        "lens-compression-sketch",
+        "depth-cue-composer",
+        "continuity-prop-witness",
+        "caption-to-shot-list",
+        "readable-crop-rehearsal"
+      ],
+      "prompt": "Create one original GPT Image 2 use-case concept image as a 16:9 landscape scene.\n\nTitle in the image, small and legible: \"GPT Image 2 Lens Rehearsal Stage\".\n\nCore format: a continuous miniature film-stage rehearsal environment viewed in elegant isometric cutaway: movable set flats, camera rails, lens carts, light stands, focus tape, call sheets, thumbnail print strips, cue lamps, transparent depth layers, and a small projection wall. It must be one integrated studio space, not a contact sheet, not a 2x3 grid, not cards, not a dashboard, not an arcade table, not a circular rules machine, not a greenhouse, not a tabletop strategy board, and not a generic research board.\n\nShow six playful GPT Image 2 use cases as labeled working areas inside the same stage, each with a different input material and evaluation angle:\n1 \"Camera Blocking Rehearsal\" - a fictional object is tested from overhead, low, close, and side camera marks while staying recognizable.\n2 \"Lens Compression Sketch\" - the same safe fictional street-corner miniature is previewed with wide, normal, and long-lens spacing, no real location or brand.\n3 \"Depth Cue Composer\" - foreground, midground, and background layers are arranged with colored focus tape to make prompts more spatial.\n4 \"Continuity Prop Witness\" - a small invented prop keeps its silhouette, color patches, and wear marks across four scene thumbnails.\n5 \"Caption To Shot List\" - messy fictional alt text becomes clean visual shot instructions pinned beside generated thumbnails.\n6 \"Readable Crop Rehearsal\" - square, vertical, and wide crop masks test whether the main idea remains clear at small sizes.\n\nVisual requirements: premium editorial 3D illustration with crisp infographic details, varied colors, warm studio lights, tactile wood, metal, matte fabric, paper labels, translucent acrylic crop gates, and tiny fictional thumbnails. Text should be sparse: only the title and the six exact labels. No logos, no real brands, no celebrity likenesses, no public figures, no politics, no elections, no political persuasion, no copyrighted characters, no living-artist style imitation, no sexual content, no nudity, no dangerous instructions, no graphic violence, no gore, no watermark.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "automation_original_prompt",
+        "sourceNote": "Original concept and prompt created in this automation run. No external prompt, image, article, repository, case study, or artwork source was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Prompt and visible output were screened before publishing; all people, brands, places, institutions, and data are fictional or generic."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc3e4-e031-7ed0-9a34-328d8d388ded/ig_0ca77354804425060169ec84d69fa88197a448adb7f9e77454.png"
+    },
+    {
       "title": "Use Case Conservatory: Prompt Ecosystems",
       "caption": "把 GPT Image 2 prompt 当作温室生态来研究：种子、授粉、负形藤架、caption 堆肥、连续性菌丝和无障碍传粉视图共同组成一座可观察的 use-case 温室。",
       "path": "assets/images/115-use-case-conservatory-prompt-ecosystems.png",
