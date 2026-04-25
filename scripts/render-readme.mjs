@@ -2,16 +2,17 @@ import { readFile, writeFile } from "node:fs/promises";
 import {
   SITE_URL,
   REPO_URL,
+  buildSeoDescription,
   cleanTitle,
   displayTags,
   markdownEscape,
   promptExcerpt,
-  seoDescription,
   tagCounts,
 } from "./gallery-utils.mjs";
 
 const data = JSON.parse(await readFile(new URL("../gallery.json", import.meta.url), "utf8"));
 const counts = tagCounts(data.images);
+const seoDescription = buildSeoDescription(data.images);
 
 const tagIndex = counts
   .map(([tag, count]) => `- \`${tag}\` (${count})`)

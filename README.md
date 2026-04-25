@@ -5,7 +5,7 @@
 [![Prompts](https://img.shields.io/badge/prompts-86-a34716)](https://pyth0nb3st.github.io/awesome-gpt-image-2/)
 [![License](https://img.shields.io/badge/license-research%20archive-lightgrey)](#notes)
 
-> Browse 82 GPT Image 2 prompt examples with generated images, reusable tags, image-generation use cases, and prompt text for product mockups, UI, games, diagrams, and storytelling.
+> Browse 86 GPT Image 2 prompt examples with generated images, reusable tags, image-generation use cases, and prompt text for product mockups, UI, games, diagrams, and storytelling.
 
 **Live gallery:** https://pyth0nb3st.github.io/awesome-gpt-image-2/  
 **Repository:** https://github.com/pyth0nb3st/awesome-gpt-image-2

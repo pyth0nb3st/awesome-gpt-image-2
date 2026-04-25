@@ -91,15 +91,19 @@ export const tagCounts = (images) => {
   return [...counts.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
 };
 
-export const seoDescription =
-  "Browse 82 GPT Image 2 prompt examples with generated images, reusable tags, image-generation use cases, and prompt text for product mockups, UI, games, diagrams, and storytelling.";
+export const buildSeoDescription = (imagesOrCount) => {
+  const count = Array.isArray(imagesOrCount) ? imagesOrCount.length : Number(imagesOrCount);
+  const prefix = Number.isFinite(count) && count > 0 ? `${count} ` : "";
+
+  return `Browse ${prefix}GPT Image 2 prompt examples with generated images, reusable tags, image-generation use cases, and prompt text for product mockups, UI, games, diagrams, and storytelling.`;
+};
 
 export const buildJsonLd = (data) => ({
   "@context": "https://schema.org",
   "@type": "CollectionPage",
   name: "Awesome GPT Image 2 Prompts and Use Cases",
   url: SITE_URL,
-  description: seoDescription,
+  description: buildSeoDescription(data.images),
   isPartOf: {
     "@type": "WebSite",
     name: "Awesome GPT Image 2",
@@ -109,7 +113,7 @@ export const buildJsonLd = (data) => ({
     "@type": "ImageGallery",
     name: "GPT Image 2 prompt gallery",
     numberOfItems: data.images.length,
-    associatedMedia: data.images.slice(0, 82).map((image, index) => ({
+    associatedMedia: data.images.slice(0, 100).map((image, index) => ({
       "@type": "ImageObject",
       name: cleanTitle(image, index),
       contentUrl: absoluteUrl(image.path),

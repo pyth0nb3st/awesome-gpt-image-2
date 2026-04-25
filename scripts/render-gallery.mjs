@@ -3,13 +3,13 @@ import {
   SITE_URL,
   REPO_URL,
   absoluteUrl,
+  buildSeoDescription,
   buildJsonLd,
   cleanTitle,
   displayTags,
   escapeAttribute,
   escapeHtml,
   promptExcerpt,
-  seoDescription,
   tagCounts,
 } from "./gallery-utils.mjs";
 
@@ -17,6 +17,7 @@ const data = JSON.parse(await readFile(new URL("../gallery.json", import.meta.ur
 const counts = tagCounts(data.images);
 const topTags = counts.slice(0, 24);
 const heroImage = data.images[0];
+const seoDescription = buildSeoDescription(data.images);
 const updated = new Date().toISOString().slice(0, 10);
 
 const tagCloud = topTags
