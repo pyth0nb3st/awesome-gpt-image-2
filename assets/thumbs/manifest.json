@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/186-derived-play-prism-split-draft.png": {
+      "path": "assets/thumbs/186-derived-play-prism-split-draft.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/187-use-case-optics-prompt-refraction-bench.png": {
+      "path": "assets/thumbs/187-use-case-optics-prompt-refraction-bench.jpg",
+      "width": 768,
+      "height": 512
+    },
     "assets/images/184-derived-play-objection-draft.png": {
       "path": "assets/thumbs/184-derived-play-objection-draft.jpg",
       "width": 768,

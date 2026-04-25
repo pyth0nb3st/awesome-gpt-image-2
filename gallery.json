@@ -18,6 +18,94 @@
   },
   "images": [
     {
+      "title": "Derived Play: Prism Split Draft",
+      "caption": "从折射台派生出的棱镜分光协作玩法：Beam Draft、Prism Split、Mirror Token、Shutter Mask、Iris Set、Rail Stop、Focus Card、Grating Tile、Fringe Penalty 和 Focal Proof 把 prompt 约束变成一次分光、一次反射、一次遮挡和三块焦点证明。",
+      "path": "assets/images/186-derived-play-prism-split-draft.png",
+      "alt": "Compact cooperative optics drafting game with prism hub, beam cards, mirror tokens, shutter masks, iris rings, rail-stop gauges, focus cards, grating tiles, fringe penalty chips, and focal proof plaques",
+      "width": 1536,
+      "height": 1024,
+      "createdAt": "2026-04-26 05:14:00",
+      "batch": "019dc678-9271-7642-b2c5-cf94709d7050",
+      "tags": [
+        "prism-split-draft",
+        "beam-draft",
+        "prism-split",
+        "mirror-token",
+        "shutter-mask",
+        "iris-set",
+        "rail-stop",
+        "focus-card",
+        "grating-tile",
+        "fringe-penalty",
+        "focal-proof",
+        "batch-019dc678"
+      ],
+      "prompt": "Create a single polished gallery image for a derived play concept titled Derived Play: Prism Split Draft. It should be a different artifact from the optical bench: show a compact cooperative tabletop game made from a triangular prism hub, removable beam cards, mirrored reference tokens, shutter masks, iris rings, focus cards, rail-stop gauges, diffraction tiles, fringe penalty chips, and three tiny focal-proof plaques. This is not a board grid, not a contact sheet, not a route map, not a chessboard, not an elevator queue, not a courtroom game, and not a music-box station. Gameplay mechanism: players draft one beam card into the prism hub, may split it once, must bounce exactly one reference token from a mirror, close one shutter mask to remove an off-brief detail, set one crop iris and one aspect rail stop, then place a caption focus card; they score only if the three focal-proof plaques preserve the same invented cloudstone lantern while the drift-fringe chips stay below the limit. Readable labels should include Beam Draft, Prism Split, Mirror Token, Shutter Mask, Iris Set, Rail Stop, Focus Card, Grating Tile, Fringe Penalty, and Focal Proof. Output format: crisp product photo of a harmless fictional optics drafting game with glass prism hub, brass rails, translucent cards, tiny light paths, no people, no hands, no logos, no real brands, no public figures, no copyrighted characters, no political content, no harmful instructions, no weapons, no gore, no sexual content, no living artist style imitation.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original cooperative prism-splitting prompt-review game mechanic and prompt generated locally from the Prompt Refraction Bench concept. No external prompt, article, image, artwork, repository, brand, character, or case-study source was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Original fictional harmless no-people optics drafting game with invented cloudstone lantern focal plaques only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc678-9271-7642-b2c5-cf94709d7050/ig_0e519f1584ae117f0169ed2e5995088197929ab27772bcdbef.png"
+    },
+    {
+      "title": "Use Case Optics: Prompt Refraction Bench",
+      "caption": "把 GPT Image 2 的复杂提示做成一台横向光学折射台：Seed Collimator、Reference Mirror、Filter Slide、Mask Aperture、Crop Iris、Caption Focus、Aspect Rail、Style Grating、Focal Proof 和 Drift Fringe 用光束准直、反射、光阑和焦平面检验约束传播。",
+      "path": "assets/images/187-use-case-optics-prompt-refraction-bench.png",
+      "alt": "Long tabletop optical-bench prompt apparatus with seed collimator, reference mirrors, filter slides, aperture masks, crop iris rings, caption focus cards, aspect rail stops, style grating, focal proof plaques, and drift fringe labels",
+      "width": 1536,
+      "height": 1024,
+      "createdAt": "2026-04-26 05:12:58",
+      "batch": "019dc678-9271-7642-b2c5-cf94709d7050",
+      "tags": [
+        "prompt-refraction-bench",
+        "seed-collimator",
+        "reference-mirror",
+        "filter-slide",
+        "mask-aperture",
+        "crop-iris",
+        "caption-focus",
+        "aspect-rail",
+        "style-grating",
+        "focal-proof",
+        "drift-fringe",
+        "batch-019dc678"
+      ],
+      "prompt": "Create a single polished gallery image for a new GPT Image 2 use case titled Use Case Optics: Prompt Refraction Bench. Show a long horizontal optical-bench apparatus on a matte black studio table, no people. This is not a contact sheet, not a 2x3 research board, not a route map, not a chessboard, not a courtroom, not an elevator shaft, not a music box, not a flipbook, not a magnetic field device, and not a neon tube. A harmless fictional prompt beam enters through a labeled seed collimator, passes through glass prisms, color filter slides, aperture masks, reference mirrors, crop iris rings, caption focus cards, aspect rail stops, style diffraction grating, and lands on three small focal-plane result plaques showing the same invented cloudstone lantern from different harmless formats. The mechanism is using GPT Image 2 as an optical alignment bench: subject clauses are collimated, references reflect into the beam, masks block stray details, crop and aspect controls focus the frame, text fidelity is tested on caption focus cards, and consistency is judged by whether the cloudstone lantern resolves sharply on all plaques. Readable labels should include Seed Collimator, Reference Mirror, Filter Slide, Mask Aperture, Crop Iris, Caption Focus, Aspect Rail, Style Grating, Focal Proof, and Drift Fringe. Output format: premium macro photograph of a precise tabletop optics instrument with clear glass prisms, brass rail, black velvet base, crisp readable labels, no hands, no logos, no real brands, no public figures, no copyrighted characters, no political content, no harmful instructions, no weapons, no gore, no sexual content, no living artist style imitation.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original optical-bench prompt-alignment concept and prompt generated locally from existing-gallery gap analysis. Official web research was used only for broad capability awareness; no external prompt, article, image, artwork, repository, brand, character, or case-study source shaped this concept."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Original fictional harmless no-people optics apparatus with invented cloudstone lantern focal plaques only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc678-9271-7642-b2c5-cf94709d7050/ig_0e519f1584ae117f0169ed2dc2f7e481978d901c392d41d2d5.png"
+    },
+    {
       "title": "Derived Play: Objection Draft",
       "caption": "从证据听证厅派生出的异议抽牌玩法：Docket Draw、Witness Swap、Objection Stamp、Ruling Shutter、Oath Token、Precedent Tab、Verdict Trio 和 Seal Score 让玩家围绕同一虚构玻璃梨罗盘提交、质疑和裁决提示证据。",
       "path": "assets/images/184-derived-play-objection-draft.png",

@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/186-derived-play-prism-split-draft.png</image:loc>
+      <image:title>Derived Play: Prism Split Draft</image:title>
+      <image:caption>Create a single polished gallery image for a derived play concept titled Derived Play: Prism Split Draft. It should be a different artifact from the optical bench: show a compact cooperative tabletop game made from a triangular prism hub,...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/187-use-case-optics-prompt-refraction-bench.png</image:loc>
+      <image:title>Use Case Optics: Prompt Refraction Bench</image:title>
+      <image:caption>Create a single polished gallery image for a new GPT Image 2 use case titled Use Case Optics: Prompt Refraction Bench. Show a long horizontal optical-bench apparatus on a matte black studio table, no people. This is not a contact sheet, no...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/184-derived-play-objection-draft.png</image:loc>
       <image:title>Derived Play: Objection Draft</image:title>
       <image:caption>Create a single polished gallery image for a derived play concept titled Derived Play: Objection Draft. It should be a different artifact from the evidence theater: show a compact tabletop drafting game shaped like a semicircular hearing b...</image:caption>
@@ -907,6 +917,28 @@
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/186-derived-play-prism-split-draft/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/186-derived-play-prism-split-draft.png</image:loc>
+      <image:title>Derived Play: Prism Split Draft</image:title>
+      <image:caption>Create a single polished gallery image for a derived play concept titled Derived Play: Prism Split Draft. It should be a different artifact from the optical bench: show a compact cooperative tabletop game made from a triangular prism hub,...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/187-use-case-optics-prompt-refraction-bench/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/187-use-case-optics-prompt-refraction-bench.png</image:loc>
+      <image:title>Use Case Optics: Prompt Refraction Bench</image:title>
+      <image:caption>Create a single polished gallery image for a new GPT Image 2 use case titled Use Case Optics: Prompt Refraction Bench. Show a long horizontal optical-bench apparatus on a matte black studio table, no people. This is not a contact sheet, no...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/184-derived-play-objection-draft/</loc>
