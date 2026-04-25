@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/184-derived-play-objection-draft.png": {
+      "path": "assets/thumbs/184-derived-play-objection-draft.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/185-use-case-courtroom-prompt-evidence-hearing.png": {
+      "path": "assets/thumbs/185-use-case-courtroom-prompt-evidence-hearing.jpg",
+      "width": 768,
+      "height": 512
+    },
     "assets/images/182-derived-play-lift-queue-draft.png": {
       "path": "assets/thumbs/182-derived-play-lift-queue-draft.jpg",
       "width": 768,

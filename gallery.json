@@ -18,6 +18,91 @@
   },
   "images": [
     {
+      "title": "Derived Play: Objection Draft",
+      "caption": "从证据听证厅派生出的异议抽牌玩法：Docket Draw、Witness Swap、Objection Stamp、Ruling Shutter、Oath Token、Precedent Tab、Verdict Trio 和 Seal Score 让玩家围绕同一虚构玻璃梨罗盘提交、质疑和裁决提示证据。",
+      "path": "assets/images/184-derived-play-objection-draft.png",
+      "alt": "Compact tabletop objection drafting game with docket cards, witness swaps, objection stamps, ruling shutters, oath tokens, precedent tabs, verdict trio stand, and seal score track",
+      "width": 1536,
+      "height": 1024,
+      "createdAt": "2026-04-26 04:54:15",
+      "batch": "019dc666-40db-70e3-82f3-536a08c04124",
+      "tags": [
+        "objection-draft",
+        "docket-draw",
+        "witness-swap",
+        "objection-stamp",
+        "ruling-shutter",
+        "oath-token",
+        "precedent-tab",
+        "verdict-trio",
+        "seal-score",
+        "batch-019dc666"
+      ],
+      "prompt": "Create a single polished gallery image for a derived play concept titled Derived Play: Objection Draft. It should be a different artifact from the evidence theater: show a compact tabletop drafting game shaped like a semicircular hearing bench, not a board grid and not a contact sheet. Components include docket draw cards, reference-witness swap cards, small red objection stamps, sliding crop-ruling shutters, caption oath tokens, style precedent tabs, a verdict trio display stand, and a seal-score track with wax-like tokens. The gameplay mechanism is adversarial prompt review without any real legal case: players draw one docket card, submit one fictional exhibit clause for the invented glass pear compass, another player may stamp one mask objection, the ruling shutter hides or reveals a crop, oath tokens score only readable labels, precedent tabs limit style drift, and the verdict trio scores only if three result cards preserve the same invented object across three formats. Readable labels should include Docket Draw, Witness Swap, Objection Stamp, Ruling Shutter, Oath Token, Precedent Tab, Verdict Trio, and Seal Score. Output format: crisp product photo of a harmless fictional tabletop drafting game, semicircular walnut bench, acrylic shutters, paper cards, wax-like score tokens, no people, no hands, no logos, no real brands, no public figures, no copyrighted characters, no political content, no dangerous instructions, no gore, no sexual content, no living artist style imitation.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original adversarial objection-drafting prompt-review game mechanic and prompt generated locally from the Prompt Evidence Hearing concept. No external prompt, article, image, artwork, repository, brand, character, or case-study source was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Original fictional harmless no-people tabletop drafting game with invented glass pear compass result cards only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc666-40db-70e3-82f3-536a08c04124/ig_072228c33ed99f050169ed29b007d08197af01595ffe1380c9.png"
+    },
+    {
+      "title": "Use Case Courtroom: Prompt Evidence Hearing",
+      "caption": "把 GPT Image 2 的复杂提示做成一座无真人的微缩证据听证厅：Brief Docket、Exhibit Seed、Reference Witness、Mask Objection、Crop Ruling、Style Precedent、Caption Oath、Consistency Verdict 和 Source Seal 用证物台、异议章和裁决卡检查生成约束。",
+      "path": "assets/images/185-use-case-courtroom-prompt-evidence-hearing.png",
+      "alt": "Miniature fictional courtroom evidence theater with exhibit turntable, witness cards, objection stamps, ruling shutters, caption oath slips, precedent swatches, verdict thumbnails, and source seals",
+      "width": 1536,
+      "height": 1024,
+      "createdAt": "2026-04-26 04:53:04",
+      "batch": "019dc666-40db-70e3-82f3-536a08c04124",
+      "tags": [
+        "prompt-evidence-hearing",
+        "brief-docket",
+        "exhibit-seed",
+        "reference-witness",
+        "mask-objection",
+        "crop-ruling",
+        "style-precedent",
+        "caption-oath",
+        "consistency-verdict",
+        "source-seal",
+        "batch-019dc666"
+      ],
+      "prompt": "Create a single polished gallery image for a new GPT Image 2 use case titled Use Case Courtroom: Prompt Evidence Hearing. Show a miniature fictional courtroom evidence theater on a neutral studio table, with no people and no political content. This is not a contact sheet, not a 2x3 research board, not a chessboard, not an elevator shaft, not a music box, and not a route map. The room is an open diorama: a central rotating exhibit turntable holds the same invented glass pear compass in three tiny result windows, side benches hold reference-witness cards, a clerk rail holds caption-oath slips, small red mask-objection stamps sit beside transparent crop-ruling shutters, style-precedent swatches hang like legal tabs, and a final consistency-verdict desk uses source-seal wax tags. The mechanism is using GPT Image 2 as an evidence hearing for prompt constraints: the brief enters as a docket, references testify as cards, masks can be objected to, crops receive rulings, captions take an oath for readability, style precedent limits drift, and verdict thumbnails must agree on the same fictional object. Readable labels should include Brief Docket, Exhibit Seed, Reference Witness, Mask Objection, Crop Ruling, Style Precedent, Caption Oath, Consistency Verdict, and Source Seal. Output format: premium macro photograph of a harmless fictional courtroom-like evidence diorama, crisp readable labels, warm walnut benches, frosted acrylic rulings, no hands, no logos, no real brands, no real people, no public figures, no copyrighted characters, no dangerous instructions, no gore, no sexual content, no living artist style imitation.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original courtroom evidence-hearing prompt-constraint concept and prompt generated locally from existing-gallery gap analysis. Official web research was used only for broad capability awareness; no external prompt, article, image, artwork, repository, brand, character, or case-study source shaped this concept."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Original fictional harmless no-people evidence-hearing diorama with invented glass pear compass result windows only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc666-40db-70e3-82f3-536a08c04124/ig_072228c33ed99f050169ed291af814819780ca82ac1be39540.png"
+    },
+    {
       "title": "Derived Play: Lift Queue Draft",
       "caption": "从电梯调度井派生出的竖向滑轨玩法：Call Draft、Capacity Token、Express Skip、Door Mask、Bell Caption、Shaft Crop、Cabin Style、Stop Ticket 和 Queue Score 把提示调度变成限载、跳停、开门与停靠票计分。",
       "path": "assets/images/182-derived-play-lift-queue-draft.png",

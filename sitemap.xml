@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/184-derived-play-objection-draft.png</image:loc>
+      <image:title>Derived Play: Objection Draft</image:title>
+      <image:caption>Create a single polished gallery image for a derived play concept titled Derived Play: Objection Draft. It should be a different artifact from the evidence theater: show a compact tabletop drafting game shaped like a semicircular hearing b...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/185-use-case-courtroom-prompt-evidence-hearing.png</image:loc>
+      <image:title>Use Case Courtroom: Prompt Evidence Hearing</image:title>
+      <image:caption>Create a single polished gallery image for a new GPT Image 2 use case titled Use Case Courtroom: Prompt Evidence Hearing. Show a miniature fictional courtroom evidence theater on a neutral studio table, with no people and no political cont...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/182-derived-play-lift-queue-draft.png</image:loc>
       <image:title>Derived Play: Lift Queue Draft</image:title>
       <image:caption>Create a single polished gallery image for a derived play concept titled Derived Play: Lift Queue Draft. It should be a different artifact from the dispatch shaft: show a compact vertical tabletop puzzle with four sliding glass elevator ca...</image:caption>
@@ -897,6 +907,28 @@
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/184-derived-play-objection-draft/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/184-derived-play-objection-draft.png</image:loc>
+      <image:title>Derived Play: Objection Draft</image:title>
+      <image:caption>Create a single polished gallery image for a derived play concept titled Derived Play: Objection Draft. It should be a different artifact from the evidence theater: show a compact tabletop drafting game shaped like a semicircular hearing b...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/185-use-case-courtroom-prompt-evidence-hearing/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/185-use-case-courtroom-prompt-evidence-hearing.png</image:loc>
+      <image:title>Use Case Courtroom: Prompt Evidence Hearing</image:title>
+      <image:caption>Create a single polished gallery image for a new GPT Image 2 use case titled Use Case Courtroom: Prompt Evidence Hearing. Show a miniature fictional courtroom evidence theater on a neutral studio table, with no people and no political cont...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/182-derived-play-lift-queue-draft/</loc>
