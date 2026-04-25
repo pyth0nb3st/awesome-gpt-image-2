@@ -2,6 +2,8 @@ import { readFile, writeFile } from "node:fs/promises";
 import {
   SITE_URL,
   REPO_URL,
+  DRILL_URL,
+  VIBEART_URL,
   absoluteUrl,
   buildSeoDescription,
   buildJsonLd,
@@ -516,6 +518,8 @@ const html = `<!doctype html>
           <h1>Awesome GPT Image 2 Prompts & Use Cases</h1>
           <p class="summary">${escapeHtml(seoDescription)} Every card includes the generated image, searchable tags, and the full prompt text.</p>
           <nav class="hero-links" aria-label="Project links">
+            <a href="${DRILL_URL}">Drill</a>
+            <a href="${VIBEART_URL}">VibeArt</a>
             <a href="${REPO_URL}">GitHub repo</a>
             <a href="gallery.json">Raw gallery JSON</a>
             <a href="sitemap.xml">Sitemap</a>
@@ -547,6 +551,7 @@ ${cards}
 
       <footer>
         <span>Built from Codex image-generation session logs. Images, prompts, tags, and metadata are preserved in this repository for static hosting and search indexing.</span>
+        <span>Creator tools: <a href="${DRILL_URL}">Drill</a> for deeper reading workflows and <a href="${VIBEART_URL}">VibeArt</a> for AI visual creation.</span>
         <span>GitHub source: <a href="${REPO_URL}">${REPO_URL}</a></span>
         <span>SEO basics included: canonical URL, descriptive image alt text, structured data, sitemap.xml, robots.txt, and prompt text in server-rendered HTML.</span>
       </footer>
@@ -675,6 +680,7 @@ ${seoDescription}
 
 Primary URL: ${SITE_URL}
 Repository: ${REPO_URL}
+Creator tools: ${DRILL_URL} and ${VIBEART_URL}
 Gallery JSON: ${SITE_URL}gallery.json
 Sitemap: ${SITE_URL}sitemap.xml
 

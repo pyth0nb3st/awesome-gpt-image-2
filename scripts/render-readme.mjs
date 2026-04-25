@@ -2,6 +2,8 @@ import { readFile, writeFile } from "node:fs/promises";
 import {
   SITE_URL,
   REPO_URL,
+  DRILL_URL,
+  VIBEART_URL,
   buildSeoDescription,
   cleanTitle,
   displayTags,
@@ -53,7 +55,8 @@ const readme = `# Awesome GPT Image 2
 > ${seoDescription}
 
 **Live gallery:** ${SITE_URL}  
-**Repository:** ${REPO_URL}
+**Repository:** ${REPO_URL}  
+**Creator tools:** [Drill](${DRILL_URL}) · [VibeArt](${VIBEART_URL})
 
 This is an awesome-style archive for GPT Image 2 / GPT Image prompt exploration. It is built for discoverability: every example includes the generated image, reusable tags, dimensions, and the full prompt text in both the static site and this README.
 
@@ -62,6 +65,7 @@ This is an awesome-style archive for GPT Image 2 / GPT Image prompt exploration.
 - [Why This Exists](#why-this-exists)
 - [Popular Tags](#popular-tags)
 - [Gallery Features](#gallery-features)
+- [Creator Tools](#creator-tools)
 - [Prompt Gallery](#prompt-gallery)
 - [Rebuild](#rebuild)
 - [Notes](#notes)
@@ -86,6 +90,11 @@ ${tagIndex}
 - **Image SEO:** descriptive filenames, alt text, captions, and full prompt text near every image.
 - **Prompt preservation:** prompts are recovered from Codex image-generation session logs and stored in \`gallery.json\`.
 - **GitHub Pages ready:** the public site is served from the repository root.
+
+## Creator Tools
+
+- [Drill](${DRILL_URL}) helps readers drill into dense articles, papers, and technical ideas.
+- [VibeArt](${VIBEART_URL}) is an AI visual creation workspace for turning prompts and concepts into usable visual assets.
 
 ## Prompt Gallery
 

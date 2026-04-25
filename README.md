@@ -1,14 +1,15 @@
 # Awesome GPT Image 2
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-live-2ea44f)](https://pyth0nb3st.github.io/awesome-gpt-image-2/)
-[![Images](https://img.shields.io/badge/images-94-0f766e)](https://pyth0nb3st.github.io/awesome-gpt-image-2/)
-[![Prompts](https://img.shields.io/badge/prompts-94-a34716)](https://pyth0nb3st.github.io/awesome-gpt-image-2/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-live-2ea44f)](https://gptimg2.best/)
+[![Images](https://img.shields.io/badge/images-94-0f766e)](https://gptimg2.best/)
+[![Prompts](https://img.shields.io/badge/prompts-94-a34716)](https://gptimg2.best/)
 [![License](https://img.shields.io/badge/license-research%20archive-lightgrey)](#notes)
 
 > Browse 94 GPT Image 2 prompt examples with generated images, reusable tags, image-generation use cases, and prompt text for product mockups, UI, games, diagrams, and storytelling.
 
-**Live gallery:** https://pyth0nb3st.github.io/awesome-gpt-image-2/  
-**Repository:** https://github.com/pyth0nb3st/awesome-gpt-image-2
+**Live gallery:** https://gptimg2.best/  
+**Repository:** https://github.com/pyth0nb3st/awesome-gpt-image-2  
+**Creator tools:** [Drill](https://drillso.com/) · [VibeArt](https://vibeart.app/)
 
 This is an awesome-style archive for GPT Image 2 / GPT Image prompt exploration. It is built for discoverability: every example includes the generated image, reusable tags, dimensions, and the full prompt text in both the static site and this README.
 
@@ -17,6 +18,7 @@ This is an awesome-style archive for GPT Image 2 / GPT Image prompt exploration.
 - [Why This Exists](#why-this-exists)
 - [Popular Tags](#popular-tags)
 - [Gallery Features](#gallery-features)
+- [Creator Tools](#creator-tools)
 - [Prompt Gallery](#prompt-gallery)
 - [Rebuild](#rebuild)
 - [Notes](#notes)
@@ -76,6 +78,11 @@ Most prompt examples disappear into chat history. This repo turns image-generati
 - **Image SEO:** descriptive filenames, alt text, captions, and full prompt text near every image.
 - **Prompt preservation:** prompts are recovered from Codex image-generation session logs and stored in `gallery.json`.
 - **GitHub Pages ready:** the public site is served from the repository root.
+
+## Creator Tools
+
+- [Drill](https://drillso.com/) helps readers drill into dense articles, papers, and technical ideas.
+- [VibeArt](https://vibeart.app/) is an AI visual creation workspace for turning prompts and concepts into usable visual assets.
 
 ## Prompt Gallery
 

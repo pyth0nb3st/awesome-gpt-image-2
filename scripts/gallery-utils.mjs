@@ -1,5 +1,7 @@
-export const SITE_URL = "https://pyth0nb3st.github.io/awesome-gpt-image-2/";
+export const SITE_URL = "https://gptimg2.best/";
 export const REPO_URL = "https://github.com/pyth0nb3st/awesome-gpt-image-2";
+export const DRILL_URL = "https://drillso.com/";
+export const VIBEART_URL = "https://vibeart.app/";
 
 const hiddenTagPattern = /^(batch-|historical-import$|prompt-recovered$|prompt-missing$)/;
 

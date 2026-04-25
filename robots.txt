@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://pyth0nb3st.github.io/awesome-gpt-image-2/sitemap.xml
+Sitemap: https://gptimg2.best/sitemap.xml
