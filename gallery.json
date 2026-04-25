@@ -18,6 +18,74 @@
   },
   "images": [
     {
+      "title": "Derived Play: Droplet Valve Maze",
+      "caption": "从微流控芯片派生出的透明阀门迷宫：玩家 Prime Drop、Valve Veto、Blend Toll、Pause Gate、Split Bet、Backflush Fix，最后用 Crystal Score 冻结安全结果。",
+      "path": "assets/images/158-derived-play-droplet-valve-maze.png",
+      "alt": "Transparent acrylic droplet valve maze puzzle dock with colored syrup tokens and outlet tiles",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-26 00:12:35",
+      "batch": "019dc565-e0da-7373-9088-39b81b2629e5",
+      "tags": [
+        "droplet-valve-maze",
+        "prime-drop",
+        "valve-veto",
+        "blend-toll",
+        "pause-gate",
+        "split-bet",
+        "backflush-fix",
+        "crystal-score",
+        "batch-019dc565"
+      ],
+      "prompt": "Create one polished original derived-play concept image for a public GPT Image 2 gallery.\n\nVisible title, small and clean: \"Derived Play: Droplet Valve Maze\"\n\nOutput format: a close-up oblique photograph of a transparent acrylic maze cartridge clipped into a small fictional puzzle dock, 16:9 landscape. It should be playable and tactile, with thumb wheels, sliding valve tabs, timed gate dials, harmless colored syrup droplets, score reservoirs, and removable outlet tiles. It must not look like a 2x3 research board, contact sheet, dashboard, poster grid, tabletop board game, wind tunnel, hotel cabinet, greenhouse, chef counter, seismograph roll, sand tray, mosaic wall, receipt, patchbay, lantern, planetarium, proof press, loom, weather station, film stage, pinball, kite route, card spread, or the same static lab-chip diagram.\n\nDerived from the Prompt Microfluidics use-case: players route one prompt droplet through a valve maze to win by preserving identity while changing only approved properties.\n\nShow seven playable rule mechanisms with concise etched labels:\n- Prime Drop: choose one subject droplet and place it at the inlet.\n- Valve Veto: close one channel to block an unwanted detail.\n- Blend Toll: pay a color bead to merge atmosphere without losing shape.\n- Pause Gate: delay the droplet so tiny text can settle and become readable.\n- Split Bet: choose square, tall, or wide outlet tile before seeing the final path.\n- Backflush Fix: reverse one mistake without disturbing locked chambers.\n- Crystal Score: freeze the final safe result as a colored crystal token in the score rail.\n\nComposition: the maze path should spiral through transparent channels from lower left to upper right, with players implied only by empty tool slots and movable controls, no hands or people. Include one score rail with crystal tokens and a small fictional rule strip. Labels should be short and sparse.\n\nStyle/medium: premium macro product photography mixed with clean editorial 3D illustration; acrylic, glass, rubber seals, chrome pins, colored syrup, tiny engraved ticks, soft shadows, crisp highlights, shallow depth of field.\n\nSafety and rights constraints: all objects, labels, institutions, data, and materials are fictional. No real brands, trademarks, logos, celebrities, real people, copyrighted characters, living-artist style imitation, political persuasion, parties, elections, public political figures, sexual content, nudity, harmful instructions, weapons, gore, or graphic violence. No biological samples, pathogens, medical claims, or operational wet-lab instructions. High detail, no watermark, no QR code.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original valve-maze play mechanic and prompt generated locally. No external prompt, image, article, case study, repository, or artwork source was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "reviewNote": "Original fictional acrylic puzzle concept using harmless colored syrup; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful instructions, biological samples, medical claims, weapons, gore, and graphic violence."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc565-e0da-7373-9088-39b81b2629e5/ig_031f597034ea8f8e0169ece7700b408195bec8a67614185e84.png"
+    },
+    {
+      "title": "Use Case Chip: Prompt Microfluidics",
+      "caption": "把 GPT Image 2 的提示实验做成透明微流控芯片：用 Seed Droplet、Reference Valve、Mask Gate、Palette Merge、Text Window、Viewport Splitter 和 Provenance Dye 观察路由、混合、隔离、文字、比例出口与来源标记。",
+      "path": "assets/images/159-use-case-chip-prompt-microfluidics.png",
+      "alt": "Transparent microfluidic chip routing colored prompt droplets through GPT Image 2 use-case test stations",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-26 00:10:25",
+      "batch": "019dc565-e0da-7373-9088-39b81b2629e5",
+      "tags": [
+        "prompt-microfluidics",
+        "seed-droplet",
+        "reference-valve",
+        "mask-gate",
+        "palette-merge",
+        "text-window",
+        "viewport-splitter",
+        "provenance-dye",
+        "batch-019dc565"
+      ],
+      "prompt": "Create one polished original GPT Image 2 use-case concept image for a public gallery.\n\nVisible title, small and clean: \"Use Case Chip: Prompt Microfluidics\"\n\nOutput format: a single top-down transparent microfluidic chip photographed on a matte white lab table, 16:9 landscape. It must read as one continuous glass chip with channels, valves, inert colored syrup droplets, tiny etched windows, calibration beads, and safe fictional labels. Do not use a 2x3 research board, contact sheet, dashboard, poster grid, tabletop board game, wind tunnel, hotel cabinet, greenhouse, chef counter, seismograph paper, sand tray, mosaic wall, receipt, patchbay, lantern, planetarium, proof press, loom, weather station, film stage, pinball, kite route, or card spread.\n\nCore idea: GPT Image 2 prompt experiments are routed like harmless colored droplets through a visual lab-on-a-chip. Show seven distinct use-case stations along branching microchannels:\n- Seed Droplet: a sparse fictional prompt becomes a stable subject droplet.\n- Reference Valve: a tiny reference icon bead joins without overpowering the subject.\n- Mask Gate: one safe fictional detail is isolated and changed inside a gated chamber.\n- Palette Merge: two mood-color droplets mix into a controlled gradient sample.\n- Text Window: a short etched label is tested for legibility under a magnifier lens.\n- Viewport Splitter: the same droplet exits through square, tall, and wide outlet windows.\n- Provenance Dye: a final harmless dye band marks source, rights, and safety checks.\n\nVisual requirements: real-looking glass, clean refractions, colored but non-biological liquid, etched labels no longer than two words, miniature arrows embossed into channels, tiny inspection lenses and measurement ticks. Make the evaluation angle clear: routing control, mixing behavior, isolation accuracy, label readability, aspect-ratio exits, and provenance stamping.\n\nSafety and rights constraints: all objects, labels, institutions, data, and materials are fictional. No real brands, trademarks, logos, celebrities, real people, copyrighted characters, living-artist style imitation, political persuasion, parties, elections, public political figures, sexual content, nudity, harmful instructions, weapons, gore, or graphic violence. No biological samples, pathogens, medical claims, or operational wet-lab instructions. High detail, no watermark, no QR code.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original microfluidic-chip concept and prompt generated locally. No external prompt, image, article, case study, repository, or artwork source was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "reviewNote": "Original fictional inert-fluid chip concept; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful instructions, biological samples, medical claims, weapons, gore, and graphic violence."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc565-e0da-7373-9088-39b81b2629e5/ig_031f597034ea8f8e0169ece730cf2c8195aab62c9a12107349.png"
+    },
+    {
       "title": "Derived Play: Kite Line League",
       "caption": "从风洞用例派生出的竖向航线游戏：玩家抽发射结、竞价张力线轴、扭转阵风 token、交换尾翼、过轮廓漂移点、读短字飘带，最后锁定降落环。",
       "path": "assets/images/156-derived-play-kite-line-league.png",

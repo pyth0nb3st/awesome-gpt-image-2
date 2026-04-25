@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/158-derived-play-droplet-valve-maze.png": {
+      "path": "assets/thumbs/158-derived-play-droplet-valve-maze.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/159-use-case-chip-prompt-microfluidics.png": {
+      "path": "assets/thumbs/159-use-case-chip-prompt-microfluidics.jpg",
+      "width": 768,
+      "height": 432
+    },
     "assets/images/156-derived-play-kite-line-league.png": {
       "path": "assets/thumbs/156-derived-play-kite-line-league.jpg",
       "width": 768,
