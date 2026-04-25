@@ -19,19 +19,19 @@
   "images": [
     {
       "title": "a second polished public-gallery image that derives a playable original mechanic fro",
-      "caption": "历史生成图，批次 019dc51c-a1f9-79d1-87fb-795fc37feb98，生成时间 2026-04-25 22:53:26。",
-      "path": "assets/images/148-a-second-polished-public-gallery-image-that-derives-a-playable-o.png",
-      "alt": "Generated image ig_0bff2626db9fa1820169ecd519e3248194a96f84819cd0c487",
+      "caption": "历史生成图，批次 019dc51c-a1f9-79d1-87fb-795fc37feb98，生成时间 2026-04-25 22:58:02。",
+      "path": "assets/images/150-a-second-polished-public-gallery-image-that-derives-a-playable-o.png",
+      "alt": "Generated image ig_0bff2626db9fa1820169ecd629b93481949dcf0b8029cd90b0",
       "width": 1672,
       "height": 941,
-      "createdAt": "2026-04-25 22:53:26",
+      "createdAt": "2026-04-25 22:58:02",
       "batch": "019dc51c-a1f9-79d1-87fb-795fc37feb98",
       "tags": [
         "historical-import",
         "prompt-recovered",
         "batch-019dc51c"
       ],
-      "prompt": "Create a second polished public-gallery image that derives a playable original mechanic from the cassette prompt-tape use case.\n\nTitle text visible, small and legible: \"Derived Play: Splice Loop League\"\n\nOutput format: one playable magnetic-tape loop challenge table, landscape 16:9, photographed from a clean overhead oblique angle. The table has a single continuous cassette tape loop stretched through small guide rollers, transparent crop windows, splice gates, rewind dials, timing metronomes, eraser shields, and scoring clips. It must look like a game people can play with physical tokens, but do not show hands or real people. It must not be a 2x3 board, not a card spread, not a poster, not a grid, not a seismograph trace race wall, not a sand maze, not an ice-core relay rack, not a mosaic map, not a receipt conveyor, not a patch cable cabinet, not a loom, not a printshop, not a planetarium, not a pinball table, not a film-stage relay.\n\nGameplay mechanics shown around the continuous tape loop with concise labels:\n1. \"Spool Draft\" - players choose raw fictional prompt fragments from two reel bins.\n2. \"Wow Check\" - a wobble gauge scores whether reference influence is visible but not copied.\n3. \"Splice Lock\" - one edit token can replace a local tape segment while neighbors must still align.\n4. \"Beat Caption\" - a timing wheel rewards short invented text that appears readable in one frame.\n5. \"Window Race\" - crop sliders force portrait, square, and wide outputs from the same tape loop.\n6. \"Clean Erase\" - safety shields convert any brand, celebrity, copyrighted character, or political cue into generic fictional material before scoring.\n\nMake the visual rules clear through objects, arrows, route marks, score tabs, and tiny sample thumbnails. Style: tactile tabletop prototype, transparent plastic, warm desk lighting, brushed metal rollers, colored acetate tokens, tiny paper labels, crisp legible text, polished editorial realism. No real brands, no logos, no public figures, no celebrity likenesses, no copyrighted characters, no political parties/elections, no harmful instructions, no sexual content, no nudity, no graphic violence. Entire concept must be original and source-free.",
+      "prompt": "Create a second polished public-gallery image that derives a playable original mechanic from the tasting-menu prompt use case.\n\nVisible title, small and clean: \"Derived Play: Palate Pass League\"\n\nOutput format: one playable chef's-counter tasting game, landscape 16:9, clean overhead oblique photo. A crescent tasting counter holds a continuous service route of ceramic spoons, sealed aroma domes, flavor tokens, rinse cups, menu tickets, and small score clips. It should look like a tactile party game about calibrating fictional image prompts through sensory tradeoffs. Do not show hands or real people. It must be one coherent physical game object, not a grid, not a 2x3 board, not a card spread, not a poster, not a paper-roll race, not a seismograph wall, not a sand maze, not an ice-core rack, not a mosaic game, not a receipt conveyor, not a cassette loop table, not a patch cable cabinet, not a loom, not a printshop, not a planetarium, not a pinball table, not a film-stage relay.\n\nGameplay rules visible as tiny labels and object groupings:\n- \"Season First\" - pick one subject spoon before any mood tokens are allowed.\n- \"Acid Swap\" - trade exactly one emotion token to change lighting without changing the subject.\n- \"Crunch Bet\" - wager texture chips on which generated surface will read from far away.\n- \"Bitter Blind\" - cover details with a black tasting lid and score only the silhouette.\n- \"Umami Blend\" - combine three color droplets without making a muddy palette.\n- \"Mint Read\" - place one invented two-syllable word tile; score only if it stays readable.\n- \"Finish Echo\" - carry one miniature memory charm to keep continuity across rounds.\n- \"Rinse Gate\" - before scoring, wash any brand, celebrity, copyrighted character, or political cue into generic fictional material.\n\nMake the rules understandable through a route line, spoon positions, tokens, little score flags, and sample thumbnail tiles. Visual style: polished editorial tabletop realism, ceramic whites, jewel-toned flavor tokens, frosted glass domes, warm bar lighting, crisp micro typography, playful and premium. No real restaurants, no real brands, no logos, no public figures, no celebrity likenesses, no copyrighted characters, no political parties/elections, no harmful instructions, no sexual content, no nudity, no graphic violence. Entire concept is original and source-free.",
       "provenance": {
         "status": "original_generated",
         "origin": "local_codex_revised_prompt",
@@ -49,23 +49,23 @@
         ],
         "reviewNote": "Automation is instructed to avoid political, harmful, sexual, explicit, and graphic-violence content before publishing."
       },
-      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc51c-a1f9-79d1-87fb-795fc37feb98/ig_0bff2626db9fa1820169ecd519e3248194a96f84819cd0c487.png"
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc51c-a1f9-79d1-87fb-795fc37feb98/ig_0bff2626db9fa1820169ecd629b93481949dcf0b8029cd90b0.png"
     },
     {
-      "title": "a single polished public-gallery image for an original GPT Image 2 use-case concept",
-      "caption": "历史生成图，批次 019dc51c-a1f9-79d1-87fb-795fc37feb98，生成时间 2026-04-25 22:52:11。",
-      "path": "assets/images/149-a-single-polished-public-gallery-image-for-an-original-gpt-image.png",
-      "alt": "Generated image ig_0bff2626db9fa1820169ecd4882b748194a219abb7494d6ad6",
+      "title": "one polished public-gallery image for an original GPT Image 2 use-case concept",
+      "caption": "历史生成图，批次 019dc51c-a1f9-79d1-87fb-795fc37feb98，生成时间 2026-04-25 22:56:43。",
+      "path": "assets/images/151-one-polished-public-gallery-image-for-an-original-gpt-image-2-us.png",
+      "alt": "Generated image ig_0bff2626db9fa1820169ecd5e72b0c8194b3fdae37d533b993",
       "width": 1672,
       "height": 941,
-      "createdAt": "2026-04-25 22:52:11",
+      "createdAt": "2026-04-25 22:56:43",
       "batch": "019dc51c-a1f9-79d1-87fb-795fc37feb98",
       "tags": [
         "historical-import",
         "prompt-recovered",
         "batch-019dc51c"
       ],
-      "prompt": "Create a single polished public-gallery image for an original GPT Image 2 use-case concept.\n\nTitle text visible, small and legible: \"Use Case Cassette: Prompt Tape Lab\"\n\nOutput format: one continuous exploded cassette-tape editing workbench, landscape 16:9, photographed from a clean three-quarter overhead angle. The central object is a transparent fictional audio cassette opened like an exploded technical model: two reels of brown magnetic tape, tiny labeled splice tabs, crop gates, safe-fiction eraser shields, caption timing windows, and small thumbnail proof strips along the tape path. It must read as one coherent physical artifact, not a 2x3 board, not a card spread, not a poster, not a grid, not a seismograph paper roll, not a sand tray, not an ice-core rack, not a mosaic wall, not a receipt, not a patchbay, not a loom, not a printshop, not a planetarium, not a film stage.\n\nUse-case mechanics shown as six distinct stations embedded along the tape path, each with tiny concise labels:\n1. \"Brief Spool\" - turning a messy fictional prompt into a clear visual brief.\n2. \"Reference Wow\" - checking how a reference image bends style without copying identity.\n3. \"Mask Splice\" - replacing one local section while preserving surrounding tape continuity.\n4. \"Caption Timing\" - testing whether short invented text stays legible at different frame moments.\n5. \"Format Speed\" - routing one idea through portrait, square, and wide output windows.\n6. \"Drift Erase\" - safely fictionalizing brands, celebrities, copyrighted characters, and political cues into generic invented alternatives.\n\nVisual style: tactile macro product photography mixed with precise editorial diagram design, warm neutral desk, brushed aluminum cassette parts, transparent plastic shell, colored paper splice markers, tiny inspection loupe, gentle shadows, crisp legible micro-labels, sophisticated but playful. No real brands or logos anywhere; all marks are fictional. No real people, no celebrity likeness, no copyrighted characters, no political parties, no election material, no harmful instructions, no sexual content, no nudity, no graphic violence. Keep it original and source-free.",
+      "prompt": "Create one polished public-gallery image for an original GPT Image 2 use-case concept.\n\nVisible title, small and clean: \"Use Case Tasting Menu: Prompt Flavor Flight\"\n\nMake the output a single cinematic 16:9 tabletop tasting counter, not a diagram board. A curved stone bar holds eight tiny fictional tasting spoons, aroma domes, texture tiles, and small menu tickets. Each spoon represents a different way to calibrate an image prompt through sensory language, using food-tasting metaphors only as harmless visual notation. The entire scene is one continuous chef's-counter artifact with shallow depth of field, not a grid, not a 2x3 study board, not a card spread, not a poster, not a machine console, not a paper roll, not a sand tray, not an ice rack, not a mosaic wall, not a receipt, not a cassette deck, not a patchbay, not a loom, not a printshop, not a planetarium, not a film stage.\n\nShow these original use cases as physical tasting objects with tiny concise labels:\n- \"Subject Salt\" - the core object is made unmistakable before style is added.\n- \"Mood Acid\" - lighting and emotion are adjusted with a bright flavor note.\n- \"Texture Crunch\" - surface detail is checked through touch-like samples.\n- \"Silhouette Bitter\" - the shape remains recognizable even when details are reduced.\n- \"Color Umami\" - palette harmony is tuned with small glaze droplets.\n- \"Legibility Mint\" - very short invented words stay fresh and readable.\n- \"Memory Finish\" - a previous fictional scene leaves a consistent aftertaste.\n- \"Rights Rinse\" - any brand, celebrity, copyrighted character, or political cue is washed into generic invented material.\n\nVisual style: high-end editorial food photography plus precise product-design labeling, warm task lighting, ceramic spoons, translucent cloches, tiny printed menu flags, colored sauces used as abstract prompt notes, crisp readable labels, playful and sophisticated. No real restaurant, no real brand, no logos, no public figures, no celebrity likenesses, no copyrighted characters, no political parties or elections, no harmful instructions, no sexual content, no nudity, no graphic violence. Entire concept is original and source-free.",
       "provenance": {
         "status": "original_generated",
         "origin": "local_codex_revised_prompt",
@@ -83,7 +83,7 @@
         ],
         "reviewNote": "Automation is instructed to avoid political, harmful, sexual, explicit, and graphic-violence content before publishing."
       },
-      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc51c-a1f9-79d1-87fb-795fc37feb98/ig_0bff2626db9fa1820169ecd4882b748194a219abb7494d6ad6.png"
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc51c-a1f9-79d1-87fb-795fc37feb98/ig_0bff2626db9fa1820169ecd5e72b0c8194b3fdae37d533b993.png"
     },
     {
       "title": "Derived Play: Tremor Trace Rally",

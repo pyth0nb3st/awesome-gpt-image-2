@@ -40,20 +40,20 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 
 ### Top Themes
 
-- `product-mockup` (84)
+- `product-mockup` (85)
 - `typography` (80)
 - `game-design` (69)
 - `ui-mockup` (63)
-- `storytelling` (55)
-- `lighting-weather` (36)
+- `storytelling` (56)
+- `lighting-weather` (37)
 - `infographic` (35)
-- `worldbuilding` (34)
-- `photoreal` (33)
+- `photoreal` (35)
+- `worldbuilding` (33)
 - `education` (23)
 - `interior-design` (23)
 - `material-study` (19)
-- `operations` (17)
 - `evaluation` (16)
+- `operations` (16)
 - `productivity-visual` (15)
 - `stylized-concept` (15)
 - `illustration-story` (9)
@@ -107,20 +107,20 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 <details>
 <summary>All generated tags</summary>
 
-- `product-mockup` (84)
+- `product-mockup` (85)
 - `typography` (80)
 - `game-design` (69)
 - `ui-mockup` (63)
-- `storytelling` (55)
-- `lighting-weather` (36)
+- `storytelling` (56)
+- `lighting-weather` (37)
 - `infographic` (35)
-- `worldbuilding` (34)
-- `photoreal` (33)
+- `photoreal` (35)
+- `worldbuilding` (33)
 - `education` (23)
 - `interior-design` (23)
 - `material-study` (19)
-- `operations` (17)
 - `evaluation` (16)
+- `operations` (16)
 - `productivity-visual` (15)
 - `stylized-concept` (15)
 - `illustration-story` (9)
@@ -441,62 +441,66 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 
 ### 001. Second polished public-gallery image that derives a playable original mechanic fro
 
-![Second polished public-gallery image that derives a playable original mechanic fro](assets/images/148-a-second-polished-public-gallery-image-that-derives-a-playable-o.png)
+![Second polished public-gallery image that derives a playable original mechanic fro](assets/images/150-a-second-polished-public-gallery-image-that-derives-a-playable-o.png)
 
-**Tags:** `evaluation` `game-design` `material-study` `operations` `product-mockup` `storytelling` `typography` `worldbuilding`
+**Tags:** `evaluation` `game-design` `material-study` `operations` `photoreal` `product-mockup` `storytelling` `typography`
 
-**Prompt excerpt:** Create a second polished public-gallery image that derives a playable original mechanic from the cassette prompt-tape use case. Title text visible, small and legible: "Derived Play: Splice Loop League" Output format: one playable magnetic-...
+**Prompt excerpt:** Create a second polished public-gallery image that derives a playable original mechanic from the tasting-menu prompt use case. Visible title, small and clean: "Derived Play: Palate Pass League" Output format: one playable chef's-counter ta...
 
 <details>
 <summary>Full prompt</summary>
 
 ```text
-Create a second polished public-gallery image that derives a playable original mechanic from the cassette prompt-tape use case.
+Create a second polished public-gallery image that derives a playable original mechanic from the tasting-menu prompt use case.
 
-Title text visible, small and legible: "Derived Play: Splice Loop League"
+Visible title, small and clean: "Derived Play: Palate Pass League"
 
-Output format: one playable magnetic-tape loop challenge table, landscape 16:9, photographed from a clean overhead oblique angle. The table has a single continuous cassette tape loop stretched through small guide rollers, transparent crop windows, splice gates, rewind dials, timing metronomes, eraser shields, and scoring clips. It must look like a game people can play with physical tokens, but do not show hands or real people. It must not be a 2x3 board, not a card spread, not a poster, not a grid, not a seismograph trace race wall, not a sand maze, not an ice-core relay rack, not a mosaic map, not a receipt conveyor, not a patch cable cabinet, not a loom, not a printshop, not a planetarium, not a pinball table, not a film-stage relay.
+Output format: one playable chef's-counter tasting game, landscape 16:9, clean overhead oblique photo. A crescent tasting counter holds a continuous service route of ceramic spoons, sealed aroma domes, flavor tokens, rinse cups, menu tickets, and small score clips. It should look like a tactile party game about calibrating fictional image prompts through sensory tradeoffs. Do not show hands or real people. It must be one coherent physical game object, not a grid, not a 2x3 board, not a card spread, not a poster, not a paper-roll race, not a seismograph wall, not a sand maze, not an ice-core rack, not a mosaic game, not a receipt conveyor, not a cassette loop table, not a patch cable cabinet, not a loom, not a printshop, not a planetarium, not a pinball table, not a film-stage relay.
 
-Gameplay mechanics shown around the continuous tape loop with concise labels:
-1. "Spool Draft" - players choose raw fictional prompt fragments from two reel bins.
-2. "Wow Check" - a wobble gauge scores whether reference influence is visible but not copied.
-3. "Splice Lock" - one edit token can replace a local tape segment while neighbors must still align.
-4. "Beat Caption" - a timing wheel rewards short invented text that appears readable in one frame.
-5. "Window Race" - crop sliders force portrait, square, and wide outputs from the same tape loop.
-6. "Clean Erase" - safety shields convert any brand, celebrity, copyrighted character, or political cue into generic fictional material before scoring.
+Gameplay rules visible as tiny labels and object groupings:
+- "Season First" - pick one subject spoon before any mood tokens are allowed.
+- "Acid Swap" - trade exactly one emotion token to change lighting without changing the subject.
+- "Crunch Bet" - wager texture chips on which generated surface will read from far away.
+- "Bitter Blind" - cover details with a black tasting lid and score only the silhouette.
+- "Umami Blend" - combine three color droplets without making a muddy palette.
+- "Mint Read" - place one invented two-syllable word tile; score only if it stays readable.
+- "Finish Echo" - carry one miniature memory charm to keep continuity across rounds.
+- "Rinse Gate" - before scoring, wash any brand, celebrity, copyrighted character, or political cue into generic fictional material.
 
-Make the visual rules clear through objects, arrows, route marks, score tabs, and tiny sample thumbnails. Style: tactile tabletop prototype, transparent plastic, warm desk lighting, brushed metal rollers, colored acetate tokens, tiny paper labels, crisp legible text, polished editorial realism. No real brands, no logos, no public figures, no celebrity likenesses, no copyrighted characters, no political parties/elections, no harmful instructions, no sexual content, no nudity, no graphic violence. Entire concept must be original and source-free.
+Make the rules understandable through a route line, spoon positions, tokens, little score flags, and sample thumbnail tiles. Visual style: polished editorial tabletop realism, ceramic whites, jewel-toned flavor tokens, frosted glass domes, warm bar lighting, crisp micro typography, playful and premium. No real restaurants, no real brands, no logos, no public figures, no celebrity likenesses, no copyrighted characters, no political parties/elections, no harmful instructions, no sexual content, no nudity, no graphic violence. Entire concept is original and source-free.
 ```
 
 </details>
 
-### 002. Single polished public-gallery image for an original GPT Image 2 use-case concept
+### 002. One polished public-gallery image for an original GPT Image 2 use-case concept
 
-![Single polished public-gallery image for an original GPT Image 2 use-case concept](assets/images/149-a-single-polished-public-gallery-image-for-an-original-gpt-image.png)
+![One polished public-gallery image for an original GPT Image 2 use-case concept](assets/images/151-one-polished-public-gallery-image-for-an-original-gpt-image-2-us.png)
 
-**Tags:** `infographic` `material-study` `operations` `sound-to-scene` `typography`
+**Tags:** `infographic` `lighting-weather` `material-study` `photoreal` `product-mockup` `sound-to-scene` `storytelling` `typography`
 
-**Prompt excerpt:** Create a single polished public-gallery image for an original GPT Image 2 use-case concept. Title text visible, small and legible: "Use Case Cassette: Prompt Tape Lab" Output format: one continuous exploded cassette-tape editing workbench,...
+**Prompt excerpt:** Create one polished public-gallery image for an original GPT Image 2 use-case concept. Visible title, small and clean: "Use Case Tasting Menu: Prompt Flavor Flight" Make the output a single cinematic 16:9 tabletop tasting counter, not a di...
 
 <details>
 <summary>Full prompt</summary>
 
 ```text
-Create a single polished public-gallery image for an original GPT Image 2 use-case concept.
+Create one polished public-gallery image for an original GPT Image 2 use-case concept.
 
-Title text visible, small and legible: "Use Case Cassette: Prompt Tape Lab"
+Visible title, small and clean: "Use Case Tasting Menu: Prompt Flavor Flight"
 
-Output format: one continuous exploded cassette-tape editing workbench, landscape 16:9, photographed from a clean three-quarter overhead angle. The central object is a transparent fictional audio cassette opened like an exploded technical model: two reels of brown magnetic tape, tiny labeled splice tabs, crop gates, safe-fiction eraser shields, caption timing windows, and small thumbnail proof strips along the tape path. It must read as one coherent physical artifact, not a 2x3 board, not a card spread, not a poster, not a grid, not a seismograph paper roll, not a sand tray, not an ice-core rack, not a mosaic wall, not a receipt, not a patchbay, not a loom, not a printshop, not a planetarium, not a film stage.
+Make the output a single cinematic 16:9 tabletop tasting counter, not a diagram board. A curved stone bar holds eight tiny fictional tasting spoons, aroma domes, texture tiles, and small menu tickets. Each spoon represents a different way to calibrate an image prompt through sensory language, using food-tasting metaphors only as harmless visual notation. The entire scene is one continuous chef's-counter artifact with shallow depth of field, not a grid, not a 2x3 study board, not a card spread, not a poster, not a machine console, not a paper roll, not a sand tray, not an ice rack, not a mosaic wall, not a receipt, not a cassette deck, not a patchbay, not a loom, not a printshop, not a planetarium, not a film stage.
 
-Use-case mechanics shown as six distinct stations embedded along the tape path, each with tiny concise labels:
-1. "Brief Spool" - turning a messy fictional prompt into a clear visual brief.
-2. "Reference Wow" - checking how a reference image bends style without copying identity.
-3. "Mask Splice" - replacing one local section while preserving surrounding tape continuity.
-4. "Caption Timing" - testing whether short invented text stays legible at different frame moments.
-5. "Format Speed" - routing one idea through portrait, square, and wide output windows.
-6. "Drift Erase" - safely fictionalizing brands, celebrities, copyrighted characters, and political cues into generic invented alternatives.
+Show these original use cases as physical tasting objects with tiny concise labels:
+- "Subject Salt" - the core object is made unmistakable before style is added.
+- "Mood Acid" - lighting and emotion are adjusted with a bright flavor note.
+- "Texture Crunch" - surface detail is checked through touch-like samples.
+- "Silhouette Bitter" - the shape remains recognizable even when details are reduced.
+- "Color Umami" - palette harmony is tuned with small glaze droplets.
+- "Legibility Mint" - very short invented words stay fresh and readable.
+- "Memory Finish" - a previous fictional scene leaves a consistent aftertaste.
+- "Rights Rinse" - any brand, celebrity, copyrighted character, or political cue is washed into generic invented material.
 
-Visual style: tactile macro product photography mixed with precise editorial diagram design, warm neutral desk, brushed aluminum cassette parts, transparent plastic shell, colored paper splice markers, tiny inspection loupe, gentle shadows, crisp legible micro-labels, sophisticated but playful. No real brands or logos anywhere; all marks are fictional. No real people, no celebrity likeness, no copyrighted characters, no political parties, no election material, no harmful instructions, no sexual content, no nudity, no graphic violence. Keep it original and source-free.
+Visual style: high-end editorial food photography plus precise product-design labeling, warm task lighting, ceramic spoons, translucent cloches, tiny printed menu flags, colored sauces used as abstract prompt notes, crisp readable labels, playful and sophisticated. No real restaurant, no real brand, no logos, no public figures, no celebrity likenesses, no copyrighted characters, no political parties or elections, no harmful instructions, no sexual content, no nudity, no graphic violence. Entire concept is original and source-free.
 ```
 
 </details>

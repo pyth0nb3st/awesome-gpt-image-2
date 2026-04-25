@@ -13,20 +13,20 @@ Dedicated prompt pages: 144
 Dedicated tag pages: 24
 
 Top tags:
-- product-mockup: 84
+- product-mockup: 85
 - typography: 80
 - game-design: 69
 - ui-mockup: 63
-- storytelling: 55
-- lighting-weather: 36
+- storytelling: 56
+- lighting-weather: 37
 - infographic: 35
-- worldbuilding: 34
-- photoreal: 33
+- photoreal: 35
+- worldbuilding: 33
 - education: 23
 - interior-design: 23
 - material-study: 19
-- operations: 17
 - evaluation: 16
+- operations: 16
 - productivity-visual: 15
 - stylized-concept: 15
 - illustration-story: 9
