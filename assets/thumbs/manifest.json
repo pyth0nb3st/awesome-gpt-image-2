@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/193-derived-play-charm-latch-relay.png": {
+      "path": "assets/thumbs/193-derived-play-charm-latch-relay.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/194-use-case-toy-latch-prompt-key-fitting.png": {
+      "path": "assets/thumbs/194-use-case-toy-latch-prompt-key-fitting.jpg",
+      "width": 768,
+      "height": 512
+    },
     "assets/images/191-derived-play-notch-fitting-swap.png": {
       "path": "assets/thumbs/191-derived-play-notch-fitting-swap.jpg",
       "width": 768,

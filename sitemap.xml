@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/193-derived-play-charm-latch-relay.png</image:loc>
+      <image:title>Derived Play: Charm Latch Relay</image:title>
+      <image:caption>Create a single polished public-gallery image titled &quot;Derived Play: Charm Latch Relay&quot;. This is a distinct derived play mode from Prompt Key Fitting, shown as a cooperative tabletop charm-and-latch relay, not the same product diagram and n...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/194-use-case-toy-latch-prompt-key-fitting.png</image:loc>
+      <image:title>Use Case Toy Latch: Prompt Key Fitting</image:title>
+      <image:caption>Create a single polished public-gallery image titled &quot;Use Case Toy Latch: Prompt Key Fitting&quot;. Show one oversized transparent toy diary-latch mechanism on a clean studio workbench, clearly fictional and harmless, not a real security lock,...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/191-derived-play-notch-fitting-swap.png</image:loc>
       <image:title>Derived Play: Notch Fitting Swap</image:title>
       <image:caption>Create a single gallery image titled Derived Play: Notch Fitting Swap. Show a curved miniature dress-form stand used as a magnetic fitting game, not a flat board, not cards, not a grid, not a contact sheet. Players would place paper patter...</image:caption>
@@ -937,6 +947,28 @@
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/193-derived-play-charm-latch-relay/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/193-derived-play-charm-latch-relay.png</image:loc>
+      <image:title>Derived Play: Charm Latch Relay</image:title>
+      <image:caption>Create a single polished public-gallery image titled &quot;Derived Play: Charm Latch Relay&quot;. This is a distinct derived play mode from Prompt Key Fitting, shown as a cooperative tabletop charm-and-latch relay, not the same product diagram and n...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/194-use-case-toy-latch-prompt-key-fitting/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/194-use-case-toy-latch-prompt-key-fitting.png</image:loc>
+      <image:title>Use Case Toy Latch: Prompt Key Fitting</image:title>
+      <image:caption>Create a single polished public-gallery image titled &quot;Use Case Toy Latch: Prompt Key Fitting&quot;. Show one oversized transparent toy diary-latch mechanism on a clean studio workbench, clearly fictional and harmless, not a real security lock,...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/191-derived-play-notch-fitting-swap/</loc>
