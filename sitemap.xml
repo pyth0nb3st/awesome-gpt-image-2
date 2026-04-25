@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/178-derived-play-onion-skin-relay.png</image:loc>
+      <image:title>Derived Play: Onion Skin Relay</image:title>
+      <image:caption>Create a single polished gallery image for a derived play concept titled Derived Play: Onion Skin Relay. It should be a different artifact from the flipbook: show a transparent tabletop relay rig with eight upright frame cards, sliding vel...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/179-use-case-flipbook-continuity-animator.png</image:loc>
+      <image:title>Use Case Flipbook: Continuity Animator</image:title>
+      <image:caption>Create a single polished gallery image for a new GPT Image 2 use case titled Use Case Flipbook: Continuity Animator. Show a fan-open spiral flipbook lying on a clean studio table, not a contact sheet and not a research board. Each page is...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/176-derived-play-checkmate-prompt-relay.png</image:loc>
       <image:title>Derived Play: Checkmate Prompt Relay</image:title>
       <image:caption>Create a single polished gallery image for a derived play concept titled Derived Play: Checkmate Prompt Relay. It should be a different artifact from the workstation: show a fictional head-to-head tabletop relay game on a long tournament t...</image:caption>
@@ -867,6 +877,28 @@
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/178-derived-play-onion-skin-relay/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/178-derived-play-onion-skin-relay.png</image:loc>
+      <image:title>Derived Play: Onion Skin Relay</image:title>
+      <image:caption>Create a single polished gallery image for a derived play concept titled Derived Play: Onion Skin Relay. It should be a different artifact from the flipbook: show a transparent tabletop relay rig with eight upright frame cards, sliding vel...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/179-use-case-flipbook-continuity-animator/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/179-use-case-flipbook-continuity-animator.png</image:loc>
+      <image:title>Use Case Flipbook: Continuity Animator</image:title>
+      <image:caption>Create a single polished gallery image for a new GPT Image 2 use case titled Use Case Flipbook: Continuity Animator. Show a fan-open spiral flipbook lying on a clean studio table, not a contact sheet and not a research board. Each page is...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/176-derived-play-checkmate-prompt-relay/</loc>
@@ -2872,6 +2904,12 @@
   </url>
   <url>
     <loc>https://gptimg2.best/tags/caseback-seal/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/crop-gate/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>

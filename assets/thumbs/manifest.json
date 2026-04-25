@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/178-derived-play-onion-skin-relay.png": {
+      "path": "assets/thumbs/178-derived-play-onion-skin-relay.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/179-use-case-flipbook-continuity-animator.png": {
+      "path": "assets/thumbs/179-use-case-flipbook-continuity-animator.jpg",
+      "width": 768,
+      "height": 512
+    },
     "assets/images/176-derived-play-checkmate-prompt-relay.png": {
       "path": "assets/thumbs/176-derived-play-checkmate-prompt-relay.jpg",
       "width": 768,

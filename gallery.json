@@ -18,6 +18,90 @@
   },
   "images": [
     {
+      "title": "Derived Play: Onion Skin Relay",
+      "caption": "从翻页连续性样本册派生出的透明修帧玩法：Frame Draft、Ghost Align、Beat Swap、Palette Freeze、Crop Window、Retake Bell、Flip Test 和 Continuity Token 让玩家用洋葱皮层校准同一虚构角色的八帧动作。",
+      "path": "assets/images/178-derived-play-onion-skin-relay.png",
+      "alt": "Transparent tabletop relay rig with upright frame cards, vellum ghost layers, alignment pegs, caption beat chips, palette freeze clips, crop windows, retake bell, continuity tokens, and thumb-test rail",
+      "width": 1536,
+      "height": 1024,
+      "createdAt": "2026-04-26 03:53:33",
+      "batch": "019dc62f-4e29-7920-a698-7089137d82ac",
+      "tags": [
+        "onion-skin-relay",
+        "frame-draft",
+        "ghost-align",
+        "beat-swap",
+        "palette-freeze",
+        "crop-window",
+        "retake-bell",
+        "flip-test",
+        "continuity-token",
+        "batch-019dc62f"
+      ],
+      "prompt": "Create a single polished gallery image for a derived play concept titled Derived Play: Onion Skin Relay. It should be a different artifact from the flipbook: show a transparent tabletop relay rig with eight upright frame cards, sliding vellum ghost layers, alignment pegs, caption beat chips, palette freeze clips, crop windows, a tiny retake bell, and continuity tokens beside a thumb-test rail. The gameplay mechanism is cooperative frame repair: players draft one frame card, slide an onion-skin ghost over it, swap exactly one caption beat, freeze one palette swatch, crop one window, and ring the retake bell if the invented clockwork fruit courier changes silhouette or prop shape; the relay wins when the thumb-test rail shows a smooth eight-frame motion. Readable labels should include Frame Draft, Ghost Align, Beat Swap, Palette Freeze, Crop Window, Retake Bell, Flip Test, and Continuity Token. Output format: crisp product photo of a transparent animation-game apparatus, acrylic rails, vellum shadows, colored registration pins, fictional frame art only, no hands, no logos, no real brands, no real people, no copyrighted characters, no political content, no dangerous instructions, no gore, no sexual content, no living artist style imitation.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original cooperative onion-skin continuity relay mechanic and prompt generated locally from the Flipbook Continuity Animator concept. No external prompt, article, image, artwork, repository, brand, character, or case-study source was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Original fictional harmless animation-continuity game apparatus with invented frame art only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc62f-4e29-7920-a698-7089137d82ac/ig_0efd647fce098b7c0169ed1b79b3b88195b78487b30c04b9cb.png"
+    },
+    {
+      "title": "Use Case Flipbook: Continuity Animator",
+      "caption": "把 GPT Image 2 的多图一致性做成一本扇开的翻页动画样本册：Seed Frame、Onion Skin、Pose Tick、Caption Beat、Palette Hold、Crop Gate、Retake Slip 和 Final Flip 用连续帧检查虚构角色和物件的稳定变化。",
+      "path": "assets/images/179-use-case-flipbook-continuity-animator.png",
+      "alt": "Fan-open spiral flipbook with sequential invented character frames, vellum onion-skin overlays, pose ticks, crop windows, caption beats, palette tabs, retake slips, and a final flip preview strip",
+      "width": 1536,
+      "height": 1024,
+      "createdAt": "2026-04-26 03:52:26",
+      "batch": "019dc62f-4e29-7920-a698-7089137d82ac",
+      "tags": [
+        "prompt-flipbook-continuity-animator",
+        "seed-frame",
+        "onion-skin",
+        "pose-tick",
+        "caption-beat",
+        "palette-hold",
+        "crop-gate",
+        "retake-slip",
+        "final-flip",
+        "batch-019dc62f"
+      ],
+      "prompt": "Create a single polished gallery image for a new GPT Image 2 use case titled Use Case Flipbook: Continuity Animator. Show a fan-open spiral flipbook lying on a clean studio table, not a contact sheet and not a research board. Each page is a sequential frame of the same invented clockwork fruit courier character walking across a tiny fictional street, with translucent onion-skin overlays, pose tick marks, crop window cutouts, caption beat strips, palette hold tabs, retake slips, and a final thumb-flip preview strip along the edge. The mechanism is using GPT Image 2 for multi-image continuity planning: prompt clauses become page annotations that preserve silhouette, prop identity, readable captions, palette, and crop rhythm across frames. Readable labels should include Seed Frame, Onion Skin, Pose Tick, Caption Beat, Palette Hold, Crop Gate, Retake Slip, and Final Flip. Output format: premium macro photograph of a handmade animation continuity flipbook with vellum overlays, brass spiral binding, graphite frame numbers, crisp legible labels, no hands, no logos, no real brands, no real people, no copyrighted characters, no political content, no dangerous instructions, no gore, no sexual content, no living artist style imitation.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original flipbook continuity-planning concept and prompt generated locally from existing-gallery gap analysis. External search was used only for broad capability awareness; no external prompt, article, image, artwork, repository, brand, character, or case-study source shaped this concept."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Original fictional harmless animation flipbook with invented character frames only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc62f-4e29-7920-a698-7089137d82ac/ig_0efd647fce098b7c0169ed1ae4af308195a4f3ece19c52e173.png"
+    },
+    {
       "title": "Derived Play: Checkmate Prompt Relay",
       "caption": "从棋谱提示器派生出的限时接力：Clock Bid、Clause Move、Capture Detail、Castle Context、Knight Reference、Pin Mask、Gambit Coin、Resign Token、Mate Proof 和 Score Flag 把提示轮抽变成三裁切将杀证明。",
       "path": "assets/images/176-derived-play-checkmate-prompt-relay.png",
