@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/154-visible-title-derived-play-bellhop-key-relay.png": {
+      "path": "assets/thumbs/154-visible-title-derived-play-bellhop-key-relay.jpg",
+      "width": 768,
+      "height": 1152
+    },
+    "assets/images/155-visible-title-use-case-hotel-prompt-concierge.png": {
+      "path": "assets/thumbs/155-visible-title-use-case-hotel-prompt-concierge.jpg",
+      "width": 768,
+      "height": 1152
+    },
     "assets/images/152-derived-play-trellis-tournament.png": {
       "path": "assets/thumbs/152-derived-play-trellis-tournament.jpg",
       "width": 768,

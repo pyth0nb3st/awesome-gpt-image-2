@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/154-visible-title-derived-play-bellhop-key-relay.png</image:loc>
+      <image:title>Derived Play: Bellhop Key Relay</image:title>
+      <image:caption>Visible title: &quot;Derived Play: Bellhop Key Relay&quot;. Build a wall-mounted magnetic dollhouse hotel cabinet, vertical and playable. An elevator marker climbs between open rooms; brass key hooks, luggage counters, sliding maid-cart doors, room-...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/155-visible-title-use-case-hotel-prompt-concierge.png</image:loc>
+      <image:title>Use Case Hotel: Prompt Concierge</image:title>
+      <image:caption>Visible title: &quot;Use Case Hotel: Prompt Concierge&quot;. Make one vertical dollhouse cutaway of a fictional boutique hotel atrium. The building is the artifact: elevator shaft, stair landings, open rooms, luggage tags, service trays, telephone s...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/152-derived-play-trellis-tournament.png</image:loc>
       <image:title>Derived Play: Trellis Tournament</image:title>
       <image:caption>Create a second polished public-gallery image that derives a playable original mechanic from the greenhouse prompt-cultivar use case. Visible title, small and clean: &quot;Derived Play: Trellis Tournament&quot; Output format: a single overhead table...</image:caption>
@@ -747,6 +757,28 @@
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/154-visible-title-derived-play-bellhop-key-relay/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/154-visible-title-derived-play-bellhop-key-relay.png</image:loc>
+      <image:title>Derived Play: Bellhop Key Relay</image:title>
+      <image:caption>Visible title: &quot;Derived Play: Bellhop Key Relay&quot;. Build a wall-mounted magnetic dollhouse hotel cabinet, vertical and playable. An elevator marker climbs between open rooms; brass key hooks, luggage counters, sliding maid-cart doors, room-...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/155-visible-title-use-case-hotel-prompt-concierge/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/155-visible-title-use-case-hotel-prompt-concierge.png</image:loc>
+      <image:title>Use Case Hotel: Prompt Concierge</image:title>
+      <image:caption>Visible title: &quot;Use Case Hotel: Prompt Concierge&quot;. Make one vertical dollhouse cutaway of a fictional boutique hotel atrium. The building is the artifact: elevator shaft, stair landings, open rooms, luggage tags, service trays, telephone s...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/152-derived-play-trellis-tournament/</loc>

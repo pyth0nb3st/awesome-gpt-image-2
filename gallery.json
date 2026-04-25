@@ -18,6 +18,75 @@
   },
   "images": [
     {
+      "title": "Derived Play: Bellhop Key Relay",
+      "caption": "竖柜酒店游戏：大堂抽行李牌，电梯带钥匙换房，清洁车修错物，送餐托盘换材质，电话单读短字，窗框验外形，失物柜盖章结算。",
+      "path": "assets/images/154-visible-title-derived-play-bellhop-key-relay.png",
+      "alt": "Magnetic dollhouse hotel cabinet game Bellhop Key Relay with elevator token and room keys",
+      "width": 1024,
+      "height": 1536,
+      "createdAt": "2026-04-25 23:37:01",
+      "batch": "019dc541-4e32-7852-8205-dc40f905de46",
+      "tags": [
+        "bellhop-key-relay",
+        "lobby-luggage-draw",
+        "elevator-key-hop",
+        "maid-cart-fix",
+        "tray-variant-order",
+        "phone-slip-read",
+        "window-frame-score",
+        "lost-drawer-close",
+        "quiet-bell",
+        "batch-019dc541"
+      ],
+      "prompt": "Visible title: \"Derived Play: Bellhop Key Relay\". Build a wall-mounted magnetic dollhouse hotel cabinet, vertical and playable. An elevator marker climbs between open rooms; brass key hooks, luggage counters, sliding maid-cart doors, room-service trays, telephone slips, balcony window frames, and a lost-property drawer form the rules. Labels: Lobby Draw, Key Hop, Maid Fix, Tray Order, Phone Read, Window Score, Lost Close, Quiet Bell. Play: draw a fictional luggage brief, ride the elevator with one key, repair one wrong object with the maid cart, order one material tray, read a tiny phone slip, score the result behind square/tall/wide windows, close the round by stamping the lost drawer. Keep it fictional and rights-safe; exclude real marks, real people, famous characters, adult material, dangerous instructions, civic persuasion material, and explicit injury content. It is a vertical cabinet toy, not cards, flat board, tabletop race, cable cabinet, trellis, chef counter, paper trace, sand maze, mosaic route, receipt belt, or pinball.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original concept and prompt generated locally. No external prompt, image, article, case study, repository, or artwork source was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-25",
+        "reviewNote": "Original fictional hotel-cabinet game concept; screened to avoid political persuasion, public civic figures, persuasion campaigns, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful instructions, and explicit injury content."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc541-4e32-7852-8205-dc40f905de46/ig_08d5467c6f53fa3b0169ecdf413124819382b42f02eaca46cc.png"
+    },
+    {
+      "title": "Use Case Hotel: Prompt Concierge",
+      "caption": "一座虚构酒店剖面把生成任务变成入住流程：行李牌装目标、房钥匙锁定物件身份、清洁车擦掉弱细节、送餐托盘试材料、电话单查短字、窗框看三种外形、失物柜留审计章。",
+      "path": "assets/images/155-visible-title-use-case-hotel-prompt-concierge.png",
+      "alt": "Vertical boutique hotel cutaway for Prompt Concierge GPT Image 2 use cases",
+      "width": 1024,
+      "height": 1536,
+      "createdAt": "2026-04-25 23:35:30",
+      "batch": "019dc541-4e32-7852-8205-dc40f905de46",
+      "tags": [
+        "prompt-concierge-hotel",
+        "luggage-brief-tag",
+        "identity-room-key",
+        "maid-patch-cart",
+        "material-service-tray",
+        "telephone-letter-slip",
+        "window-shape-check",
+        "lost-drawer-stamp",
+        "batch-019dc541"
+      ],
+      "prompt": "Visible title: \"Use Case Hotel: Prompt Concierge\". Make one vertical dollhouse cutaway of a fictional boutique hotel atrium. The building is the artifact: elevator shaft, stair landings, open rooms, luggage tags, service trays, telephone slips, window frames, lost-property drawer. Label only: Luggage Brief, Room Key, Maid Patch, Tray Variant, Phone Slip, Window Shape, Lost Drawer. Meaning: a new picture idea checks in as luggage; a room key preserves object identity; the maid cart removes one unwanted fictional detail; room service swaps material samples; a phone slip tests tiny lettering; windows preview square, tall, and wide silhouettes; the lost drawer records source and safety stamps. Keep it fictional and rights-safe; exclude real marks, real people, famous characters, adult material, dangerous instructions, civic persuasion material, and explicit injury content. One spatial hotel scene, not panels, cards, tabletop, console, greenhouse, chef counter, paper roll, sand, kiln, receipt, loom, studio, or pinball.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original concept and prompt generated locally. No external prompt, image, article, case study, repository, or artwork source was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-25",
+        "reviewNote": "Original fictional hotel-cutaway concept; screened to avoid political persuasion, public civic figures, persuasion campaigns, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful instructions, and explicit injury content."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc541-4e32-7852-8205-dc40f905de46/ig_08d5467c6f53fa3b0169ecde9af4048193a7b5feb39acd25f6.png"
+    },
+    {
       "title": "Derived Play: Trellis Tournament",
       "caption": "从温室育种派生出的藤架路径游戏：玩家抽 Seed Draft，接 Graft Swap，交换 Pollen Trade，用 Prune Pass 修剪细节，保存 Dormancy Save，再用 Pest Callout 和 Bloom Frame 计分。",
       "path": "assets/images/152-derived-play-trellis-tournament.png",
