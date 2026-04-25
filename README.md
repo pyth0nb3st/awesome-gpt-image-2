@@ -62,11 +62,17 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `infographic-diagram` (6)
 - `scientific-educational` (5)
 - `sound-to-scene` (3)
-- `edit-humidity-gauge` (2)
-- `format-jetstream-router` (2)
+- `photorealistic-natural` (2)
+- `ui-fiction-simulator` (2)
 
 ### Latest Play Tags
 
+- `altimeter-bid` - Derived Play: Forecast Rally
+- `windsock-swap` - Derived Play: Forecast Rally
+- `humidity-lock` - Derived Play: Forecast Rally
+- `barometer-countdown` - Derived Play: Forecast Rally
+- `jetstream-cut` - Derived Play: Forecast Rally
+- `cloudbreak-audit` - Derived Play: Forecast Rally
 - `prompt-pressure-altimeter` - Use Case Station: Visual Weather Signals
 - `reference-drift-windsock` - Use Case Station: Visual Weather Signals
 - `edit-humidity-gauge` - Use Case Station: Visual Weather Signals
@@ -97,12 +103,6 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `weather-stress-test` - Derived Play: Prompt Orchard League
 - `root-memory-chain` - Derived Play: Prompt Orchard League
 - `harvest-judge` - Derived Play: Prompt Orchard League
-- `margin-multiball` - Derived Play: Constraint Pinball
-- `mask-peek` - Derived Play: Constraint Pinball
-- `pictogram-jackpot` - Derived Play: Constraint Pinball
-- `shadow-court` - Derived Play: Constraint Pinball
-- `relation-ramp` - Derived Play: Constraint Pinball
-- `brief-bouncer` - Derived Play: Constraint Pinball
 
 <details>
 <summary>All generated tags</summary>
@@ -129,19 +129,15 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `infographic-diagram` (6)
 - `scientific-educational` (5)
 - `sound-to-scene` (3)
-- `edit-humidity-gauge` (2)
-- `format-jetstream-router` (2)
 - `photorealistic-natural` (2)
-- `prompt-pressure-altimeter` (2)
-- `reference-drift-windsock` (2)
-- `safe-fiction-cloudbreak` (2)
-- `text-legibility-barometer` (2)
 - `ui-fiction-simulator` (2)
 - `accessibility-pollinator-view` (1)
+- `altimeter-bid` (1)
 - `archive-color-lab` (1)
 - `archive-detective` (1)
 - `archive-label-restorer` (1)
 - `aroma-semaphore` (1)
+- `barometer-countdown` (1)
 - `brand-multiverse` (1)
 - `brief-bouncer` (1)
 - `calendar-scene-forge` (1)
@@ -151,6 +147,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `caption-to-shot-list` (1)
 - `cardboard-kit-forge` (1)
 - `catalog-transformer` (1)
+- `cloudbreak-audit` (1)
 - `constraint-auction` (1)
 - `constraint-posterizer` (1)
 - `continuity-mycelium` (1)
@@ -165,6 +162,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `drawer-shadow-planner` (1)
 - `drawer-tetris-draft` (1)
 - `dream-errand-planner` (1)
+- `edit-humidity-gauge` (1)
 - `educational-infographic-remix` (1)
 - `errand-reality-lock` (1)
 - `evidence-garden` (1)
@@ -177,13 +175,16 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `field-note-builder` (1)
 - `field-notebook-plate` (1)
 - `focus-tape-swap` (1)
+- `format-jetstream-router` (1)
 - `game-asset-sheet` (1)
 - `gesture-to-tool-mockup` (1)
 - `glitch-taxonomy-draft` (1)
 - `grip-auction` (1)
 - `harvest-judge` (1)
+- `humidity-lock` (1)
 - `icon-object-crosswalk` (1)
 - `interior-style-matrix` (1)
+- `jetstream-cut` (1)
 - `kitchen-mise-map` (1)
 - `language-mood-matrix` (1)
 - `learning-card-deck` (1)
@@ -218,6 +219,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `process-twin` (1)
 - `prompt-archaeology` (1)
 - `prompt-escape-room` (1)
+- `prompt-pressure-altimeter` (1)
 - `prompt-seed-vault` (1)
 - `prop-witness-check` (1)
 - `prototype-punch-out-duel` (1)
@@ -227,10 +229,12 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `recipe-forensics` (1)
 - `recipe-reality-check` (1)
 - `recipe-to-comic` (1)
+- `reference-drift-windsock` (1)
 - `relation-ramp` (1)
 - `repair-triage-photos` (1)
 - `restoration-what-if` (1)
 - `root-memory-chain` (1)
+- `safe-fiction-cloudbreak` (1)
 - `scenario-switch` (1)
 - `scent-palette-translator` (1)
 - `season-wear-simulator` (1)
@@ -246,6 +250,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `style-transfer` (1)
 - `tabletop-quest-props` (1)
 - `tactile-diagram-draft` (1)
+- `text-legibility-barometer` (1)
 - `texture-cipher-relay` (1)
 - `time-machine-before-after` (1)
 - `tone-switchboard` (1)
@@ -256,6 +261,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `weather-oracle-cards` (1)
 - `weather-stress-test` (1)
 - `week-remix-draft` (1)
+- `windsock-swap` (1)
 - `worldbuilding-atlas` (1)
 
 </details>
@@ -291,11 +297,11 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 
 ## Prompt Gallery
 
-### 001. Use Case Station: Visual Weather Signals
+### 001. Derived Play: Forecast Rally
 
-![Use Case Station: Visual Weather Signals](assets/images/119-use-case-station-visual-weather-signals.png)
+![Derived Play: Forecast Rally](assets/images/119-use-case-station-visual-weather-signals.png)
 
-**Tags:** `edit-humidity-gauge` `format-jetstream-router` `game-design` `prompt-pressure-altimeter` `reference-drift-windsock` `safe-fiction-cloudbreak` `text-legibility-barometer` `worldbuilding`
+**Tags:** `altimeter-bid` `barometer-countdown` `cloudbreak-audit` `game-design` `humidity-lock` `jetstream-cut` `windsock-swap` `worldbuilding`
 
 **Prompt excerpt:** Create one original GPT Image 2 derived-play concept image as a 16:9 landscape scene. Title inside the image, small and legible: "GPT Image 2 Forecast Rally". Core format: a cooperative tabletop weather-rally game derived from the Visual W...
 

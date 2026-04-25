@@ -18,21 +18,21 @@
   },
   "images": [
     {
-      "title": "Use Case Station: Visual Weather Signals",
-      "caption": "把 GPT Image 2 的生成、编辑、输入保真、文字可读性、尺寸适配和安全虚构化，做成一间连续气象仪表房。",
+      "title": "Derived Play: Forecast Rally",
+      "caption": "从视觉气象站派生出的协作天气拉力赛：竞价提示密度、交换参考约束、锁定编辑区域、倒计时读字、改道比例和安全虚构审计。",
       "path": "assets/images/119-use-case-station-visual-weather-signals.png",
-      "alt": "GPT Image 2 visual weather station use-case room with gauges, maps, overlays, and fictional sample thumbnails",
+      "alt": "GPT Image 2 forecast rally tabletop game with weather-balloon tokens, route checkpoints, overlays, and scoring rail",
       "width": 1672,
       "height": 941,
       "createdAt": "2026-04-25 17:56:41",
       "batch": "019dc409-8a9f-76e0-ac66-ae131e01cdd8",
       "tags": [
-        "prompt-pressure-altimeter",
-        "reference-drift-windsock",
-        "edit-humidity-gauge",
-        "text-legibility-barometer",
-        "format-jetstream-router",
-        "safe-fiction-cloudbreak"
+        "altimeter-bid",
+        "windsock-swap",
+        "humidity-lock",
+        "barometer-countdown",
+        "jetstream-cut",
+        "cloudbreak-audit"
       ],
       "prompt": "Create one original GPT Image 2 derived-play concept image as a 16:9 landscape scene.\n\nTitle inside the image, small and legible: \"GPT Image 2 Forecast Rally\".\n\nCore format: a cooperative tabletop weather-rally game derived from the Visual Weather Station idea. This must be a single playable route map across a cork-and-felt table, not a contact sheet, not a 2x3 grid, not separate cards, not a circular rules machine, not pinball, not a film stage, not a greenhouse. Players move tiny brass weather-balloon tokens along a looping forecast route, spending prompt tokens and sliding transparent forecast strips over fictional mini-thumbnails.\n\nSix original play mechanics shown as named route checkpoints and physical game components:\n1. \"altimeter bid\" players secretly bid prompt density before seeing the generated thumbnail.\n2. \"windsock swap\" players swap one reference constraint to reduce drift.\n3. \"humidity lock\" players freeze a portion of an edited image while the rest transforms.\n4. \"barometer countdown\" players have three seconds to read tiny in-image text; unreadable labels lose points.\n5. \"jetstream cut\" players reroute a concept through a new aspect ratio without cropping the hero subject.\n6. \"cloudbreak audit\" players replace unsafe or rights-risk details with fictional substitutes before final scoring.\n\nScoring rail: clarity, control, novelty, rights-safe fiction, edit fidelity, format survival. Include small tokens, dice with abstract weather icons, transparent overlays, a brass score counter, miniature balloons, and a printed rule slip. All names, sample products, places, and thumbnails are fictional.\n\nVisual language: sophisticated tabletop product photography plus whimsical engineering props; cork, dark felt, brass, vellum overlays, teal route lines, vermilion checkpoint flags, ivory cards. Clear readable short labels. Avoid real brands. Avoid trademarks. Avoid celebrities. Avoid public figures. Avoid copyrighted characters. Avoid political persuasion. Avoid elections. Avoid party symbols. Avoid harmful instructions. Avoid sexual content. Avoid nude content. Avoid explicit content. Avoid graphic violence. Avoid gore. Avoid blood. Avoid weapons. Avoid watermarks.\n\nComposition: low oblique tabletop view with the looping route crossing the image diagonally; six checkpoint devices are part of one continuous board game, not boxed panels. The image should feel like a complete playable artifact someone could pick up and use.",
       "provenance": {

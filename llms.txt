@@ -10,7 +10,7 @@ Sitemap: https://gptimg2.best/sitemap.xml
 
 The site contains 120 generated image examples. Each example includes a repository-local image, full prompt text, dimensions, creation time, and semantic tags for prompt discovery.
 Dedicated prompt pages: 120
-Dedicated tag pages: 30
+Dedicated tag pages: 24
 
 Top tags:
 - product-mockup: 73
