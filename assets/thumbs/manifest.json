@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/201-derived-play-settling-globe-relay.png": {
+      "path": "assets/thumbs/201-derived-play-settling-globe-relay.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/202-use-case-snowglobe-prompt-settling-chamber.png": {
+      "path": "assets/thumbs/202-use-case-snowglobe-prompt-settling-chamber.jpg",
+      "width": 768,
+      "height": 1280
+    },
     "assets/images/199-derived-play-buoy-chain-regatta.png": {
       "path": "assets/thumbs/199-derived-play-buoy-chain-regatta.jpg",
       "width": 768,

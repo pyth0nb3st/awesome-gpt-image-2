@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/201-derived-play-settling-globe-relay.png</image:loc>
+      <image:title>Derived Play: Settling Globe Relay</image:title>
+      <image:caption>Create one polished public-gallery image titled &quot;Derived Play: Settling Globe Relay&quot;. This is a derived playable mode from Prompt Settling Chamber, but it must look like a different rules object: a cooperative shake-and-observe tabletop re...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/202-use-case-snowglobe-prompt-settling-chamber.png</image:loc>
+      <image:title>Use Case Snowglobe: Prompt Settling Chamber</image:title>
+      <image:caption>Create one polished public-gallery concept image titled &quot;Use Case Snowglobe: Prompt Settling Chamber&quot;. Output format: a single vertical 4:5 macro product photograph of one transparent snowglobe cutaway on a matte graphite turntable. It is...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/199-derived-play-buoy-chain-regatta.png</image:loc>
       <image:title>Derived Play: Buoy Chain Regatta</image:title>
       <image:caption>Create one polished public-gallery image titled &quot;Derived Play: Buoy Chain Regatta&quot;. This is a derived playable mode from Prompt Buoy Chain, but it must look like a different rules object: a cooperative floating-token regatta played in a ci...</image:caption>
@@ -977,6 +987,28 @@
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/201-derived-play-settling-globe-relay/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/201-derived-play-settling-globe-relay.png</image:loc>
+      <image:title>Derived Play: Settling Globe Relay</image:title>
+      <image:caption>Create one polished public-gallery image titled &quot;Derived Play: Settling Globe Relay&quot;. This is a derived playable mode from Prompt Settling Chamber, but it must look like a different rules object: a cooperative shake-and-observe tabletop re...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/202-use-case-snowglobe-prompt-settling-chamber/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/202-use-case-snowglobe-prompt-settling-chamber.png</image:loc>
+      <image:title>Use Case Snowglobe: Prompt Settling Chamber</image:title>
+      <image:caption>Create one polished public-gallery concept image titled &quot;Use Case Snowglobe: Prompt Settling Chamber&quot;. Output format: a single vertical 4:5 macro product photograph of one transparent snowglobe cutaway on a matte graphite turntable. It is...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/199-derived-play-buoy-chain-regatta/</loc>
@@ -3223,6 +3255,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://gptimg2.best/tags/caption-tag/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://gptimg2.best/tags/caseback-seal/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -3230,6 +3268,12 @@
   </url>
   <url>
     <loc>https://gptimg2.best/tags/crop-gate/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/edit-flake/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>

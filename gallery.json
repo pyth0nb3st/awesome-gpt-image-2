@@ -18,6 +18,93 @@
   },
   "images": [
     {
+      "title": "Derived Play: Settling Globe Relay",
+      "caption": "从雪景球沉降室派生的五球接力玩法：玩家沿弧形架传递小球，花 Shake Token，调 Edit Flake、Mask Sleeve、Style Bead、Caption Tag 和 Crop Ring，等 Settling Timer 停下后用 Proof Loupe 检查同一座三拱月港是否仍然可识别。",
+      "path": "assets/images/201-derived-play-settling-globe-relay.png",
+      "alt": "Wide low-oblique product photograph of crescent rack with five small transparent snowglobes, ceramic moon-harbors, shake tokens, edit flakes, mask sleeves, style beads, caption tags, crop rings, settling timer, proof loupe, and relay score",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-26 07:51:43",
+      "batch": "019dc70b-0f07-7a41-b926-d44b40b93a6e",
+      "tags": [
+        "settling-globe-relay",
+        "shake-token",
+        "edit-flake",
+        "mask-sleeve",
+        "style-bead",
+        "caption-tag",
+        "crop-ring",
+        "settling-timer",
+        "proof-loupe",
+        "relay-score",
+        "batch-019dc70b"
+      ],
+      "prompt": "Create one polished public-gallery image titled \"Derived Play: Settling Globe Relay\".\n\nThis is a derived playable mode from Prompt Settling Chamber, but it must look like a different rules object: a cooperative shake-and-observe tabletop relay using five small transparent snowglobes in a curved rack. It is not the same single cutaway globe, not a grid, not a contact sheet, not cards, not a rectangular board game, not a cabinet, not a water basin, not a wardrobe, not a fossil drawer, not a toy latch, not a greenhouse, not a weather station, not a planetarium, not a music box, not a flipbook, not a loom, not a proof press, not an optical bench, not a magnetic field device.\n\nOutput format: one wide 16:9 low-oblique product photograph of a crescent-shaped tabletop rack holding five palm-size clear globes. Each globe contains a tiny version of the same invented ceramic moon-harbor with three teal archways and one amber beacon, plus different harmless flakes and transparent rings. Around the rack are a sand timer, small shake tokens, caption clips, mask sleeves, style beads, and a final proof loupe. No people, no hands, no real places, no logos.\n\nPlayable rules shown through objects: players pass a globe along the crescent rack, spend one Shake Token, add or remove one Edit Flake, slide one Mask Sleeve, choose one Style Bead, clip one Caption Tag, align one Crop Ring, then wait for the Settling Timer. A point scores only if the proof loupe still sees the same three teal arches and amber beacon after the flakes settle.\n\nReadable short labels on components: Shake Token, Edit Flake, Mask Sleeve, Style Bead, Caption Tag, Crop Ring, Settling Timer, Proof Loupe, Relay Score. Visual language: premium tactile tabletop prototype, graphite crescent rack, clear glass globes, teal ceramic harbors, amber beacon glow, pearl flakes, transparent acrylic rings, precise tiny labels, crisp studio reflections, playful but sophisticated. Entire concept is fictional, original, unbranded, family-safe, non-graphic, and rights-safe.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original cooperative shake-and-observe snowglobe relay generated locally from the Prompt Settling Chamber concept. No external prompt, image, artwork, visual style, brand, character, case-study mechanic, or source image was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Original fictional tabletop snowglobe relay with invented ceramic moon-harbor tokens and harmless transparent props only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc70b-0f07-7a41-b926-d44b40b93a6e/ig_0388b265b4235bc80169ed535599ec81958a4115a67ac71e59.png"
+    },
+    {
+      "title": "Use Case Snowglobe: Prompt Settling Chamber",
+      "caption": "把 GPT Image 2 的提示实验做成可摇晃的透明雪景球沉降室：Seed Harbor、Context Snow、Reference Charm、Edit Flake、Mask Curtain、Caption Plaque、Style Bead、Crop Ring 和 Settling Proof 用浮片、遮帘、裁切环、铭牌和沉降窗口检查主体一致性、局部编辑、文字和构图。",
+      "path": "assets/images/202-use-case-snowglobe-prompt-settling-chamber.png",
+      "alt": "Vertical macro product photograph of a transparent snowglobe cutaway with ceramic moon-harbor, teal archways, amber beacon, context snow, reference charm, edit flake, mask curtain, caption plaques, style beads, crop rings, and settling proof window",
+      "width": 971,
+      "height": 1619,
+      "createdAt": "2026-04-26 07:50:46",
+      "batch": "019dc70b-0f07-7a41-b926-d44b40b93a6e",
+      "tags": [
+        "prompt-settling-chamber",
+        "snowglobe",
+        "seed-harbor",
+        "context-snow",
+        "reference-charm",
+        "edit-flake",
+        "mask-curtain",
+        "caption-plaque",
+        "style-bead",
+        "crop-ring",
+        "settling-proof",
+        "batch-019dc70b"
+      ],
+      "prompt": "Create one polished public-gallery concept image titled \"Use Case Snowglobe: Prompt Settling Chamber\".\n\nOutput format: a single vertical 4:5 macro product photograph of one transparent snowglobe cutaway on a matte graphite turntable. It is not a grid, not a contact sheet, not cards, not a rectangular board game, not a tray, not a cabinet, not a water basin, not a wardrobe, not a fossil drawer, not a toy latch, not a greenhouse, not a weather station, not a planetarium, not a music box, not a flipbook, not a loom, not a proof press, not an optical bench, not a magnetic field device.\n\nScene: inside the glass globe is one invented subject, a tiny ceramic moon-harbor with three teal archways and one amber beacon. Around it float harmless translucent flakes, tiny acrylic crop rings, miniature caption plaques, colored style beads, soft mask curtains, and a reference charm showing the same three-arch moon-harbor. The base has small engraved labels and a visible settling scale. No people, no hands, no real places, no logos.\n\nMechanism: GPT Image 2 prompt experiments become a shake-and-settle consistency chamber. Short readable labels: Seed Harbor, Context Snow, Reference Charm, Edit Flake, Mask Curtain, Caption Plaque, Style Bead, Crop Ring, Settling Proof. The subject should remain recognizable after the swirl; flakes show variation, the mask curtain hides one zone, the crop rings test framing, the caption plaques test text, and the settling proof window repeats the moon-harbor exactly.\n\nVisual language: premium tactile studio photography, clear glass, crisp reflections, graphite base, teal ceramic, amber beacon glow, pearl flakes, transparent acrylic, precise tiny labels, sophisticated playful artifact. Entire concept is fictional, original, unbranded, family-safe, non-graphic, and rights-safe.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original transparent snowglobe settling-chamber prompt mechanism generated locally from existing-gallery gap analysis. No external prompt, image, artwork, visual style, brand, character, case-study mechanic, or source image was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Original fictional tabletop snowglobe artifact with invented ceramic moon-harbor and harmless floating props only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc70b-0f07-7a41-b926-d44b40b93a6e/ig_0388b265b4235bc80169ed5321fff4819587ed3e3359475361.png"
+    },
+    {
       "title": "Derived Play: Buoy Chain Regatta",
       "caption": "从潮池浮标链派生出的圆形水盆接力玩法：玩家拨 Current Ring、移动浮标但不能断链，并依次放 Anchor Token、转 Drift Ghost、换 Tide Edit、停 Reef Blocker、夹 Caption Pennant、花 Lantern Charge，最后用 Proof Cove 和 Chain Score 检查同一枚虚构缺口螺旋贝是否保持可识别。",
       "path": "assets/images/199-derived-play-buoy-chain-regatta.png",
