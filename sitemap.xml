@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/182-derived-play-lift-queue-draft.png</image:loc>
+      <image:title>Derived Play: Lift Queue Draft</image:title>
+      <image:caption>Create a single polished gallery image for a derived play concept titled Derived Play: Lift Queue Draft. It should be a different artifact from the dispatch shaft: show a compact vertical tabletop puzzle with four sliding glass elevator ca...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/183-use-case-elevator-prompt-dispatch-shaft.png</image:loc>
+      <image:title>Use Case Elevator: Prompt Dispatch Shaft</image:title>
+      <image:caption>Create a single polished gallery image for a new GPT Image 2 use case titled Use Case Elevator: Prompt Dispatch Shaft. Show a tall vertical cutaway of a fictional miniature elevator-dispatch cabinet on a clean studio table, not a contact s...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/180-derived-play-pin-roll-canon.png</image:loc>
       <image:title>Derived Play: Pin Roll Canon</image:title>
       <image:caption>Create a single polished gallery image for a derived play concept titled Derived Play: Pin Roll Canon. It should be a different artifact from the music-box instrument: show a tabletop game built from three narrow hand-cranked pin-roll stat...</image:caption>
@@ -887,6 +897,28 @@
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/182-derived-play-lift-queue-draft/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/182-derived-play-lift-queue-draft.png</image:loc>
+      <image:title>Derived Play: Lift Queue Draft</image:title>
+      <image:caption>Create a single polished gallery image for a derived play concept titled Derived Play: Lift Queue Draft. It should be a different artifact from the dispatch shaft: show a compact vertical tabletop puzzle with four sliding glass elevator ca...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/183-use-case-elevator-prompt-dispatch-shaft/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/183-use-case-elevator-prompt-dispatch-shaft.png</image:loc>
+      <image:title>Use Case Elevator: Prompt Dispatch Shaft</image:title>
+      <image:caption>Create a single polished gallery image for a new GPT Image 2 use case titled Use Case Elevator: Prompt Dispatch Shaft. Show a tall vertical cutaway of a fictional miniature elevator-dispatch cabinet on a clean studio table, not a contact s...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/180-derived-play-pin-roll-canon/</loc>

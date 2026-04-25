@@ -18,6 +18,92 @@
   },
   "images": [
     {
+      "title": "Derived Play: Lift Queue Draft",
+      "caption": "从电梯调度井派生出的竖向滑轨玩法：Call Draft、Capacity Token、Express Skip、Door Mask、Bell Caption、Shaft Crop、Cabin Style、Stop Ticket 和 Queue Score 把提示调度变成限载、跳停、开门与停靠票计分。",
+      "path": "assets/images/182-derived-play-lift-queue-draft.png",
+      "alt": "Vertical transparent elevator-queue puzzle with sliding glass cars, floor-call cards, capacity tokens, express skip tab, door masks, bell caption chips, shaft crop rails, cabin style swatches, stop tickets, and queue score counter",
+      "width": 1024,
+      "height": 1536,
+      "createdAt": "2026-04-26 04:32:21",
+      "batch": "019dc654-0585-76e2-be08-c8d8d536d2fe",
+      "tags": [
+        "lift-queue-draft",
+        "call-draft",
+        "capacity-token",
+        "express-skip",
+        "door-mask",
+        "bell-caption",
+        "shaft-crop",
+        "cabin-style",
+        "stop-ticket",
+        "queue-score",
+        "batch-019dc654"
+      ],
+      "prompt": "Create a single polished gallery image for a derived play concept titled Derived Play: Lift Queue Draft. It should be a different artifact from the dispatch shaft: show a compact vertical tabletop puzzle with four sliding glass elevator cars, magnetic floor-call cards, capacity tokens, express-skip tabs, door-mask shutters, bell-caption chips, shaft-crop rails, cabin-style swatches, stop tickets, and a queue-score counter. The gameplay mechanism is prompt scheduling: players draft call cards into an elevator queue, load at most two constraint tokens per car, may use one express skip, must open the mask door only on the matching floor, and score only when three stop tickets show the same invented glass seed kiosk with readable labels across different crops. Readable labels should include Call Draft, Capacity Token, Express Skip, Door Mask, Bell Caption, Shaft Crop, Cabin Style, Stop Ticket, and Queue Score. Output format: crisp product photo of a fictional vertical elevator-queue puzzle, transparent acrylic shaft, small brass sliders, colored queue lights, no board grid, no contact sheet, no hands, no logos, no real brands, no real people, no copyrighted characters, no political content, no dangerous instructions, no gore, no sexual content, no living artist style imitation.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original elevator-queue prompt-scheduling game mechanic and prompt generated locally from the Prompt Dispatch Shaft concept. No external prompt, article, image, artwork, repository, brand, character, or case-study source was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Original fictional harmless vertical elevator-queue puzzle with invented glass seed kiosk tickets only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc654-0585-76e2-be08-c8d8d536d2fe/ig_0b733e39b59137f00169ed2498069c81938e92a3e2e69cc5c9.png"
+    },
+    {
+      "title": "Use Case Elevator: Prompt Dispatch Shaft",
+      "caption": "把 GPT Image 2 的复杂提示流程做成一座透明电梯调度井：Lobby Seed、Floor Brief、Reference Parcel、Mask Door、Caption Bell、Aspect Shaft、Style Cabin、Stop Proof 和 Queue Ledger 用楼层优先级、车厢载荷和停靠票检验约束依赖。",
+      "path": "assets/images/183-use-case-elevator-prompt-dispatch-shaft.png",
+      "alt": "Tall transparent miniature elevator-dispatch cabinet with glass cars, call cards, queue lights, mask doors, caption bells, style swatches, stop-proof tickets, and dispatch ledger",
+      "width": 1024,
+      "height": 1536,
+      "createdAt": "2026-04-26 04:31:20",
+      "batch": "019dc654-0585-76e2-be08-c8d8d536d2fe",
+      "tags": [
+        "prompt-dispatch-shaft",
+        "lobby-seed",
+        "floor-brief",
+        "reference-parcel",
+        "mask-door",
+        "caption-bell",
+        "aspect-shaft",
+        "style-cabin",
+        "stop-proof",
+        "queue-ledger",
+        "batch-019dc654"
+      ],
+      "prompt": "Create a single polished gallery image for a new GPT Image 2 use case titled Use Case Elevator: Prompt Dispatch Shaft. Show a tall vertical cutaway of a fictional miniature elevator-dispatch cabinet on a clean studio table, not a contact sheet, not a 2x3 board, not a route map, not a chessboard, not a tray, and not a music box. Several tiny glass elevator cars move through stacked floors inside a transparent shaft; each floor has a call card, queue light, crop aperture, style cabin swatch, caption bell, mask door, reference parcel, stop-proof ticket, and dispatch ledger. The mechanism is using GPT Image 2 to route complex image instructions by priority and dependency: the brief enters at the lobby, image references ride as parcels, masks open only at assigned floors, text checks ring the caption bell, aspect ratio is constrained by the shaft rails, and final fictional output tickets show the same invented glass seed kiosk at three stops. Readable labels should include Lobby Seed, Floor Brief, Reference Parcel, Mask Door, Caption Bell, Aspect Shaft, Style Cabin, Stop Proof, and Queue Ledger. Output format: premium macro photograph of a vertical transparent elevator control sculpture with crisp readable labels, tiny indicator lights, brass rails, frosted floor cards, no hands, no logos, no real brands, no real people, no copyrighted characters, no political content, no dangerous instructions, no gore, no sexual content, no living artist style imitation.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original elevator-dispatch prompt-routing concept and prompt generated locally from existing-gallery gap analysis. Official web research was used only for broad capability awareness; no external prompt, article, image, artwork, repository, brand, character, or case-study source shaped this concept."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Original fictional harmless miniature elevator-control sculpture with invented glass seed kiosk tickets only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc654-0585-76e2-be08-c8d8d536d2fe/ig_0b733e39b59137f00169ed24630d408193ac47839396755450.png"
+    },
+    {
       "title": "Derived Play: Pin Roll Canon",
       "caption": "从音乐盒提示仪器派生出的三站式打孔卷带玩法：Punch Loop、Crank Pass、Silence Mask、Motif Token、Tempo Shutter、Chime Flag、Canon Align、Final Phrase 和 Score Comb 让玩家轮转纸带，保持同一虚构月灯 motif 在错拍中对齐成最终视觉短句。",
       "path": "assets/images/180-derived-play-pin-roll-canon.png",
