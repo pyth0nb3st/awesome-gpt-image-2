@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/139-one-high-resolution-original-derived-play-scene-titled-with-smal.png": {
+      "path": "assets/thumbs/139-one-high-resolution-original-derived-play-scene-titled-with-smal.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/140-one-high-resolution-original-gpt-image-use-case-concept-scene-ti.png": {
+      "path": "assets/thumbs/140-one-high-resolution-original-gpt-image-use-case-concept-scene-ti.jpg",
+      "width": 768,
+      "height": 432
+    },
     "assets/images/137-derived-play-grout-route-mosaic-league.png": {
       "path": "assets/thumbs/137-derived-play-grout-route-mosaic-league.jpg",
       "width": 768,

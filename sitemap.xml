@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/139-one-high-resolution-original-derived-play-scene-titled-with-smal.png</image:loc>
+      <image:title>One high-resolution original derived-play scene titled with small readable labels: &quot;</image:title>
+      <image:caption>Create one high-resolution original derived-play scene titled with small readable labels: &quot;GPT Image 2 Tilt Gate League&quot;. Asset type: 16:9 landscape walk-through lenticular challenge installation, not a grid, not a contact sheet, not cards...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/140-one-high-resolution-original-gpt-image-use-case-concept-scene-ti.png</image:loc>
+      <image:title>One high-resolution original GPT Image use-case concept scene titled only with small</image:title>
+      <image:caption>Create one high-resolution original GPT Image use-case concept scene titled only with small readable fictional labels: &quot;GPT Image 2 Lenticular Prompt Arcade&quot;. Asset type: 16:9 landscape immersive lenticular flip-panel corridor, not a grid,...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/137-derived-play-grout-route-mosaic-league.png</image:loc>
       <image:title>Derived Play: Grout Route Mosaic League</image:title>
       <image:caption>Draw one high-resolution panoramic image: a hands-on mosaic strategy game derived from GPT Image 2 prompting. A tabletop has one shared ceramic mosaic map, loose tiles in trays, grout-route channels, removable spacers, glaze tokens, and ch...</image:caption>
@@ -697,6 +707,28 @@
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/139-one-high-resolution-original-derived-play-scene-titled-with-smal/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/139-one-high-resolution-original-derived-play-scene-titled-with-smal.png</image:loc>
+      <image:title>One high-resolution original derived-play scene titled with small readable labels: &quot;</image:title>
+      <image:caption>Create one high-resolution original derived-play scene titled with small readable labels: &quot;GPT Image 2 Tilt Gate League&quot;. Asset type: 16:9 landscape walk-through lenticular challenge installation, not a grid, not a contact sheet, not cards...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/140-one-high-resolution-original-gpt-image-use-case-concept-scene-ti/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/140-one-high-resolution-original-gpt-image-use-case-concept-scene-ti.png</image:loc>
+      <image:title>One high-resolution original GPT Image use-case concept scene titled only with small</image:title>
+      <image:caption>Create one high-resolution original GPT Image use-case concept scene titled only with small readable fictional labels: &quot;GPT Image 2 Lenticular Prompt Arcade&quot;. Asset type: 16:9 landscape immersive lenticular flip-panel corridor, not a grid,...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/137-derived-play-grout-route-mosaic-league/</loc>
@@ -2267,13 +2299,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/evaluation/</loc>
+    <loc>https://gptimg2.best/tags/operations/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/operations/</loc>
+    <loc>https://gptimg2.best/tags/evaluation/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -2297,13 +2329,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/ads-marketing/</loc>
+    <loc>https://gptimg2.best/tags/prompt-game/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/prompt-game/</loc>
+    <loc>https://gptimg2.best/tags/ads-marketing/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
