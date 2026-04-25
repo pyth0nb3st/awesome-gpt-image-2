@@ -18,6 +18,92 @@
   },
   "images": [
     {
+      "title": "Derived Play: Dovetail Prompt Fit",
+      "caption": "从榫卯提示样板派生出的嵌合玩法：Tenon Draft、Mortise Lock、Dowel Trade、Clamp Veto、Stamp Check、Finish Swap、Fence Crop、Square Match 和 Wax Score 让提示片段必须物理贴合、文字清晰、来源虚构后才能计分。",
+      "path": "assets/images/174-derived-play-dovetail-prompt-fit.png",
+      "alt": "Diagonal exploded-view wooden tray prototype with dovetail sliders, model blocks, clamp pads, crop fences, finish swatches, tiny fictional output plaques, and wax scoring token",
+      "width": 1536,
+      "height": 1024,
+      "createdAt": "2026-04-26 03:15:48",
+      "batch": "019dc60a-b286-7093-9702-c2d96a41136e",
+      "tags": [
+        "dovetail-prompt-fit",
+        "tenon-draft",
+        "mortise-lock",
+        "dowel-trade",
+        "clamp-veto",
+        "stamp-check",
+        "finish-swap",
+        "fence-crop",
+        "square-match",
+        "wax-score",
+        "batch-019dc60a"
+      ],
+      "prompt": "Create a single polished gallery image for a derived play concept titled Derived Play: Dovetail Prompt Fit. Show a compact tactile tabletop prototype in an open wooden tray, with interlocking harmless model blocks, dovetail sliders, soft mask pads, crop fences, finish swatches, tiny fictional output plaques, a foldout tolerance ribbon, and a wax scoring token. The game mechanism is prompt assembly by physical fit: readable labels should include Tenon Draft, Mortise Lock, Dowel Trade, Clamp Veto, Stamp Check, Finish Swap, Fence Crop, Square Match, and Wax Score. A piece scores only if it fits flush, the stamped word remains readable, three tiny fictional output plaques show the same invented object family from varied angles, and the wax token seals the tray after all source tags are fictional. Diagonal exploded-view macro photograph, warm maple and walnut, brass pins, frosted vellum, graphite tolerance marks, crisp engraved labels, no hands, no active cutting tools, all sample objects fictional and unbranded.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original dovetail prompt-fit game mechanic and prompt generated locally from the Prompt Fit Bench concept. No external prompt, article, image, artwork, repository, brand, character, or case-study source was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Original fictional harmless tabletop joinery-fit prompt game with no real people, brands, public figures, copyrighted characters, sexual content, dangerous operational instructions, active cutting tools, weapons, gore, graphic violence, or political persuasion."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc60a-b286-7093-9702-c2d96a41136e/ig_0f089bbb8cce4cfa0169ed129cc3d88197a57de66fff2afc23.png"
+    },
+    {
+      "title": "Use Case Joinery: Prompt Fit Bench",
+      "caption": "把 GPT Image 2 的提示约束做成榫卯样板箱：Brief Tenon、Context Mortise、Reference Dowel、Mask Clamp、Text Grain Stamp、Style Finish、Aspect Fence、Consistency Square 和 Source Wax 用可嵌合的木块检验图像生成的配合度。",
+      "path": "assets/images/175-use-case-joinery-prompt-fit-bench.png",
+      "alt": "Open miniature maple joinery sample case with mortise and tenon blocks, dovetail slices, soft clamp pads, crop fences, label stamps, tiny output plaques, and wax source tags",
+      "width": 1536,
+      "height": 1024,
+      "createdAt": "2026-04-26 03:14:37",
+      "batch": "019dc60a-b286-7093-9702-c2d96a41136e",
+      "tags": [
+        "prompt-fit-bench",
+        "brief-tenon",
+        "context-mortise",
+        "reference-dowel",
+        "mask-clamp",
+        "text-grain-stamp",
+        "style-finish",
+        "aspect-fence",
+        "consistency-square",
+        "source-wax",
+        "batch-019dc60a"
+      ],
+      "prompt": "Create a single polished gallery image for an original GPT Image 2 use-case concept titled Use Case Joinery: Prompt Fit Bench. Show an oblique top-down tactile miniature joinery sample case in warm maple and walnut, with removable fictional wood blocks, mortise-and-tenon samples, dovetail slices, alignment squares, soft clamp pads, tiny thumbnail proof plaques, label stamps, sliding crop fences, and wax source tags. Use engraved labels for Brief Tenon, Context Mortise, Reference Dowel, Mask Clamp, Text Grain Stamp, Style Finish, Aspect Fence, Consistency Square, and Source Wax. The mechanism should read as prompt variables tested by physical fit and tolerance: edit precision through a removable soft clamp mask, text fidelity through stamped words on scrap blocks, style consistency through finish swatches, aspect control through sliding fences, and provenance through sealed source tags. Include three tiny fictional output plaques showing the same invented object family from different angles. Macro product photography mixed with crisp technical illustration, clean shadows, readable micro-labels, no active cutting tools, no hands, all objects fictional and unbranded.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original joinery-fit prompt-control concept and prompt generated locally from existing-gallery gap analysis. No external prompt, article, image, artwork, repository, brand, character, or case-study source was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Original fictional harmless miniature joinery sample case; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, dangerous operational instructions, weapons, active cutting tools, gore, graphic violence, and living-artist style imitation."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc60a-b286-7093-9702-c2d96a41136e/ig_0f089bbb8cce4cfa0169ed1253076481979516205527388154.png"
+    },
+    {
       "title": "Derived Play: Footwork Prompt Rally",
       "caption": "从 Prompt Choreography Score 派生出的地面节拍玩法：Step Draft、Pivot Steal、Reference Tap、Mask Sidestep、Caption Rest、Tempo Swap、Crop Gate 和 Bow Score 把提示构建变成沿不规则跳格路线移动的计分游戏。",
       "path": "assets/images/172-derived-play-footwork-prompt-rally.png",

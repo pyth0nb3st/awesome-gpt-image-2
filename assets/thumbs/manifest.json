@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/174-derived-play-dovetail-prompt-fit.png": {
+      "path": "assets/thumbs/174-derived-play-dovetail-prompt-fit.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/175-use-case-joinery-prompt-fit-bench.png": {
+      "path": "assets/thumbs/175-use-case-joinery-prompt-fit-bench.jpg",
+      "width": 768,
+      "height": 512
+    },
     "assets/images/172-derived-play-footwork-prompt-rally.png": {
       "path": "assets/thumbs/172-derived-play-footwork-prompt-rally.jpg",
       "width": 768,

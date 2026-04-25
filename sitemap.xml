@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/174-derived-play-dovetail-prompt-fit.png</image:loc>
+      <image:title>Derived Play: Dovetail Prompt Fit</image:title>
+      <image:caption>Create a single polished gallery image for a derived play concept titled Derived Play: Dovetail Prompt Fit. Show a compact tactile tabletop prototype in an open wooden tray, with interlocking harmless model blocks, dovetail sliders, soft m...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/175-use-case-joinery-prompt-fit-bench.png</image:loc>
+      <image:title>Use Case Joinery: Prompt Fit Bench</image:title>
+      <image:caption>Create a single polished gallery image for an original GPT Image 2 use-case concept titled Use Case Joinery: Prompt Fit Bench. Show an oblique top-down tactile miniature joinery sample case in warm maple and walnut, with removable fictiona...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/172-derived-play-footwork-prompt-rally.png</image:loc>
       <image:title>Derived Play: Footwork Prompt Rally</image:title>
       <image:caption>Create an original derived-play image based on the Prompt Choreography Score concept, with no external source inspiration. Derived play concept: Footwork Prompt Rally. Show a playable tabletop-floor hybrid game where players draft image pr...</image:caption>
@@ -847,6 +857,28 @@
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/174-derived-play-dovetail-prompt-fit/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/174-derived-play-dovetail-prompt-fit.png</image:loc>
+      <image:title>Derived Play: Dovetail Prompt Fit</image:title>
+      <image:caption>Create a single polished gallery image for a derived play concept titled Derived Play: Dovetail Prompt Fit. Show a compact tactile tabletop prototype in an open wooden tray, with interlocking harmless model blocks, dovetail sliders, soft m...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/175-use-case-joinery-prompt-fit-bench/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/175-use-case-joinery-prompt-fit-bench.png</image:loc>
+      <image:title>Use Case Joinery: Prompt Fit Bench</image:title>
+      <image:caption>Create a single polished gallery image for an original GPT Image 2 use-case concept titled Use Case Joinery: Prompt Fit Bench. Show an oblique top-down tactile miniature joinery sample case in warm maple and walnut, with removable fictiona...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/172-derived-play-footwork-prompt-rally/</loc>
