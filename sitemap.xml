@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/160-derived-play-bead-balance-bazaar.png</image:loc>
+      <image:title>Derived Play: Bead Balance Bazaar</image:title>
+      <image:caption>Visible title: &quot;Derived Play: Bead Balance Bazaar&quot;. Create a compact handcrafted tabletop skill game photographed from a low oblique angle, 16:9. It is a semicircular bead market tray with tilting rails, bead bowls, tiny balance scales, fe...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/161-use-case-abacus-prompt-bead-ledger.png</image:loc>
+      <image:title>Use Case Abacus: Prompt Bead Ledger</image:title>
+      <image:caption>Visible title: &quot;Use Case Abacus: Prompt Bead Ledger&quot;. Make one freestanding oversized abacus in a quiet fictional design lab, 16:9. The whole picture is a bead-ledger instrument: warm wood frame, ceramic beads, glass counters, brass stops,...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/158-derived-play-droplet-valve-maze.png</image:loc>
       <image:title>Derived Play: Droplet Valve Maze</image:title>
       <image:caption>Create one polished original derived-play concept image for a public GPT Image 2 gallery. Visible title, small and clean: &quot;Derived Play: Droplet Valve Maze&quot; Output format: a close-up oblique photograph of a transparent acrylic maze cartrid...</image:caption>
@@ -777,6 +787,28 @@
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/160-derived-play-bead-balance-bazaar/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/160-derived-play-bead-balance-bazaar.png</image:loc>
+      <image:title>Derived Play: Bead Balance Bazaar</image:title>
+      <image:caption>Visible title: &quot;Derived Play: Bead Balance Bazaar&quot;. Create a compact handcrafted tabletop skill game photographed from a low oblique angle, 16:9. It is a semicircular bead market tray with tilting rails, bead bowls, tiny balance scales, fe...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/161-use-case-abacus-prompt-bead-ledger/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/161-use-case-abacus-prompt-bead-ledger.png</image:loc>
+      <image:title>Use Case Abacus: Prompt Bead Ledger</image:title>
+      <image:caption>Visible title: &quot;Use Case Abacus: Prompt Bead Ledger&quot;. Make one freestanding oversized abacus in a quiet fictional design lab, 16:9. The whole picture is a bead-ledger instrument: warm wood frame, ceramic beads, glass counters, brass stops,...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/158-derived-play-droplet-valve-maze/</loc>

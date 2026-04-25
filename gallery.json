@@ -18,6 +18,92 @@
   },
   "images": [
     {
+      "title": "Derived Play: Bead Balance Bazaar",
+      "caption": "从算盘用例派生出的珠子预算游戏：Draft Row、Cap Phrase、Trade Weight、Letter Toll、Frame Ticket、Echo Tip 和 Seal Pot 把提示调参变成一局可玩的平衡交易。",
+      "path": "assets/images/160-derived-play-bead-balance-bazaar.png",
+      "alt": "Semicircular handcrafted bead balance game with tilting rails, frame tickets, and sealed score cups",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-26 00:35:40",
+      "batch": "019dc578-4d73-7bc2-a560-cf8955095348",
+      "tags": [
+        "bead-balance-bazaar",
+        "draft-row",
+        "cap-phrase",
+        "trade-weight",
+        "letter-toll",
+        "frame-ticket",
+        "echo-tip",
+        "seal-pot",
+        "batch-019dc578"
+      ],
+      "prompt": "Visible title: \"Derived Play: Bead Balance Bazaar\". Create a compact handcrafted tabletop skill game photographed from a low oblique angle, 16:9. It is a semicircular bead market tray with tilting rails, bead bowls, tiny balance scales, felt score cups, and removable square/tall/wide frame tickets. Seven etched rules are visible: Draft Row, Cap Phrase, Trade Weight, Letter Toll, Frame Ticket, Echo Tip, Seal Pot. Play: draft one subject bead row, cap a phrase before it crowds the tray, trade weight beads without tipping the scale, pay a letter toll for tiny wording, pick a frame ticket, correct drift by tipping one rail back, then seal the score pot. No hands or people. It should feel like a new bead economy game, not a normal abacus diagram and not any previous gallery apparatus such as grids, cards, routes, chips, mazes, stages, gardens, kitchens, paper rolls, trays, presses, looms, weather devices, pinball, or kite lines. All content is fictional and rights-safe; avoid unsafe, adult, graphic, political, branded, celebrity, or copyrighted material. No watermark or QR code.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original bead-economy play mechanic and prompt generated locally. OpenAI documentation was consulted only as current GPT Image capability background; no external prompt, image, article, case study, repository, or artwork source was reused."
+      },
+      "promptSources": [
+        {
+          "title": "Image generation | OpenAI API",
+          "url": "https://platform.openai.com/docs/guides/image-generation/",
+          "authorOrPublisher": "OpenAI",
+          "license": "OpenAI website terms; used only for factual capability background, with no prompt text or artwork reused.",
+          "accessedAt": "2026-04-26",
+          "usedAs": "Capability background for GPT Image generation and editing workflows; final bead-bazaar concept, prompt wording, labels, and layout are original."
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "reviewNote": "Original fictional bead-budget tabletop game; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful instructions, weapons, gore, and graphic violence."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc578-4d73-7bc2-a560-cf8955095348/ig_06ecf371cd04264f0169ececcd8a4c8190946a4675b2574fd1.png"
+    },
+    {
+      "title": "Use Case Abacus: Prompt Bead Ledger",
+      "caption": "把 GPT Image 2 的复杂提示变成一架实体算盘：用 Noun Row、Adjective Cap、Weight Bead、Letter Rail、Frame Gate、Echo Check 和 Seal Cup 计算清晰度、细节预算、文字数量、比例选择和来源审计。",
+      "path": "assets/images/161-use-case-abacus-prompt-bead-ledger.png",
+      "alt": "Oversized studio abacus for balancing fictional GPT Image 2 prompt decisions with labeled bead rails",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-26 00:33:18",
+      "batch": "019dc578-4d73-7bc2-a560-cf8955095348",
+      "tags": [
+        "prompt-bead-ledger",
+        "noun-row",
+        "adjective-cap",
+        "weight-bead",
+        "letter-rail",
+        "frame-gate",
+        "echo-check",
+        "seal-cup",
+        "batch-019dc578"
+      ],
+      "prompt": "Visible title: \"Use Case Abacus: Prompt Bead Ledger\". Make one freestanding oversized abacus in a quiet fictional design lab, 16:9. The whole picture is a bead-ledger instrument: warm wood frame, ceramic beads, glass counters, brass stops, tiny engraved tick marks, blank sample tags, and a wax seal cup. Seven rails are labeled Noun Row, Adjective Cap, Weight Bead, Letter Rail, Frame Gate, Echo Check, Seal Cup. Meaning: count the main object, cap excess descriptors, balance visual influence, count short label letters, choose square/tall/wide framing, check whether repeated variants still echo the same idea, then seal source and safety notes. Keep labels sparse. No people, no screens, no real marks. This is not a grid, map, route, chip, maze, stage, garden, kitchen, paper roll, tray, press, loom, weather device, pinball, kite setup, or card layout. All content is fictional and rights-safe; avoid unsafe, adult, graphic, political, branded, celebrity, or copyrighted material. No watermark or QR code.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original abacus-ledger concept and prompt generated locally. OpenAI documentation was consulted only as current GPT Image capability background; no external prompt, image, article, case study, repository, or artwork source was reused."
+      },
+      "promptSources": [
+        {
+          "title": "Image generation | OpenAI API",
+          "url": "https://platform.openai.com/docs/guides/image-generation/",
+          "authorOrPublisher": "OpenAI",
+          "license": "OpenAI website terms; used only for factual capability background, with no prompt text or artwork reused.",
+          "accessedAt": "2026-04-26",
+          "usedAs": "Capability background for GPT Image generation and editing workflows; final bead-ledger concept, prompt wording, labels, and layout are original."
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "reviewNote": "Original fictional bead-ledger instrument; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful instructions, weapons, gore, and graphic violence."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc578-4d73-7bc2-a560-cf8955095348/ig_06ecf371cd04264f0169ecec8de4a881908c60276b0683f222.png"
+    },
+    {
       "title": "Derived Play: Droplet Valve Maze",
       "caption": "从微流控芯片派生出的透明阀门迷宫：玩家 Prime Drop、Valve Veto、Blend Toll、Pause Gate、Split Bet、Backflush Fix，最后用 Crystal Score 冻结安全结果。",
       "path": "assets/images/158-derived-play-droplet-valve-maze.png",

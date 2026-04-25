@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/160-derived-play-bead-balance-bazaar.png": {
+      "path": "assets/thumbs/160-derived-play-bead-balance-bazaar.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/161-use-case-abacus-prompt-bead-ledger.png": {
+      "path": "assets/thumbs/161-use-case-abacus-prompt-bead-ledger.jpg",
+      "width": 768,
+      "height": 432
+    },
     "assets/images/158-derived-play-droplet-valve-maze.png": {
       "path": "assets/thumbs/158-derived-play-droplet-valve-maze.jpg",
       "width": 768,
