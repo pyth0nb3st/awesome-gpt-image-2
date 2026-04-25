@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Awesome GPT Image 2 prompt gallery preview">
+  <defs>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#171512" stroke-opacity=".06" stroke-width="2"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="#f4f0e6"/>
+  <rect width="1200" height="630" fill="url(#grid)"/>
+  <rect x="54" y="54" width="1092" height="522" fill="#fffaf0" stroke="#171512" stroke-width="3"/>
+  <rect x="84" y="84" width="520" height="72" fill="#171512"/>
+  <text x="112" y="131" fill="#fffaf0" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="900" letter-spacing=".8">GPT IMAGE 2 PROMPT GALLERY</text>
+  <text x="84" y="250" fill="#171512" font-family="Georgia, 'Times New Roman', serif" font-size="82" font-weight="900">Awesome</text>
+  <text x="84" y="338" fill="#171512" font-family="Georgia, 'Times New Roman', serif" font-size="82" font-weight="900">GPT Image 2</text>
+  <text x="88" y="395" fill="#655f53" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Reusable prompts and visual play modes.</text>
+  <text x="88" y="438" fill="#655f53" font-family="Arial, Helvetica, sans-serif" font-size="24">Browse generated examples one at a time.</text>
+  <rect x="88" y="486" width="166" height="46" rx="23" fill="#fffaf0" stroke="#006b5f" stroke-width="2"/>
+  <text x="171" y="517" fill="#006b5f" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="900" text-anchor="middle">PROMPTS</text>
+  <rect x="272" y="486" width="144" height="46" rx="23" fill="#fffaf0" stroke="#006b5f" stroke-width="2"/>
+  <text x="344" y="517" fill="#006b5f" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="900" text-anchor="middle">TOPICS</text>
+  <rect x="434" y="486" width="172" height="46" rx="23" fill="#fffaf0" stroke="#006b5f" stroke-width="2"/>
+  <text x="520" y="517" fill="#006b5f" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="900" text-anchor="middle">LUCKY DRAW</text>
+  <g transform="translate(666 94)">
+    <rect x="0" y="0" width="412" height="396" fill="#fdf7ea" stroke="#171512" stroke-width="3"/>
+    <rect x="26" y="24" width="360" height="52" fill="#171512"/>
+    <text x="44" y="58" fill="#fffaf0" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="900">VISUAL EXAMPLES DECK</text>
+    <g font-family="Arial, Helvetica, sans-serif" font-weight="900">
+      <rect x="26" y="102" width="166" height="108" fill="#fffaf0" stroke="#171512" stroke-width="2"/>
+      <rect x="42" y="120" width="46" height="32" fill="#006b5f"/>
+      <rect x="104" y="120" width="66" height="12" fill="#d3c8b5"/>
+      <rect x="104" y="140" width="50" height="12" fill="#d3c8b5"/>
+      <text x="42" y="190" fill="#171512" font-size="18">01</text>
+      <rect x="220" y="102" width="166" height="108" fill="#fffaf0" stroke="#171512" stroke-width="2"/>
+      <circle cx="274" cy="148" r="31" fill="#a04212"/>
+      <rect x="320" y="122" width="42" height="12" fill="#d3c8b5"/>
+      <rect x="320" y="142" width="34" height="12" fill="#d3c8b5"/>
+      <text x="236" y="190" fill="#171512" font-size="18">02</text>
+      <rect x="26" y="238" width="166" height="108" fill="#fffaf0" stroke="#171512" stroke-width="2"/>
+      <path d="M50 318L84 264L118 310L142 282L172 318Z" fill="#214f9a"/>
+      <text x="42" y="326" fill="#171512" font-size="18">03</text>
+      <rect x="220" y="238" width="166" height="108" fill="#fffaf0" stroke="#171512" stroke-width="2"/>
+      <rect x="244" y="260" width="44" height="64" fill="#006b5f"/>
+      <rect x="302" y="260" width="44" height="64" fill="#a04212"/>
+      <rect x="360" y="260" width="12" height="64" fill="#214f9a"/>
+      <text x="236" y="326" fill="#171512" font-size="18">04</text>
+    </g>
+  </g>
+  <text x="84" y="548" fill="#655f53" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="800">gptimg2.best</text>
+  <path d="M1018 546H1106" stroke="#a04212" stroke-width="10"/>
+  <path d="M916 546H1000" stroke="#006b5f" stroke-width="10"/>
+</svg>

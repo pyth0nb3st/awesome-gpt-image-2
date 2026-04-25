@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Awesome GPT Image 2 site icon">
+  <defs>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#171512" stroke-opacity=".08" stroke-width="2"/>
+    </pattern>
+  </defs>
+  <rect width="512" height="512" fill="#f4f0e6"/>
+  <rect width="512" height="512" fill="url(#grid)"/>
+  <rect x="46" y="46" width="420" height="420" fill="#fffaf0" stroke="#171512" stroke-width="12"/>
+  <rect x="76" y="76" width="360" height="64" fill="#171512"/>
+  <rect x="92" y="94" width="72" height="28" fill="#006b5f"/>
+  <rect x="182" y="94" width="72" height="28" fill="#a04212"/>
+  <rect x="272" y="94" width="72" height="28" fill="#214f9a"/>
+  <circle cx="392" cy="108" r="14" fill="#fffaf0"/>
+  <text x="256" y="338" fill="#171512" font-family="Georgia, 'Times New Roman', serif" font-size="178" font-weight="900" letter-spacing="-8" text-anchor="middle">G2</text>
+  <path d="M96 392H416" stroke="#171512" stroke-width="10" stroke-linecap="square"/>
+  <path d="M96 418H288" stroke="#006b5f" stroke-width="10" stroke-linecap="square"/>
+  <path d="M316 418H416" stroke="#a04212" stroke-width="10" stroke-linecap="square"/>
+</svg>
