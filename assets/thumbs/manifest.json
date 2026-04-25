@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/197-derived-play-wardrobe-continuity-relay.png": {
+      "path": "assets/thumbs/197-derived-play-wardrobe-continuity-relay.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/198-use-case-costume-prompt-wardrobe-check.png": {
+      "path": "assets/thumbs/198-use-case-costume-prompt-wardrobe-check.jpg",
+      "width": 768,
+      "height": 1200
+    },
     "assets/images/195-derived-play-cast-brush-rally.png": {
       "path": "assets/thumbs/195-derived-play-cast-brush-rally.jpg",
       "width": 768,

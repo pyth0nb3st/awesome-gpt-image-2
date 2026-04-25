@@ -18,6 +18,92 @@
   },
   "images": [
     {
+      "title": "Derived Play: Wardrobe Continuity Relay",
+      "caption": "从服装连续性检查派生出的旋转衣橱接力：玩家每回合转 Carousel、抽 Silhouette Token、贴 Patch Tile、换 Swatch Coin、过 Mirror Wedge、放 Caption Strip，并用 Hook Match 和 Outfit Echo 检查三个人台钉上的同一虚构探险服是否保持可识别。",
+      "path": "assets/images/197-derived-play-wardrobe-continuity-relay.png",
+      "alt": "Circular miniature wardrobe carousel tabletop relay with eight radial bays, faceless mannequin pegs, cape tiles, cuff rings, sash tokens, embroidered caption strips, swatch coins, mirror wedges, continuity hooks, and safety pocket",
+      "width": 1536,
+      "height": 1024,
+      "createdAt": "2026-04-26 07:11:27",
+      "batch": "019dc6e6-6fcd-7912-862a-40d7d49c72c6",
+      "tags": [
+        "wardrobe-continuity-relay",
+        "carousel-turn",
+        "silhouette-token",
+        "patch-tile",
+        "swatch-coin",
+        "mirror-wedge",
+        "caption-strip",
+        "hook-match",
+        "outfit-echo",
+        "safety-pocket",
+        "batch-019dc6e6"
+      ],
+      "prompt": "Create one polished public-gallery image titled \"Derived Play: Wardrobe Continuity Relay\".\n\nThis is a derived playable mode from Prompt Wardrobe Check, but it must look like a different rules object: a cooperative costume-continuity relay built around a rotating wardrobe carousel, not a fitting alcove, not a single mannequin portrait, not a textile toile, not a dress pattern sheet, not a puppet rig, not a choreography score, not a film stage, not a 2x3 grid, not cards, not a contact sheet, not a catalog cabinet, not a toy latch, not a fossil drawer, not a board game rectangle.\n\nOutput format: one 3:2 overhead-oblique tabletop product photograph of a circular miniature wardrobe carousel on a neutral studio table. The carousel has eight radial wardrobe bays, small faceless mannequin pegs, detachable cape tiles, cuff rings, sash tokens, embroidered label strips, fabric swatch coins, mirror wedges, and three continuity hooks. No people, no hands, no faces. All costume elements are fictional, unbranded, and rights-safe.\n\nPlayable rules shown through objects: players rotate the carousel one bay per turn, draw a Silhouette Token, attach one Patch Tile, trade one Swatch Coin, pass through the Mirror Wedge, place one Caption Strip, and hang matching pieces on the Continuity Hooks. A round scores only when the same invented explorer outfit remains recognizable across three mannequin pegs while one allowed patch edit changes and every caption strip is readable.\n\nReadable short labels on components: Carousel Turn, Silhouette Token, Patch Tile, Swatch Coin, Mirror Wedge, Caption Strip, Hook Match, Outfit Echo, Safety Pocket. Visual language: premium tactile tabletop prototype, warm walnut carousel, ivory mannequin pegs, muted teal cloth, marigold tokens, graphite labels, brass hardware, crisp shadows, playful but sophisticated. Everything is fictional, original, unbranded, rights-safe, non-political, non-adult, non-graphic, and harmless. Avoid real marks, public figures, recognizable characters, celebrity likenesses, living-artist imitation, unsafe instructions, explicit material, graphic harm, and watermarks.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original cooperative wardrobe-continuity relay generated locally from the Prompt Wardrobe Check concept. No external prompt, image, artwork, visual style, brand, character, case-study mechanic, or source image was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Original fictional tabletop wardrobe-carousel relay with faceless mannequin pegs and invented costume pieces only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc6e6-6fcd-7912-862a-40d7d49c72c6/ig_0df388c446a827910169ed49e06fdc81909e534aab47c7520c.png"
+    },
+    {
+      "title": "Use Case Costume: Prompt Wardrobe Check",
+      "caption": "把 GPT Image 2 的提示设计做成虚构舞台服装连续性检查：Silhouette Lock、Reference Swatch、Patch Edit、Caption Embroidery、Material Truth、Scale Mirror、Pose Rail、Continuity Hook 和 Safety Wardrobe 用空人台、镜面标尺、可拆补丁、刺绣文字和材质样卡来评估角色服装是否稳定、可编辑且可读。",
+      "path": "assets/images/198-use-case-costume-prompt-wardrobe-check.png",
+      "alt": "Vertical fashion atelier fitting alcove with an empty mannequin wearing a fictional explorer costume, silhouette lock panel, reference swatches, patch edits, caption embroidery strips, material truth cards, scale mirror, pose rail, continuity hooks, and safety wardrobe pocket",
+      "width": 1003,
+      "height": 1568,
+      "createdAt": "2026-04-26 07:10:22",
+      "batch": "019dc6e6-6fcd-7912-862a-40d7d49c72c6",
+      "tags": [
+        "prompt-wardrobe-check",
+        "silhouette-lock",
+        "reference-swatch",
+        "patch-edit",
+        "caption-embroidery",
+        "material-truth",
+        "scale-mirror",
+        "pose-rail",
+        "continuity-hook",
+        "safety-wardrobe",
+        "batch-019dc6e6"
+      ],
+      "prompt": "Create one polished public-gallery concept image titled \"Use Case Costume: Prompt Wardrobe Check\".\n\nOutput format: a single vertical 4:5 fashion atelier fitting photograph, not a grid, not a contact sheet, not a board game, not a poster, not a textile toile, not a dress pattern sheet, not a puppet rig, not a choreography score, not a film stage, not a product catalog, not a library cabinet, not a courtroom, not an elevator, not a music box, not an optical bench, not a watch, not a greenhouse, not a tasting counter, not a fossil drawer, not a toy latch.\n\nScene: a fictional stage-costume fitting alcove with one empty adjustable mannequin wearing a modular fantasy explorer outfit made from neutral rights-safe shapes: detachable cape panels, sleeve cuffs, utility sash, soft boots, mirrored collar plates, and removable embroidered patches. No people, no faces, no bodies beyond the mannequin form. The set is unbranded and invented.\n\nMechanism: GPT Image 2 prompt design is expressed as wardrobe continuity checking instead of a machine. Show these readable labels as small sewn tabs, mirror labels, and brass tags: Silhouette Lock, Reference Swatch, Patch Edit, Caption Embroidery, Material Truth, Scale Mirror, Pose Rail, Continuity Hook, Safety Wardrobe. The silhouette lock is a translucent outline behind the mannequin; reference swatches sit on a small rail; patch edits are detachable patch zones; caption accuracy is tested by embroidered text tabs; material truth is shown with fabric/metal/leather-like sample cards that are clearly synthetic props; scale mirror is a gridded full-length mirror; pose rail shows three tiny stance markers; continuity hooks hold matching cape and boot pieces.\n\nVisual language: premium editorial atelier photography, warm oak, matte ivory mannequin, graphite mirror grid, muted teal and marigold tags, soft studio light, crisp shallow shadows, tactile close-up detail, short readable labels. Everything is fictional, original, unbranded, rights-safe, non-political, non-adult, non-graphic, and harmless. Avoid real marks, public figures, recognizable characters, celebrity likenesses, living-artist imitation, unsafe instructions, explicit material, graphic harm, and watermarks.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original fictional wardrobe-continuity prompt mechanism generated locally from existing-gallery gap analysis. No external prompt, image, artwork, visual style, brand, character, case-study mechanic, or source image was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Original fictional stage-costume fitting alcove with an empty mannequin and invented explorer outfit only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc6e6-6fcd-7912-862a-40d7d49c72c6/ig_0df388c446a827910169ed499f06348190b2fc44fac6abdf01.png"
+    },
+    {
       "title": "Derived Play: Cast Brush Rally",
       "caption": "从化石发掘块派生出的协作铸模拉力赛：玩家每回合旋转椭圆石膏竞技场，抽 Wedge Draw、放 Brush Token、塞 Void Plug、插 Label Flag、套 Scale Hoop、投 Cast Tray，并用 Timer Notch 和 Source Seal 检查三份铸模是否保留同一虚构 leaf-sprocket。",
       "path": "assets/images/195-derived-play-cast-brush-rally.png",

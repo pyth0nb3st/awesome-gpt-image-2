@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/197-derived-play-wardrobe-continuity-relay.png</image:loc>
+      <image:title>Derived Play: Wardrobe Continuity Relay</image:title>
+      <image:caption>Create one polished public-gallery image titled &quot;Derived Play: Wardrobe Continuity Relay&quot;. This is a derived playable mode from Prompt Wardrobe Check, but it must look like a different rules object: a cooperative costume-continuity relay b...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/198-use-case-costume-prompt-wardrobe-check.png</image:loc>
+      <image:title>Use Case Costume: Prompt Wardrobe Check</image:title>
+      <image:caption>Create one polished public-gallery concept image titled &quot;Use Case Costume: Prompt Wardrobe Check&quot;. Output format: a single vertical 4:5 fashion atelier fitting photograph, not a grid, not a contact sheet, not a board game, not a poster, no...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/195-derived-play-cast-brush-rally.png</image:loc>
       <image:title>Derived Play: Cast Brush Rally</image:title>
       <image:caption>Create one polished public-gallery image titled &quot;Derived Play: Cast Brush Rally&quot;. This is a derived playable mode from Prompt Excavation Block, but it must look like a different rules object: a cooperative timed fossil-casting tabletop cha...</image:caption>
@@ -957,6 +967,28 @@
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/197-derived-play-wardrobe-continuity-relay/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/197-derived-play-wardrobe-continuity-relay.png</image:loc>
+      <image:title>Derived Play: Wardrobe Continuity Relay</image:title>
+      <image:caption>Create one polished public-gallery image titled &quot;Derived Play: Wardrobe Continuity Relay&quot;. This is a derived playable mode from Prompt Wardrobe Check, but it must look like a different rules object: a cooperative costume-continuity relay b...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/198-use-case-costume-prompt-wardrobe-check/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/198-use-case-costume-prompt-wardrobe-check.png</image:loc>
+      <image:title>Use Case Costume: Prompt Wardrobe Check</image:title>
+      <image:caption>Create one polished public-gallery concept image titled &quot;Use Case Costume: Prompt Wardrobe Check&quot;. Output format: a single vertical 4:5 fashion atelier fitting photograph, not a grid, not a contact sheet, not a board game, not a poster, no...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/195-derived-play-cast-brush-rally/</loc>
