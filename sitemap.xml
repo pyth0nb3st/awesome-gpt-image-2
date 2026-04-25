@@ -6,9 +6,9 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://gptimg2.best/assets/images/188-derived-play-stack-slip-syllabus.png</image:loc>
-      <image:title>Derived Play: Stack Slip Syllabus</image:title>
-      <image:caption>Create a single polished gallery image for a derived play concept titled Derived Play: Stack Slip Syllabus. It should be a different artifact from the catalog cabinet: show a compact tabletop game built from upright book-spine tiles, remov...</image:caption>
+      <image:loc>https://gptimg2.best/assets/images/190-derived-play-index-hunt-zine.png</image:loc>
+      <image:title>Derived Play: Index Hunt Zine</image:title>
+      <image:caption>Create a single polished gallery image for a derived play concept titled Derived Play: Index Hunt Zine. It should be a different artifact from the catalog cabinet: show an accordion-fold library zine opened across a shallow reading tray, w...</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://gptimg2.best/assets/images/189-use-case-library-prompt-catalog-cabinet.png</image:loc>
@@ -929,14 +929,14 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/prompts/188-derived-play-stack-slip-syllabus/</loc>
+    <loc>https://gptimg2.best/prompts/190-derived-play-index-hunt-zine/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
-      <image:loc>https://gptimg2.best/assets/images/188-derived-play-stack-slip-syllabus.png</image:loc>
-      <image:title>Derived Play: Stack Slip Syllabus</image:title>
-      <image:caption>Create a single polished gallery image for a derived play concept titled Derived Play: Stack Slip Syllabus. It should be a different artifact from the catalog cabinet: show a compact tabletop game built from upright book-spine tiles, remov...</image:caption>
+      <image:loc>https://gptimg2.best/assets/images/190-derived-play-index-hunt-zine.png</image:loc>
+      <image:title>Derived Play: Index Hunt Zine</image:title>
+      <image:caption>Create a single polished gallery image for a derived play concept titled Derived Play: Index Hunt Zine. It should be a different artifact from the catalog cabinet: show an accordion-fold library zine opened across a shallow reading tray, w...</image:caption>
     </image:image>
   </url>
   <url>
@@ -3070,12 +3070,6 @@
   </url>
   <url>
     <loc>https://gptimg2.best/tags/crop-gate/</loc>
-    <lastmod>2026-04-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gptimg2.best/tags/crop-shelf/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>

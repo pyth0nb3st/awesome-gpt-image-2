@@ -67,26 +67,27 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 
 ### Latest Play Tags
 
-- `stack-slip-syllabus` - Derived Play: Stack Slip Syllabus
-- `stack-draft` - Derived Play: Stack Slip Syllabus
-- `call-slip` - Derived Play: Stack Slip Syllabus
-- `heading-wheel` - Derived Play: Stack Slip Syllabus
-- `checkout-pocket` - Derived Play: Stack Slip Syllabus
-- `crop-shelf` - Derived Play: Stack Slip Syllabus
-- `bookend-clamp` - Derived Play: Stack Slip Syllabus
-- `spine-caption` - Derived Play: Stack Slip Syllabus
-- `jacket-wrap` - Derived Play: Stack Slip Syllabus
-- `revision-stamp` - Derived Play: Stack Slip Syllabus
-- `overdue-drift` - Derived Play: Stack Slip Syllabus
-- `retrieval-proof` - Derived Play: Stack Slip Syllabus
+- `index-hunt-zine` - Derived Play: Index Hunt Zine
+- `shelfmark-tab` - Derived Play: Index Hunt Zine
+- `citation-ribbon` - Derived Play: Index Hunt Zine
+- `margin-lens` - Derived Play: Index Hunt Zine
+- `return-pocket` - Derived Play: Index Hunt Zine
+- `errata-flap` - Derived Play: Index Hunt Zine
+- `concordance-strip` - Derived Play: Index Hunt Zine
+- `folio-gate` - Derived Play: Index Hunt Zine
+- `quiet-rule` - Derived Play: Index Hunt Zine
+- `index-proof` - Derived Play: Index Hunt Zine
 - `prompt-catalog-cabinet` - Use Case Library: Prompt Catalog Cabinet
 - `seed-call-number` - Use Case Library: Prompt Catalog Cabinet
 - `subject-heading` - Use Case Library: Prompt Catalog Cabinet
 - `reference-accession` - Use Case Library: Prompt Catalog Cabinet
 - `mask-checkout` - Use Case Library: Prompt Catalog Cabinet
+- `crop-shelf` - Use Case Library: Prompt Catalog Cabinet
 - `caption-spine` - Use Case Library: Prompt Catalog Cabinet
 - `aspect-bookend` - Use Case Library: Prompt Catalog Cabinet
 - `style-jacket` - Use Case Library: Prompt Catalog Cabinet
+- `revision-stamp` - Use Case Library: Prompt Catalog Cabinet
+- `retrieval-proof` - Use Case Library: Prompt Catalog Cabinet
 - `prism-split-draft` - Derived Play: Prism Split Draft
 - `beam-draft` - Derived Play: Prism Split Draft
 - `prism-split` - Derived Play: Prism Split Draft
@@ -102,7 +103,6 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `seed-collimator` - Use Case Optics: Prompt Refraction Bench
 - `reference-mirror` - Use Case Optics: Prompt Refraction Bench
 - `filter-slide` - Use Case Optics: Prompt Refraction Bench
-- `mask-aperture` - Use Case Optics: Prompt Refraction Bench
 
 <details>
 <summary>All generated tags</summary>
@@ -131,7 +131,6 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `sound-to-scene` (3)
 - `caseback-seal` (2)
 - `crop-gate` (2)
-- `crop-shelf` (2)
 - `photorealistic-natural` (2)
 - `silence-mask` (2)
 - `ui-fiction-simulator` (2)
@@ -169,7 +168,6 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `blend-toll` (1)
 - `bloom-format-frame` (1)
 - `bloom-frame` (1)
-- `bookend-clamp` (1)
 - `border-context-locks` (1)
 - `boundary-edit` (1)
 - `brand-multiverse` (1)
@@ -185,7 +183,6 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `cable-route-draft` (1)
 - `calendar-scene-forge` (1)
 - `call-draft` (1)
-- `call-slip` (1)
 - `camera-blocking-rehearsal` (1)
 - `canon-align` (1)
 - `cap-phrase` (1)
@@ -212,9 +209,9 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `castle-context` (1)
 - `catalog-transformer` (1)
 - `checkmate-prompt-relay` (1)
-- `checkout-pocket` (1)
 - `checksum-badge` (1)
 - `chime-flag` (1)
+- `citation-ribbon` (1)
 - `clamp-veto` (1)
 - `clause-move` (1)
 - `clock-bid` (1)
@@ -223,6 +220,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `color-umami` (1)
 - `comb-render` (1)
 - `compression-swatch-proof` (1)
+- `concordance-strip` (1)
 - `conflict-fuse` (1)
 - `constraint-auction` (1)
 - `constraint-mixer` (1)
@@ -252,6 +250,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `crop-iris` (1)
 - `crop-loom-race` (1)
 - `crop-ruling` (1)
+- `crop-shelf` (1)
 - `crop-window` (1)
 - `crown-context` (1)
 - `crown-set` (1)
@@ -290,6 +289,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `elevator-key-hop` (1)
 - `entrance-seed` (1)
 - `errand-reality-lock` (1)
+- `errata-flap` (1)
 - `escapement-edit` (1)
 - `evidence-garden` (1)
 - `exhibit-seed` (1)
@@ -314,6 +314,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `floor-brief` (1)
 - `focus-card` (1)
 - `focus-tape-swap` (1)
+- `folio-gate` (1)
 - `footwork-prompt-rally` (1)
 - `fork-release` (1)
 - `format-faultline` (1)
@@ -350,7 +351,6 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `gust-token-twist` (1)
 - `halo-keep` (1)
 - `harvest-judge` (1)
-- `heading-wheel` (1)
 - `hue-bet` (1)
 - `hue-fill` (1)
 - `humidity-lock` (1)
@@ -358,6 +358,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `ice-core-relay` (1)
 - `icon-object-crosswalk` (1)
 - `identity-room-key` (1)
+- `index-hunt-zine` (1)
 - `ink-pass-poker` (1)
 - `ink-separation-remix` (1)
 - `interior-style-matrix` (1)
@@ -399,6 +400,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `maid-cart-fix` (1)
 - `maid-patch-cart` (1)
 - `mainspring-subject` (1)
+- `margin-lens` (1)
 - `margin-multiball` (1)
 - `mascot-mood-notes` (1)
 - `mask-aftershock` (1)
@@ -574,6 +576,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `restoration-what-if` (1)
 - `retake-bell` (1)
 - `retake-slip` (1)
+- `return-pocket` (1)
 - `ridge-draft` (1)
 - `rights-safe-forme-lock` (1)
 - `rights-safe-starfield-swap` (1)
@@ -614,6 +617,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `shadow-wager` (1)
 - `shaft-crop` (1)
 - `shelf-spec-poker` (1)
+- `shelfmark-tab` (1)
 - `shot-list-rescue` (1)
 - `shutter-mask` (1)
 - `shuttle-order-draft` (1)
@@ -630,10 +634,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `source-seal` (1)
 - `spec-to-shelf-prototype` (1)
 - `spill-tax` (1)
-- `spine-caption` (1)
 - `split-bet` (1)
-- `stack-draft` (1)
-- `stack-slip-syllabus` (1)
 - `stamp-check` (1)
 - `state-lock` (1)
 - `step-draft` (1)
@@ -754,19 +755,19 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 
 ## Prompt Gallery
 
-### 001. Derived Play: Stack Slip Syllabus
+### 001. Derived Play: Index Hunt Zine
 
-![Derived Play: Stack Slip Syllabus](assets/images/188-derived-play-stack-slip-syllabus.png)
+![Derived Play: Index Hunt Zine](assets/images/190-derived-play-index-hunt-zine.png)
 
-**Tags:** `bookend-clamp` `call-slip` `checkout-pocket` `crop-shelf` `heading-wheel` `spine-caption` `stack-draft` `stack-slip-syllabus`
+**Tags:** `citation-ribbon` `concordance-strip` `errata-flap` `folio-gate` `index-hunt-zine` `margin-lens` `return-pocket` `shelfmark-tab`
 
-**Prompt excerpt:** Create a single polished gallery image for a derived play concept titled Derived Play: Stack Slip Syllabus. It should be a different artifact from the catalog cabinet: show a compact tabletop game built from upright book-spine tiles, remov...
+**Prompt excerpt:** Create a single polished gallery image for a derived play concept titled Derived Play: Index Hunt Zine. It should be a different artifact from the catalog cabinet: show an accordion-fold library zine opened across a shallow reading tray, w...
 
 <details>
 <summary>Full prompt</summary>
 
 ```text
-Create a single polished gallery image for a derived play concept titled Derived Play: Stack Slip Syllabus. It should be a different artifact from the catalog cabinet: show a compact tabletop game built from upright book-spine tiles, removable call-number slips, a rotating subject-heading wheel, checkout pocket sleeves, thin crop shelf frames, aspect bookend clamps, caption spine stickers, style jacket wraps, revision stamp tokens, overdue drift markers, and three small retrieval proof drawers. Avoid board grids, contact sheets, route maps, elevator queues, courtroom games, music-box stations, prism games, and 2x3 panels. Gameplay mechanism: players draft one book-spine tile into the stack, assign it a call-number slip, rotate the subject-heading wheel once, tuck one unwanted detail into a checkout pocket, clamp the crop shelf and aspect bookends, apply exactly one caption spine sticker and one style jacket wrap, then stamp a revision token; they score only when the retrieval proof drawers all return the same invented silver acorn key while overdue drift markers stay below the limit. Readable labels should include Stack Draft, Call Slip, Heading Wheel, Checkout Pocket, Crop Shelf, Bookend Clamp, Spine Caption, Jacket Wrap, Revision Stamp, Overdue Drift, and Retrieval Proof. Output format: crisp product photo of a harmless fictional library-stacking prompt game with vertical book tiles, brass clips, paper sleeves, tiny drawers, readable labels, no people, no hands, no logos, no real brands, no public figures, no copyrighted characters, no political content, no harmful instructions, no weapons, no gore, no sexual content, no living artist style imitation.
+Create a single polished gallery image for a derived play concept titled Derived Play: Index Hunt Zine. It should be a different artifact from the catalog cabinet: show an accordion-fold library zine opened across a shallow reading tray, with stitched paper hinges, shelfmark tabs, citation ribbons threaded through page slits, a transparent margin lens bookmark, tiny return-pocket envelopes, errata flaps, concordance strips, folio gate windows, and a final quiet-rule bookmark. Avoid board grids, contact sheets, route maps, drafting games, token scoring tracks, prism hubs, elevator queues, courtroom benches, music-box stations, and 2x3 panels. Play mechanism: one player secretly files a fictional silver acorn key across five zine pages as shelfmark clues; the next player moves the margin lens bookmark page by page, opens only one errata flap per page, threads citation ribbons through matching slits, and must make the concordance strip reveal the same object without using any extra clues. The interaction tests prompt traceability, caption legibility, exclusion notes, crop windows, aspect folds, and style drift through a physical index hunt rather than a drafting board. Readable labels should include Shelfmark Tab, Citation Ribbon, Margin Lens, Return Pocket, Errata Flap, Concordance Strip, Folio Gate, Quiet Rule, and Index Proof. Output format: premium macro photograph of a harmless fictional fold-out paper zine in a wooden reading tray, crisp readable labels, cream paper, colored thread ribbons, no people, no hands, no logos, no real brands, no public figures, no copyrighted characters, no political content, no harmful instructions, no weapons, no gore, no sexual content, no living artist style imitation.
 ```
 
 </details>

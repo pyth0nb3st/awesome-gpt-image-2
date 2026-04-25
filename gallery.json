@@ -18,34 +18,32 @@
   },
   "images": [
     {
-      "title": "Derived Play: Stack Slip Syllabus",
-      "caption": "从编目柜派生出的书架堆叠玩法：Stack Draft、Call Slip、Heading Wheel、Checkout Pocket、Crop Shelf、Bookend Clamp、Spine Caption、Jacket Wrap、Revision Stamp、Overdue Drift 和 Retrieval Proof 把 prompt 变成一次归档、夹持、贴脊标和三抽屉检索。",
-      "path": "assets/images/188-derived-play-stack-slip-syllabus.png",
-      "alt": "Library-stacking prompt game with upright book-spine tiles, call slips, heading wheel, checkout pocket, crop shelf, bookend clamps, spine captions, jacket wraps, revision stamps, overdue drift markers, and retrieval proof drawers",
+      "title": "Derived Play: Index Hunt Zine",
+      "caption": "从编目柜派生出的折页索引寻宝玩法：Shelfmark Tab、Citation Ribbon、Margin Lens、Return Pocket、Errata Flap、Concordance Strip、Folio Gate、Quiet Rule 和 Index Proof 把 prompt 追踪性变成穿线、翻页、开窗和一条索引证明。",
+      "path": "assets/images/190-derived-play-index-hunt-zine.png",
+      "alt": "Accordion-fold library zine in a reading tray with shelfmark tabs, citation ribbons, margin lens bookmark, return pocket, errata flaps, concordance strip, folio gate windows, quiet rule bookmark, and index proof",
       "width": 1536,
       "height": 1024,
-      "createdAt": "2026-04-26 05:31:58",
+      "createdAt": "2026-04-26 05:36:21",
       "batch": "019dc68a-e1cf-7ca0-b11e-072f35e17a20",
       "tags": [
-        "stack-slip-syllabus",
-        "stack-draft",
-        "call-slip",
-        "heading-wheel",
-        "checkout-pocket",
-        "crop-shelf",
-        "bookend-clamp",
-        "spine-caption",
-        "jacket-wrap",
-        "revision-stamp",
-        "overdue-drift",
-        "retrieval-proof",
+        "index-hunt-zine",
+        "shelfmark-tab",
+        "citation-ribbon",
+        "margin-lens",
+        "return-pocket",
+        "errata-flap",
+        "concordance-strip",
+        "folio-gate",
+        "quiet-rule",
+        "index-proof",
         "batch-019dc68a"
       ],
-      "prompt": "Create a single polished gallery image for a derived play concept titled Derived Play: Stack Slip Syllabus. It should be a different artifact from the catalog cabinet: show a compact tabletop game built from upright book-spine tiles, removable call-number slips, a rotating subject-heading wheel, checkout pocket sleeves, thin crop shelf frames, aspect bookend clamps, caption spine stickers, style jacket wraps, revision stamp tokens, overdue drift markers, and three small retrieval proof drawers. Avoid board grids, contact sheets, route maps, elevator queues, courtroom games, music-box stations, prism games, and 2x3 panels. Gameplay mechanism: players draft one book-spine tile into the stack, assign it a call-number slip, rotate the subject-heading wheel once, tuck one unwanted detail into a checkout pocket, clamp the crop shelf and aspect bookends, apply exactly one caption spine sticker and one style jacket wrap, then stamp a revision token; they score only when the retrieval proof drawers all return the same invented silver acorn key while overdue drift markers stay below the limit. Readable labels should include Stack Draft, Call Slip, Heading Wheel, Checkout Pocket, Crop Shelf, Bookend Clamp, Spine Caption, Jacket Wrap, Revision Stamp, Overdue Drift, and Retrieval Proof. Output format: crisp product photo of a harmless fictional library-stacking prompt game with vertical book tiles, brass clips, paper sleeves, tiny drawers, readable labels, no people, no hands, no logos, no real brands, no public figures, no copyrighted characters, no political content, no harmful instructions, no weapons, no gore, no sexual content, no living artist style imitation.",
+      "prompt": "Create a single polished gallery image for a derived play concept titled Derived Play: Index Hunt Zine. It should be a different artifact from the catalog cabinet: show an accordion-fold library zine opened across a shallow reading tray, with stitched paper hinges, shelfmark tabs, citation ribbons threaded through page slits, a transparent margin lens bookmark, tiny return-pocket envelopes, errata flaps, concordance strips, folio gate windows, and a final quiet-rule bookmark. Avoid board grids, contact sheets, route maps, drafting games, token scoring tracks, prism hubs, elevator queues, courtroom benches, music-box stations, and 2x3 panels. Play mechanism: one player secretly files a fictional silver acorn key across five zine pages as shelfmark clues; the next player moves the margin lens bookmark page by page, opens only one errata flap per page, threads citation ribbons through matching slits, and must make the concordance strip reveal the same object without using any extra clues. The interaction tests prompt traceability, caption legibility, exclusion notes, crop windows, aspect folds, and style drift through a physical index hunt rather than a drafting board. Readable labels should include Shelfmark Tab, Citation Ribbon, Margin Lens, Return Pocket, Errata Flap, Concordance Strip, Folio Gate, Quiet Rule, and Index Proof. Output format: premium macro photograph of a harmless fictional fold-out paper zine in a wooden reading tray, crisp readable labels, cream paper, colored thread ribbons, no people, no hands, no logos, no real brands, no public figures, no copyrighted characters, no political content, no harmful instructions, no weapons, no gore, no sexual content, no living artist style imitation.",
       "provenance": {
         "status": "original_generated",
         "origin": "local_codex_revised_prompt",
-        "sourceNote": "Original library-stacking prompt game mechanic generated locally from the Prompt Catalog Cabinet concept. No external prompt, article, image, artwork, repository, brand, character, or case-study source was used."
+        "sourceNote": "Original accordion-zine index-hunt prompt game mechanic generated locally from the Prompt Catalog Cabinet concept after rejecting a similar-warning draft. No external prompt, article, image, artwork, repository, brand, character, or case-study source was used."
       },
       "promptSources": [],
       "contentSafety": {
@@ -58,9 +56,9 @@
           "No graphic violence, gore, torture, or dismemberment.",
           "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
         ],
-        "reviewNote": "Original fictional harmless no-people library-stacking tabletop game with invented silver acorn key proof drawers only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
+        "reviewNote": "Original fictional harmless no-people fold-out library zine game with invented silver acorn key index proof only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
-      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc68a-e1cf-7ca0-b11e-072f35e17a20/ig_0507aaa337c0531b0169ed3288230c81979725afcb19e16942.png"
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc68a-e1cf-7ca0-b11e-072f35e17a20/ig_0507aaa337c0531b0169ed338665c8819788705389ebc4816b.png"
     },
     {
       "title": "Use Case Library: Prompt Catalog Cabinet",
