@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/097-use-case-stylized-concept.png</image:loc>
+      <image:title>Use case: stylized-concept</image:title>
+      <image:caption>Use case: stylized-concept Asset type: 3x2 game-mode board for a GPT Image 2 prompt gallery Primary request: Derive six playful game mechanics from the practical use cases in the previous board. Make each panel look like a complete tableto...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/098-use-case-productivity-visual.png</image:loc>
+      <image:title>Use case: productivity-visual</image:title>
+      <image:caption>Use case: productivity-visual Asset type: 3x2 visual playbook contact sheet for a GPT Image 2 prompt gallery Primary request: Create six distinct, newly invented GPT Image 2 use-case cards that demonstrate high-fidelity input handling, pre...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/095-use-case-stylized-concept.png</image:loc>
       <image:title>Use case: stylized-concept</image:title>
       <image:caption>Use case: stylized-concept Asset type: GPT Image 2 gallery derived play modes board, 2K landscape contact sheet Primary request: Create a second polished 3x2 contact sheet of six NEW game-like play mechanics derived from the companion Imag...</image:caption>
@@ -497,6 +507,28 @@
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/097-use-case-stylized-concept/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/097-use-case-stylized-concept.png</image:loc>
+      <image:title>Use case: stylized-concept</image:title>
+      <image:caption>Use case: stylized-concept Asset type: 3x2 game-mode board for a GPT Image 2 prompt gallery Primary request: Derive six playful game mechanics from the practical use cases in the previous board. Make each panel look like a complete tableto...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/098-use-case-productivity-visual/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/098-use-case-productivity-visual.png</image:loc>
+      <image:title>Use case: productivity-visual</image:title>
+      <image:caption>Use case: productivity-visual Asset type: 3x2 visual playbook contact sheet for a GPT Image 2 prompt gallery Primary request: Create six distinct, newly invented GPT Image 2 use-case cards that demonstrate high-fidelity input handling, pre...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/095-use-case-stylized-concept/</loc>
@@ -1609,13 +1641,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/education/</loc>
+    <loc>https://gptimg2.best/tags/interior-design/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/interior-design/</loc>
+    <loc>https://gptimg2.best/tags/education/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>

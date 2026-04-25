@@ -6,6 +6,40 @@
   "images": [
     {
       "title": "Use case: stylized-concept",
+      "caption": "历史生成图，批次 019dc32d-cd0c-70d1-8ab4-d4e2accb257f，生成时间 2026-04-25 13:54:22。",
+      "path": "assets/images/097-use-case-stylized-concept.png",
+      "alt": "Generated image ig_0dfe0a7af7e490c90169ec567624588197bb7215efe5c75cca",
+      "width": 1536,
+      "height": 1024,
+      "createdAt": "2026-04-25 13:54:22",
+      "batch": "019dc32d-cd0c-70d1-8ab4-d4e2accb257f",
+      "tags": [
+        "historical-import",
+        "prompt-recovered",
+        "batch-019dc32d"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: 3x2 game-mode board for a GPT Image 2 prompt gallery\nPrimary request: Derive six playful game mechanics from the practical use cases in the previous board. Make each panel look like a complete tabletop or party-game prototype that people could actually play with generated images.\nPanel titles and scenes:\n1. Material Guessing League — players inspect object variants and place tokens guessing material, cost, weight, and durability without seeing the prompt.\n2. Plant Doctor Speedrun — teams diagnose generated plant evidence cards before a timer runs out, matching symptom tiles to care-plan tiles.\n3. Clause Boss Battle — scary contract phrases become monsters; players defeat them with negotiation, safeguard, and plain-language rewrite cards.\n4. Bookmark Dungeon Crawl — a bookmark list becomes a tiny dungeon map; players navigate rooms by reconstructing the original categories from visual clues.\n5. Legibility Gauntlet — the same event title appears on shrinking media pieces; players score text readability, hierarchy, and brand-free consistency.\n6. Aging Timeline Poker — players arrange generated object-aging cards in the right sequence and bet on which details stayed consistent.\nStyle: tactile board-game photography plus polished concept art, colorful tokens, dice, cards, miniatures, score tracks, warm table lighting, varied materials, crisp typography only for the six panel titles and simple game labels.\nComposition: six equal panels in a clean 3x2 grid, no nested cards beyond game components, no logos, no brands, no watermark, no visible instructions paragraph.\nQuality: high detail, playful but professional, balanced color variety, each game visually distinct and immediately understandable.",
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc32d-cd0c-70d1-8ab4-d4e2accb257f/ig_0dfe0a7af7e490c90169ec567624588197bb7215efe5c75cca.png"
+    },
+    {
+      "title": "Use case: productivity-visual",
+      "caption": "历史生成图，批次 019dc32d-cd0c-70d1-8ab4-d4e2accb257f，生成时间 2026-04-25 13:51:51。",
+      "path": "assets/images/098-use-case-productivity-visual.png",
+      "alt": "Generated image ig_0dfe0a7af7e490c90169ec55c184408197b4f03ad7094147b6",
+      "width": 1536,
+      "height": 1024,
+      "createdAt": "2026-04-25 13:51:51",
+      "batch": "019dc32d-cd0c-70d1-8ab4-d4e2accb257f",
+      "tags": [
+        "historical-import",
+        "prompt-recovered",
+        "batch-019dc32d"
+      ],
+      "prompt": "Use case: productivity-visual\nAsset type: 3x2 visual playbook contact sheet for a GPT Image 2 prompt gallery\nPrimary request: Create six distinct, newly invented GPT Image 2 use-case cards that demonstrate high-fidelity input handling, precise text/layout rendering, controlled variation, and multi-step visual thinking. Each panel should feel like a polished example image, not an instruction page.\nPanel titles and scenes:\n1. Texture Passport Lab — the same simple chair silhouette rendered as walnut, translucent resin, brushed steel, quilted fabric, cork, and recycled plastic, arranged like a material sample passport with tiny swatches.\n2. Plant Clinic Evidence Board — a houseplant diagnosis board with macro leaf closeups, symptom pins, watering timeline, care icons, and a calm before/after recovery preview.\n3. Tiny Legal Risk Map — a playful visual audit of a short contract clause, with highlighted phrases becoming hazard signs, shields, negotiation tokens, and plain-language side notes.\n4. Memory Palace From Bookmarks — a browser bookmark list transformed into a navigable miniature library room where shelves, doors, and desk objects represent saved links.\n5. Event Poster Stress Lab — one short event title tested across poster, ticket, wristband, projection screen, and phone lock screen, checking legibility and layout consistency.\n6. Object Aging Forecast — one everyday backpack shown new, one year used, repaired, rain-soaked, sun-faded, and archived, preserving shape and brand-free details.\nStyle: premium editorial collage, crisp realistic miniatures mixed with clean interface-like labels, varied colors across panels, no single-hue palette, high detail, professional lighting.\nText constraints: render only the six panel titles exactly as listed; avoid tiny unreadable paragraphs; no logos, no brands, no watermark.\nComposition: six equal panels in a clean 3x2 grid, each panel visually different, balanced margins, print-quality contact sheet.",
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc32d-cd0c-70d1-8ab4-d4e2accb257f/ig_0dfe0a7af7e490c90169ec55c184408197b4f03ad7094147b6.png"
+    },
+    {
+      "title": "Use case: stylized-concept",
       "caption": "历史生成图，批次 019dc28c-6d98-78d2-971c-80ff7c682854，生成时间 2026-04-25 10:57:46。",
       "path": "assets/images/095-use-case-stylized-concept.png",
       "alt": "Generated image ig_071d373895ea5d0c0169ec2cf690e0819aae1a001a9ccf672e",
