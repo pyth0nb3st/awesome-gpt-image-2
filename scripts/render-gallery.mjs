@@ -35,7 +35,7 @@ const cards = data.images
     const search = [title, image.caption, image.prompt, ...tags].join(" ").toLowerCase();
 
     return `        <article class="card" id="prompt-${index + 1}" data-search="${escapeAttribute(search)}" data-tags="${escapeAttribute(tags.join(" "))}">
-          <a class="image-link" href="${escapeAttribute(image.path)}" target="_blank" rel="noreferrer" aria-label="Open full image for ${escapeAttribute(title)}">
+          <a class="image-link" href="${escapeAttribute(image.path)}" data-modal-image data-title="${escapeAttribute(title)}" data-caption="${escapeAttribute(image.caption)}" aria-label="Open image preview for ${escapeAttribute(title)}">
             <img loading="${index < 3 ? "eager" : "lazy"}" ${index === 0 ? 'fetchpriority="high"' : ""} src="${escapeAttribute(image.path)}" alt="${escapeAttribute(`${title}. Tags: ${tags.join(", ")}.`)}" width="${image.width}" height="${image.height}" />
           </a>
           <div class="content">
@@ -106,6 +106,10 @@ const html = `<!doctype html>
         color: var(--ink);
         font-family: ui-serif, Georgia, Cambria, "Times New Roman", serif;
         line-height: 1.55;
+      }
+
+      body.modal-open {
+        overflow: hidden;
       }
 
       a { color: inherit; }
@@ -309,6 +313,7 @@ const html = `<!doctype html>
         display: block;
         background: #e9dfca;
         border-bottom: 1px solid var(--ink);
+        cursor: zoom-in;
       }
 
       .image-link img {
@@ -317,6 +322,79 @@ const html = `<!doctype html>
         aspect-ratio: 3 / 2;
         height: auto;
         object-fit: cover;
+      }
+
+      .image-modal[hidden] {
+        display: none;
+      }
+
+      .image-modal {
+        position: fixed;
+        inset: 0;
+        z-index: 100;
+        display: grid;
+        place-items: center;
+        padding: clamp(14px, 4vw, 36px);
+      }
+
+      .modal-backdrop {
+        position: absolute;
+        inset: 0;
+        border: 0;
+        background: rgba(20, 17, 12, 0.78);
+        cursor: zoom-out;
+      }
+
+      .modal-panel {
+        position: relative;
+        z-index: 1;
+        display: grid;
+        gap: 12px;
+        width: min(1160px, 100%);
+        max-height: calc(100vh - 28px);
+        border: 1px solid color-mix(in srgb, var(--paper) 46%, var(--ink));
+        background: var(--panel);
+        padding: clamp(12px, 2vw, 18px);
+        box-shadow: 0 28px 90px rgba(20, 17, 12, 0.45);
+      }
+
+      .modal-close {
+        justify-self: end;
+        border: 1px solid var(--ink);
+        background: var(--ink);
+        color: var(--panel);
+        cursor: pointer;
+        padding: 8px 12px;
+        font: 900 12px ui-sans-serif, system-ui, sans-serif;
+        text-transform: uppercase;
+      }
+
+      .modal-figure {
+        display: grid;
+        gap: 10px;
+        min-height: 0;
+        margin: 0;
+      }
+
+      .modal-figure img {
+        display: block;
+        width: 100%;
+        max-height: min(74vh, 840px);
+        object-fit: contain;
+        background: #e9dfca;
+      }
+
+      .modal-figure figcaption {
+        display: grid;
+        gap: 3px;
+        color: var(--muted);
+        font-family: ui-sans-serif, system-ui, sans-serif;
+        font-size: 13px;
+      }
+
+      .modal-figure strong {
+        color: var(--ink);
+        font-size: 15px;
       }
 
       .content {
@@ -473,13 +551,31 @@ ${cards}
         <span>SEO basics included: canonical URL, descriptive image alt text, structured data, sitemap.xml, robots.txt, and prompt text in server-rendered HTML.</span>
       </footer>
     </main>
+    <div class="image-modal" id="image-modal" role="dialog" aria-modal="true" aria-labelledby="modal-title" hidden>
+      <button class="modal-backdrop" type="button" data-modal-close aria-label="Close image preview"></button>
+      <div class="modal-panel">
+        <button class="modal-close" type="button" data-modal-close>Close</button>
+        <figure class="modal-figure">
+          <img id="modal-image" alt="" />
+          <figcaption>
+            <strong id="modal-title"></strong>
+            <span id="modal-caption"></span>
+          </figcaption>
+        </figure>
+      </div>
+    </div>
 
     <script>
       const search = document.querySelector("#search");
       const cards = [...document.querySelectorAll(".card")];
       const tagButtons = [...document.querySelectorAll(".tag-filter")];
       const visibleCount = document.querySelector("#visible-count");
+      const modal = document.querySelector("#image-modal");
+      const modalImage = document.querySelector("#modal-image");
+      const modalTitle = document.querySelector("#modal-title");
+      const modalCaption = document.querySelector("#modal-caption");
       let activeTag = "";
+      let lastTrigger = null;
 
       const filterCards = () => {
         const query = search.value.trim().toLowerCase();
@@ -507,6 +603,39 @@ ${cards}
           filterCards();
         });
       }
+
+      const closeModal = () => {
+        modal.hidden = true;
+        document.body.classList.remove("modal-open");
+        modalImage.removeAttribute("src");
+        if (lastTrigger) {
+          lastTrigger.focus();
+        }
+      };
+
+      for (const link of document.querySelectorAll("[data-modal-image]")) {
+        link.addEventListener("click", (event) => {
+          event.preventDefault();
+          lastTrigger = link;
+          modalImage.src = link.href;
+          modalImage.alt = link.querySelector("img")?.alt ?? "";
+          modalTitle.textContent = link.dataset.title ?? "";
+          modalCaption.textContent = link.dataset.caption ?? "";
+          modal.hidden = false;
+          document.body.classList.add("modal-open");
+          modal.querySelector(".modal-close").focus();
+        });
+      }
+
+      for (const button of document.querySelectorAll("[data-modal-close]")) {
+        button.addEventListener("click", closeModal);
+      }
+
+      document.addEventListener("keydown", (event) => {
+        if (event.key === "Escape" && !modal.hidden) {
+          closeModal();
+        }
+      });
     </script>
   </body>
 </html>

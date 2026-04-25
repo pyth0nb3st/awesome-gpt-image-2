@@ -52,6 +52,10 @@
         line-height: 1.55;
       }
 
+      body.modal-open {
+        overflow: hidden;
+      }
+
       a { color: inherit; }
 
       .skip-link {
@@ -253,6 +257,7 @@
         display: block;
         background: #e9dfca;
         border-bottom: 1px solid var(--ink);
+        cursor: zoom-in;
       }
 
       .image-link img {
@@ -261,6 +266,79 @@
         aspect-ratio: 3 / 2;
         height: auto;
         object-fit: cover;
+      }
+
+      .image-modal[hidden] {
+        display: none;
+      }
+
+      .image-modal {
+        position: fixed;
+        inset: 0;
+        z-index: 100;
+        display: grid;
+        place-items: center;
+        padding: clamp(14px, 4vw, 36px);
+      }
+
+      .modal-backdrop {
+        position: absolute;
+        inset: 0;
+        border: 0;
+        background: rgba(20, 17, 12, 0.78);
+        cursor: zoom-out;
+      }
+
+      .modal-panel {
+        position: relative;
+        z-index: 1;
+        display: grid;
+        gap: 12px;
+        width: min(1160px, 100%);
+        max-height: calc(100vh - 28px);
+        border: 1px solid color-mix(in srgb, var(--paper) 46%, var(--ink));
+        background: var(--panel);
+        padding: clamp(12px, 2vw, 18px);
+        box-shadow: 0 28px 90px rgba(20, 17, 12, 0.45);
+      }
+
+      .modal-close {
+        justify-self: end;
+        border: 1px solid var(--ink);
+        background: var(--ink);
+        color: var(--panel);
+        cursor: pointer;
+        padding: 8px 12px;
+        font: 900 12px ui-sans-serif, system-ui, sans-serif;
+        text-transform: uppercase;
+      }
+
+      .modal-figure {
+        display: grid;
+        gap: 10px;
+        min-height: 0;
+        margin: 0;
+      }
+
+      .modal-figure img {
+        display: block;
+        width: 100%;
+        max-height: min(74vh, 840px);
+        object-fit: contain;
+        background: #e9dfca;
+      }
+
+      .modal-figure figcaption {
+        display: grid;
+        gap: 3px;
+        color: var(--muted);
+        font-family: ui-sans-serif, system-ui, sans-serif;
+        font-size: 13px;
+      }
+
+      .modal-figure strong {
+        color: var(--ink);
+        font-size: 15px;
       }
 
       .content {
@@ -446,7 +524,7 @@ composition/framing: 3 columns by 2 rows, six clearly separated panels; each pan
 lighting/mood: warm studio tabletop lighting, collaborative design jam energy, precise enough for documentation.
 color palette: neutral table, varied accent colors for each game, crisp black rule text, colorful scoring tokens.
 constraints: no logos, no watermarks, no copyrighted characters; make each play mode visibly recordable with title, components, round structure, and scoring evidence; avoid repeating any prior gallery play format. game-design infographic interior-design product-mockup storytelling stylized-concept typography ui-mockup" data-tags="game-design infographic interior-design product-mockup storytelling stylized-concept typography ui-mockup">
-          <a class="image-link" href="assets/images/085-use-case-stylized-concept.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: stylized-concept">
+          <a class="image-link" href="assets/images/085-use-case-stylized-concept.png" data-modal-image data-title="Use case: stylized-concept" data-caption="历史生成图，批次 019dc267-ce49-7430-a662-73d1b4ec4e58，生成时间 2026-04-25 10:16:56。" aria-label="Open image preview for Use case: stylized-concept">
             <img loading="eager" fetchpriority="high" src="assets/images/085-use-case-stylized-concept.png" alt="Use case: stylized-concept. Tags: game-design, infographic, interior-design, product-mockup, storytelling, stylized-concept, typography, ui-mockup." width="1536" height="1024" />
           </a>
           <div class="content">
@@ -499,7 +577,7 @@ composition/framing: 3 columns by 2 rows, each panel has a distinct mini-scene a
 lighting/mood: bright studio table and pinboard lighting, crisp shadows, exploratory but production-ready.
 color palette: varied accents per panel, neutral paper, black ink, a few saturated markers.
 constraints: no logos, no watermarks, no real company marks, no copyrighted characters; make every panel feel like a recordable use case with visible before/after or source/output relationship. education game-design infographic product-mockup storytelling stylized-concept typography ui-mockup" data-tags="education game-design infographic product-mockup storytelling stylized-concept typography ui-mockup">
-          <a class="image-link" href="assets/images/086-use-case-stylized-concept.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: stylized-concept">
+          <a class="image-link" href="assets/images/086-use-case-stylized-concept.png" data-modal-image data-title="Use case: stylized-concept" data-caption="历史生成图，批次 019dc267-ce49-7430-a662-73d1b4ec4e58，生成时间 2026-04-25 10:13:45。" aria-label="Open image preview for Use case: stylized-concept">
             <img loading="eager"  src="assets/images/086-use-case-stylized-concept.png" alt="Use case: stylized-concept. Tags: education, game-design, infographic, product-mockup, storytelling, stylized-concept, typography, ui-mockup." width="1536" height="1024" />
           </a>
           <div class="content">
@@ -552,7 +630,7 @@ composition/framing: 3 columns by 2 rows, six clear panels; each panel contains 
 lighting/mood: warm studio table lighting with crisp shadows, collaborative and experimental.
 color palette: varied panel accents, neutral tabletop, black ink, colored tokens, photographic tiles.
 constraints: no logos, no watermarks, no real company marks, avoid repeating prior recorded play formats; every panel should feel playable and recordable. evaluation game-design operations photoreal product-mockup storytelling stylized-concept typography" data-tags="evaluation game-design operations photoreal product-mockup storytelling stylized-concept typography">
-          <a class="image-link" href="assets/images/083-use-case-stylized-concept.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: stylized-concept">
+          <a class="image-link" href="assets/images/083-use-case-stylized-concept.png" data-modal-image data-title="Use case: stylized-concept" data-caption="历史生成图，批次 019dc255-7e4b-7562-b49f-5dfa1d918887，生成时间 2026-04-25 09:56:46。" aria-label="Open image preview for Use case: stylized-concept">
             <img loading="eager"  src="assets/images/083-use-case-stylized-concept.png" alt="Use case: stylized-concept. Tags: evaluation, game-design, operations, photoreal, product-mockup, storytelling, stylized-concept, typography." width="1536" height="1024" />
           </a>
           <div class="content">
@@ -605,7 +683,7 @@ composition/framing: 3 columns by 2 rows, each panel visually distinct, small le
 lighting/mood: bright studio-documentary lighting, practical and inventive.
 color palette: varied but coherent; white workspace, signal colors, natural material accents.
 constraints: no logos, no watermarks, no real company marks, avoid repeating earlier gallery concepts; prioritize clear use-case differentiation. education game-design infographic product-mockup storytelling stylized-concept typography ui-mockup" data-tags="education game-design infographic product-mockup storytelling stylized-concept typography ui-mockup">
-          <a class="image-link" href="assets/images/084-use-case-stylized-concept.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: stylized-concept">
+          <a class="image-link" href="assets/images/084-use-case-stylized-concept.png" data-modal-image data-title="Use case: stylized-concept" data-caption="历史生成图，批次 019dc255-7e4b-7562-b49f-5dfa1d918887，生成时间 2026-04-25 09:54:14。" aria-label="Open image preview for Use case: stylized-concept">
             <img loading="lazy"  src="assets/images/084-use-case-stylized-concept.png" alt="Use case: stylized-concept. Tags: education, game-design, infographic, product-mockup, storytelling, stylized-concept, typography, ui-mockup." width="1536" height="1024" />
           </a>
           <div class="content">
@@ -656,7 +734,7 @@ six fresh derived play formats:
 6. maintenance triage draft: generated machine-inspection cards are drafted into urgent, watch-list, and safe piles based on visible wear, residue, missing parts, and tool evidence.
 
 make it look like a reusable play kit for evaluating and playing with image generation, with each panel self-explanatory visually. evaluation game-design material-study operations photoreal product-mockup sound-to-scene storytelling" data-tags="evaluation game-design material-study operations photoreal product-mockup sound-to-scene storytelling">
-          <a class="image-link" href="assets/images/079-gpt-image-2-play-formats-evaluation-games.png" target="_blank" rel="noreferrer" aria-label="Open full image for Second single high-quality landscape concept board showing six NEW derived game-li">
+          <a class="image-link" href="assets/images/079-gpt-image-2-play-formats-evaluation-games.png" data-modal-image data-title="Second single high-quality landscape concept board showing six NEW derived game-li" data-caption="历史生成图，批次 019dc241-cff4-7851-886a-53946fe42e59，生成时间 2026-04-25 09:33:34。" aria-label="Open image preview for Second single high-quality landscape concept board showing six NEW derived game-li">
             <img loading="lazy"  src="assets/images/079-gpt-image-2-play-formats-evaluation-games.png" alt="Second single high-quality landscape concept board showing six NEW derived game-li. Tags: evaluation, game-design, material-study, operations, photoreal, product-mockup, sound-to-scene, storytelling." width="1536" height="1024" />
           </a>
           <div class="content">
@@ -705,7 +783,7 @@ six fresh panels:
 6. maintenance log visualizer: routine machine notes become a visual checklist wall with worn parts, oil traces, inspection stamps, tool shadows, and replacement candidates.
 
 make each panel self-explanatory as a practical gpt image 2 experiment, not just a pretty picture. education game-design infographic product-mockup storytelling typography ui-mockup worldbuilding" data-tags="education game-design infographic product-mockup storytelling typography ui-mockup worldbuilding">
-          <a class="image-link" href="assets/images/078-gpt-image-2-use-cases-continuity-and-operations-labs.png" target="_blank" rel="noreferrer" aria-label="Open full image for Single high-quality landscape concept board showing six NEW playful GPT Image 2 us">
+          <a class="image-link" href="assets/images/078-gpt-image-2-use-cases-continuity-and-operations-labs.png" data-modal-image data-title="Single high-quality landscape concept board showing six NEW playful GPT Image 2 us" data-caption="历史生成图，批次 019dc241-cff4-7851-886a-53946fe42e59，生成时间 2026-04-25 09:32:25。" aria-label="Open image preview for Single high-quality landscape concept board showing six NEW playful GPT Image 2 us">
             <img loading="lazy"  src="assets/images/078-gpt-image-2-use-cases-continuity-and-operations-labs.png" alt="Single high-quality landscape concept board showing six NEW playful GPT Image 2 us. Tags: education, game-design, infographic, product-mockup, storytelling, typography, ui-mockup, worldbuilding." width="1536" height="1024" />
           </a>
           <div class="content">
@@ -752,7 +830,7 @@ six panels:
 6. scale-shift microscope: one generated object is explored across macro, normal, miniature, and world-size views, with magnifying instruments and miniature figures for comparison.
 
 make it look like a reusable playbook for creative experiments, with each panel self-explanatory, no brand logos, no famous people, no copyrighted characters, no exact readable typography. evaluation game-design material-study photoreal product-mockup storytelling typography ui-mockup" data-tags="evaluation game-design material-study photoreal product-mockup storytelling typography ui-mockup">
-          <a class="image-link" href="assets/images/080-a-single-high-quality-2k-landscape-concept-board-showing-six-new.png" target="_blank" rel="noreferrer" aria-label="Open full image for Single high-quality 2K landscape concept board showing six NEW derivative game-lik">
+          <a class="image-link" href="assets/images/080-a-single-high-quality-2k-landscape-concept-board-showing-six-new.png" data-modal-image data-title="Single high-quality 2K landscape concept board showing six NEW derivative game-lik" data-caption="历史生成图，批次 019dc238-a73b-7103-9511-255abf22bf76，生成时间 2026-04-25 09:27:31。" aria-label="Open image preview for Single high-quality 2K landscape concept board showing six NEW derivative game-lik">
             <img loading="lazy"  src="assets/images/080-a-single-high-quality-2k-landscape-concept-board-showing-six-new.png" alt="Single high-quality 2K landscape concept board showing six NEW derivative game-lik. Tags: evaluation, game-design, material-study, photoreal, product-mockup, storytelling, typography, ui-mockup." width="1536" height="1024" />
           </a>
           <div class="content">
@@ -797,7 +875,7 @@ six fresh panels:
 6. board-game prototype factory: a theme paragraph becomes a playable tabletop board, tokens, encounter cards, dice, and miniature terrain.
 
 make every panel self-explanatory, no brand logos, no famous people, no copyrighted characters, no exact readable typography. game-design infographic interior-design product-mockup storytelling typography ui-mockup worldbuilding" data-tags="game-design infographic interior-design product-mockup storytelling typography ui-mockup worldbuilding">
-          <a class="image-link" href="assets/images/081-a-single-high-quality-2k-landscape-concept-board-showing-six-new.png" target="_blank" rel="noreferrer" aria-label="Open full image for Single high-quality 2K landscape concept board showing six NEW playful GPT Image 2">
+          <a class="image-link" href="assets/images/081-a-single-high-quality-2k-landscape-concept-board-showing-six-new.png" data-modal-image data-title="Single high-quality 2K landscape concept board showing six NEW playful GPT Image 2" data-caption="历史生成图，批次 019dc238-a73b-7103-9511-255abf22bf76，生成时间 2026-04-25 09:26:13。" aria-label="Open image preview for Single high-quality 2K landscape concept board showing six NEW playful GPT Image 2">
             <img loading="lazy"  src="assets/images/081-a-single-high-quality-2k-landscape-concept-board-showing-six-new.png" alt="Single high-quality 2K landscape concept board showing six NEW playful GPT Image 2. Tags: game-design, infographic, interior-design, product-mockup, storytelling, typography, ui-mockup, worldbuilding." width="1536" height="1024" />
           </a>
           <div class="content">
@@ -842,7 +920,7 @@ six panels:
 6. prompt recipe kitchen: ingredients like color chips, camera lenses, layout tiles, and emotion tokens are mixed in a chef-like studio to generate a final poster.
 
 make it look like a record of product-play experiments: clear visual ideas, each panel self-explanatory, cohesive grid, no exact readable typography. game-design interior-design photoreal product-mockup storytelling typography ui-mockup worldbuilding" data-tags="game-design interior-design photoreal product-mockup storytelling typography ui-mockup worldbuilding">
-          <a class="image-link" href="assets/images/082-a-second-single-high-quality-2k-landscape-concept-board-showing-.png" target="_blank" rel="noreferrer" aria-label="Open full image for Second single high-quality 2K landscape concept board showing six derivative game-">
+          <a class="image-link" href="assets/images/082-a-second-single-high-quality-2k-landscape-concept-board-showing-.png" data-modal-image data-title="Second single high-quality 2K landscape concept board showing six derivative game-" data-caption="历史生成图，批次 019dc238-a73b-7103-9511-255abf22bf76，生成时间 2026-04-25 09:24:37。" aria-label="Open image preview for Second single high-quality 2K landscape concept board showing six derivative game-">
             <img loading="lazy"  src="assets/images/082-a-second-single-high-quality-2k-landscape-concept-board-showing-.png" alt="Second single high-quality 2K landscape concept board showing six derivative game-. Tags: game-design, interior-design, photoreal, product-mockup, storytelling, typography, ui-mockup, worldbuilding." width="1536" height="1024" />
           </a>
           <div class="content">
@@ -887,7 +965,7 @@ panel ideas:
 6. an old travel photo being cleaned up, colorized, and extended into a cinematic memory scene.
 
 make the six panels feel like a useful research artifact, with clear visual separation, no brand logos, no famous people, no copyrighted characters, no artist-name style imitation. interior-design lighting-weather photoreal product-mockup storytelling typography ui-mockup" data-tags="interior-design lighting-weather photoreal product-mockup storytelling typography ui-mockup">
-          <a class="image-link" href="assets/images/001-a-single-high-quality-2k-landscape-concept-board-showing-six-pla.png" target="_blank" rel="noreferrer" aria-label="Open full image for Single high-quality 2K landscape concept board showing six playful GPT Image 2 use">
+          <a class="image-link" href="assets/images/001-a-single-high-quality-2k-landscape-concept-board-showing-six-pla.png" data-modal-image data-title="Single high-quality 2K landscape concept board showing six playful GPT Image 2 use" data-caption="历史生成图，批次 019dc238-a73b-7103-9511-255abf22bf76，生成时间 2026-04-25 09:23:26。" aria-label="Open image preview for Single high-quality 2K landscape concept board showing six playful GPT Image 2 use">
             <img loading="lazy"  src="assets/images/001-a-single-high-quality-2k-landscape-concept-board-showing-six-pla.png" alt="Single high-quality 2K landscape concept board showing six playful GPT Image 2 use. Tags: interior-design, lighting-weather, photoreal, product-mockup, storytelling, typography, ui-mockup." width="1536" height="1024" />
           </a>
           <div class="content">
@@ -926,7 +1004,7 @@ panel b: micro-brand launch kit - a coherent fictional pop-up beverage brand sho
 panel c: masked reality patch - a mundane kitchen counter scene where one rectangular edited region is replaced by a perfectly lighting-matched surreal portal garden, with subtle mask-edge cues like before/after design review.
 panel d: character consistency mini episode - four tiny comic frames inside one panel featuring the same small explorer character with the same red scarf and brass lantern across morning, noon, dusk, night locations; consistent outfit and silhouette.
 make each panel visually different, production-quality, playful experimentation mood, crisp 2x2 sheet. evaluation lighting-weather photoreal product-mockup prompt-game storytelling typography" data-tags="evaluation lighting-weather photoreal product-mockup prompt-game storytelling typography">
-          <a class="image-link" href="assets/images/002-a-second-polished-2x2-contact-sheet-of-derived-gpt-image-generat.png" target="_blank" rel="noreferrer" aria-label="Open full image for Second polished 2x2 contact sheet of derived GPT image generation play patterns, n">
+          <a class="image-link" href="assets/images/002-a-second-polished-2x2-contact-sheet-of-derived-gpt-image-generat.png" data-modal-image data-title="Second polished 2x2 contact sheet of derived GPT image generation play patterns, n" data-caption="历史生成图，批次 019dc22f-8034-7c81-9500-27459503960f，生成时间 2026-04-25 09:15:55。" aria-label="Open image preview for Second polished 2x2 contact sheet of derived GPT image generation play patterns, n">
             <img loading="lazy"  src="assets/images/002-a-second-polished-2x2-contact-sheet-of-derived-gpt-image-generat.png" alt="Second polished 2x2 contact sheet of derived GPT image generation play patterns, n. Tags: evaluation, lighting-weather, photoreal, product-mockup, prompt-game, storytelling, typography." width="1254" height="1254" />
           </a>
           <div class="content">
@@ -960,7 +1038,7 @@ panel b: alternate-history field guide - a museum archive plate showing impossib
 panel c: ui-to-world portal - a software dashboard transformed into a physical control room installation, buttons as chunky machinery, charts as glowing architectural panels, cinematic but readable.
 panel d: emotion weather portrait - a stylized portrait where a calm face contains tiny weather systems, sunbreaks, rain curtains, and pressure-map lines, editorial poster quality.
 use varied palettes across panels, high detail, playful but sophisticated, square contact sheet, crisp composition. education interior-design panel product-mockup storytelling typography ui-mockup worldbuilding" data-tags="education interior-design panel product-mockup storytelling typography ui-mockup worldbuilding">
-          <a class="image-link" href="assets/images/003-a-polished-2x2-contact-sheet-titled-visually-by-panel-compositio.png" target="_blank" rel="noreferrer" aria-label="Open full image for Polished 2x2 contact sheet titled visually by panel composition only, no large cap">
+          <a class="image-link" href="assets/images/003-a-polished-2x2-contact-sheet-titled-visually-by-panel-compositio.png" data-modal-image data-title="Polished 2x2 contact sheet titled visually by panel composition only, no large cap" data-caption="历史生成图，批次 019dc22f-8034-7c81-9500-27459503960f，生成时间 2026-04-25 09:14:46。" aria-label="Open image preview for Polished 2x2 contact sheet titled visually by panel composition only, no large cap">
             <img loading="lazy"  src="assets/images/003-a-polished-2x2-contact-sheet-titled-visually-by-panel-compositio.png" alt="Polished 2x2 contact sheet titled visually by panel composition only, no large cap. Tags: education, interior-design, panel, product-mockup, storytelling, typography, ui-mockup, worldbuilding." width="1254" height="1254" />
           </a>
           <div class="content">
@@ -990,7 +1068,7 @@ Use varied palettes across panels, high detail, playful but sophisticated, squar
         </article>
 
         <article class="card" id="prompt-13" data-search="derived play modes 第二组玩法派生：从能力地图继续扩展成提示词密室、品牌多宇宙、时间机器、虚构 ui、菜谱漫画和世界观图集。 create a second polished 3x2 visual research board titled &quot;derived play modes&quot;. six experimental gpt-image-2 gameplay/use-case concepts, each with a short readable english label and a small chinese subtitle. panel 1: &quot;prompt escape room&quot; showing a puzzle poster where hidden visual clues unlock the next prompt. panel 2: &quot;brand multiverse&quot; showing the same fictional tea brand across cyberpunk, museum, and grocery shelf identities. panel 3: &quot;before/after time machine&quot; showing one street corner across 1926, 2026, and 2126. panel 4: &quot;ui fiction simulator&quot; showing imaginary app screens for an impossible product, realistic but fictional. panel 5: &quot;recipe to comic&quot; showing a cooking recipe transformed into a 4-panel comic with readable step labels. panel 6: &quot;worldbuilding atlas&quot; showing a fantasy transit map, stamps, product labels, and field notes for one fictional city. contemporary design research board, crisp layout, strong but not chaotic color, readable labels, original fictional content only, no real logos, no celebrity likenesses. brand-multiverse product-mockup prompt-escape-room recipe-to-comic time-machine-before-after ui-fiction-simulator ui-mockup worldbuilding-atlas" data-tags="brand-multiverse product-mockup prompt-escape-room recipe-to-comic time-machine-before-after ui-fiction-simulator ui-mockup worldbuilding-atlas">
-          <a class="image-link" href="assets/images/004-derived-play-modes.png" target="_blank" rel="noreferrer" aria-label="Open full image for Derived Play Modes">
+          <a class="image-link" href="assets/images/004-derived-play-modes.png" data-modal-image data-title="Derived Play Modes" data-caption="第二组玩法派生：从能力地图继续扩展成提示词密室、品牌多宇宙、时间机器、虚构 UI、菜谱漫画和世界观图集。" aria-label="Open image preview for Derived Play Modes">
             <img loading="lazy"  src="assets/images/004-derived-play-modes.png" alt="Derived Play Modes. Tags: brand-multiverse, product-mockup, prompt-escape-room, recipe-to-comic, time-machine-before-after, ui-fiction-simulator, ui-mockup, worldbuilding-atlas." width="1536" height="1024" />
           </a>
           <div class="content">
@@ -1015,7 +1093,7 @@ Use varied palettes across panels, high detail, playful but sophisticated, squar
         </article>
 
         <article class="card" id="prompt-14" data-search="use-case board 第一组能力地图：把文字渲染、产品图、ui、漫画连续性、教育图解和室内风格矩阵放进同一张研究板。 create a polished 3x2 visual research board titled &quot;gpt-image-2 playbook&quot;. six distinct panels, each panel has a short readable english label and a small chinese subtitle. panel 1: multilingual poster typography with crisp chinese/japanese/hindi text blocks. panel 2: product packaging mockup for a fictional sparkling tea can, no real brands. panel 3: ui mockup of a fictional analytics app on a tablet. panel 4: multi-panel manga/storyboard with consistent original character. panel 5: educational infographic explaining urban rainwater recycling with clean arrows and labels. panel 6: interior design plan showing the same tiny apartment in three styles. contemporary editorial design, vibrant but balanced palette, sharp typography, clean grid, high detail, no real brand logos, no celebrity likenesses. educational-infographic-remix fictional-product-sku-factory interior-style-matrix multilingual-poster-lab product-mockup storyboard-continuity-game ui-fiction-simulator ui-mockup" data-tags="educational-infographic-remix fictional-product-sku-factory interior-style-matrix multilingual-poster-lab product-mockup storyboard-continuity-game ui-fiction-simulator ui-mockup">
-          <a class="image-link" href="assets/images/005-use-case-board.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use-case Board">
+          <a class="image-link" href="assets/images/005-use-case-board.png" data-modal-image data-title="Use-case Board" data-caption="第一组能力地图：把文字渲染、产品图、UI、漫画连续性、教育图解和室内风格矩阵放进同一张研究板。" aria-label="Open image preview for Use-case Board">
             <img loading="lazy"  src="assets/images/005-use-case-board.png" alt="Use-case Board. Tags: educational-infographic-remix, fictional-product-sku-factory, interior-style-matrix, multilingual-poster-lab, product-mockup, storyboard-continuity-game, ui-fiction-simulator, ui-mockup." width="1536" height="1024" />
           </a>
           <div class="content">
@@ -1048,7 +1126,7 @@ panel 3: &quot;prompt arcade&quot; - a playful control panel where sliders and b
 panel 4: &quot;edit relay&quot; - a step-by-step relay race of image edits: sketch -&gt; rendered prop -&gt; packaging -&gt; ad poster -&gt; game card, each step preserving key visual dna.
 composition: 2x2 grid with thin neutral dividers, coherent across panels but each mechanic distinct.
 style: energetic, maker-lab aesthetic, tactile objects, clean lighting, high-resolution square image, no clutter, no watermark. game-design material-study photoreal product-mockup storytelling stylized-concept typography ui-mockup" data-tags="game-design material-study photoreal product-mockup storytelling stylized-concept typography ui-mockup">
-          <a class="image-link" href="assets/images/006-use-case-stylized-concept.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: stylized-concept">
+          <a class="image-link" href="assets/images/006-use-case-stylized-concept.png" data-modal-image data-title="Use case: stylized-concept" data-caption="历史生成图，批次 019dc0d7-b86c-7392-b6cc-3189d126e24c，生成时间 2026-04-25 02:57:27。" aria-label="Open image preview for Use case: stylized-concept">
             <img loading="lazy"  src="assets/images/006-use-case-stylized-concept.png" alt="Use case: stylized-concept. Tags: game-design, material-study, photoreal, product-mockup, storytelling, stylized-concept, typography, ui-mockup." width="1254" height="1254" />
           </a>
           <div class="content">
@@ -1089,7 +1167,7 @@ panel 3: &quot;learning lens&quot; - a colorful exploded-view educational diagra
 panel 4: &quot;game kit&quot; - a tabletop game asset sheet with cards, tokens, terrain tiles, and item icons, coherent fantasy-adventure style.
 composition: 2x2 grid with thin neutral dividers, each panel visually rich and self-contained, high-end editorial design, no clutter.
 style: sharp, modern, playful but practical, strong material detail, balanced color palette, square image. education game-design infographic material-study product-mockup productivity-visual storytelling worldbuilding" data-tags="education game-design infographic material-study product-mockup productivity-visual storytelling worldbuilding">
-          <a class="image-link" href="assets/images/007-use-case-productivity-visual.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: productivity-visual">
+          <a class="image-link" href="assets/images/007-use-case-productivity-visual.png" data-modal-image data-title="Use case: productivity-visual" data-caption="历史生成图，批次 019dc0d7-b86c-7392-b6cc-3189d126e24c，生成时间 2026-04-25 02:56:06。" aria-label="Open image preview for Use case: productivity-visual">
             <img loading="lazy"  src="assets/images/007-use-case-productivity-visual.png" alt="Use case: productivity-visual. Tags: education, game-design, infographic, material-study, product-mockup, productivity-visual, storytelling, worldbuilding." width="1254" height="1254" />
           </a>
           <div class="content">
@@ -1129,7 +1207,7 @@ subject: eight small images of the same object, a red bicycle, transformed by co
 text requirements: title exactly &quot;constraint bingo&quot;; eight labels exactly &quot;macro&quot;, &quot;isometric&quot;, &quot;noir&quot;, &quot;watercolor&quot;, &quot;pixel&quot;, &quot;product&quot;, &quot;blueprint&quot;, &quot;cinematic&quot;.
 style: clean comparison board, readable small labels, visually distinct variants, professional creative workshop artifact.
 composition: 4x2 grid, title at top, no extra text, no watermark. game-design photoreal productivity-visual prompt-game typography" data-tags="game-design photoreal productivity-visual prompt-game typography">
-          <a class="image-link" href="assets/images/008-use-case-productivity-visual.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: productivity-visual">
+          <a class="image-link" href="assets/images/008-use-case-productivity-visual.png" data-modal-image data-title="Use case: productivity-visual" data-caption="历史生成图，批次 019dc0ce-9080-7e93-b02d-cdd40f6dd0bd，生成时间 2026-04-25 02:53:38。" aria-label="Open image preview for Use case: productivity-visual">
             <img loading="lazy"  src="assets/images/008-use-case-productivity-visual.png" alt="Use case: productivity-visual. Tags: game-design, photoreal, productivity-visual, prompt-game, typography." width="1536" height="1024" />
           </a>
           <div class="content">
@@ -1165,7 +1243,7 @@ subject: nine consistent game icons with the same lighting, outline weight, and 
 text requirements: no text.
 style: polished 3d clay + enamel icons, friendly, tactile, consistent design system, game-ready.
 composition: 3x3 grid, equal padding, each icon centered, no watermark, no labels. game-design lighting-weather material-study product-mockup stylized-concept" data-tags="game-design lighting-weather material-study product-mockup stylized-concept">
-          <a class="image-link" href="assets/images/009-use-case-stylized-concept.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: stylized-concept">
+          <a class="image-link" href="assets/images/009-use-case-stylized-concept.png" data-modal-image data-title="Use case: stylized-concept" data-caption="历史生成图，批次 019dc0ce-9080-7e93-b02d-cdd40f6dd0bd，生成时间 2026-04-25 02:52:40。" aria-label="Open image preview for Use case: stylized-concept">
             <img loading="lazy"  src="assets/images/009-use-case-stylized-concept.png" alt="Use case: stylized-concept. Tags: game-design, lighting-weather, material-study, product-mockup, stylized-concept." width="1254" height="1254" />
           </a>
           <div class="content">
@@ -1201,7 +1279,7 @@ subject: same tiny robot gardener kept visually consistent across all four panel
 text requirements: small panel labels exactly &quot;base&quot;, &quot;mood&quot;, &quot;era&quot;, &quot;genre&quot;. no speech bubbles.
 style: charming cinematic comic, strong continuity, clear panel borders, expressive lighting shifts.
 composition: 2x2 grid, each panel visually distinct but same character design, no watermark, no extra text. game-design illustration-story lighting-weather photoreal prompt-game storytelling" data-tags="game-design illustration-story lighting-weather photoreal prompt-game storytelling">
-          <a class="image-link" href="assets/images/010-use-case-illustration-story.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: illustration-story">
+          <a class="image-link" href="assets/images/010-use-case-illustration-story.png" data-modal-image data-title="Use case: illustration-story" data-caption="历史生成图，批次 019dc0ce-9080-7e93-b02d-cdd40f6dd0bd，生成时间 2026-04-25 02:51:33。" aria-label="Open image preview for Use case: illustration-story">
             <img loading="lazy"  src="assets/images/010-use-case-illustration-story.png" alt="Use case: illustration-story. Tags: game-design, illustration-story, lighting-weather, photoreal, prompt-game, storytelling." width="1254" height="1254" />
           </a>
           <div class="content">
@@ -1238,7 +1316,7 @@ subject: a polished fantasy-tech card with icon art showing a glowing dice rolli
 text requirements: card title exactly &quot;remix dice&quot;; rule text exactly &quot;change one noun, one style, one constraint.&quot;; footer exactly &quot;play 02&quot;.
 style: premium board-game component, readable typography, tactile paper texture, fun but refined.
 composition: portrait card centered, full card visible, no other cards, no watermark, no extra text. game-design illustration-story prompt-game typography worldbuilding" data-tags="game-design illustration-story prompt-game typography worldbuilding">
-          <a class="image-link" href="assets/images/011-use-case-illustration-story.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: illustration-story">
+          <a class="image-link" href="assets/images/011-use-case-illustration-story.png" data-modal-image data-title="Use case: illustration-story" data-caption="历史生成图，批次 019dc0ce-9080-7e93-b02d-cdd40f6dd0bd，生成时间 2026-04-25 02:50:07。" aria-label="Open image preview for Use case: illustration-story">
             <img loading="lazy"  src="assets/images/011-use-case-illustration-story.png" alt="Use case: illustration-story. Tags: game-design, illustration-story, prompt-game, typography, worldbuilding." width="1024" height="1536" />
           </a>
           <div class="content">
@@ -1274,7 +1352,7 @@ subject: a four-step flow from prompt to planning to rendering to review.
 text requirements: title exactly &quot;prompt → plan → pixels&quot;; four step labels exactly &quot;1 prompt&quot;, &quot;2 constraints&quot;, &quot;3 generate&quot;, &quot;4 review&quot;; include no other long text.
 style: clear educational infographic, colorful icons, crisp arrows, readable english labels, high legibility.
 composition: portrait 4:5 poster, structured diagram, ample spacing, no fake tiny paragraphs, no watermark. education infographic scientific-educational typography" data-tags="education infographic scientific-educational typography">
-          <a class="image-link" href="assets/images/012-use-case-scientific-educational.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: scientific-educational">
+          <a class="image-link" href="assets/images/012-use-case-scientific-educational.png" data-modal-image data-title="Use case: scientific-educational" data-caption="历史生成图，批次 019dc0ce-9080-7e93-b02d-cdd40f6dd0bd，生成时间 2026-04-25 02:49:17。" aria-label="Open image preview for Use case: scientific-educational">
             <img loading="lazy"  src="assets/images/012-use-case-scientific-educational.png" alt="Use case: scientific-educational. Tags: education, infographic, scientific-educational, typography." width="1003" height="1568" />
           </a>
           <div class="content">
@@ -1309,7 +1387,7 @@ subject: dense but elegant saas dashboard with left navigation, prompt cards, va
 text requirements: app title exactly &quot;playground ledger&quot;; panel headings exactly &quot;use cases&quot;, &quot;variants&quot;, &quot;avoid repeats&quot;, &quot;next plays&quot;. use english ui copy only and keep it short.
 style: production-grade saas ui, neutral base with strategic accent colors, 8px card radius, readable labels, realistic data table.
 composition: 16:10 desktop screenshot, crisp typography, no marketing hero, no extra explanatory text, no watermark. game-design storytelling typography ui-mockup" data-tags="game-design storytelling typography ui-mockup">
-          <a class="image-link" href="assets/images/013-use-case-ui-mockup.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: ui-mockup">
+          <a class="image-link" href="assets/images/013-use-case-ui-mockup.png" data-modal-image data-title="Use case: ui-mockup" data-caption="历史生成图，批次 019dc0ce-9080-7e93-b02d-cdd40f6dd0bd，生成时间 2026-04-25 02:48:13。" aria-label="Open image preview for Use case: ui-mockup">
             <img loading="lazy"  src="assets/images/013-use-case-ui-mockup.png" alt="Use case: ui-mockup. Tags: game-design, storytelling, typography, ui-mockup." width="1586" height="992" />
           </a>
           <div class="content">
@@ -1344,7 +1422,7 @@ subject: four premium illustrated beverage cans, no real logos.
 text requirements: can labels should read exactly &quot;render&quot;, &quot;edit&quot;, &quot;remix&quot;, &quot;story&quot;; shelf label exactly &quot;prompt potion&quot;.
 style: high-end playful product photography, sharp packaging, colorful but disciplined palette, realistic reflections.
 composition: landscape product shot, 4 cans visible front-on, strong lighting, readable labels, no extra brand text, no watermark. game-design lighting-weather product-mockup" data-tags="game-design lighting-weather product-mockup">
-          <a class="image-link" href="assets/images/014-use-case-product-mockup.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: product-mockup">
+          <a class="image-link" href="assets/images/014-use-case-product-mockup.png" data-modal-image data-title="Use case: product-mockup" data-caption="历史生成图，批次 019dc0ce-9080-7e93-b02d-cdd40f6dd0bd，生成时间 2026-04-25 02:47:13。" aria-label="Open image preview for Use case: product-mockup">
             <img loading="lazy"  src="assets/images/014-use-case-product-mockup.png" alt="Use case: product-mockup. Tags: game-design, lighting-weather, product-mockup." width="1536" height="1024" />
           </a>
           <div class="content">
@@ -1378,7 +1456,7 @@ subject: a clean, editorial event poster composition, not a real brand.
 text requirements: large main title exactly &quot;图像实验夜&quot;; smaller subtitle exactly &quot;8个玩法 · 2组实验&quot;; bottom tag exactly &quot;gpt image playbook&quot;.
 style: polished modern editorial poster, crisp chinese typography, balanced hierarchy, energetic but not cluttered.
 composition: square 1:1, main title centered, props arranged around edges, enough negative space, no extra text, no watermark. ads-marketing game-design photoreal product-mockup typography" data-tags="ads-marketing game-design photoreal product-mockup typography">
-          <a class="image-link" href="assets/images/015-use-case-ads-marketing.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: ads-marketing">
+          <a class="image-link" href="assets/images/015-use-case-ads-marketing.png" data-modal-image data-title="Use case: ads-marketing" data-caption="历史生成图，批次 019dc0ce-9080-7e93-b02d-cdd40f6dd0bd，生成时间 2026-04-25 02:46:17。" aria-label="Open image preview for Use case: ads-marketing">
             <img loading="lazy"  src="assets/images/015-use-case-ads-marketing.png" alt="Use case: ads-marketing. Tags: ads-marketing, game-design, photoreal, product-mockup, typography." width="1254" height="1254" />
           </a>
           <div class="content">
@@ -1409,7 +1487,7 @@ Composition: square 1:1, main title centered, props arranged around edges, enoug
         <article class="card" id="prompt-25" data-search="use case: infographic-diagram 历史生成图，批次 019dc0c5-6f5b-75b3-b1a8-84246cc7ae41，生成时间 2026-04-25 02:42:42。 use case: infographic-diagram
 asset type: derived play concept image
 primary request: create a 16:9 concept image called &quot;image quest map&quot; showing a branching map for turning one generated image into a mini project. nodes must be readable and labeled: idea, moodboard, hero, variants, assets, mockup, share. use a polished visual strategy workshop wall with sticky notes, printed thumbnails, arrows, and a central map. sophisticated creative operations feel, no real brands, no watermark. infographic infographic-diagram operations worldbuilding" data-tags="infographic infographic-diagram operations worldbuilding">
-          <a class="image-link" href="assets/images/016-use-case-infographic-diagram.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: infographic-diagram">
+          <a class="image-link" href="assets/images/016-use-case-infographic-diagram.png" data-modal-image data-title="Use case: infographic-diagram" data-caption="历史生成图，批次 019dc0c5-6f5b-75b3-b1a8-84246cc7ae41，生成时间 2026-04-25 02:42:42。" aria-label="Open image preview for Use case: infographic-diagram">
             <img loading="lazy"  src="assets/images/016-use-case-infographic-diagram.png" alt="Use case: infographic-diagram. Tags: infographic, infographic-diagram, operations, worldbuilding." width="1672" height="941" />
           </a>
           <div class="content">
@@ -1434,7 +1512,7 @@ Primary request: Create a 16:9 concept image called &quot;IMAGE QUEST MAP&quot; 
         <article class="card" id="prompt-26" data-search="use case: product-mockup 历史生成图，批次 019dc0c5-6f5b-75b3-b1a8-84246cc7ae41，生成时间 2026-04-25 02:41:30。 use case: product-mockup
 asset type: derived play concept image
 primary request: create a 16:9 image of a playful &quot;one object, many lives&quot; challenge. show the same simple ceramic mug transformed into six coherent product identities arranged in a grid: cafe mug, camping mug, museum gift mug, kids art mug, premium corporate mug, sci-fi prop mug. keep the mug silhouette visibly consistent while styling changes. add small readable labels: cafe, camp, museum, kids, office, future. studio product photography, no real brands, no watermark. education material-study product-mockup" data-tags="education material-study product-mockup">
-          <a class="image-link" href="assets/images/017-use-case-product-mockup.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: product-mockup">
+          <a class="image-link" href="assets/images/017-use-case-product-mockup.png" data-modal-image data-title="Use case: product-mockup" data-caption="历史生成图，批次 019dc0c5-6f5b-75b3-b1a8-84246cc7ae41，生成时间 2026-04-25 02:41:30。" aria-label="Open image preview for Use case: product-mockup">
             <img loading="lazy"  src="assets/images/017-use-case-product-mockup.png" alt="Use case: product-mockup. Tags: education, material-study, product-mockup." width="1672" height="941" />
           </a>
           <div class="content">
@@ -1458,7 +1536,7 @@ Primary request: Create a 16:9 image of a playful &quot;ONE OBJECT, MANY LIVES&q
         <article class="card" id="prompt-27" data-search="use case: illustration-story 历史生成图，批次 019dc0c5-6f5b-75b3-b1a8-84246cc7ae41，生成时间 2026-04-25 02:40:34。 use case: illustration-story
 asset type: derived play concept image
 primary request: create a 16:9 visual of a game called &quot;visual telephone&quot; where one image mutates through five steps across a gallery wall. start with a simple red bicycle, then evolve into a delivery bike, then a floating market stall, then a tiny city airship, then a whimsical poster. include readable labels: step 1, step 2, step 3, step 4, step 5. make it feel like a creative workshop activity, coherent lighting, no real brands, no watermark. game-design illustration-story lighting-weather typography worldbuilding" data-tags="game-design illustration-story lighting-weather typography worldbuilding">
-          <a class="image-link" href="assets/images/018-use-case-illustration-story.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: illustration-story">
+          <a class="image-link" href="assets/images/018-use-case-illustration-story.png" data-modal-image data-title="Use case: illustration-story" data-caption="历史生成图，批次 019dc0c5-6f5b-75b3-b1a8-84246cc7ae41，生成时间 2026-04-25 02:40:34。" aria-label="Open image preview for Use case: illustration-story">
             <img loading="lazy"  src="assets/images/018-use-case-illustration-story.png" alt="Use case: illustration-story. Tags: game-design, illustration-story, lighting-weather, typography, worldbuilding." width="1672" height="941" />
           </a>
           <div class="content">
@@ -1484,7 +1562,7 @@ Primary request: Create a 16:9 visual of a game called &quot;VISUAL TELEPHONE&qu
         <article class="card" id="prompt-28" data-search="use case: productivity-visual 历史生成图，批次 019dc0c5-6f5b-75b3-b1a8-84246cc7ae41，生成时间 2026-04-25 02:39:38。 use case: productivity-visual
 asset type: derived play concept image
 primary request: create a 16:9 board-game style visual called &quot;prompt remix cards&quot;. show a tabletop with colorful cards that players combine to make image prompts. cards must have readable category titles: subject, style, constraint, twist, format. include sample cards: &quot;lamp&quot;, &quot;clay render&quot;, &quot;no text&quot;, &quot;tiny city&quot;, &quot;poster&quot;. polished product photography, playful but clean, no real brands, no watermark. game-design productivity-visual prompt-game typography worldbuilding" data-tags="game-design productivity-visual prompt-game typography worldbuilding">
-          <a class="image-link" href="assets/images/019-use-case-productivity-visual.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: productivity-visual">
+          <a class="image-link" href="assets/images/019-use-case-productivity-visual.png" data-modal-image data-title="Use case: productivity-visual" data-caption="历史生成图，批次 019dc0c5-6f5b-75b3-b1a8-84246cc7ae41，生成时间 2026-04-25 02:39:38。" aria-label="Open image preview for Use case: productivity-visual">
             <img loading="lazy"  src="assets/images/019-use-case-productivity-visual.png" alt="Use case: productivity-visual. Tags: game-design, productivity-visual, prompt-game, typography, worldbuilding." width="1672" height="941" />
           </a>
           <div class="content">
@@ -1510,7 +1588,7 @@ Primary request: Create a 16:9 board-game style visual called &quot;PROMPT REMIX
         <article class="card" id="prompt-29" data-search="use case: ui-mockup 历史生成图，批次 019dc0c5-6f5b-75b3-b1a8-84246cc7ae41，生成时间 2026-04-25 02:38:31。 use case: ui-mockup
 asset type: concept image for a gpt image use-case research board
 primary request: create a sharp 16:9 high-fidelity ui mockup image of a fictional visual editing app called &quot;canvas lab&quot;. the screen shows a left tool rail, central image canvas, right inspector, and timeline at bottom. it demonstrates multi-turn image editing with readable ui labels: generate, edit, mask, compare, export. quiet professional saas style, realistic desktop app screenshot, no real company logos, no watermark. evaluation ui-mockup" data-tags="evaluation ui-mockup">
-          <a class="image-link" href="assets/images/020-use-case-ui-mockup.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: ui-mockup">
+          <a class="image-link" href="assets/images/020-use-case-ui-mockup.png" data-modal-image data-title="Use case: ui-mockup" data-caption="历史生成图，批次 019dc0c5-6f5b-75b3-b1a8-84246cc7ae41，生成时间 2026-04-25 02:38:31。" aria-label="Open image preview for Use case: ui-mockup">
             <img loading="lazy"  src="assets/images/020-use-case-ui-mockup.png" alt="Use case: ui-mockup. Tags: evaluation, ui-mockup." width="1672" height="941" />
           </a>
           <div class="content">
@@ -1533,7 +1611,7 @@ Primary request: Create a sharp 16:9 high-fidelity UI mockup image of a fictiona
         <article class="card" id="prompt-30" data-search="use case: scientific-educational 历史生成图，批次 019dc0c5-6f5b-75b3-b1a8-84246cc7ae41，生成时间 2026-04-25 02:37:41。 use case: scientific-educational
 asset type: concept image for a gpt image use-case research board
 primary request: create a clean 16:9 educational explainer poster titled &quot;how a heat pump moves heat&quot;. show a simplified house, outdoor unit, indoor coil, arrows for heat flow, and four labeled steps with accurate short text: 1 evaporate, 2 compress, 3 condense, 4 expand. use crisp infographic styling, accurate directional arrows, readable typography, calm professional palette, no real brand logos, no watermark. education infographic product-mockup scientific-educational typography" data-tags="education infographic product-mockup scientific-educational typography">
-          <a class="image-link" href="assets/images/021-use-case-scientific-educational.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: scientific-educational">
+          <a class="image-link" href="assets/images/021-use-case-scientific-educational.png" data-modal-image data-title="Use case: scientific-educational" data-caption="历史生成图，批次 019dc0c5-6f5b-75b3-b1a8-84246cc7ae41，生成时间 2026-04-25 02:37:41。" aria-label="Open image preview for Use case: scientific-educational">
             <img loading="lazy"  src="assets/images/021-use-case-scientific-educational.png" alt="Use case: scientific-educational. Tags: education, infographic, product-mockup, scientific-educational, typography." width="1672" height="941" />
           </a>
           <div class="content">
@@ -1559,7 +1637,7 @@ Primary request: Create a clean 16:9 educational explainer poster titled &quot;H
         <article class="card" id="prompt-31" data-search="use case: illustration-story 历史生成图，批次 019dc0c5-6f5b-75b3-b1a8-84246cc7ae41，生成时间 2026-04-25 02:36:46。 use case: illustration-story
 asset type: concept image for a gpt image use-case research board
 primary request: create a 16:9 illustrated character continuity sheet for a fictional tiny astronaut named nova across six panels: front pose, side pose, surprised face, running pose, sitting pose, and bedtime scene. the same helmet shape, red scarf, star patch, and proportions must stay consistent in every panel. clean animation-production style, labels under panels with accurate text: front, side, face, run, sit, story. no watermark. illustration-story storytelling" data-tags="illustration-story storytelling">
-          <a class="image-link" href="assets/images/022-use-case-illustration-story.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: illustration-story">
+          <a class="image-link" href="assets/images/022-use-case-illustration-story.png" data-modal-image data-title="Use case: illustration-story" data-caption="历史生成图，批次 019dc0c5-6f5b-75b3-b1a8-84246cc7ae41，生成时间 2026-04-25 02:36:46。" aria-label="Open image preview for Use case: illustration-story">
             <img loading="lazy"  src="assets/images/022-use-case-illustration-story.png" alt="Use case: illustration-story. Tags: illustration-story, storytelling." width="1672" height="941" />
           </a>
           <div class="content">
@@ -1587,7 +1665,7 @@ subject: central poster advertises an imaginary weekend event: “tiny maker mar
 text: include exact readable english copy: “tiny maker market”, “apr 26”, “10 am - 4 pm”, “make small things feel big”.
 style: whimsical photorealistic miniature diorama poster, tactile paper texture, clear hierarchy, inviting but not childish.
 composition: vertical 4:5, poster centered, surrounding notes add context, no real venue or brand logos, no watermark. ads-marketing material-study photoreal product-mockup sound-to-scene typography" data-tags="ads-marketing material-study photoreal product-mockup sound-to-scene typography">
-          <a class="image-link" href="assets/images/023-use-case-ads-marketing.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: ads-marketing">
+          <a class="image-link" href="assets/images/023-use-case-ads-marketing.png" data-modal-image data-title="Use case: ads-marketing" data-caption="历史生成图，批次 019dc0bc-4097-7420-b739-29fa8392b52c，生成时间 2026-04-25 02:36:00。" aria-label="Open image preview for Use case: ads-marketing">
             <img loading="lazy"  src="assets/images/023-use-case-ads-marketing.png" alt="Use case: ads-marketing. Tags: ads-marketing, material-study, photoreal, product-mockup, sound-to-scene, typography." width="1122" height="1402" />
           </a>
           <div class="content">
@@ -1619,7 +1697,7 @@ Composition: vertical 4:5, poster centered, surrounding notes add context, no re
         <article class="card" id="prompt-33" data-search="use case: ads-marketing 历史生成图，批次 019dc0c5-6f5b-75b3-b1a8-84246cc7ae41，生成时间 2026-04-25 02:35:54。 use case: ads-marketing
 asset type: concept image for a gpt image use-case research board
 primary request: create a polished 16:9 visual concept showing a fictional instant product-campaign generator: a desk scene with three coherent beverage can ad variants on a wall, each with accurate short readable text: &quot;crisp&quot;, &quot;zero&quot;, &quot;spark&quot;. show the same can identity adapted into social post, shelf talker, and outdoor poster mockups. modern studio lighting, realistic materials, high-end creative director mood, no real brands, no watermark. ads-marketing lighting-weather product-mockup typography" data-tags="ads-marketing lighting-weather product-mockup typography">
-          <a class="image-link" href="assets/images/024-use-case-ads-marketing.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: ads-marketing">
+          <a class="image-link" href="assets/images/024-use-case-ads-marketing.png" data-modal-image data-title="Use case: ads-marketing" data-caption="历史生成图，批次 019dc0c5-6f5b-75b3-b1a8-84246cc7ae41，生成时间 2026-04-25 02:35:54。" aria-label="Open image preview for Use case: ads-marketing">
             <img loading="lazy"  src="assets/images/024-use-case-ads-marketing.png" alt="Use case: ads-marketing. Tags: ads-marketing, lighting-weather, product-mockup, typography." width="1672" height="941" />
           </a>
           <div class="content">
@@ -1649,7 +1727,7 @@ subject: include a small foldable board, 12 illustrated cards, tokens, and a rul
 text: rule card title should read “pond chain”. keep other text minimal and readable.
 style: friendly educational illustration mixed with realistic printed paper mockup, accurate simple ecology icons, not childish clutter.
 composition: top-down 4:5, all pieces visible, no watermark, no real school logos. education game-design product-mockup scientific-educational" data-tags="education game-design product-mockup scientific-educational">
-          <a class="image-link" href="assets/images/025-use-case-scientific-educational.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: scientific-educational">
+          <a class="image-link" href="assets/images/025-use-case-scientific-educational.png" data-modal-image data-title="Use case: scientific-educational" data-caption="历史生成图，批次 019dc0bc-4097-7420-b739-29fa8392b52c，生成时间 2026-04-25 02:34:40。" aria-label="Open image preview for Use case: scientific-educational">
             <img loading="lazy"  src="assets/images/025-use-case-scientific-educational.png" alt="Use case: scientific-educational. Tags: education, game-design, product-mockup, scientific-educational." width="1122" height="1402" />
           </a>
           <div class="content">
@@ -1684,7 +1762,7 @@ subject: six fictional sparkling tea cans with consistent layout and distinct fl
 text: flavor names should be readable on the cans and legend card. no real brand marks.
 style: premium cpg packaging design board, realistic metal cans, subtle reflections, bright but controlled palette.
 composition: horizontal 16:9 design review board, every can fully visible, no watermark. material-study product-mockup" data-tags="material-study product-mockup">
-          <a class="image-link" href="assets/images/026-use-case-product-mockup.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: product-mockup">
+          <a class="image-link" href="assets/images/026-use-case-product-mockup.png" data-modal-image data-title="Use case: product-mockup" data-caption="历史生成图，批次 019dc0bc-4097-7420-b739-29fa8392b52c，生成时间 2026-04-25 02:33:25。" aria-label="Open image preview for Use case: product-mockup">
             <img loading="lazy"  src="assets/images/026-use-case-product-mockup.png" alt="Use case: product-mockup. Tags: material-study, product-mockup." width="1672" height="941" />
           </a>
           <div class="content">
@@ -1717,7 +1795,7 @@ subject: a small round delivery robot mascot with a blue scarf and expressive sc
 text: small readable labels only: “happy”, “think”, “scan”, “carry”, “wave”, “wow”, “sleep”, “yay”.
 style: polished 3d-toy illustration, soft shadows, asset-sheet clarity, no real franchise influence, no watermark.
 composition: square asset sheet, generous spacing, every pose fully visible. game-design storytelling stylized-concept ui-mockup" data-tags="game-design storytelling stylized-concept ui-mockup">
-          <a class="image-link" href="assets/images/027-use-case-stylized-concept.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: stylized-concept">
+          <a class="image-link" href="assets/images/027-use-case-stylized-concept.png" data-modal-image data-title="Use case: stylized-concept" data-caption="历史生成图，批次 019dc0bc-4097-7420-b739-29fa8392b52c，生成时间 2026-04-25 02:32:27。" aria-label="Open image preview for Use case: stylized-concept">
             <img loading="lazy"  src="assets/images/027-use-case-stylized-concept.png" alt="Use case: stylized-concept. Tags: game-design, storytelling, stylized-concept, ui-mockup." width="1254" height="1254" />
           </a>
           <div class="content">
@@ -1751,7 +1829,7 @@ scene/backdrop: a realistic smartphone lying on a neutral kitchen counter with h
 subject: the phone screen displays a clean recipe app ui with tabs, recipe cards, ingredient chips, and a calm “today's mood” selector. use readable ui text: “mood kitchen”, “calm”, “quick”, “spicy”, “15 min”, “ginger noodle bowl”, “save”.
 style: modern utilitarian consumer app, high fidelity ux mockup, not a marketing landing page, restrained colors with green, tomato red, cream, charcoal.
 composition: vertical 4:5, phone screen large and legible, real-world context, no real logos, no watermark. game-design lighting-weather product-mockup ui-mockup" data-tags="game-design lighting-weather product-mockup ui-mockup">
-          <a class="image-link" href="assets/images/028-use-case-ui-mockup.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: ui-mockup">
+          <a class="image-link" href="assets/images/028-use-case-ui-mockup.png" data-modal-image data-title="Use case: ui-mockup" data-caption="历史生成图，批次 019dc0bc-4097-7420-b739-29fa8392b52c，生成时间 2026-04-25 02:31:17。" aria-label="Open image preview for Use case: ui-mockup">
             <img loading="lazy"  src="assets/images/028-use-case-ui-mockup.png" alt="Use case: ui-mockup. Tags: game-design, lighting-weather, product-mockup, ui-mockup." width="1122" height="1402" />
           </a>
           <div class="content">
@@ -1785,7 +1863,7 @@ subject: original character: a small round delivery robot with a blue scarf and 
 text: minimal readable english captions only: panel 1 “lost?”, panel 2 “scan”, panel 3 “found!”, panel 4 “story time”.
 style: warm original graphic novel illustration, not in the style of any specific living artist or known franchise, charming lighting, rich details.
 composition: square page, 2x2 panel layout, no watermark. illustration-story lighting-weather photoreal storytelling ui-mockup" data-tags="illustration-story lighting-weather photoreal storytelling ui-mockup">
-          <a class="image-link" href="assets/images/029-use-case-illustration-story.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: illustration-story">
+          <a class="image-link" href="assets/images/029-use-case-illustration-story.png" data-modal-image data-title="Use case: illustration-story" data-caption="历史生成图，批次 019dc0bc-4097-7420-b739-29fa8392b52c，生成时间 2026-04-25 02:30:14。" aria-label="Open image preview for Use case: illustration-story">
             <img loading="lazy"  src="assets/images/029-use-case-illustration-story.png" alt="Use case: illustration-story. Tags: illustration-story, lighting-weather, photoreal, storytelling, ui-mockup." width="1254" height="1254" />
           </a>
           <div class="content">
@@ -1820,7 +1898,7 @@ scene/backdrop: a colorful studio tabletop with a fictional sparkling tea can na
 subject: one hero can and two background cans. include exact readable english copy only: “yuzu pop”, “citrus sparkling tea”, “zero sugar”, “bright. crisp. playful.”
 style: premium product photography mixed with crisp graphic ad layout, fresh yellow, teal, white, and small coral accents, no real brands.
 composition: vertical poster 4:5, product large in center, copy integrated as ad typography, polished commercial finish, no watermark. ads-marketing product-mockup typography" data-tags="ads-marketing product-mockup typography">
-          <a class="image-link" href="assets/images/030-use-case-ads-marketing.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: ads-marketing">
+          <a class="image-link" href="assets/images/030-use-case-ads-marketing.png" data-modal-image data-title="Use case: ads-marketing" data-caption="历史生成图，批次 019dc0bc-4097-7420-b739-29fa8392b52c，生成时间 2026-04-25 02:27:02。" aria-label="Open image preview for Use case: ads-marketing">
             <img loading="lazy"  src="assets/images/030-use-case-ads-marketing.png" alt="Use case: ads-marketing. Tags: ads-marketing, product-mockup, typography." width="1122" height="1402" />
           </a>
           <div class="content">
@@ -1852,7 +1930,7 @@ scene/backdrop: a clean desk photographed from above, with a printed a4 travel p
 subject: the paper board should show structured sections with readable chinese headings: “天气”, “路线”, “预算”, “拍照点”, “备选计划”. use simple neat chinese labels, not long paragraphs. make it feel like gpt image 2 can generate text-rich practical planning visuals.
 style: photorealistic editorial product photography, natural morning light, crisp typography, practical and delightful.
 composition: top-down 4:5, the board centered and fully visible, no brand logos, no watermark. photoreal product-mockup productivity-visual typography worldbuilding" data-tags="photoreal product-mockup productivity-visual typography worldbuilding">
-          <a class="image-link" href="assets/images/031-use-case-productivity-visual.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: productivity-visual">
+          <a class="image-link" href="assets/images/031-use-case-productivity-visual.png" data-modal-image data-title="Use case: productivity-visual" data-caption="历史生成图，批次 019dc0bc-4097-7420-b739-29fa8392b52c，生成时间 2026-04-25 02:25:59。" aria-label="Open image preview for Use case: productivity-visual">
             <img loading="lazy"  src="assets/images/031-use-case-productivity-visual.png" alt="Use case: productivity-visual. Tags: photoreal, product-mockup, productivity-visual, typography, worldbuilding." width="1122" height="1402" />
           </a>
           <div class="content">
@@ -1880,7 +1958,7 @@ Composition: top-down 4:5, the board centered and fully visible, no brand logos,
         </article>
 
         <article class="card" id="prompt-41" data-search="polished 2k visual board of six derived play modes based on the four new gpt-image 历史生成图，批次 019dc0b3-18d9-7470-8c49-a36bb81300f6，生成时间 2026-04-25 02:23:52。 create a polished 2k visual board of six derived play modes based on the four new gpt-image-2 use cases, single clean 3x2 grid poster, no logos, no copyrighted brands. title text in simplified chinese: &quot;gpt-image-2 派生玩法 d&quot;. six labeled panels with accurate chinese labels: 1 &quot;编辑接龙&quot;, 2 &quot;回滚竞速&quot;, 3 &quot;约束闯关&quot;, 4 &quot;差异侦探&quot;, 5 &quot;来源护照&quot;, 6 &quot;资产谱系树&quot;. visualize each panel: edit-chain relay where each player changes one visual variable; speed challenge to roll back a bad revision to the best prior state; constraint challenge cards requiring exact aspect ratio, text, palette, object count; detective board spotting visual differences across versions; a passport-like document recording prompt/reference/license/checks for an asset; a family tree of asset variants and descendants with version nodes. modern editorial layout, white background, thin dividers, distinct accent colors, highly legible chinese labels, crisp typography, professional product-design style, no watermarks. evaluation game-design prompt-game storytelling typography" data-tags="evaluation game-design prompt-game storytelling typography">
-          <a class="image-link" href="assets/images/032-a-polished-2k-visual-board-of-six-derived-play-modes-based-on-th.png" target="_blank" rel="noreferrer" aria-label="Open full image for Polished 2K visual board of six DERIVED play modes based on the four new GPT-image">
+          <a class="image-link" href="assets/images/032-a-polished-2k-visual-board-of-six-derived-play-modes-based-on-th.png" data-modal-image data-title="Polished 2K visual board of six DERIVED play modes based on the four new GPT-image" data-caption="历史生成图，批次 019dc0b3-18d9-7470-8c49-a36bb81300f6，生成时间 2026-04-25 02:23:52。" aria-label="Open image preview for Polished 2K visual board of six DERIVED play modes based on the four new GPT-image">
             <img loading="lazy"  src="assets/images/032-a-polished-2k-visual-board-of-six-derived-play-modes-based-on-th.png" alt="Polished 2K visual board of six DERIVED play modes based on the four new GPT-image. Tags: evaluation, game-design, prompt-game, storytelling, typography." width="1536" height="1024" />
           </a>
           <div class="content">
@@ -1902,7 +1980,7 @@ Composition: top-down 4:5, the board centered and fully visible, no brand logos,
         </article>
 
         <article class="card" id="prompt-42" data-search="polished 2k visual research board showing four new non-repeated gpt-image-2 use ca 历史生成图，批次 019dc0b3-18d9-7470-8c49-a36bb81300f6，生成时间 2026-04-25 02:22:31。 create a polished 2k visual research board showing four new non-repeated gpt-image-2 use cases, single clean 2x2 grid poster, no logos, no copyrighted brands. title text in simplified chinese: &quot;gpt-image-2 新玩法 c&quot;. four labeled panels with accurate chinese labels: 1 &quot;源图编辑链&quot;, 2 &quot;多轮修订栈&quot;, 3 &quot;视觉 qa 仪表盘&quot;, 4 &quot;素材溯源板&quot;. visualize each panel: a photo transformed through sequential edit steps with locked subject identity; a layered revision history of one generated scene with annotations and diff marks; a design qa dashboard comparing expected vs actual visual constraints with pass/fail chips; a provenance board showing prompt, reference thumbnails, edit steps, rights notes, and final asset lineage. modern editorial layout, white background, thin black dividers, small colored accent bars, highly legible chinese text, crisp typography, professional design, no watermarks. photoreal storytelling typography ui-mockup" data-tags="photoreal storytelling typography ui-mockup">
-          <a class="image-link" href="assets/images/033-a-polished-2k-visual-research-board-showing-four-new-non-repeate.png" target="_blank" rel="noreferrer" aria-label="Open full image for Polished 2K visual research board showing four NEW non-repeated GPT-image-2 use ca">
+          <a class="image-link" href="assets/images/033-a-polished-2k-visual-research-board-showing-four-new-non-repeate.png" data-modal-image data-title="Polished 2K visual research board showing four NEW non-repeated GPT-image-2 use ca" data-caption="历史生成图，批次 019dc0b3-18d9-7470-8c49-a36bb81300f6，生成时间 2026-04-25 02:22:31。" aria-label="Open image preview for Polished 2K visual research board showing four NEW non-repeated GPT-image-2 use ca">
             <img loading="lazy"  src="assets/images/033-a-polished-2k-visual-research-board-showing-four-new-non-repeate.png" alt="Polished 2K visual research board showing four NEW non-repeated GPT-image-2 use ca. Tags: photoreal, storytelling, typography, ui-mockup." width="1254" height="1254" />
           </a>
           <div class="content">
@@ -1923,7 +2001,7 @@ Composition: top-down 4:5, the board centered and fully visible, no brand logos,
         </article>
 
         <article class="card" id="prompt-43" data-search="second polished 2k visual research board of six derived playful product/game ideas 历史生成图，批次 019dc0b3-18d9-7470-8c49-a36bb81300f6，生成时间 2026-04-25 02:20:40。 create a second polished 2k visual research board of six derived playful product/game ideas based on gpt-image-2 capabilities, single clean grid poster, no logos, no copyrighted brands. title text in simplified chinese: &quot;gpt-image-2 派生玩法 b&quot;. six labeled panels with accurate chinese text labels: 1 &quot;广告盲盒&quot;, 2 &quot;角色连续剧&quot;, 3 &quot;菜单翻译器&quot;, 4 &quot;空间换装&quot;, 5 &quot;地图寻宝&quot;, 6 &quot;错图挑战&quot;. visualize each panel: random product ad creative cards, a consistent original character across three episode thumbnails, a food menu transformed into bilingual appetizing visuals, an interior room with swappable style skins, an illustrated city treasure map with clues, and a spot-the-error challenge image with subtle differences. modern editorial layout, white background, thin black dividers, distinct accent colors, highly legible chinese labels, crisp typography, professional design, no watermarks. game-design interior-design storytelling typography worldbuilding" data-tags="game-design interior-design storytelling typography worldbuilding">
-          <a class="image-link" href="assets/images/034-a-second-polished-2k-visual-research-board-of-six-derived-playfu.png" target="_blank" rel="noreferrer" aria-label="Open full image for Second polished 2K visual research board of six derived playful product/game ideas">
+          <a class="image-link" href="assets/images/034-a-second-polished-2k-visual-research-board-of-six-derived-playfu.png" data-modal-image data-title="Second polished 2K visual research board of six derived playful product/game ideas" data-caption="历史生成图，批次 019dc0b3-18d9-7470-8c49-a36bb81300f6，生成时间 2026-04-25 02:20:40。" aria-label="Open image preview for Second polished 2K visual research board of six derived playful product/game ideas">
             <img loading="lazy"  src="assets/images/034-a-second-polished-2k-visual-research-board-of-six-derived-playfu.png" alt="Second polished 2K visual research board of six derived playful product/game ideas. Tags: game-design, interior-design, storytelling, typography, worldbuilding." width="1536" height="1024" />
           </a>
           <div class="content">
@@ -1945,7 +2023,7 @@ Composition: top-down 4:5, the board centered and fully visible, no brand logos,
         </article>
 
         <article class="card" id="prompt-44" data-search="polished 2k visual research board showing six fun gpt-image-2 use cases as a singl 历史生成图，批次 019dc0b3-18d9-7470-8c49-a36bb81300f6，生成时间 2026-04-25 02:18:09。 create a polished 2k visual research board showing six fun gpt-image-2 use cases as a single clean grid poster, no logos, no copyrighted brands. title text in simplified chinese: &quot;gpt-image-2 玩法实验 a&quot;. six labeled panels with accurate chinese text labels: 1 &quot;多语言海报&quot;, 2 &quot;假想产品棚拍&quot;, 3 &quot;app 截图原型&quot;, 4 &quot;四格漫画&quot;, 5 &quot;数据地图&quot;, 6 &quot;电影感剧照&quot;. each panel should look like a distinct high-quality example: a bilingual poster with crisp typography, a futuristic small gadget product photo, a mobile app mockup screen, a consistent character four-panel comic, an infographic city map, and a cinematic still. modern editorial layout, white background, thin black dividers, small colored accent bars, highly legible text, professional design, no watermarks. infographic photoreal storytelling typography ui-mockup worldbuilding" data-tags="infographic photoreal storytelling typography ui-mockup worldbuilding">
-          <a class="image-link" href="assets/images/035-a-polished-2k-visual-research-board-showing-six-fun-gpt-image-2-.png" target="_blank" rel="noreferrer" aria-label="Open full image for Polished 2K visual research board showing six fun GPT-image-2 use cases as a singl">
+          <a class="image-link" href="assets/images/035-a-polished-2k-visual-research-board-showing-six-fun-gpt-image-2-.png" data-modal-image data-title="Polished 2K visual research board showing six fun GPT-image-2 use cases as a singl" data-caption="历史生成图，批次 019dc0b3-18d9-7470-8c49-a36bb81300f6，生成时间 2026-04-25 02:18:09。" aria-label="Open image preview for Polished 2K visual research board showing six fun GPT-image-2 use cases as a singl">
             <img loading="lazy"  src="assets/images/035-a-polished-2k-visual-research-board-showing-six-fun-gpt-image-2-.png" alt="Polished 2K visual research board showing six fun GPT-image-2 use cases as a singl. Tags: infographic, photoreal, storytelling, typography, ui-mockup, worldbuilding." width="1254" height="1254" />
           </a>
           <div class="content">
@@ -1979,7 +2057,7 @@ asset type: derived non-repeated play-mode contact sheet
 primary request: derive second-order玩法 from the new group: training drills, incident storytelling, visual identity mutation, and constraint-solving visual planning.
 composition: 2x2 grid, labels 17-20, production-grade and inspectable, clear relationship to the source use case.
 avoid: real company branding, celebrity likenesses, copyrighted characters, generic repeated prior concepts, illegible gibberish, decorative-only visuals. game-design interior-design operations productivity-visual storytelling typography ui-mockup worldbuilding" data-tags="game-design interior-design operations productivity-visual storytelling typography ui-mockup worldbuilding">
-          <a class="image-link" href="assets/images/036-a-second-polished-2x2-contact-sheet-of-derived-play-modes-from-t.png" target="_blank" rel="noreferrer" aria-label="Open full image for Second polished 2x2 contact sheet of DERIVED play modes from the four new GPT Imag">
+          <a class="image-link" href="assets/images/036-a-second-polished-2x2-contact-sheet-of-derived-play-modes-from-t.png" data-modal-image data-title="Second polished 2x2 contact sheet of DERIVED play modes from the four new GPT Imag" data-caption="历史生成图，批次 019dc0a9-f0e4-7021-abef-a5b79deee1bb，生成时间 2026-04-25 02:12:07。" aria-label="Open image preview for Second polished 2x2 contact sheet of DERIVED play modes from the four new GPT Imag">
             <img loading="lazy"  src="assets/images/036-a-second-polished-2x2-contact-sheet-of-derived-play-modes-from-t.png" alt="Second polished 2x2 contact sheet of DERIVED play modes from the four new GPT Imag. Tags: game-design, interior-design, operations, productivity-visual, storytelling, typography, ui-mockup, worldbuilding." width="1254" height="1254" />
           </a>
           <div class="content">
@@ -2026,7 +2104,7 @@ asset type: non-repeated use-case contact sheet
 primary request: draw a new group of gpt image 2 use cases that avoid prior recorded directions and focus on service simulation, code architecture visualization, creator visual systems, and decision-tree planning.
 composition: 2x2 grid, each panel distinct and useful, crisp labels, realistic production quality.
 avoid: previously recorded concepts, real company branding, celebrity likenesses, copyrighted characters, illegible gibberish, decorative-only visuals. game-design interior-design material-study productivity-visual storytelling typography ui-mockup worldbuilding" data-tags="game-design interior-design material-study productivity-visual storytelling typography ui-mockup worldbuilding">
-          <a class="image-link" href="assets/images/037-a-polished-2x2-contact-sheet-of-new-non-repeated-gpt-image-2-pla.png" target="_blank" rel="noreferrer" aria-label="Open full image for Polished 2x2 contact sheet of NEW, non-repeated GPT Image 2 playground use cases">
+          <a class="image-link" href="assets/images/037-a-polished-2x2-contact-sheet-of-new-non-repeated-gpt-image-2-pla.png" data-modal-image data-title="Polished 2x2 contact sheet of NEW, non-repeated GPT Image 2 playground use cases" data-caption="历史生成图，批次 019dc0a9-f0e4-7021-abef-a5b79deee1bb，生成时间 2026-04-25 02:10:18。" aria-label="Open image preview for Polished 2x2 contact sheet of NEW, non-repeated GPT Image 2 playground use cases">
             <img loading="lazy"  src="assets/images/037-a-polished-2x2-contact-sheet-of-new-non-repeated-gpt-image-2-pla.png" alt="Polished 2x2 contact sheet of NEW, non-repeated GPT Image 2 playground use cases. Tags: game-design, interior-design, material-study, productivity-visual, storytelling, typography, ui-mockup, worldbuilding." width="1254" height="1254" />
           </a>
           <div class="content">
@@ -2073,7 +2151,7 @@ asset type: derived-play contact sheet
 primary request: derive new gameplay from the first group: remix text-heavy poster into recipe content, turn ui into physical scene, turn sequential character into reusable asset sheet, turn product render into campaign variants.
 composition: 2x2 grid, each panel visually distinct but coherent, production-grade, inspectable details.
 avoid: real brands, celebrity likenesses, copyrighted characters, gibberish labels, excessive tiny text, cluttered layout. game-design interior-design lighting-weather product-mockup productivity-visual storytelling typography ui-mockup" data-tags="game-design interior-design lighting-weather product-mockup productivity-visual storytelling typography ui-mockup">
-          <a class="image-link" href="assets/images/038-a-second-polished-2x2-contact-sheet-derived-from-the-first-group.png" target="_blank" rel="noreferrer" aria-label="Open full image for Second polished 2x2 contact sheet derived from the first group's ideas, exploring">
+          <a class="image-link" href="assets/images/038-a-second-polished-2x2-contact-sheet-derived-from-the-first-group.png" data-modal-image data-title="Second polished 2x2 contact sheet derived from the first group's ideas, exploring" data-caption="历史生成图，批次 019dc0a9-f0e4-7021-abef-a5b79deee1bb，生成时间 2026-04-25 02:08:08。" aria-label="Open image preview for Second polished 2x2 contact sheet derived from the first group's ideas, exploring">
             <img loading="lazy"  src="assets/images/038-a-second-polished-2x2-contact-sheet-derived-from-the-first-group.png" alt="Second polished 2x2 contact sheet derived from the first group's ideas, exploring. Tags: game-design, interior-design, lighting-weather, product-mockup, productivity-visual, storytelling, typography, ui-mockup." width="1254" height="1254" />
           </a>
           <div class="content">
@@ -2120,7 +2198,7 @@ asset type: exploratory use-case contact sheet
 primary request: draw a first group of playful gpt image 2 use cases covering text rendering, ui mockups, sequential consistency, and product visualization.
 composition: 2x2 grid, each panel visually distinct but coherent, high craft, enough detail to inspect the capability.
 avoid: real company brands, celebrity likenesses, copyrighted characters, illegible gibberish text, distorted hands, extra panels. lighting-weather material-study photoreal product-mockup productivity-visual storytelling typography ui-mockup" data-tags="lighting-weather material-study photoreal product-mockup productivity-visual storytelling typography ui-mockup">
-          <a class="image-link" href="assets/images/039-a-polished-2x2-contact-sheet-titled-only-with-small-unobtrusive-.png" target="_blank" rel="noreferrer" aria-label="Open full image for Polished 2x2 contact sheet titled only with small unobtrusive labels, showing four">
+          <a class="image-link" href="assets/images/039-a-polished-2x2-contact-sheet-titled-only-with-small-unobtrusive-.png" data-modal-image data-title="Polished 2x2 contact sheet titled only with small unobtrusive labels, showing four" data-caption="历史生成图，批次 019dc0a9-f0e4-7021-abef-a5b79deee1bb，生成时间 2026-04-25 02:06:39。" aria-label="Open image preview for Polished 2x2 contact sheet titled only with small unobtrusive labels, showing four">
             <img loading="lazy"  src="assets/images/039-a-polished-2x2-contact-sheet-titled-only-with-small-unobtrusive-.png" alt="Polished 2x2 contact sheet titled only with small unobtrusive labels, showing four. Tags: lighting-weather, material-study, photoreal, product-mockup, productivity-visual, storytelling, typography, ui-mockup." width="1254" height="1254" />
           </a>
           <div class="content">
@@ -2166,7 +2244,7 @@ panel 3 label: &quot;distractor forge&quot;. show an education eval setup: one c
 panel 4 label: &quot;print-and-play balancer&quot;. show tabletop card variants in a playtest workspace with visible cost, power, rarity marks, sticky notes saying &quot;too strong&quot;, &quot;slow&quot;, &quot;fun&quot;, and a next-version sheet. it should feel like rapid game balancing.
 
 overall: four distinct panels, stable grid, sharp readable headings, thoughtful use of color, playful but professional, 16:9 landscape. evaluation game-design infographic product-mockup storytelling typography" data-tags="evaluation game-design infographic product-mockup storytelling typography">
-          <a class="image-link" href="assets/images/040-a-polished-2x2-contact-sheet-titled-gpt-image-2-derived-play-mec.png" target="_blank" rel="noreferrer" aria-label="Open full image for Polished 2x2 contact sheet titled &quot;GPT Image 2: Derived Play Mechanics&quot;">
+          <a class="image-link" href="assets/images/040-a-polished-2x2-contact-sheet-titled-gpt-image-2-derived-play-mec.png" data-modal-image data-title="Polished 2x2 contact sheet titled &quot;GPT Image 2: Derived Play Mechanics&quot;" data-caption="历史生成图，批次 019dc0a0-c929-7103-a37f-6d746096fbe2，生成时间 2026-04-25 01:59:10。" aria-label="Open image preview for Polished 2x2 contact sheet titled &quot;GPT Image 2: Derived Play Mechanics&quot;">
             <img loading="lazy"  src="assets/images/040-a-polished-2x2-contact-sheet-titled-gpt-image-2-derived-play-mec.png" alt="Polished 2x2 contact sheet titled &quot;GPT Image 2: Derived Play Mechanics&quot;. Tags: evaluation, game-design, infographic, product-mockup, storytelling, typography." width="1672" height="941" />
           </a>
           <div class="content">
@@ -2209,7 +2287,7 @@ panel 3 label: &quot;visual exam bank&quot;. show four educational quiz cards wi
 panel 4 label: &quot;tabletop prototype kit&quot;. show a print-and-play board game prototype kit: cards, tokens, player mat, rule reminder, and box-front mockup on a neutral tabletop. use visible numbers and icons, but keep all text short and clean.
 
 overall: four distinct panels, consistent margins, sharp readable headings, playful but professional, 16:9 landscape. education game-design infographic product-mockup storytelling worldbuilding" data-tags="education game-design infographic product-mockup storytelling worldbuilding">
-          <a class="image-link" href="assets/images/041-a-polished-2x2-contact-sheet-titled-gpt-image-2-system-play-use-.png" target="_blank" rel="noreferrer" aria-label="Open full image for Polished 2x2 contact sheet titled &quot;GPT Image 2: System Play Use Cases&quot;">
+          <a class="image-link" href="assets/images/041-a-polished-2x2-contact-sheet-titled-gpt-image-2-system-play-use-.png" data-modal-image data-title="Polished 2x2 contact sheet titled &quot;GPT Image 2: System Play Use Cases&quot;" data-caption="历史生成图，批次 019dc0a0-c929-7103-a37f-6d746096fbe2，生成时间 2026-04-25 01:57:42。" aria-label="Open image preview for Polished 2x2 contact sheet titled &quot;GPT Image 2: System Play Use Cases&quot;">
             <img loading="lazy"  src="assets/images/041-a-polished-2x2-contact-sheet-titled-gpt-image-2-system-play-use-.png" alt="Polished 2x2 contact sheet titled &quot;GPT Image 2: System Play Use Cases&quot;. Tags: education, game-design, infographic, product-mockup, storytelling, worldbuilding." width="1672" height="941" />
           </a>
           <div class="content">
@@ -2242,7 +2320,7 @@ Overall: four distinct panels, consistent margins, sharp readable headings, play
         </article>
 
         <article class="card" id="prompt-51" data-search="second polished 2x3 visual research contact sheet titled &quot;derived play patterns fo 历史生成图，批次 019dc097-a174-7fe2-8ea1-bd511d909818，生成时间 2026-04-25 01:48:19。 create a second polished 2x3 visual research contact sheet titled &quot;derived play patterns for gpt image 2.0 / 派生玩法&quot;. aspect ratio 16:9, visually rich, each panel a different playful product/game-like concept built from image generation capabilities. include clean readable short labels: 1) &quot;remix dice / 变体骰子&quot; showing dice that randomize style, season, camera, and audience for one product image; 2) &quot;visual quest / 视觉任务&quot; showing a small quest board where each generated image unlocks the next prompt clue; 3) &quot;brand npc / 品牌角色&quot; showing one mascot character adapted into package, sticker, app avatar, and comic; 4) &quot;memory palace / 记忆宫殿&quot; showing a study room where facts become surreal visual landmarks; 5) &quot;a/b arena / 视觉竞技场&quot; showing four ad thumbnails competing with score badges like clarity, novelty, click intent; 6) &quot;world kit / 世界观素材包&quot; showing map, props, character sheet, item cards, and poster in one coherent fictional world. use original fictional content only, no real brands, no logos, no watermark. emphasize structured layouts, consistent characters/assets, legible bilingual headings, and playful creative direction. evaluation game-design interior-design product-mockup storytelling typography ui-mockup worldbuilding" data-tags="evaluation game-design interior-design product-mockup storytelling typography ui-mockup worldbuilding">
-          <a class="image-link" href="assets/images/042-a-second-polished-2x3-visual-research-contact-sheet-titled-deriv.png" target="_blank" rel="noreferrer" aria-label="Open full image for Second polished 2x3 visual research contact sheet titled &quot;Derived Play Patterns fo">
+          <a class="image-link" href="assets/images/042-a-second-polished-2x3-visual-research-contact-sheet-titled-deriv.png" data-modal-image data-title="Second polished 2x3 visual research contact sheet titled &quot;Derived Play Patterns fo" data-caption="历史生成图，批次 019dc097-a174-7fe2-8ea1-bd511d909818，生成时间 2026-04-25 01:48:19。" aria-label="Open image preview for Second polished 2x3 visual research contact sheet titled &quot;Derived Play Patterns fo">
             <img loading="lazy"  src="assets/images/042-a-second-polished-2x3-visual-research-contact-sheet-titled-deriv.png" alt="Second polished 2x3 visual research contact sheet titled &quot;Derived Play Patterns fo. Tags: evaluation, game-design, interior-design, product-mockup, storytelling, typography, ui-mockup, worldbuilding." width="1536" height="1024" />
           </a>
           <div class="content">
@@ -2267,7 +2345,7 @@ Overall: four distinct panels, consistent margins, sharp readable headings, play
         </article>
 
         <article class="card" id="prompt-52" data-search="polished 2x3 visual research contact sheet showcasing six playful gpt image 2 历史生成图，批次 019dc097-a174-7fe2-8ea1-bd511d909818，生成时间 2026-04-25 01:46:57。 create a polished 2x3 visual research contact sheet showcasing six playful gpt image 2.0 use cases. aspect ratio 16:9, crisp editorial design, each panel visually distinct, professional but fun. include short bilingual panel labels in clean readable text: 1) &quot;ad remix / 广告变体&quot; showing a sparkling canned drink ad with alternate seasonal props; 2) &quot;ui snapshot / 界面快照&quot; showing a realistic mobile app screen mockup for a tiny travel planner; 3) &quot;infocard / 知识卡片&quot; showing a clear mini infographic about coffee brewing variables; 4) &quot;comic beat / 漫画分镜&quot; showing three consistent character moments in one panel; 5) &quot;product kit / 产品套装&quot; showing packaging, sticker, icon, and social post assets; 6) &quot;text localize / 文案本地化&quot; showing a poster where english and chinese text blocks are aligned cleanly. emphasize accurate typography, structured layout, consistent art direction within each mini-panel, no watermarks, no logos, no real brand names. infographic product-mockup storytelling typography ui-mockup" data-tags="infographic product-mockup storytelling typography ui-mockup">
-          <a class="image-link" href="assets/images/043-a-polished-2x3-visual-research-contact-sheet-showcasing-six-play.png" target="_blank" rel="noreferrer" aria-label="Open full image for Polished 2x3 visual research contact sheet showcasing six playful GPT Image 2">
+          <a class="image-link" href="assets/images/043-a-polished-2x3-visual-research-contact-sheet-showcasing-six-play.png" data-modal-image data-title="Polished 2x3 visual research contact sheet showcasing six playful GPT Image 2" data-caption="历史生成图，批次 019dc097-a174-7fe2-8ea1-bd511d909818，生成时间 2026-04-25 01:46:57。" aria-label="Open image preview for Polished 2x3 visual research contact sheet showcasing six playful GPT Image 2">
             <img loading="lazy"  src="assets/images/043-a-polished-2x3-visual-research-contact-sheet-showcasing-six-play.png" alt="Polished 2x3 visual research contact sheet showcasing six playful GPT Image 2. Tags: infographic, product-mockup, storytelling, typography, ui-mockup." width="1672" height="941" />
           </a>
           <div class="content">
@@ -2293,7 +2371,7 @@ asset type: valid non-repeating derived-play board for gpt image 2 research.
 primary request: create a 16:9 board titled &quot;版式玩法派生&quot; showing four playable derivatives from exact-layout image generation. panel 01: 约束抽卡 - cards for 日期, 数量, 路线, 预算, 字数. panel 02: 错误猎人 - a checklist for catching wrong counts, broken grid alignment, bad chinese text, missing icon, wrong total. panel 03: 多尺寸改编 - same fictional itinerary converted into square cover, vertical story, thumbnail, and print poster frames. panel 04: 二次编辑挑战 - before/after slots for changing only weather, changing only price, changing only route, changing only deadline. chinese labels must be clear and correctly written.
 composition: practical game-like test board for creators, clean grids, small scoring tokens, distinct panel colors, readable typography, no brand marks.
 avoid: repeating product packaging, storyboards, world-bible cards, camera lottery, memory palace, asset reskin dice, food ads, tea infographics, storefront grids, fantasy character art, watermark. game-design lighting-weather operations product-mockup productivity-visual storytelling typography worldbuilding" data-tags="game-design lighting-weather operations product-mockup productivity-visual storytelling typography worldbuilding">
-          <a class="image-link" href="assets/images/044-use-case-productivity-visual-image-evals.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: productivity-visual / image evals">
+          <a class="image-link" href="assets/images/044-use-case-productivity-visual-image-evals.png" data-modal-image data-title="Use case: productivity-visual / image evals" data-caption="历史生成图，批次 019dc08e-799b-7ba1-9fc3-327f892b0be6，生成时间 2026-04-25 01:46:12。" aria-label="Open image preview for Use case: productivity-visual / image evals">
             <img loading="lazy"  src="assets/images/044-use-case-productivity-visual-image-evals.png" alt="Use case: productivity-visual / image evals. Tags: game-design, lighting-weather, operations, product-mockup, productivity-visual, storytelling, typography, worldbuilding." width="1672" height="941" />
           </a>
           <div class="content">
@@ -2326,7 +2404,7 @@ asset type: valid non-repeating use-case board for gpt image 2 research.
 primary request: create a 16:9 contact-sheet board titled &quot;精确版式玩法&quot; with four distinct mini experiments, each in its own clean panel: 01 ai旅行日历 with a month grid and tiny itinerary icons; 02 魔法收据 with item rows, prices, subtotal, and a playful fictional receipt layout; 03 城市寻宝地图 with streets, numbered stops, and a legend; 04 会议清单海报 with checkboxes, owners, and deadlines. chinese labels must be clear and correctly written. the board should show how image generation can create structured artifacts that test layout fidelity, counting, grids, and readable text.
 composition: practical creator lab contact sheet, white background, black grid, restrained accent colors, polished but utilitarian.
 avoid: fantasy characters, food ads, tea steps, hardware product boards, paper boat storyboards, app ui screens, storefront style grids, world-bible cards, unreadable text, brand logos, watermark. game-design infographic product-mockup productivity-visual storytelling typography ui-mockup worldbuilding" data-tags="game-design infographic product-mockup productivity-visual storytelling typography ui-mockup worldbuilding">
-          <a class="image-link" href="assets/images/045-use-case-productivity-visual-infographic-diagram.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: productivity-visual / infographic-diagram">
+          <a class="image-link" href="assets/images/045-use-case-productivity-visual-infographic-diagram.png" data-modal-image data-title="Use case: productivity-visual / infographic-diagram" data-caption="历史生成图，批次 019dc08e-799b-7ba1-9fc3-327f892b0be6，生成时间 2026-04-25 01:45:01。" aria-label="Open image preview for Use case: productivity-visual / infographic-diagram">
             <img loading="lazy"  src="assets/images/045-use-case-productivity-visual-infographic-diagram.png" alt="Use case: productivity-visual / infographic-diagram. Tags: game-design, infographic, product-mockup, productivity-visual, storytelling, typography, ui-mockup, worldbuilding." width="1672" height="941" />
           </a>
           <div class="content">
@@ -2359,7 +2437,7 @@ asset type: derived workflow concept image for gpt image 2 use-case research.
 primary request: draw a 16:9 quality-control dashboard poster titled &quot;图像玩法评分板&quot;. show six evaluation lanes for generated image experiments: 指令跟随, 文字正确, 风格一致, 局部编辑, 商用可用, 惊喜程度. each lane has a 0-5 score meter, a tiny pass/fail chip, and a thumbnail placeholder. text must be clear chinese. it should feel like a practical visual qa tool for creators testing gpt image 2 workflows.
 composition: modern dashboard interface mixed with printed lab sheet, readable labels, neutral background, subtle accent colors.
 avoid: gibberish text, brand logos, watermark, overdecorated sci-fi ui. evaluation infographic infographic-diagram product-mockup typography ui-mockup" data-tags="evaluation infographic infographic-diagram product-mockup typography ui-mockup">
-          <a class="image-link" href="assets/images/046-use-case-infographic-diagram-image-evals.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: infographic-diagram / image evals">
+          <a class="image-link" href="assets/images/046-use-case-infographic-diagram-image-evals.png" data-modal-image data-title="Use case: infographic-diagram / image evals" data-caption="历史生成图，批次 019dc08e-799b-7ba1-9fc3-327f892b0be6，生成时间 2026-04-25 01:41:12。" aria-label="Open image preview for Use case: infographic-diagram / image evals">
             <img loading="lazy"  src="assets/images/046-use-case-infographic-diagram-image-evals.png" alt="Use case: infographic-diagram / image evals. Tags: evaluation, infographic, infographic-diagram, product-mockup, typography, ui-mockup." width="1672" height="941" />
           </a>
           <div class="content">
@@ -2390,7 +2468,7 @@ asset type: derived gameplay concept image for gpt image 2 use-case research.
 primary request: draw a 16:9 &quot;world bible generator&quot; visual: one original landscape image in the center is exploded into a coherent story asset sheet around it. include panels for 主角, 反派, 交通工具, 地标, 气候, 物品, 色板, 三幕剧情. chinese labels must be clear and correct. the assets should share one consistent whimsical adventure style and look like they belong to the same fictional world.
 composition: professional concept art sheet, clean labeled panels, consistent palette, high detail.
 avoid: inconsistent styles, unreadable labels, brand logos, watermark, too many random objects. illustration-story product-mockup typography" data-tags="illustration-story product-mockup typography">
-          <a class="image-link" href="assets/images/047-use-case-illustration-story-compositing-concept.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: illustration-story / compositing concept">
+          <a class="image-link" href="assets/images/047-use-case-illustration-story-compositing-concept.png" data-modal-image data-title="Use case: illustration-story / compositing concept" data-caption="历史生成图，批次 019dc08e-799b-7ba1-9fc3-327f892b0be6，生成时间 2026-04-25 01:40:02。" aria-label="Open image preview for Use case: illustration-story / compositing concept">
             <img loading="lazy"  src="assets/images/047-use-case-illustration-story-compositing-concept.png" alt="Use case: illustration-story / compositing concept. Tags: illustration-story, product-mockup, typography." width="1672" height="941" />
           </a>
           <div class="content">
@@ -2418,7 +2496,7 @@ asset type: derived gameplay concept image for gpt image 2 use-case research.
 primary request: draw a 16:9 tabletop game instruction board titled &quot;prompt quest 规则卡&quot;. it explains a mini game where players roll prompt dice and place cards to build an image prompt. include four clear chinese rule blocks with exact labels: 1 抽角色, 2 摆场景, 3 加限制, 4 生成变体. show dice, tokens, and a sample quest path. make it visually fun but clean enough to use as a real rule card.
 composition: flat-lay board game rule sheet, readable chinese headings, charming illustrated components, strong hierarchy.
 avoid: gibberish, too much tiny body text, brand logos, watermark, messy fantasy battle scene. education game-design product-mockup scientific-educational typography worldbuilding" data-tags="education game-design product-mockup scientific-educational typography worldbuilding">
-          <a class="image-link" href="assets/images/048-use-case-scientific-educational-illustration-story.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: scientific-educational / illustration-story">
+          <a class="image-link" href="assets/images/048-use-case-scientific-educational-illustration-story.png" data-modal-image data-title="Use case: scientific-educational / illustration-story" data-caption="历史生成图，批次 019dc08e-799b-7ba1-9fc3-327f892b0be6，生成时间 2026-04-25 01:39:05。" aria-label="Open image preview for Use case: scientific-educational / illustration-story">
             <img loading="lazy"  src="assets/images/048-use-case-scientific-educational-illustration-story.png" alt="Use case: scientific-educational / illustration-story. Tags: education, game-design, product-mockup, scientific-educational, typography, worldbuilding." width="1672" height="941" />
           </a>
           <div class="content">
@@ -2449,7 +2527,7 @@ asset type: exploratory demo image for gpt image 2 use-case research.
 primary request: draw a 3:2 product mockup scene for a fictional creator kit called &quot;prompt bento&quot;. show a small boxed kit containing prompt dice, mini storyboard cards, color swatches, and a tiny foldout scene map. the packaging has the exact readable chinese subtitle &quot;灵感便当&quot; and small english title &quot;prompt bento&quot;. make it feel like a premium stationery product photographed for an online shop.
 composition: front-facing three-quarter product photo on a neutral studio table, soft shadows, crisp packaging details, tasteful mixed colors.
 avoid: real brand logos, misspelled title/subtitle, clutter, watermark. game-design photoreal product-mockup storytelling typography worldbuilding" data-tags="game-design photoreal product-mockup storytelling typography worldbuilding">
-          <a class="image-link" href="assets/images/049-use-case-product-mockup-ads-marketing.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: product-mockup / ads-marketing">
+          <a class="image-link" href="assets/images/049-use-case-product-mockup-ads-marketing.png" data-modal-image data-title="Use case: product-mockup / ads-marketing" data-caption="历史生成图，批次 019dc08e-799b-7ba1-9fc3-327f892b0be6，生成时间 2026-04-25 01:37:58。" aria-label="Open image preview for Use case: product-mockup / ads-marketing">
             <img loading="lazy"  src="assets/images/049-use-case-product-mockup-ads-marketing.png" alt="Use case: product-mockup / ads-marketing. Tags: game-design, photoreal, product-mockup, storytelling, typography, worldbuilding." width="1536" height="1024" />
           </a>
           <div class="content">
@@ -2480,7 +2558,7 @@ asset type: exploratory demo image for gpt image 2 use-case research.
 primary request: draw a clean 16:9 chinese infographic poster titled &quot;一张图变成十种资产&quot;. show a central generated image thumbnail branching into ten neat output tiles: 海报, 封面, 分镜, 贴纸, 商品图, 表情包, ui图标, 教程图, 地图, 卡牌. make the chinese text large, clear, and correct. use a modern editorial infographic layout with subtle grid lines, small arrows, and distinct colors per branch.
 composition: crisp presentation-slide quality, high contrast, readable at thumbnail size.
 avoid: tiny unreadable text, misspelled chinese, fake brand marks, clutter, watermark. infographic infographic-diagram product-mockup typography ui-mockup" data-tags="infographic infographic-diagram product-mockup typography ui-mockup">
-          <a class="image-link" href="assets/images/050-use-case-infographic-diagram.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: infographic-diagram">
+          <a class="image-link" href="assets/images/050-use-case-infographic-diagram.png" data-modal-image data-title="Use case: infographic-diagram" data-caption="历史生成图，批次 019dc08e-799b-7ba1-9fc3-327f892b0be6，生成时间 2026-04-25 01:36:46。" aria-label="Open image preview for Use case: infographic-diagram">
             <img loading="lazy"  src="assets/images/050-use-case-infographic-diagram.png" alt="Use case: infographic-diagram. Tags: infographic, infographic-diagram, product-mockup, typography, ui-mockup." width="1672" height="941" />
           </a>
           <div class="content">
@@ -2510,7 +2588,7 @@ asset type: exploratory demo image for gpt image 2 use-case research.
 primary request: draw a polished 16:9 concept image showing a &quot;visual prompt card laboratory&quot; for creators: a tabletop layout with six prompt cards, each card has a tiny image thumbnail, a short chinese label, and a simple score chip. labels must be legible: 角色, 场景, 道具, 风格, 约束, 变体. the image should feel like a real photographed design workshop, with paper texture, pens, sticky notes, and a laptop edge visible, but no brand logos.
 composition: top-down editorial product photo, organized but playful, warm natural light, high detail.
 avoid: gibberish text, extra labels, logos, watermarks, fantasy characters. evaluation game-design photoreal product-mockup productivity-visual typography ui-mockup worldbuilding" data-tags="evaluation game-design photoreal product-mockup productivity-visual typography ui-mockup worldbuilding">
-          <a class="image-link" href="assets/images/051-use-case-productivity-visual-ui-mockup.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: productivity-visual / ui-mockup">
+          <a class="image-link" href="assets/images/051-use-case-productivity-visual-ui-mockup.png" data-modal-image data-title="Use case: productivity-visual / ui-mockup" data-caption="历史生成图，批次 019dc08e-799b-7ba1-9fc3-327f892b0be6，生成时间 2026-04-25 01:36:01。" aria-label="Open image preview for Use case: productivity-visual / ui-mockup">
             <img loading="lazy"  src="assets/images/051-use-case-productivity-visual-ui-mockup.png" alt="Use case: productivity-visual / ui-mockup. Tags: evaluation, game-design, photoreal, product-mockup, productivity-visual, typography, ui-mockup, worldbuilding." width="1672" height="941" />
           </a>
           <div class="content">
@@ -2539,7 +2617,7 @@ Avoid: gibberish text, extra labels, logos, watermarks, fantasy characters.</pre
         </article>
 
         <article class="card" id="prompt-61" data-search="polished 2x3 contact sheet of six new derived playful gpt image 2 workflows, avoid 历史生成图，批次 019dc085-5186-7de1-9c04-5ba263d7d793，生成时间 2026-04-25 01:32:09。 create a polished 2x3 contact sheet of six new derived playful gpt image 2 workflows, avoiding prior themes: bilingual food ad, tea infographic, product-board, paper boat storyboard, mood menu, storefront style grid, generic poster/ui/product/infographic/storyboard/interior boards. these should be repeatable game-like mechanisms. no brand logos, no real people identities, no copyrighted character styles. small clean english labels only: 1) memory palace: one abstract concept becomes a navigable illustrated room with mnemonic objects; 2) asset reskin dice: a single game icon reskinned by rolling material, era, weather, and rarity dice; 3) camera lottery: the same miniature scene rendered through six camera rules: macro, cctv, drone, fisheye, x-ray cutaway, thermal; 4) error beautifier: broken screenshots, bad scans, and ugly forms transformed into elegant visual systems; 5) world bible cards: creatures, maps, tools, laws, and symbols from one fictional culture shown as consistent reference cards; 6) one-prompt sequencer: one seed phrase unfolds into six adjacent visual states: seed, conflict, transformation, tool, ritual, souvenir. style: playful design-system laboratory, crisp panel borders, varied palettes, high detail, 16:9 canvas, legible short labels, no watermarks. game-design infographic interior-design material-study product-mockup storytelling typography ui-mockup" data-tags="game-design infographic interior-design material-study product-mockup storytelling typography ui-mockup">
-          <a class="image-link" href="assets/images/052-a-polished-2x3-contact-sheet-of-six-new-derived-playful-gpt-imag.png" target="_blank" rel="noreferrer" aria-label="Open full image for Polished 2x3 contact sheet of six NEW derived playful GPT Image 2 workflows, avoid">
+          <a class="image-link" href="assets/images/052-a-polished-2x3-contact-sheet-of-six-new-derived-playful-gpt-imag.png" data-modal-image data-title="Polished 2x3 contact sheet of six NEW derived playful GPT Image 2 workflows, avoid" data-caption="历史生成图，批次 019dc085-5186-7de1-9c04-5ba263d7d793，生成时间 2026-04-25 01:32:09。" aria-label="Open image preview for Polished 2x3 contact sheet of six NEW derived playful GPT Image 2 workflows, avoid">
             <img loading="lazy"  src="assets/images/052-a-polished-2x3-contact-sheet-of-six-new-derived-playful-gpt-imag.png" alt="Polished 2x3 contact sheet of six NEW derived playful GPT Image 2 workflows, avoid. Tags: game-design, infographic, interior-design, material-study, product-mockup, storytelling, typography, ui-mockup." width="1672" height="941" />
           </a>
           <div class="content">
@@ -2564,7 +2642,7 @@ Avoid: gibberish text, extra labels, logos, watermarks, fantasy characters.</pre
         </article>
 
         <article class="card" id="prompt-62" data-search="polished 2x3 contact sheet of six new gpt image 2 use-case concepts that explicitl 历史生成图，批次 019dc085-5186-7de1-9c04-5ba263d7d793，生成时间 2026-04-25 01:30:48。 create a polished 2x3 contact sheet of six new gpt image 2 use-case concepts that explicitly avoid these prior themes: bilingual food ads, tea brewing infographics, handheld product boards, paper boat storyboards, mood-menu apps, storefront style grids, generic product shots, generic dashboards, generic eclipse infographics. no brand logos, no real people identities, no copyrighted character styles. small clean english labels only: 1) restore kit: an old damaged family photo beside a repaired colorized version, with dust/scratch removal visible; 2) try-on catalog: the same neutral mannequin wearing six jacket silhouettes and fabrics in a clean fashion grid; 3) game asset sheet: a top-down cozy strategy-game tile set with terrain, buildings, icons, and props; 4) comic localize: one comic page layout with blank-safe speech bubbles and localized short phrases, showing typography control; 5) film previs: a director's shot-planning board showing lens, light, and blocking variations for one scene; 6) data poster: a beautiful nonliteral poster turning abstract numeric patterns into visual art without charts. style: premium creative lab presentation, varied color palettes, high detail, crisp panel dividers, 16:9 canvas, professional image-generation showcase, no watermarks. game-design lighting-weather photoreal product-mockup storytelling typography" data-tags="game-design lighting-weather photoreal product-mockup storytelling typography">
-          <a class="image-link" href="assets/images/053-a-polished-2x3-contact-sheet-of-six-new-gpt-image-2-use-case-con.png" target="_blank" rel="noreferrer" aria-label="Open full image for Polished 2x3 contact sheet of six NEW GPT Image 2 use-case concepts that explicitl">
+          <a class="image-link" href="assets/images/053-a-polished-2x3-contact-sheet-of-six-new-gpt-image-2-use-case-con.png" data-modal-image data-title="Polished 2x3 contact sheet of six NEW GPT Image 2 use-case concepts that explicitl" data-caption="历史生成图，批次 019dc085-5186-7de1-9c04-5ba263d7d793，生成时间 2026-04-25 01:30:48。" aria-label="Open image preview for Polished 2x3 contact sheet of six NEW GPT Image 2 use-case concepts that explicitl">
             <img loading="lazy"  src="assets/images/053-a-polished-2x3-contact-sheet-of-six-new-gpt-image-2-use-case-con.png" alt="Polished 2x3 contact sheet of six NEW GPT Image 2 use-case concepts that explicitl. Tags: game-design, lighting-weather, photoreal, product-mockup, storytelling, typography." width="1672" height="941" />
           </a>
           <div class="content">
@@ -2587,7 +2665,7 @@ Avoid: gibberish text, extra labels, logos, watermarks, fantasy characters.</pre
         </article>
 
         <article class="card" id="prompt-63" data-search="polished 2x3 contact sheet of six playful derived gpt image 2 workflows, building 历史生成图，批次 019dc085-5186-7de1-9c04-5ba263d7d793，生成时间 2026-04-25 01:27:37。 create a polished 2x3 contact sheet of six playful derived gpt image 2 workflows, building on the previous use-case categories but making them more game-like and experimental. no brand logos, no real celebrities, no copyrighted character styles. use small clean english labels only: 1) prompt slot machine: three vertical reels showing subject, style, constraint combinations turning into a quirky final image; 2) text stress test: a wall of tiny posters, each testing short readable phrases, dates, prices, and multilingual snippets without clutter; 3) consistency quest: the same original character shown across six outfits, moods, and camera angles while preserving identity; 4) edit escape room: one messy room image with highlighted edit missions: remove, replace, relight, recolor; 5) product mutation lab: one simple object evolving through six packaging/material/audience variants; 6) meme to mockup: a rough napkin sketch transforming into a clean app screen and then a billboard concept. style: playful lab notebook plus premium design board, high detail, clear panel separation, varied palettes, 16:9 canvas, crisp visual hierarchy, no watermarks. game-design interior-design material-study product-mockup prompt-game storytelling typography ui-mockup" data-tags="game-design interior-design material-study product-mockup prompt-game storytelling typography ui-mockup">
-          <a class="image-link" href="assets/images/054-a-polished-2x3-contact-sheet-of-six-playful-derived-gpt-image-2-.png" target="_blank" rel="noreferrer" aria-label="Open full image for Polished 2x3 contact sheet of six playful derived GPT Image 2 workflows, building">
+          <a class="image-link" href="assets/images/054-a-polished-2x3-contact-sheet-of-six-playful-derived-gpt-image-2-.png" data-modal-image data-title="Polished 2x3 contact sheet of six playful derived GPT Image 2 workflows, building" data-caption="历史生成图，批次 019dc085-5186-7de1-9c04-5ba263d7d793，生成时间 2026-04-25 01:27:37。" aria-label="Open image preview for Polished 2x3 contact sheet of six playful derived GPT Image 2 workflows, building">
             <img loading="lazy"  src="assets/images/054-a-polished-2x3-contact-sheet-of-six-playful-derived-gpt-image-2-.png" alt="Polished 2x3 contact sheet of six playful derived GPT Image 2 workflows, building. Tags: game-design, interior-design, material-study, product-mockup, prompt-game, storytelling, typography, ui-mockup." width="1672" height="941" />
           </a>
           <div class="content">
@@ -2612,7 +2690,7 @@ Avoid: gibberish text, extra labels, logos, watermarks, fantasy characters.</pre
         </article>
 
         <article class="card" id="prompt-64" data-search="polished 2x3 contact sheet of six distinct gpt image 2 use-case concepts 历史生成图，批次 019dc085-5186-7de1-9c04-5ba263d7d793，生成时间 2026-04-25 01:26:37。 create a polished 2x3 contact sheet of six distinct gpt image 2 use-case concepts. no brand logos, no real celebrities, no copyrighted character styles. each panel should look like a finished mini artwork, with small clean english labels only: 1) type poster: a colorful event poster with crisp readable typography and layered graphic design; 2) ui screen: a realistic saas dashboard screenshot mockup on a laptop, dense tables and charts; 3) product shot: a premium reusable bottle packaging concept with label, box, and studio lighting; 4) infographic: a clean educational science infographic about how a solar eclipse works, diagram arrows and short labels; 5) storyboard: a four-frame cinematic micro story shown inside one panel, consistent protagonist and environment; 6) room redesign: before-and-after interior design visualization in a small apartment. style: contemporary editorial design, high detail, varied palettes across panels, 16:9 canvas, sharp composition, professional image generation showcase. education infographic interior-design photoreal product-mockup storytelling typography ui-mockup" data-tags="education infographic interior-design photoreal product-mockup storytelling typography ui-mockup">
-          <a class="image-link" href="assets/images/055-a-polished-2x3-contact-sheet-of-six-distinct-gpt-image-2-use-cas.png" target="_blank" rel="noreferrer" aria-label="Open full image for Polished 2x3 contact sheet of six distinct GPT Image 2 use-case concepts">
+          <a class="image-link" href="assets/images/055-a-polished-2x3-contact-sheet-of-six-distinct-gpt-image-2-use-cas.png" data-modal-image data-title="Polished 2x3 contact sheet of six distinct GPT Image 2 use-case concepts" data-caption="历史生成图，批次 019dc085-5186-7de1-9c04-5ba263d7d793，生成时间 2026-04-25 01:26:37。" aria-label="Open image preview for Polished 2x3 contact sheet of six distinct GPT Image 2 use-case concepts">
             <img loading="lazy"  src="assets/images/055-a-polished-2x3-contact-sheet-of-six-distinct-gpt-image-2-use-cas.png" alt="Polished 2x3 contact sheet of six distinct GPT Image 2 use-case concepts. Tags: education, infographic, interior-design, photoreal, product-mockup, storytelling, typography, ui-mockup." width="1672" height="941" />
           </a>
           <div class="content">
@@ -2645,7 +2723,7 @@ panel 2: cutaway-to-learning-kit. the ramen vending machine cutaway has been tra
 panel 3: character-to-merch system. the lumo moon courier mascot becomes a cohesive merchandise launch board: sticker sheet, enamel pin, tote bag, small plush, postcard, and shipping-box tape. maintain the same moon-shaped courier with blue scarf and satchel. include small clean brand text &quot;lumo courier&quot; on packaging only. bright studio flat lay, consistent brand colors, realistic materials.
 
 overall: polished concept research board, high detail, no watermark, no clutter, keep all text minimal and as specified, avoid copyrighted styles or characters. education game-design photoreal product-mockup storytelling typography ui-mockup" data-tags="education game-design photoreal product-mockup storytelling typography ui-mockup">
-          <a class="image-link" href="assets/images/056-a-single-high-resolution-3-panel-derived-play-concept-board.png" target="_blank" rel="noreferrer" aria-label="Open full image for Single high-resolution 3-panel derived-play concept board">
+          <a class="image-link" href="assets/images/056-a-single-high-resolution-3-panel-derived-play-concept-board.png" data-modal-image data-title="Single high-resolution 3-panel derived-play concept board" data-caption="历史生成图，批次 019dc07c-29f4-7b31-adb1-c2f24a43a2c8，生成时间 2026-04-25 01:20:42。" aria-label="Open image preview for Single high-resolution 3-panel derived-play concept board">
             <img loading="lazy"  src="assets/images/056-a-single-high-resolution-3-panel-derived-play-concept-board.png" alt="Single high-resolution 3-panel derived-play concept board. Tags: education, game-design, photoreal, product-mockup, storytelling, typography, ui-mockup." width="1536" height="1024" />
           </a>
           <div class="content">
@@ -2685,7 +2763,7 @@ panel 2: educational cutaway infographic. a charming but technically clear cutaw
 panel 3: character consistency sheet. a small original mascot named &quot;lumo&quot; (a moon-shaped courier with tiny satchel and blue scarf), shown in six poses on a clean design sheet: neutral, running, waving, carrying parcel, surprised, sleeping. keep the same character identity, proportions, scarf, and satchel across all poses. no copyrighted characters, no artist imitation.
 
 overall: each panel separated by thin grid lines, modern design research board, sharp details, strong composition, no watermark, no messy pseudo text beyond the specified words. education infographic lighting-weather storytelling typography" data-tags="education infographic lighting-weather storytelling typography">
-          <a class="image-link" href="assets/images/057-a-single-high-resolution-3-panel-concept-board-titled-visually-b.png" target="_blank" rel="noreferrer" aria-label="Open full image for Single high-resolution 3-panel concept board titled visually by layout only, no la">
+          <a class="image-link" href="assets/images/057-a-single-high-resolution-3-panel-concept-board-titled-visually-b.png" data-modal-image data-title="Single high-resolution 3-panel concept board titled visually by layout only, no la" data-caption="历史生成图，批次 019dc07c-29f4-7b31-adb1-c2f24a43a2c8，生成时间 2026-04-25 01:18:26。" aria-label="Open image preview for Single high-resolution 3-panel concept board titled visually by layout only, no la">
             <img loading="lazy"  src="assets/images/057-a-single-high-resolution-3-panel-concept-board-titled-visually-b.png" alt="Single high-resolution 3-panel concept board titled visually by layout only, no la. Tags: education, infographic, lighting-weather, storytelling, typography." width="1536" height="1024" />
           </a>
           <div class="content">
@@ -2723,7 +2801,7 @@ text: no words except one simple sign that says &quot;open&quot; on each storefr
 composition: 2x2 grid, identical camera angle and building silhouette across styles, strong style contrast but same core identity.
 style: high craft visual experiment, consistent object identity, fun for social media carousel.
 avoid: brand logos, extra signs, illegible text, chaotic layout, watermark. infographic interior-design photoreal product-mockup style-transfer" data-tags="infographic interior-design photoreal product-mockup style-transfer">
-          <a class="image-link" href="assets/images/058-use-case-style-transfer.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: style-transfer">
+          <a class="image-link" href="assets/images/058-use-case-style-transfer.png" data-modal-image data-title="Use case: style-transfer" data-caption="历史生成图，批次 019dc073-0221-73a0-b03e-59918ae81bf3，生成时间 2026-04-25 01:13:51。" aria-label="Open image preview for Use case: style-transfer">
             <img loading="lazy"  src="assets/images/058-use-case-style-transfer.png" alt="Use case: style-transfer. Tags: infographic, interior-design, photoreal, product-mockup, style-transfer." width="1672" height="941" />
           </a>
           <div class="content">
@@ -2761,7 +2839,7 @@ text: preserve those exact english labels only, plus a small chinese title 「�
 composition: clean believable app mockup, food props around tablet echoing the selected mood, clear screen hierarchy.
 style: sophisticated product/ui photography, warm kitchen lighting, practical not fantasy.
 avoid: fake app store badges, illegible paragraphs, too many screens, watermark. game-design infographic lighting-weather typography ui-mockup worldbuilding" data-tags="game-design infographic lighting-weather typography ui-mockup worldbuilding">
-          <a class="image-link" href="assets/images/059-use-case-ui-mockup.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: ui-mockup">
+          <a class="image-link" href="assets/images/059-use-case-ui-mockup.png" data-modal-image data-title="Use case: ui-mockup" data-caption="历史生成图，批次 019dc073-0221-73a0-b03e-59918ae81bf3，生成时间 2026-04-25 01:12:04。" aria-label="Open image preview for Use case: ui-mockup">
             <img loading="lazy"  src="assets/images/059-use-case-ui-mockup.png" alt="Use case: ui-mockup. Tags: game-design, infographic, lighting-weather, typography, ui-mockup, worldbuilding." width="1672" height="941" />
           </a>
           <div class="content">
@@ -2800,7 +2878,7 @@ text: no words, no captions, no speech bubbles.
 composition: six equal panels, left-to-right progression, clear story beat in every panel, consistent lighting evolution from afternoon rain to night glow.
 style: charming editorial illustration with cinematic lighting, rich details, coherent sequence.
 avoid: text, frame numbers, random characters, inconsistent boat design, watermark. illustration-story lighting-weather photoreal storytelling worldbuilding" data-tags="illustration-story lighting-weather photoreal storytelling worldbuilding">
-          <a class="image-link" href="assets/images/060-use-case-illustration-story.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: illustration-story">
+          <a class="image-link" href="assets/images/060-use-case-illustration-story.png" data-modal-image data-title="Use case: illustration-story" data-caption="历史生成图，批次 019dc073-0221-73a0-b03e-59918ae81bf3，生成时间 2026-04-25 01:11:24。" aria-label="Open image preview for Use case: illustration-story">
             <img loading="lazy"  src="assets/images/060-use-case-illustration-story.png" alt="Use case: illustration-story. Tags: illustration-story, lighting-weather, photoreal, storytelling, worldbuilding." width="1672" height="941" />
           </a>
           <div class="content">
@@ -2838,7 +2916,7 @@ text: include exactly these labels: &quot;pocket studio&quot;, &quot;shell swap&
 composition: catalog mockup layout with callout lines, color swatches, subtle shadows, very clean spacing.
 style: premium product render, realistic materials, editorial industrial design board.
 avoid: real brand logos, unreadable labels, excessive futuristic shapes, watermark. product-mockup ui-mockup" data-tags="product-mockup ui-mockup">
-          <a class="image-link" href="assets/images/061-use-case-product-mockup.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: product-mockup">
+          <a class="image-link" href="assets/images/061-use-case-product-mockup.png" data-modal-image data-title="Use case: product-mockup" data-caption="历史生成图，批次 019dc073-0221-73a0-b03e-59918ae81bf3，生成时间 2026-04-25 01:10:19。" aria-label="Open image preview for Use case: product-mockup">
             <img loading="lazy"  src="assets/images/061-use-case-product-mockup.png" alt="Use case: product-mockup. Tags: product-mockup, ui-mockup." width="1672" height="941" />
           </a>
           <div class="content">
@@ -2873,7 +2951,7 @@ text: include exactly these labels in simplified chinese and english: &quot;1 �
 composition: four equal panels, arrows between panels, simple accurate teaware, legible text, neat icon-like illustrations.
 style: premium educational poster, crisp linework with soft watercolor accents, calm but not monochrome.
 avoid: dense paragraphs, misspelled text, extra steps, watermark, ornate decorations. education infographic scientific-educational typography" data-tags="education infographic scientific-educational typography">
-          <a class="image-link" href="assets/images/062-use-case-scientific-educational.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: scientific-educational">
+          <a class="image-link" href="assets/images/062-use-case-scientific-educational.png" data-modal-image data-title="Use case: scientific-educational" data-caption="历史生成图，批次 019dc073-0221-73a0-b03e-59918ae81bf3，生成时间 2026-04-25 01:09:02。" aria-label="Open image preview for Use case: scientific-educational">
             <img loading="lazy"  src="assets/images/062-use-case-scientific-educational.png" alt="Use case: scientific-educational. Tags: education, infographic, scientific-educational, typography." width="1448" height="1086" />
           </a>
           <div class="content">
@@ -2910,7 +2988,7 @@ text: include exactly these visible headline words: 「今晚吃点脆的」 and
 composition: poster-ready, centered food hero, enough breathing room, crisp typography, realistic lighting, no fake brand logos.
 style: high-end commercial food photography mixed with clean graphic design, professional print ad, 2k-feeling detail.
 avoid: misspelled text, unreadable tiny text, watermark, extra slogans, distorted hands. ads-marketing interior-design lighting-weather product-mockup typography" data-tags="ads-marketing interior-design lighting-weather product-mockup typography">
-          <a class="image-link" href="assets/images/063-use-case-ads-marketing.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: ads-marketing">
+          <a class="image-link" href="assets/images/063-use-case-ads-marketing.png" data-modal-image data-title="Use case: ads-marketing" data-caption="历史生成图，批次 019dc073-0221-73a0-b03e-59918ae81bf3，生成时间 2026-04-25 01:07:41。" aria-label="Open image preview for Use case: ads-marketing">
             <img loading="lazy"  src="assets/images/063-use-case-ads-marketing.png" alt="Use case: ads-marketing. Tags: ads-marketing, interior-design, lighting-weather, product-mockup, typography." width="1672" height="941" />
           </a>
           <div class="content">
@@ -2946,7 +3024,7 @@ exact visible text on cans: &quot;cloud oolong&quot;, variant names &quot;jasmin
 scene/backdrop: bright studio product lineup, three cans centered, each with matching ingredient vignette and color accent.
 subject: consistent packaging system across all three cans, condensation, subtle reflections, premium sparkling tea mood.
 style: high-end beverage campaign triptych, clean typography, realistic materials, no real brand resemblance, no watermark. ads-marketing lighting-weather product-mockup typography" data-tags="ads-marketing lighting-weather product-mockup typography">
-          <a class="image-link" href="assets/images/064-use-case-ads-marketing-derived-play-mechanic-product-to-flavor-l.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: ads-marketing / derived play mechanic: product-to-flavor-lab">
+          <a class="image-link" href="assets/images/064-use-case-ads-marketing-derived-play-mechanic-product-to-flavor-l.png" data-modal-image data-title="Use case: ads-marketing / derived play mechanic: product-to-flavor-lab" data-caption="历史生成图，批次 019dc05c-1f83-71c2-a086-041d004b4060，生成时间 2026-04-25 00:47:08。" aria-label="Open image preview for Use case: ads-marketing / derived play mechanic: product-to-flavor-lab">
             <img loading="lazy"  src="assets/images/064-use-case-ads-marketing-derived-play-mechanic-product-to-flavor-l.png" alt="Use case: ads-marketing / derived play mechanic: product-to-flavor-lab. Tags: ads-marketing, lighting-weather, product-mockup, typography." width="1774" height="887" />
           </a>
           <div class="content">
@@ -2979,7 +3057,7 @@ exact visible text: box title &quot;route bento: city dash&quot;, card labels &q
 scene/backdrop: overhead tabletop photo, game board with city grid route, small tokens, cards, budget tracker, food tiles.
 subject: a complete playable-looking board game kit inspired by itinerary planning.
 style: crisp product prototype photography, clear graphic design, readable labels, no real brands, no watermark. game-design operations photoreal product-mockup ui-mockup worldbuilding" data-tags="game-design operations photoreal product-mockup ui-mockup worldbuilding">
-          <a class="image-link" href="assets/images/065-use-case-ui-mockup-derived-play-mechanic-app-to-board-game.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: ui-mockup / derived play mechanic: app-to-board-game">
+          <a class="image-link" href="assets/images/065-use-case-ui-mockup-derived-play-mechanic-app-to-board-game.png" data-modal-image data-title="Use case: ui-mockup / derived play mechanic: app-to-board-game" data-caption="历史生成图，批次 019dc05c-1f83-71c2-a086-041d004b4060，生成时间 2026-04-25 00:46:22。" aria-label="Open image preview for Use case: ui-mockup / derived play mechanic: app-to-board-game">
             <img loading="lazy"  src="assets/images/065-use-case-ui-mockup-derived-play-mechanic-app-to-board-game.png" alt="Use case: ui-mockup / derived play mechanic: app-to-board-game. Tags: game-design, operations, photoreal, product-mockup, ui-mockup, worldbuilding." width="1536" height="1024" />
           </a>
           <div class="content">
@@ -3014,7 +3092,7 @@ exact visible text: small title at top &quot;book portal&quot;, panel labels &qu
 scene/backdrop: same cozy rainy bookstore mood, but more whimsical and sequential.
 subject: open book gradually becoming a miniature glowing city, with tiny streets and lights rising from the pages.
 style: polished graphic novel page, consistent lighting across panels, legible panel structure, no real characters, no watermark. game-design illustration-story lighting-weather storytelling typography worldbuilding" data-tags="game-design illustration-story lighting-weather storytelling typography worldbuilding">
-          <a class="image-link" href="assets/images/066-use-case-illustration-story-derived-play-mechanic-poster-to-mini.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: illustration-story / derived play mechanic: poster-to-mini-comic">
+          <a class="image-link" href="assets/images/066-use-case-illustration-story-derived-play-mechanic-poster-to-mini.png" data-modal-image data-title="Use case: illustration-story / derived play mechanic: poster-to-mini-comic" data-caption="历史生成图，批次 019dc05c-1f83-71c2-a086-041d004b4060，生成时间 2026-04-25 00:45:13。" aria-label="Open image preview for Use case: illustration-story / derived play mechanic: poster-to-mini-comic">
             <img loading="lazy"  src="assets/images/066-use-case-illustration-story-derived-play-mechanic-poster-to-mini.png" alt="Use case: illustration-story / derived play mechanic: poster-to-mini-comic. Tags: game-design, illustration-story, lighting-weather, storytelling, typography, worldbuilding." width="1024" height="1536" />
           </a>
           <div class="content">
@@ -3049,7 +3127,7 @@ exact visible text on can: &quot;cloud oolong&quot;, &quot;sparkling tea&quot;, 
 scene/backdrop: bright tabletop product photo with condensation, one can upright, one can lying sideways, citrus peel and tea leaves around it.
 subject: elegant aluminum can packaging with legible label typography and cohesive visual system.
 style: commercial product photography, high realism, clean lighting, fresh palette, no real brand resemblance, no watermark. lighting-weather photoreal product-mockup typography" data-tags="lighting-weather photoreal product-mockup typography">
-          <a class="image-link" href="assets/images/067-use-case-product-mockup-imaginary-packaging-system.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: product-mockup / imaginary packaging system">
+          <a class="image-link" href="assets/images/067-use-case-product-mockup-imaginary-packaging-system.png" data-modal-image data-title="Use case: product-mockup / imaginary packaging system" data-caption="历史生成图，批次 019dc05c-1f83-71c2-a086-041d004b4060，生成时间 2026-04-25 00:44:03。" aria-label="Open image preview for Use case: product-mockup / imaginary packaging system">
             <img loading="lazy"  src="assets/images/067-use-case-product-mockup-imaginary-packaging-system.png" alt="Use case: product-mockup / imaginary packaging system. Tags: lighting-weather, photoreal, product-mockup, typography." width="1536" height="1024" />
           </a>
           <div class="content">
@@ -3082,7 +3160,7 @@ exact visible ui labels: &quot;route bento&quot;, &quot;today&quot;, &quot;map&q
 scene/backdrop: neutral desk surface, phone slightly angled, soft daylight, no hands.
 subject: a dense but polished mobile interface with a map card, timeline stops, budget chip, and food recommendations.
 style: modern product design screenshot, crisp typography, restrained colors with one accent, no real brand icons, no watermark. operations product-mockup typography ui-mockup worldbuilding" data-tags="operations product-mockup typography ui-mockup worldbuilding">
-          <a class="image-link" href="assets/images/068-use-case-ui-mockup-layout-aware-screenshot.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: ui-mockup / layout-aware screenshot">
+          <a class="image-link" href="assets/images/068-use-case-ui-mockup-layout-aware-screenshot.png" data-modal-image data-title="Use case: ui-mockup / layout-aware screenshot" data-caption="历史生成图，批次 019dc05c-1f83-71c2-a086-041d004b4060，生成时间 2026-04-25 00:43:09。" aria-label="Open image preview for Use case: ui-mockup / layout-aware screenshot">
             <img loading="lazy"  src="assets/images/068-use-case-ui-mockup-layout-aware-screenshot.png" alt="Use case: ui-mockup / layout-aware screenshot. Tags: operations, product-mockup, typography, ui-mockup, worldbuilding." width="1024" height="1536" />
           </a>
           <div class="content">
@@ -3116,7 +3194,7 @@ exact visible text: main title &quot;午夜书店&quot;, subtitle &quot;今晚 9
 scene/backdrop: cozy urban bookstore at night, warm window light, rain-speckled glass, shelves receding into depth.
 subject: a glowing reading table with three open books, gentle cinematic atmosphere.
 style: editorial poster, tasteful typography hierarchy, no real brands, no logos, no watermark. ads-marketing lighting-weather material-study photoreal typography" data-tags="ads-marketing lighting-weather material-study photoreal typography">
-          <a class="image-link" href="assets/images/069-use-case-ads-marketing-typography-stress-test.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: ads-marketing / typography stress test">
+          <a class="image-link" href="assets/images/069-use-case-ads-marketing-typography-stress-test.png" data-modal-image data-title="Use case: ads-marketing / typography stress test" data-caption="历史生成图，批次 019dc05c-1f83-71c2-a086-041d004b4060，生成时间 2026-04-25 00:42:14。" aria-label="Open image preview for Use case: ads-marketing / typography stress test">
             <img loading="lazy"  src="assets/images/069-use-case-ads-marketing-typography-stress-test.png" alt="Use case: ads-marketing / typography stress test. Tags: ads-marketing, lighting-weather, material-study, photoreal, typography." width="1254" height="1254" />
           </a>
           <div class="content">
@@ -3155,7 +3233,7 @@ color palette: oat cream, ivory, sand, terracotta, charcoal, with only very subt
 materials/textures: paper-like surfaces, refined borders, soft layered shadows, restrained overlay effects.
 text (verbatim): small labels allowed for parent, current, child.
 constraints: parent card must be largest, current smaller, child smallest; light mode only; no dark mode; no purple; no neon; no generic dashboard feel; keep the hierarchy tactile and calm; match the current website's warm editorial theme. game-design lighting-weather operations storytelling ui-mockup" data-tags="game-design lighting-weather operations storytelling ui-mockup">
-          <a class="image-link" href="assets/images/070-use-case-ui-mockup.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: ui-mockup">
+          <a class="image-link" href="assets/images/070-use-case-ui-mockup.png" data-modal-image data-title="Use case: ui-mockup" data-caption="历史生成图，批次 019db8e3-caee-76e3-abe0-1aa1dd51a1ad，生成时间 2026-04-23 14:30:52。" aria-label="Open image preview for Use case: ui-mockup">
             <img loading="lazy"  src="assets/images/070-use-case-ui-mockup.png" alt="Use case: ui-mockup. Tags: game-design, lighting-weather, operations, storytelling, ui-mockup." width="1536" height="1024" />
           </a>
           <div class="content">
@@ -3199,7 +3277,7 @@ color palette: bone, cream, sand, terracotta, muted amber, charcoal.
 materials/textures: paper-like cards, thin warm borders, soft shadows, subtle terracotta highlight around the smallest child card only.
 text (verbatim): tiny labels allowed: parent, current, child.
 constraints: parent must be largest card, current medium, child smallest; light mode only; no purple; no dark mode; no glassmorphism; no neon; no clutter; keep the current website's warm literary style. game-design lighting-weather product-mockup ui-mockup" data-tags="game-design lighting-weather product-mockup ui-mockup">
-          <a class="image-link" href="assets/images/071-use-case-ui-mockup.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: ui-mockup">
+          <a class="image-link" href="assets/images/071-use-case-ui-mockup.png" data-modal-image data-title="Use case: ui-mockup" data-caption="历史生成图，批次 019db8e3-caee-76e3-abe0-1aa1dd51a1ad，生成时间 2026-04-23 14:29:45。" aria-label="Open image preview for Use case: ui-mockup">
             <img loading="lazy"  src="assets/images/071-use-case-ui-mockup.png" alt="Use case: ui-mockup. Tags: game-design, lighting-weather, product-mockup, ui-mockup." width="1672" height="941" />
           </a>
           <div class="content">
@@ -3242,7 +3320,7 @@ color palette: warm cream, bone, sand, terracotta, muted amber, charcoal text.
 materials/textures: paper-like cards, thin warm-gray borders, soft layered shadows, subtle terracotta glow around the smallest child layer.
 text (verbatim): tiny ui labels allowed for parent, current, child, but keep text minimal.
 constraints: light theme only; elegant serif display feel mixed with clean sans-serif ui details; no dark mode; no purple; no neon blue; no cyberpunk; no glassmorphism; no stock-photo people; avoid clutter; parent must be visually largest, current medium, child smallest. game-design lighting-weather photoreal product-mockup ui-mockup" data-tags="game-design lighting-weather photoreal product-mockup ui-mockup">
-          <a class="image-link" href="assets/images/072-use-case-ui-mockup.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: ui-mockup">
+          <a class="image-link" href="assets/images/072-use-case-ui-mockup.png" data-modal-image data-title="Use case: ui-mockup" data-caption="历史生成图，批次 019db8e3-caee-76e3-abe0-1aa1dd51a1ad，生成时间 2026-04-23 14:28:16。" aria-label="Open image preview for Use case: ui-mockup">
             <img loading="lazy"  src="assets/images/072-use-case-ui-mockup.png" alt="Use case: ui-mockup. Tags: game-design, lighting-weather, photoreal, product-mockup, ui-mockup." width="1536" height="1024" />
           </a>
           <div class="content">
@@ -3286,7 +3364,7 @@ color palette: oat cream, soft ivory, terracotta, sand, charcoal, tiny muted sag
 materials/textures: paper-like surfaces, rounded cards, fine borders, soft shadows, subtle modal overlay, restrained browser chrome.
 text (verbatim): minimal readable ui text only, mostly short headings and paragraph blocks, avoid lots of typography.
 constraints: reference a warm editorial website theme rather than a generic dashboard; light mode only; no dark mode; no purple; no neon; no glossy glass cards; no excessive charts; keep the hierarchy readable and calm; make the parent/current/child depth relationship the main design idea. game-design lighting-weather material-study typography ui-mockup" data-tags="game-design lighting-weather material-study typography ui-mockup">
-          <a class="image-link" href="assets/images/073-use-case-ui-mockup.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: ui-mockup">
+          <a class="image-link" href="assets/images/073-use-case-ui-mockup.png" data-modal-image data-title="Use case: ui-mockup" data-caption="历史生成图，批次 019db8e3-caee-76e3-abe0-1aa1dd51a1ad，生成时间 2026-04-23 14:03:53。" aria-label="Open image preview for Use case: ui-mockup">
             <img loading="lazy"  src="assets/images/073-use-case-ui-mockup.png" alt="Use case: ui-mockup. Tags: game-design, lighting-weather, material-study, typography, ui-mockup." width="1536" height="1024" />
           </a>
           <div class="content">
@@ -3330,7 +3408,7 @@ color palette: warm cream, bone, sand, terracotta, muted amber, charcoal text.
 materials/textures: paper-like cards, thin warm-gray borders, soft layered shadows, subtle terracotta glow around the active child layer.
 text (verbatim): keep text minimal, mostly abstract ui lines and a few tiny labels only.
 constraints: light theme only; elegant serif display feel mixed with clean sans-serif ui details; no dark mode; no purple; no neon blue; no cyberpunk; no glassmorphism; no stock-photo people; avoid clutter; emphasize the three-layer parent/current/child feeling. game-design lighting-weather photoreal product-mockup ui-mockup" data-tags="game-design lighting-weather photoreal product-mockup ui-mockup">
-          <a class="image-link" href="assets/images/074-use-case-ui-mockup.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: ui-mockup">
+          <a class="image-link" href="assets/images/074-use-case-ui-mockup.png" data-modal-image data-title="Use case: ui-mockup" data-caption="历史生成图，批次 019db8e3-caee-76e3-abe0-1aa1dd51a1ad，生成时间 2026-04-23 14:01:33。" aria-label="Open image preview for Use case: ui-mockup">
             <img loading="lazy"  src="assets/images/074-use-case-ui-mockup.png" alt="Use case: ui-mockup. Tags: game-design, lighting-weather, photoreal, product-mockup, ui-mockup." width="1672" height="941" />
           </a>
           <div class="content">
@@ -3373,7 +3451,7 @@ lighting/mood: bright, precise, calm, trustworthy.
 color palette: soft ivory, graphite, cyan, teal, restrained amber for emphasis.
 materials/textures: flat-glass cards, subtle shadows, thin connector lines, very clean surfaces.
 constraints: no readable text, no logos, no watermark, no generic stock icons, no clutter, visually communicate highlight -&gt; explain -&gt; drill deeper -&gt; zoom back. education game-design infographic infographic-diagram material-study operations storytelling ui-mockup" data-tags="education game-design infographic infographic-diagram material-study operations storytelling ui-mockup">
-          <a class="image-link" href="assets/images/075-use-case-infographic-diagram.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: infographic-diagram">
+          <a class="image-link" href="assets/images/075-use-case-infographic-diagram.png" data-modal-image data-title="Use case: infographic-diagram" data-caption="历史生成图，批次 019db43b-da57-7f42-9b6c-38129f270670，生成时间 2026-04-22 16:16:05。" aria-label="Open image preview for Use case: infographic-diagram">
             <img loading="lazy"  src="assets/images/075-use-case-infographic-diagram.png" alt="Use case: infographic-diagram. Tags: education, game-design, infographic, infographic-diagram, material-study, operations, storytelling, ui-mockup." width="1672" height="941" />
           </a>
           <div class="content">
@@ -3418,7 +3496,7 @@ lighting/mood: calm, smart, productive, high-clarity morning light.
 color palette: warm neutrals, paper white, charcoal, muted cyan interface accents.
 materials/textures: laptop aluminum, paper notes, subtle screen glow, realistic skin and textile textures.
 constraints: no readable ui text, no logos, no watermark, avoid stock-photo cheesiness, avoid exaggerated futuristic holograms, keep the interface grounded and product-like. education lighting-weather operations photoreal photorealistic-natural ui-mockup" data-tags="education lighting-weather operations photoreal photorealistic-natural ui-mockup">
-          <a class="image-link" href="assets/images/076-use-case-photorealistic-natural.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: photorealistic-natural">
+          <a class="image-link" href="assets/images/076-use-case-photorealistic-natural.png" data-modal-image data-title="Use case: photorealistic-natural" data-caption="历史生成图，批次 019db43b-da57-7f42-9b6c-38129f270670，生成时间 2026-04-22 16:15:11。" aria-label="Open image preview for Use case: photorealistic-natural">
             <img loading="lazy"  src="assets/images/076-use-case-photorealistic-natural.png" alt="Use case: photorealistic-natural. Tags: education, lighting-weather, operations, photoreal, photorealistic-natural, ui-mockup." width="1672" height="941" />
           </a>
           <div class="content">
@@ -3461,7 +3539,7 @@ lighting/mood: intelligent, exploratory, precise, calm but powerful; soft volume
 color palette: off-white paper tones, deep graphite, electric cyan, subtle teal, restrained warm highlights.
 materials/textures: paper grain, glassy ui layers, soft light bloom, crisp typographic-texture hints without readable text.
 constraints: no readable text, no logos, no watermark, no clutter, no purple-dominant palette, suitable for saas marketing hero use. lighting-weather operations photoreal product-mockup stylized-concept ui-mockup" data-tags="lighting-weather operations photoreal product-mockup stylized-concept ui-mockup">
-          <a class="image-link" href="assets/images/077-use-case-stylized-concept.png" target="_blank" rel="noreferrer" aria-label="Open full image for Use case: stylized-concept">
+          <a class="image-link" href="assets/images/077-use-case-stylized-concept.png" data-modal-image data-title="Use case: stylized-concept" data-caption="历史生成图，批次 019db43b-da57-7f42-9b6c-38129f270670，生成时间 2026-04-22 16:14:17。" aria-label="Open image preview for Use case: stylized-concept">
             <img loading="lazy"  src="assets/images/077-use-case-stylized-concept.png" alt="Use case: stylized-concept. Tags: lighting-weather, operations, photoreal, product-mockup, stylized-concept, ui-mockup." width="1672" height="941" />
           </a>
           <div class="content">
@@ -3500,13 +3578,31 @@ Constraints: no readable text, no logos, no watermark, no clutter, no purple-dom
         <span>SEO basics included: canonical URL, descriptive image alt text, structured data, sitemap.xml, robots.txt, and prompt text in server-rendered HTML.</span>
       </footer>
     </main>
+    <div class="image-modal" id="image-modal" role="dialog" aria-modal="true" aria-labelledby="modal-title" hidden>
+      <button class="modal-backdrop" type="button" data-modal-close aria-label="Close image preview"></button>
+      <div class="modal-panel">
+        <button class="modal-close" type="button" data-modal-close>Close</button>
+        <figure class="modal-figure">
+          <img id="modal-image" alt="" />
+          <figcaption>
+            <strong id="modal-title"></strong>
+            <span id="modal-caption"></span>
+          </figcaption>
+        </figure>
+      </div>
+    </div>
 
     <script>
       const search = document.querySelector("#search");
       const cards = [...document.querySelectorAll(".card")];
       const tagButtons = [...document.querySelectorAll(".tag-filter")];
       const visibleCount = document.querySelector("#visible-count");
+      const modal = document.querySelector("#image-modal");
+      const modalImage = document.querySelector("#modal-image");
+      const modalTitle = document.querySelector("#modal-title");
+      const modalCaption = document.querySelector("#modal-caption");
       let activeTag = "";
+      let lastTrigger = null;
 
       const filterCards = () => {
         const query = search.value.trim().toLowerCase();
@@ -3534,6 +3630,39 @@ Constraints: no readable text, no logos, no watermark, no clutter, no purple-dom
           filterCards();
         });
       }
+
+      const closeModal = () => {
+        modal.hidden = true;
+        document.body.classList.remove("modal-open");
+        modalImage.removeAttribute("src");
+        if (lastTrigger) {
+          lastTrigger.focus();
+        }
+      };
+
+      for (const link of document.querySelectorAll("[data-modal-image]")) {
+        link.addEventListener("click", (event) => {
+          event.preventDefault();
+          lastTrigger = link;
+          modalImage.src = link.href;
+          modalImage.alt = link.querySelector("img")?.alt ?? "";
+          modalTitle.textContent = link.dataset.title ?? "";
+          modalCaption.textContent = link.dataset.caption ?? "";
+          modal.hidden = false;
+          document.body.classList.add("modal-open");
+          modal.querySelector(".modal-close").focus();
+        });
+      }
+
+      for (const button of document.querySelectorAll("[data-modal-close]")) {
+        button.addEventListener("click", closeModal);
+      }
+
+      document.addEventListener("keydown", (event) => {
+        if (event.key === "Escape" && !modal.hidden) {
+          closeModal();
+        }
+      });
     </script>
   </body>
 </html>
