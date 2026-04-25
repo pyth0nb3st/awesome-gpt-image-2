@@ -1,0 +1,537 @@
+{
+  "version": 1,
+  "sourceWidth": 768,
+  "format": "jpg",
+  "images": {
+    "assets/images/105-derived-play-modes-context-loop-arcade.png": {
+      "path": "assets/thumbs/105-derived-play-modes-context-loop-arcade.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/106-use-case-lab-live-context-loops.png": {
+      "path": "assets/thumbs/106-use-case-lab-live-context-loops.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/104-derived-play-modes-evidence-to-systems.png": {
+      "path": "assets/thumbs/104-derived-play-modes-evidence-to-systems.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/101-operations-arcade.png": {
+      "path": "assets/thumbs/101-operations-arcade.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/102-system-stress-tests.png": {
+      "path": "assets/thumbs/102-system-stress-tests.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/103-a-polished-gpt-image-2-use-case-research-board-as-a-single-3-2-l.png": {
+      "path": "assets/thumbs/103-a-polished-gpt-image-2-use-case-research-board-as-a-single-3-2-l.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/099-derived-play-modes-batch-b.png": {
+      "path": "assets/thumbs/099-derived-play-modes-batch-b.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/100-use-case-lab-batch-a.png": {
+      "path": "assets/thumbs/100-use-case-lab-batch-a.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/097-use-case-stylized-concept.png": {
+      "path": "assets/thumbs/097-use-case-stylized-concept.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/098-use-case-productivity-visual.png": {
+      "path": "assets/thumbs/098-use-case-productivity-visual.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/095-use-case-stylized-concept.png": {
+      "path": "assets/thumbs/095-use-case-stylized-concept.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/096-use-case-stylized-concept.png": {
+      "path": "assets/thumbs/096-use-case-stylized-concept.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/087-use-case-productivity-visual.png": {
+      "path": "assets/thumbs/087-use-case-productivity-visual.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/088-use-case-lighting-weather.png": {
+      "path": "assets/thumbs/088-use-case-lighting-weather.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/089-use-case-infographic-diagram.png": {
+      "path": "assets/thumbs/089-use-case-infographic-diagram.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/090-use-case-stylized-concept.png": {
+      "path": "assets/thumbs/090-use-case-stylized-concept.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/091-use-case-ui-mockup.png": {
+      "path": "assets/thumbs/091-use-case-ui-mockup.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/092-use-case-photorealistic-natural.png": {
+      "path": "assets/thumbs/092-use-case-photorealistic-natural.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/093-use-case-product-mockup.png": {
+      "path": "assets/thumbs/093-use-case-product-mockup.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/094-use-case-infographic-diagram.png": {
+      "path": "assets/thumbs/094-use-case-infographic-diagram.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/085-use-case-stylized-concept.png": {
+      "path": "assets/thumbs/085-use-case-stylized-concept.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/086-use-case-stylized-concept.png": {
+      "path": "assets/thumbs/086-use-case-stylized-concept.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/083-use-case-stylized-concept.png": {
+      "path": "assets/thumbs/083-use-case-stylized-concept.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/084-use-case-stylized-concept.png": {
+      "path": "assets/thumbs/084-use-case-stylized-concept.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/079-gpt-image-2-play-formats-evaluation-games.png": {
+      "path": "assets/thumbs/079-gpt-image-2-play-formats-evaluation-games.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/078-gpt-image-2-use-cases-continuity-and-operations-labs.png": {
+      "path": "assets/thumbs/078-gpt-image-2-use-cases-continuity-and-operations-labs.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/080-a-single-high-quality-2k-landscape-concept-board-showing-six-new.png": {
+      "path": "assets/thumbs/080-a-single-high-quality-2k-landscape-concept-board-showing-six-new.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/081-a-single-high-quality-2k-landscape-concept-board-showing-six-new.png": {
+      "path": "assets/thumbs/081-a-single-high-quality-2k-landscape-concept-board-showing-six-new.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/082-a-second-single-high-quality-2k-landscape-concept-board-showing-.png": {
+      "path": "assets/thumbs/082-a-second-single-high-quality-2k-landscape-concept-board-showing-.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/001-a-single-high-quality-2k-landscape-concept-board-showing-six-pla.png": {
+      "path": "assets/thumbs/001-a-single-high-quality-2k-landscape-concept-board-showing-six-pla.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/002-a-second-polished-2x2-contact-sheet-of-derived-gpt-image-generat.png": {
+      "path": "assets/thumbs/002-a-second-polished-2x2-contact-sheet-of-derived-gpt-image-generat.jpg",
+      "width": 768,
+      "height": 768
+    },
+    "assets/images/003-a-polished-2x2-contact-sheet-titled-visually-by-panel-compositio.png": {
+      "path": "assets/thumbs/003-a-polished-2x2-contact-sheet-titled-visually-by-panel-compositio.jpg",
+      "width": 768,
+      "height": 768
+    },
+    "assets/images/004-derived-play-modes.png": {
+      "path": "assets/thumbs/004-derived-play-modes.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/005-use-case-board.png": {
+      "path": "assets/thumbs/005-use-case-board.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/006-use-case-stylized-concept.png": {
+      "path": "assets/thumbs/006-use-case-stylized-concept.jpg",
+      "width": 768,
+      "height": 768
+    },
+    "assets/images/007-use-case-productivity-visual.png": {
+      "path": "assets/thumbs/007-use-case-productivity-visual.jpg",
+      "width": 768,
+      "height": 768
+    },
+    "assets/images/008-use-case-productivity-visual.png": {
+      "path": "assets/thumbs/008-use-case-productivity-visual.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/009-use-case-stylized-concept.png": {
+      "path": "assets/thumbs/009-use-case-stylized-concept.jpg",
+      "width": 768,
+      "height": 768
+    },
+    "assets/images/010-use-case-illustration-story.png": {
+      "path": "assets/thumbs/010-use-case-illustration-story.jpg",
+      "width": 768,
+      "height": 768
+    },
+    "assets/images/011-use-case-illustration-story.png": {
+      "path": "assets/thumbs/011-use-case-illustration-story.jpg",
+      "width": 768,
+      "height": 1152
+    },
+    "assets/images/012-use-case-scientific-educational.png": {
+      "path": "assets/thumbs/012-use-case-scientific-educational.jpg",
+      "width": 768,
+      "height": 1200
+    },
+    "assets/images/013-use-case-ui-mockup.png": {
+      "path": "assets/thumbs/013-use-case-ui-mockup.jpg",
+      "width": 768,
+      "height": 480
+    },
+    "assets/images/014-use-case-product-mockup.png": {
+      "path": "assets/thumbs/014-use-case-product-mockup.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/015-use-case-ads-marketing.png": {
+      "path": "assets/thumbs/015-use-case-ads-marketing.jpg",
+      "width": 768,
+      "height": 768
+    },
+    "assets/images/016-use-case-infographic-diagram.png": {
+      "path": "assets/thumbs/016-use-case-infographic-diagram.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/017-use-case-product-mockup.png": {
+      "path": "assets/thumbs/017-use-case-product-mockup.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/018-use-case-illustration-story.png": {
+      "path": "assets/thumbs/018-use-case-illustration-story.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/019-use-case-productivity-visual.png": {
+      "path": "assets/thumbs/019-use-case-productivity-visual.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/020-use-case-ui-mockup.png": {
+      "path": "assets/thumbs/020-use-case-ui-mockup.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/021-use-case-scientific-educational.png": {
+      "path": "assets/thumbs/021-use-case-scientific-educational.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/022-use-case-illustration-story.png": {
+      "path": "assets/thumbs/022-use-case-illustration-story.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/023-use-case-ads-marketing.png": {
+      "path": "assets/thumbs/023-use-case-ads-marketing.jpg",
+      "width": 768,
+      "height": 960
+    },
+    "assets/images/024-use-case-ads-marketing.png": {
+      "path": "assets/thumbs/024-use-case-ads-marketing.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/025-use-case-scientific-educational.png": {
+      "path": "assets/thumbs/025-use-case-scientific-educational.jpg",
+      "width": 768,
+      "height": 960
+    },
+    "assets/images/026-use-case-product-mockup.png": {
+      "path": "assets/thumbs/026-use-case-product-mockup.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/027-use-case-stylized-concept.png": {
+      "path": "assets/thumbs/027-use-case-stylized-concept.jpg",
+      "width": 768,
+      "height": 768
+    },
+    "assets/images/028-use-case-ui-mockup.png": {
+      "path": "assets/thumbs/028-use-case-ui-mockup.jpg",
+      "width": 768,
+      "height": 960
+    },
+    "assets/images/029-use-case-illustration-story.png": {
+      "path": "assets/thumbs/029-use-case-illustration-story.jpg",
+      "width": 768,
+      "height": 768
+    },
+    "assets/images/030-use-case-ads-marketing.png": {
+      "path": "assets/thumbs/030-use-case-ads-marketing.jpg",
+      "width": 768,
+      "height": 960
+    },
+    "assets/images/031-use-case-productivity-visual.png": {
+      "path": "assets/thumbs/031-use-case-productivity-visual.jpg",
+      "width": 768,
+      "height": 960
+    },
+    "assets/images/032-a-polished-2k-visual-board-of-six-derived-play-modes-based-on-th.png": {
+      "path": "assets/thumbs/032-a-polished-2k-visual-board-of-six-derived-play-modes-based-on-th.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/033-a-polished-2k-visual-research-board-showing-four-new-non-repeate.png": {
+      "path": "assets/thumbs/033-a-polished-2k-visual-research-board-showing-four-new-non-repeate.jpg",
+      "width": 768,
+      "height": 768
+    },
+    "assets/images/034-a-second-polished-2k-visual-research-board-of-six-derived-playfu.png": {
+      "path": "assets/thumbs/034-a-second-polished-2k-visual-research-board-of-six-derived-playfu.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/035-a-polished-2k-visual-research-board-showing-six-fun-gpt-image-2-.png": {
+      "path": "assets/thumbs/035-a-polished-2k-visual-research-board-showing-six-fun-gpt-image-2-.jpg",
+      "width": 768,
+      "height": 768
+    },
+    "assets/images/036-a-second-polished-2x2-contact-sheet-of-derived-play-modes-from-t.png": {
+      "path": "assets/thumbs/036-a-second-polished-2x2-contact-sheet-of-derived-play-modes-from-t.jpg",
+      "width": 768,
+      "height": 768
+    },
+    "assets/images/037-a-polished-2x2-contact-sheet-of-new-non-repeated-gpt-image-2-pla.png": {
+      "path": "assets/thumbs/037-a-polished-2x2-contact-sheet-of-new-non-repeated-gpt-image-2-pla.jpg",
+      "width": 768,
+      "height": 768
+    },
+    "assets/images/038-a-second-polished-2x2-contact-sheet-derived-from-the-first-group.png": {
+      "path": "assets/thumbs/038-a-second-polished-2x2-contact-sheet-derived-from-the-first-group.jpg",
+      "width": 768,
+      "height": 768
+    },
+    "assets/images/039-a-polished-2x2-contact-sheet-titled-only-with-small-unobtrusive-.png": {
+      "path": "assets/thumbs/039-a-polished-2x2-contact-sheet-titled-only-with-small-unobtrusive-.jpg",
+      "width": 768,
+      "height": 768
+    },
+    "assets/images/040-a-polished-2x2-contact-sheet-titled-gpt-image-2-derived-play-mec.png": {
+      "path": "assets/thumbs/040-a-polished-2x2-contact-sheet-titled-gpt-image-2-derived-play-mec.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/041-a-polished-2x2-contact-sheet-titled-gpt-image-2-system-play-use-.png": {
+      "path": "assets/thumbs/041-a-polished-2x2-contact-sheet-titled-gpt-image-2-system-play-use-.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/042-a-second-polished-2x3-visual-research-contact-sheet-titled-deriv.png": {
+      "path": "assets/thumbs/042-a-second-polished-2x3-visual-research-contact-sheet-titled-deriv.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/043-a-polished-2x3-visual-research-contact-sheet-showcasing-six-play.png": {
+      "path": "assets/thumbs/043-a-polished-2x3-visual-research-contact-sheet-showcasing-six-play.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/044-use-case-productivity-visual-image-evals.png": {
+      "path": "assets/thumbs/044-use-case-productivity-visual-image-evals.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/045-use-case-productivity-visual-infographic-diagram.png": {
+      "path": "assets/thumbs/045-use-case-productivity-visual-infographic-diagram.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/046-use-case-infographic-diagram-image-evals.png": {
+      "path": "assets/thumbs/046-use-case-infographic-diagram-image-evals.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/047-use-case-illustration-story-compositing-concept.png": {
+      "path": "assets/thumbs/047-use-case-illustration-story-compositing-concept.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/048-use-case-scientific-educational-illustration-story.png": {
+      "path": "assets/thumbs/048-use-case-scientific-educational-illustration-story.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/049-use-case-product-mockup-ads-marketing.png": {
+      "path": "assets/thumbs/049-use-case-product-mockup-ads-marketing.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/050-use-case-infographic-diagram.png": {
+      "path": "assets/thumbs/050-use-case-infographic-diagram.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/051-use-case-productivity-visual-ui-mockup.png": {
+      "path": "assets/thumbs/051-use-case-productivity-visual-ui-mockup.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/052-a-polished-2x3-contact-sheet-of-six-new-derived-playful-gpt-imag.png": {
+      "path": "assets/thumbs/052-a-polished-2x3-contact-sheet-of-six-new-derived-playful-gpt-imag.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/053-a-polished-2x3-contact-sheet-of-six-new-gpt-image-2-use-case-con.png": {
+      "path": "assets/thumbs/053-a-polished-2x3-contact-sheet-of-six-new-gpt-image-2-use-case-con.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/054-a-polished-2x3-contact-sheet-of-six-playful-derived-gpt-image-2-.png": {
+      "path": "assets/thumbs/054-a-polished-2x3-contact-sheet-of-six-playful-derived-gpt-image-2-.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/055-a-polished-2x3-contact-sheet-of-six-distinct-gpt-image-2-use-cas.png": {
+      "path": "assets/thumbs/055-a-polished-2x3-contact-sheet-of-six-distinct-gpt-image-2-use-cas.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/056-a-single-high-resolution-3-panel-derived-play-concept-board.png": {
+      "path": "assets/thumbs/056-a-single-high-resolution-3-panel-derived-play-concept-board.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/057-a-single-high-resolution-3-panel-concept-board-titled-visually-b.png": {
+      "path": "assets/thumbs/057-a-single-high-resolution-3-panel-concept-board-titled-visually-b.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/058-use-case-style-transfer.png": {
+      "path": "assets/thumbs/058-use-case-style-transfer.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/059-use-case-ui-mockup.png": {
+      "path": "assets/thumbs/059-use-case-ui-mockup.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/060-use-case-illustration-story.png": {
+      "path": "assets/thumbs/060-use-case-illustration-story.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/061-use-case-product-mockup.png": {
+      "path": "assets/thumbs/061-use-case-product-mockup.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/062-use-case-scientific-educational.png": {
+      "path": "assets/thumbs/062-use-case-scientific-educational.jpg",
+      "width": 768,
+      "height": 576
+    },
+    "assets/images/063-use-case-ads-marketing.png": {
+      "path": "assets/thumbs/063-use-case-ads-marketing.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/064-use-case-ads-marketing-derived-play-mechanic-product-to-flavor-l.png": {
+      "path": "assets/thumbs/064-use-case-ads-marketing-derived-play-mechanic-product-to-flavor-l.jpg",
+      "width": 768,
+      "height": 384
+    },
+    "assets/images/065-use-case-ui-mockup-derived-play-mechanic-app-to-board-game.png": {
+      "path": "assets/thumbs/065-use-case-ui-mockup-derived-play-mechanic-app-to-board-game.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/066-use-case-illustration-story-derived-play-mechanic-poster-to-mini.png": {
+      "path": "assets/thumbs/066-use-case-illustration-story-derived-play-mechanic-poster-to-mini.jpg",
+      "width": 768,
+      "height": 1152
+    },
+    "assets/images/067-use-case-product-mockup-imaginary-packaging-system.png": {
+      "path": "assets/thumbs/067-use-case-product-mockup-imaginary-packaging-system.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/068-use-case-ui-mockup-layout-aware-screenshot.png": {
+      "path": "assets/thumbs/068-use-case-ui-mockup-layout-aware-screenshot.jpg",
+      "width": 768,
+      "height": 1152
+    },
+    "assets/images/069-use-case-ads-marketing-typography-stress-test.png": {
+      "path": "assets/thumbs/069-use-case-ads-marketing-typography-stress-test.jpg",
+      "width": 768,
+      "height": 768
+    },
+    "assets/images/070-use-case-ui-mockup.png": {
+      "path": "assets/thumbs/070-use-case-ui-mockup.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/071-use-case-ui-mockup.png": {
+      "path": "assets/thumbs/071-use-case-ui-mockup.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/072-use-case-ui-mockup.png": {
+      "path": "assets/thumbs/072-use-case-ui-mockup.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/073-use-case-ui-mockup.png": {
+      "path": "assets/thumbs/073-use-case-ui-mockup.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/074-use-case-ui-mockup.png": {
+      "path": "assets/thumbs/074-use-case-ui-mockup.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/075-use-case-infographic-diagram.png": {
+      "path": "assets/thumbs/075-use-case-infographic-diagram.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/076-use-case-photorealistic-natural.png": {
+      "path": "assets/thumbs/076-use-case-photorealistic-natural.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/077-use-case-stylized-concept.png": {
+      "path": "assets/thumbs/077-use-case-stylized-concept.jpg",
+      "width": 768,
+      "height": 432
+    }
+  }
+}

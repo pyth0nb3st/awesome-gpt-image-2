@@ -4,6 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "prebuild": "node scripts/generate-thumbnails.mjs",
     "dev": "next dev",
     "build": "next build && node scripts/copy-export-assets.mjs",
     "start": "next start"

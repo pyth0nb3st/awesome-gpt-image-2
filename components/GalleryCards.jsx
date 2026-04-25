@@ -1,11 +1,54 @@
-import { imageUrl, localizedPromptUrl, localizedTagUrl, promptExcerpt, tagEntrySet } from "../lib/gallery";
+import Image from "next/image";
+import {
+  imageUrl,
+  localizedPromptUrl,
+  localizedTagUrl,
+  promptExcerpt,
+  tagEntrySet,
+  thumbnailDimensions,
+  thumbnailUrl,
+} from "../lib/gallery";
 import { getCopy, tagLabel } from "../lib/i18n";
+
+const GALLERY_IMAGE_SIZES = "(max-width: 680px) calc(100vw - 20px), (max-width: 980px) calc((100vw - 50px) / 2), 402px";
+
+function GalleryImage({ entry, alt, defer = false }) {
+  const { image, index } = entry;
+  const thumb = thumbnailUrl(image);
+  const dimensions = thumbnailDimensions(image);
+
+  if (defer) {
+    return (
+      <img
+        data-src={thumb}
+        alt={alt}
+        width={dimensions.width}
+        height={dimensions.height}
+        loading="lazy"
+        decoding="async"
+      />
+    );
+  }
+
+  return (
+    <Image
+      src={thumb}
+      alt={alt}
+      width={dimensions.width}
+      height={dimensions.height}
+      sizes={GALLERY_IMAGE_SIZES}
+      preload={index === 0}
+      loading={index === 0 ? undefined : index < 3 ? "eager" : "lazy"}
+      fetchPriority={index === 0 ? "high" : undefined}
+    />
+  );
+}
 
 export function GalleryCard({ entry, defer = false, locale = "en" }) {
   const t = getCopy(locale);
   const { image, index, search, tags, title } = entry;
-  const imgProps = defer ? { "data-src": imageUrl(image) } : { src: imageUrl(image) };
   const tagLabels = tags.map((tag) => tagLabel(tag, locale));
+  const alt = t.cardAlt(title, tagLabels);
 
   return (
     <article
@@ -22,14 +65,7 @@ export function GalleryCard({ entry, defer = false, locale = "en" }) {
         data-caption={image.caption}
         aria-label={t.openPreview(title)}
       >
-        <img
-          loading={index < 3 ? "eager" : "lazy"}
-          fetchPriority={index === 0 ? "high" : undefined}
-          alt={t.cardAlt(title, tagLabels)}
-          width={image.width}
-          height={image.height}
-          {...imgProps}
-        />
+        <GalleryImage entry={entry} alt={alt} defer={defer} />
       </a>
       <div className="content">
         <div className="eyebrow">
@@ -68,12 +104,13 @@ export function CardGrid({ entries, locale = "en" }) {
       {entries.map((entry) => (
         <article className="card" key={entry.pagePath}>
           <a href={localizedPromptUrl(entry, locale)}>
-            <img
-              src={imageUrl(entry.image)}
+            <Image
+              src={thumbnailUrl(entry.image)}
               alt={t.exampleAlt(entry.title)}
               loading="lazy"
-              width={entry.image.width}
-              height={entry.image.height}
+              width={thumbnailDimensions(entry.image).width}
+              height={thumbnailDimensions(entry.image).height}
+              sizes={GALLERY_IMAGE_SIZES}
             />
             <div className="content">
               <h2>{entry.title}</h2>
