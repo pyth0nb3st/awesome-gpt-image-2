@@ -1,7 +1,7 @@
 import Footer from "../Footer";
 import SiteNav from "../SiteNav";
-import { absoluteUrl, humanizeTag, localizedTagUrl, tagEntries } from "../../lib/gallery";
-import { getCopy } from "../../lib/i18n";
+import { absoluteUrl, localizedTagUrl, tagEntries } from "../../lib/gallery";
+import { getCopy, tagLabel } from "../../lib/i18n";
 
 export default function TagsIndexPageContent({ locale = "en" }) {
   const t = getCopy(locale);
@@ -31,7 +31,7 @@ export default function TagsIndexPageContent({ locale = "en" }) {
           {tagEntries.map(([tag, count]) => (
             <li key={tag}>
               <a href={localizedTagUrl(tag, locale)}>
-                {humanizeTag(tag)} ({count})
+                {tagLabel(tag, locale)} ({count})
               </a>
             </li>
           ))}

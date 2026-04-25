@@ -11,11 +11,12 @@ import {
   relatedFor,
   tagEntrySet,
 } from "../../lib/gallery";
-import { getCopy } from "../../lib/i18n";
+import { getCopy, tagLabel } from "../../lib/i18n";
 
 export default function PromptDetailPageContent({ entry, locale = "en" }) {
   const t = getCopy(locale);
   const { image, index, tags, title } = entry;
+  const tagLabels = tags.map((tag) => tagLabel(tag, locale));
   const related = relatedFor(entry);
   const canonical = absoluteUrl(entry.pagePath);
   const fullImageUrl = absoluteUrl(image.path);
@@ -57,13 +58,19 @@ export default function PromptDetailPageContent({ entry, locale = "en" }) {
         <p className="lead">{image.caption}</p>
         <ul className="tags">
           {tags.map((tag) => (
-            <li key={tag}>{tagEntrySet.has(tag) ? <a href={localizedTagUrl(tag, locale)}>{tag}</a> : <span>{tag}</span>}</li>
+            <li key={tag}>
+              {tagEntrySet.has(tag) ? (
+                <a href={localizedTagUrl(tag, locale)}>{tagLabel(tag, locale)}</a>
+              ) : (
+                <span>{tagLabel(tag, locale)}</span>
+              )}
+            </li>
           ))}
         </ul>
       </header>
       <section className="hero-detail">
         <a className="hero-image" href={imageUrl(image)}>
-          <img src={imageUrl(image)} alt={t.cardAlt(title, tags)} width={image.width} height={image.height} />
+          <img src={imageUrl(image)} alt={t.cardAlt(title, tagLabels)} width={image.width} height={image.height} />
         </a>
         <div className="panel">
           <p className="meta">{t.reuseTitle}</p>

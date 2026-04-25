@@ -13,7 +13,7 @@ import {
   topTags,
   updatedDate,
 } from "../../lib/gallery";
-import { getCopy, localizedPath } from "../../lib/i18n";
+import { getCopy, localizedPath, tagLabel } from "../../lib/i18n";
 
 const INITIAL_IMAGE_COUNT = 12;
 const IMAGE_BATCH_SIZE = 12;
@@ -76,7 +76,7 @@ export default function HomePageContent({ locale = "en" }) {
           <div className="tag-cloud" aria-label={t.popularTopics}>
             {topTags.map(([tag, count]) => (
               <button className="tag-filter" type="button" data-tag={tag} key={tag}>
-                {tag} <span>{count}</span>
+                {tagLabel(tag, locale)} <span>{count}</span>
               </button>
             ))}
           </div>

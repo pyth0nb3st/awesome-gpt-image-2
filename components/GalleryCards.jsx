@@ -1,10 +1,11 @@
 import { imageUrl, localizedPromptUrl, localizedTagUrl, promptExcerpt, tagEntrySet } from "../lib/gallery";
-import { getCopy } from "../lib/i18n";
+import { getCopy, tagLabel } from "../lib/i18n";
 
 export function GalleryCard({ entry, defer = false, locale = "en" }) {
   const t = getCopy(locale);
   const { image, index, search, tags, title } = entry;
   const imgProps = defer ? { "data-src": imageUrl(image) } : { src: imageUrl(image) };
+  const tagLabels = tags.map((tag) => tagLabel(tag, locale));
 
   return (
     <article
@@ -24,7 +25,7 @@ export function GalleryCard({ entry, defer = false, locale = "en" }) {
         <img
           loading={index < 3 ? "eager" : "lazy"}
           fetchPriority={index === 0 ? "high" : undefined}
-          alt={t.cardAlt(title, tags)}
+          alt={t.cardAlt(title, tagLabels)}
           width={image.width}
           height={image.height}
           {...imgProps}
@@ -43,7 +44,7 @@ export function GalleryCard({ entry, defer = false, locale = "en" }) {
         <ul className="tags">
           {tags.map((tag) => (
             <li key={tag}>
-              {tagEntrySet.has(tag) ? <a href={localizedTagUrl(tag, locale)}>{tag}</a> : tag}
+              {tagEntrySet.has(tag) ? <a href={localizedTagUrl(tag, locale)}>{tagLabel(tag, locale)}</a> : tagLabel(tag, locale)}
             </li>
           ))}
         </ul>

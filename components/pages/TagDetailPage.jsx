@@ -2,11 +2,12 @@ import Footer from "../Footer";
 import { CardGrid } from "../GalleryCards";
 import SiteNav from "../SiteNav";
 import { absoluteUrl, humanizeTag, localizedTagUrl, tagEntries, updatedDate } from "../../lib/gallery";
-import { getCopy } from "../../lib/i18n";
+import { getCopy, tagLabel } from "../../lib/i18n";
 
 export default function TagDetailPageContent({ tag, entries, locale = "en" }) {
   const t = getCopy(locale);
-  const label = humanizeTag(tag);
+  const label = tagLabel(tag, locale);
+  const englishLabel = humanizeTag(tag);
   const relatedTags = tagEntries.filter(([candidate]) => candidate !== tag).slice(0, 12);
   const description = t.tagDescription(entries.length, label);
 
@@ -19,7 +20,7 @@ export default function TagDetailPageContent({ tag, entries, locale = "en" }) {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "CollectionPage",
-            name: `${label} GPT Image 2 examples`,
+            name: `${englishLabel} GPT Image 2 examples`,
             url: absoluteUrl(`tags/${tag}/`),
             description,
             numberOfItems: entries.length,
@@ -38,7 +39,7 @@ export default function TagDetailPageContent({ tag, entries, locale = "en" }) {
           {relatedTags.map(([relatedTag, count]) => (
             <li key={relatedTag}>
               <a href={localizedTagUrl(relatedTag, locale)}>
-                {humanizeTag(relatedTag)} ({count})
+                {tagLabel(relatedTag, locale)} ({count})
               </a>
             </li>
           ))}
