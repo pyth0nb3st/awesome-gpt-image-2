@@ -10,6 +10,7 @@ export default function SiteNav({ locale = "en", path = "/" }) {
       <a href={localizedPath("/", locale)}>{t.siteName}</a>
       <a href={localizedPath("/prompts/", locale)}>{t.examples}</a>
       <a href={localizedPath("/tags/", locale)}>{t.topics}</a>
+      <a href={localizedPath("/lucky/", locale)}>{t.lucky}</a>
       <a href={referralUrl(DRILL_URL, "nav_drill")}>Drill</a>
       <a href={referralUrl(VIBEART_URL, "nav_vibeart")}>VibeArt</a>
       <a href={referralUrl(REPO_URL, "nav_github")}>{t.github}</a>

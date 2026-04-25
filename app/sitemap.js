@@ -23,6 +23,13 @@ export default function sitemap() {
       changeFrequency: "weekly",
       priority: 0.8,
     },
+    {
+      url: absoluteUrl("lucky/"),
+      lastModified: updatedDate,
+      changeFrequency: "weekly",
+      priority: 0.85,
+      images: galleryEntries.slice(0, 20).map((entry) => absoluteUrl(entry.image.path)),
+    },
   ];
 
   const promptPages = galleryEntries.map((entry) => ({

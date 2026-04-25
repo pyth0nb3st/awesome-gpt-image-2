@@ -27,21 +27,22 @@ export default function ImageModal({ locale = "en" }) {
       }
     };
 
-    const modalCleanups = [...document.querySelectorAll("[data-modal-image]")].map((link) => {
-      const onClick = (event) => {
-        event.preventDefault();
-        lastTrigger = link;
-        modalImage.src = link.href;
-        modalImage.alt = link.querySelector("img")?.alt ?? "";
-        modalTitle.textContent = link.dataset.title ?? "";
-        modalCaption.textContent = link.dataset.caption ?? "";
-        modal.hidden = false;
-        document.body.classList.add("modal-open");
-        modal.querySelector(".modal-close")?.focus();
-      };
-      link.addEventListener("click", onClick);
-      return () => link.removeEventListener("click", onClick);
-    });
+    const onOpenClick = (event) => {
+      const target = event.target instanceof Element ? event.target : null;
+      const link = target?.closest("[data-modal-image]");
+      if (!link) return;
+
+      event.preventDefault();
+      lastTrigger = link;
+      modalImage.src = link.getAttribute("href") ?? "";
+      modalImage.alt = link.querySelector("img")?.alt ?? "";
+      modalTitle.textContent = link.dataset.title ?? "";
+      modalCaption.textContent = link.dataset.caption ?? "";
+      modal.hidden = false;
+      document.body.classList.add("modal-open");
+      modal.querySelector(".modal-close")?.focus();
+    };
+    document.addEventListener("click", onOpenClick);
 
     const closeCleanups = [...document.querySelectorAll("[data-modal-close]")].map((button) => {
       button.addEventListener("click", closeModal);
@@ -57,7 +58,8 @@ export default function ImageModal({ locale = "en" }) {
 
     return () => {
       document.removeEventListener("keydown", onKeydown);
-      for (const cleanup of [...modalCleanups, ...closeCleanups]) {
+      document.removeEventListener("click", onOpenClick);
+      for (const cleanup of closeCleanups) {
         cleanup();
       }
     };
