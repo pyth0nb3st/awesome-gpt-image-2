@@ -158,6 +158,7 @@ Most prompt examples disappear into chat history. This repo turns image-generati
 - Code is MIT licensed; generated gallery content is treated as a research archive pending provenance review.
 - Existing records created before source tracking was added are marked as `needs_review` rather than pretending that external source provenance exists.
 - Future externally inspired records must include source title, URL, author or publisher, license or permission note, access date, and how the source was used.
+- Fresh records are checked against older prompts for similarity before publishing; repeated mechanics should be revised or discarded.
 - Gallery content must avoid political persuasion, harmful or illegal instructions, sexual content, and graphic violence.
 - See [LICENSE.md](LICENSE.md) and [CONTENT_POLICY.md](CONTENT_POLICY.md).
 

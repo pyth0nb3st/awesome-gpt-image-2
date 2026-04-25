@@ -29,6 +29,8 @@ External sources must use this shape:
 - Prefer original prompt structures instead of copying third-party prompts.
 - Do not copy substantial prompt text unless the source license or permission clearly allows it.
 - Attribute inspiration even when it is not copied verbatim.
+- Compare new prompts and play mechanics against existing gallery records before publishing.
+- If a new record is materially similar to an older record, change the mechanism, subject, evaluation angle, or output format before publishing.
 - Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation.
 - Keep generated product, brand, character, place, and dataset details fictional unless explicit rights are known.
 - Remove or mark as `needs_review` when provenance is uncertain.
@@ -47,3 +49,5 @@ Run the policy check before publishing:
 ```bash
 npm run validate:gallery
 ```
+
+The policy check fails fresh records that are too similar to older gallery prompts and warns on moderate similarity for manual review.
