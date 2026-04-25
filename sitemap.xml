@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/099-derived-play-modes-batch-b.png</image:loc>
+      <image:title>Derived Play Modes Batch B</image:title>
+      <image:caption>Create a second polished GPT-image-2 derived-play research board as a single 3:2 landscape image, like a collectible playbook spread for creative workflows. Six clearly separated panels in a 3x2 grid, each panel with a short readable Engli...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/100-use-case-lab-batch-a.png</image:loc>
+      <image:title>Use-case Lab Batch A</image:title>
+      <image:caption>Create a polished GPT-image-2 use-case research board as a single 3:2 landscape image, like a high-end editorial design research artifact. Six clearly separated panels in a 3x2 grid, each panel with a short readable English title and a dis...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/097-use-case-stylized-concept.png</image:loc>
       <image:title>Use case: stylized-concept</image:title>
       <image:caption>Use case: stylized-concept Asset type: 3x2 game-mode board for a GPT Image 2 prompt gallery Primary request: Derive six playful game mechanics from the practical use cases in the previous board. Make each panel look like a complete tableto...</image:caption>
@@ -507,6 +517,28 @@
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/099-derived-play-modes-batch-b/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/099-derived-play-modes-batch-b.png</image:loc>
+      <image:title>Derived Play Modes Batch B</image:title>
+      <image:caption>Create a second polished GPT-image-2 derived-play research board as a single 3:2 landscape image, like a collectible playbook spread for creative workflows. Six clearly separated panels in a 3x2 grid, each panel with a short readable Engli...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/100-use-case-lab-batch-a/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/100-use-case-lab-batch-a.png</image:loc>
+      <image:title>Use-case Lab Batch A</image:title>
+      <image:caption>Create a polished GPT-image-2 use-case research board as a single 3:2 landscape image, like a high-end editorial design research artifact. Six clearly separated panels in a 3x2 grid, each panel with a short readable English title and a dis...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/097-use-case-stylized-concept/</loc>

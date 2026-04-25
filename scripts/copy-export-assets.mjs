@@ -1,0 +1,21 @@
+import { access, cp, mkdir, copyFile } from "node:fs/promises";
+
+const exists = async (path) => {
+  try {
+    await access(path);
+    return true;
+  } catch {
+    return false;
+  }
+};
+
+await mkdir("out", { recursive: true });
+await cp("assets", "out/assets", { recursive: true });
+
+for (const file of ["CNAME", ".nojekyll", "gallery.json", "llms.txt"]) {
+  if (await exists(file)) {
+    await copyFile(file, `out/${file}`);
+  }
+}
+
+console.log("Copied static assets into out/.");

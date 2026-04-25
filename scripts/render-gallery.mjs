@@ -24,6 +24,8 @@ const topTags = counts.slice(0, 24);
 const heroImage = data.images[0];
 const seoDescription = buildSeoDescription(data.images);
 const updated = new Date().toISOString().slice(0, 10);
+const INITIAL_IMAGE_COUNT = 12;
+const IMAGE_BATCH_SIZE = 12;
 
 const tagCloud = topTags
   .map(
@@ -47,9 +49,14 @@ const cards = data.images
       .join("\n                ");
     const search = [title, image.caption, image.prompt, ...tags].join(" ").toLowerCase();
 
-    return `        <article class="card" id="prompt-${index + 1}" data-search="${escapeAttribute(search)}" data-tags="${escapeAttribute(tags.join(" "))}">
+    const imageSource =
+      index < INITIAL_IMAGE_COUNT
+        ? `src="${escapeAttribute(image.path)}"`
+        : `data-src="${escapeAttribute(image.path)}"`;
+
+    return `        <article class="card${index >= INITIAL_IMAGE_COUNT ? " is-deferred" : ""}" id="prompt-${index + 1}" data-search="${escapeAttribute(search)}" data-tags="${escapeAttribute(tags.join(" "))}">
           <a class="image-link" href="${escapeAttribute(image.path)}" data-modal-image data-title="${escapeAttribute(title)}" data-caption="${escapeAttribute(image.caption)}" aria-label="Open image preview for ${escapeAttribute(title)}">
-            <img loading="${index < 3 ? "eager" : "lazy"}" ${index === 0 ? 'fetchpriority="high"' : ""} src="${escapeAttribute(image.path)}" alt="${escapeAttribute(`${title}. Tags: ${tags.join(", ")}.`)}" width="${image.width}" height="${image.height}" />
+            <img loading="${index < 3 ? "eager" : "lazy"}" ${index === 0 ? 'fetchpriority="high"' : ""} ${imageSource} alt="${escapeAttribute(`${title}. Tags: ${tags.join(", ")}.`)}" width="${image.width}" height="${image.height}" />
           </a>
           <div class="content">
             <div class="eyebrow">#${String(index + 1).padStart(2, "0")} · ${escapeHtml(image.createdAt ?? "historical")}</div>
@@ -321,7 +328,10 @@ const html = `<!doctype html>
         background: var(--panel);
       }
 
-      .card.is-hidden { display: none; }
+      .card.is-hidden,
+      .card.is-deferred {
+        display: none;
+      }
 
       .image-link {
         display: block;
@@ -479,6 +489,30 @@ const html = `<!doctype html>
         text-transform: uppercase;
       }
 
+      .load-sentinel {
+        display: flex;
+        justify-content: center;
+        margin-top: 24px;
+        min-height: 1px;
+      }
+
+      .load-more {
+        display: none;
+        border: 1px solid var(--ink);
+        background: var(--ink);
+        color: var(--panel);
+        cursor: pointer;
+        padding: 12px 16px;
+        font: 900 13px ui-sans-serif, system-ui, sans-serif;
+        text-transform: uppercase;
+      }
+
+      .load-more.is-fallback {
+        display: inline-block;
+      }
+
+      .load-sentinel[hidden] { display: none; }
+
       details {
         border-top: 1px solid var(--line);
         padding-top: 10px;
@@ -572,7 +606,7 @@ const html = `<!doctype html>
       <section class="controls" aria-label="gallery filters">
         <div class="search-row">
           <input id="search" type="search" placeholder="Search GPT Image prompts, use cases, tags..." autocomplete="off" />
-          <div class="result-count" aria-live="polite"><span id="visible-count">${data.images.length}</span> / ${data.images.length} visible</div>
+          <div class="result-count" aria-live="polite"><span id="visible-count">${Math.min(INITIAL_IMAGE_COUNT, data.images.length)}</span> / <span id="match-count">${data.images.length}</span> shown</div>
         </div>
         <div class="tag-cloud" aria-label="Popular tags">
           ${tagCloud}
@@ -582,6 +616,9 @@ const html = `<!doctype html>
       <section id="gallery" class="gallery" aria-label="GPT Image 2 prompt gallery">
 ${cards}
       </section>
+      <div class="load-sentinel" id="load-sentinel" aria-hidden="true">
+        <button class="load-more" id="load-more" type="button">Load more</button>
+      </div>
 
       <footer>
         <span>Built from Codex image-generation session logs. Images, prompts, tags, and metadata are preserved in this repository for static hosting and search indexing.</span>
@@ -609,29 +646,87 @@ ${cards}
       const cards = [...document.querySelectorAll(".card")];
       const tagButtons = [...document.querySelectorAll(".tag-filter")];
       const visibleCount = document.querySelector("#visible-count");
+      const matchCount = document.querySelector("#match-count");
+      const loadSentinel = document.querySelector("#load-sentinel");
+      const loadMore = document.querySelector("#load-more");
       const modal = document.querySelector("#image-modal");
       const modalImage = document.querySelector("#modal-image");
       const modalTitle = document.querySelector("#modal-title");
       const modalCaption = document.querySelector("#modal-caption");
+      const imageBatchSize = ${IMAGE_BATCH_SIZE};
+      let visibleLimit = ${INITIAL_IMAGE_COUNT};
       let activeTag = "";
+      let autoLoadQueued = false;
       let lastTrigger = null;
+
+      const hydrateCardImage = (card) => {
+        const image = card.querySelector("img[data-src]");
+        if (!image) return;
+
+        image.src = image.dataset.src;
+        image.removeAttribute("data-src");
+      };
+
+      const queueAutoLoadCheck = () => {
+        if (autoLoadQueued) return;
+        autoLoadQueued = true;
+        requestAnimationFrame(() => {
+          autoLoadQueued = false;
+          maybeAutoLoad();
+        });
+      };
 
       const filterCards = () => {
         const query = search.value.trim().toLowerCase();
-        let visible = 0;
+        const matches = [];
 
         for (const card of cards) {
           const matchesSearch = !query || card.dataset.search.includes(query);
           const matchesTag = !activeTag || card.dataset.tags.split(" ").includes(activeTag);
-          const show = matchesSearch && matchesTag;
-          card.classList.toggle("is-hidden", !show);
-          if (show) visible += 1;
+          if (matchesSearch && matchesTag) {
+            matches.push(card);
+          }
+
+          card.classList.add("is-hidden");
+          card.classList.remove("is-deferred");
         }
 
+        const visibleCards = matches.slice(0, visibleLimit);
+        for (const card of visibleCards) {
+          card.classList.remove("is-hidden");
+          hydrateCardImage(card);
+        }
+
+        const visible = Math.min(visibleLimit, matches.length);
         visibleCount.textContent = String(visible);
+        matchCount.textContent = String(matches.length);
+
+        const remaining = matches.length - visible;
+        loadSentinel.hidden = remaining <= 0;
+        loadMore.textContent = remaining > 0 ? "Load " + Math.min(imageBatchSize, remaining) + " more" : "Load more";
+        queueAutoLoadCheck();
       };
 
-      search.addEventListener("input", filterCards);
+      const loadNextBatch = () => {
+        if (loadSentinel.hidden) return;
+        visibleLimit += imageBatchSize;
+        filterCards();
+      };
+
+      function maybeAutoLoad() {
+        if (loadSentinel.hidden) return;
+        const triggerTop = loadSentinel.getBoundingClientRect().top;
+        if (triggerTop < window.innerHeight + 900) {
+          loadNextBatch();
+        }
+      }
+
+      const resetAndFilterCards = () => {
+        visibleLimit = ${INITIAL_IMAGE_COUNT};
+        filterCards();
+      };
+
+      search.addEventListener("input", resetAndFilterCards);
 
       for (const button of tagButtons) {
         button.addEventListener("click", () => {
@@ -639,9 +734,30 @@ ${cards}
           for (const item of tagButtons) {
             item.classList.toggle("is-active", item.dataset.tag === activeTag);
           }
-          filterCards();
+          resetAndFilterCards();
         });
       }
+
+      loadMore.addEventListener("click", loadNextBatch);
+
+      if ("IntersectionObserver" in window) {
+        const observer = new IntersectionObserver(
+          (entries) => {
+            if (entries.some((entry) => entry.isIntersecting)) {
+              loadNextBatch();
+            }
+          },
+          { rootMargin: "900px 0px" },
+        );
+        observer.observe(loadSentinel);
+      } else {
+        loadMore.classList.add("is-fallback");
+      }
+
+      window.addEventListener("scroll", queueAutoLoadCheck, { passive: true });
+      window.addEventListener("resize", queueAutoLoadCheck);
+
+      filterCards();
 
       const closeModal = () => {
         modal.hidden = true;
