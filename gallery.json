@@ -18,6 +18,92 @@
   },
   "images": [
     {
+      "title": "Derived Play: Pin Roll Canon",
+      "caption": "从音乐盒提示仪器派生出的三站式打孔卷带玩法：Punch Loop、Crank Pass、Silence Mask、Motif Token、Tempo Shutter、Chime Flag、Canon Align、Final Phrase 和 Score Comb 让玩家轮转纸带，保持同一虚构月灯 motif 在错拍中对齐成最终视觉短句。",
+      "path": "assets/images/180-derived-play-pin-roll-canon.png",
+      "alt": "Three staggered hand-cranked pin-roll stations with punched paper loops, silence mask tabs, motif tokens, tempo shutters, chime flags, canon align window, final phrase verifier, and score comb",
+      "width": 1536,
+      "height": 1024,
+      "createdAt": "2026-04-26 04:11:58",
+      "batch": "019dc641-a4e8-72b1-a0ce-9cd4b3b2f74e",
+      "tags": [
+        "pin-roll-canon",
+        "punch-loop",
+        "crank-pass",
+        "silence-mask",
+        "motif-token",
+        "tempo-shutter",
+        "chime-flag",
+        "canon-align",
+        "final-phrase",
+        "score-comb",
+        "batch-019dc641"
+      ],
+      "prompt": "Create a single polished gallery image for a derived play concept titled Derived Play: Pin Roll Canon. It should be a different artifact from the music-box instrument: show a tabletop game built from three narrow hand-cranked pin-roll stations arranged in a staggered canon, each with removable punched paper loops, small comb-score sliders, silence-mask tabs, motif tokens, tempo crop shutters, label chime flags, and a final tune verifier window. The gameplay mechanism is rotating prompt canon: players punch one clause into a loop, pass the loop to the next station after one crank, may insert exactly one silence mask, must keep the same invented ceramic moon-lantern motif audible in each thumbnail window, and score only when the three staggered loops align into a readable final visual phrase. Readable labels should include Punch Loop, Crank Pass, Silence Mask, Motif Token, Tempo Shutter, Chime Flag, Canon Align, Final Phrase, and Score Comb. Output format: crisp product photo of a fictional mechanical tabletop game with paper loops and small brass cranks, not a board grid, not a contact sheet, no hands, no logos, no real brands, no real people, no copyrighted characters, no political content, no dangerous instructions, no gore, no sexual content, no living artist style imitation.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original rotating pin-roll canon game mechanic and prompt generated locally from the Prompt Pin Cylinder concept. No external prompt, article, image, artwork, repository, brand, character, or case-study source was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Original fictional harmless mechanical tabletop game with invented moon-lantern motif tokens only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc641-a4e8-72b1-a0ce-9cd4b3b2f74e/ig_0a7c574c255122fe0169ed1fd06f188195ac5b717e31709a50.png"
+    },
+    {
+      "title": "Use Case Music Box: Prompt Pin Cylinder",
+      "caption": "把 GPT Image 2 的提示规划做成一台透明音乐盒：Wind Brief、Pin Clause、Comb Render、Motif Repeat、Silence Mask、Tempo Crop、Label Chime、Variation Click 和 Final Tune 用滚筒针点、打孔纸带和音梳评测视觉节奏、重复 motif 和微标签清晰度。",
+      "path": "assets/images/181-use-case-music-box-prompt-pin-cylinder.png",
+      "alt": "Transparent hand-cranked music-box prompt instrument with brass pin cylinder, punched paper prompt roll, comb tines, repeating fictional moon-lantern thumbnails, and labeled image-control sections",
+      "width": 1536,
+      "height": 1024,
+      "createdAt": "2026-04-26 04:10:57",
+      "batch": "019dc641-a4e8-72b1-a0ce-9cd4b3b2f74e",
+      "tags": [
+        "prompt-pin-cylinder",
+        "wind-brief",
+        "pin-clause",
+        "comb-render",
+        "motif-repeat",
+        "silence-mask",
+        "tempo-crop",
+        "label-chime",
+        "variation-click",
+        "final-tune",
+        "batch-019dc641"
+      ],
+      "prompt": "Create a single polished gallery image for a new GPT Image 2 use case titled Use Case Music Box: Prompt Pin Cylinder. Show a macro product photograph of a transparent hand-cranked music-box mechanism on a plain workbench, not a contact sheet, not a 2x3 board, not a route map, not a chessboard, and not a tray. A brass pin cylinder is wrapped with a long punched paper prompt roll; the holes and raised pins encode prompt clauses that strike comb tines labeled for image controls. Tiny fictional thumbnail windows appear as repeating motifs around the cylinder, showing the same invented ceramic moon-lantern object in rhythmic variations. The mechanism tests GPT Image 2 for planned visual rhythm, repeatable motif identity, readable micro-labels, and controlled variation across a circular sequence. Readable labels should include Wind Brief, Pin Clause, Comb Render, Motif Repeat, Silence Mask, Tempo Crop, Label Chime, Variation Click, and Final Tune. Output format: premium macro photograph of a mechanical music-box prompt instrument with brass cylinder, punched ivory paper, glass cover, crisp readable labels, soft neutral lighting, no hands, no logos, no real brands, no real people, no copyrighted characters, no political content, no dangerous instructions, no gore, no sexual content, no living artist style imitation.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original music-box prompt-instrument concept and prompt generated locally from existing-gallery gap analysis. External search was used only for broad capability awareness; no external prompt, article, image, artwork, repository, brand, character, or case-study source shaped this concept."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Original fictional harmless mechanical music-box prompt instrument with invented moon-lantern thumbnails only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc641-a4e8-72b1-a0ce-9cd4b3b2f74e/ig_0a7c574c255122fe0169ed1f9b86fc8195995bc62f45977804.png"
+    },
+    {
       "title": "Derived Play: Onion Skin Relay",
       "caption": "从翻页连续性样本册派生出的透明修帧玩法：Frame Draft、Ghost Align、Beat Swap、Palette Freeze、Crop Window、Retake Bell、Flip Test 和 Continuity Token 让玩家用洋葱皮层校准同一虚构角色的八帧动作。",
       "path": "assets/images/178-derived-play-onion-skin-relay.png",

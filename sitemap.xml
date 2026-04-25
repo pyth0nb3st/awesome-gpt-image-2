@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/180-derived-play-pin-roll-canon.png</image:loc>
+      <image:title>Derived Play: Pin Roll Canon</image:title>
+      <image:caption>Create a single polished gallery image for a derived play concept titled Derived Play: Pin Roll Canon. It should be a different artifact from the music-box instrument: show a tabletop game built from three narrow hand-cranked pin-roll stat...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/181-use-case-music-box-prompt-pin-cylinder.png</image:loc>
+      <image:title>Use Case Music Box: Prompt Pin Cylinder</image:title>
+      <image:caption>Create a single polished gallery image for a new GPT Image 2 use case titled Use Case Music Box: Prompt Pin Cylinder. Show a macro product photograph of a transparent hand-cranked music-box mechanism on a plain workbench, not a contact she...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/178-derived-play-onion-skin-relay.png</image:loc>
       <image:title>Derived Play: Onion Skin Relay</image:title>
       <image:caption>Create a single polished gallery image for a derived play concept titled Derived Play: Onion Skin Relay. It should be a different artifact from the flipbook: show a transparent tabletop relay rig with eight upright frame cards, sliding vel...</image:caption>
@@ -877,6 +887,28 @@
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/180-derived-play-pin-roll-canon/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/180-derived-play-pin-roll-canon.png</image:loc>
+      <image:title>Derived Play: Pin Roll Canon</image:title>
+      <image:caption>Create a single polished gallery image for a derived play concept titled Derived Play: Pin Roll Canon. It should be a different artifact from the music-box instrument: show a tabletop game built from three narrow hand-cranked pin-roll stat...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/181-use-case-music-box-prompt-pin-cylinder/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/181-use-case-music-box-prompt-pin-cylinder.png</image:loc>
+      <image:title>Use Case Music Box: Prompt Pin Cylinder</image:title>
+      <image:caption>Create a single polished gallery image for a new GPT Image 2 use case titled Use Case Music Box: Prompt Pin Cylinder. Show a macro product photograph of a transparent hand-cranked music-box mechanism on a plain workbench, not a contact she...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/178-derived-play-onion-skin-relay/</loc>
@@ -2916,6 +2948,12 @@
   </url>
   <url>
     <loc>https://gptimg2.best/tags/photorealistic-natural/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/silence-mask/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>

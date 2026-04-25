@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/180-derived-play-pin-roll-canon.png": {
+      "path": "assets/thumbs/180-derived-play-pin-roll-canon.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/181-use-case-music-box-prompt-pin-cylinder.png": {
+      "path": "assets/thumbs/181-use-case-music-box-prompt-pin-cylinder.jpg",
+      "width": 768,
+      "height": 512
+    },
     "assets/images/178-derived-play-onion-skin-relay.png": {
       "path": "assets/thumbs/178-derived-play-onion-skin-relay.jpg",
       "width": 768,
