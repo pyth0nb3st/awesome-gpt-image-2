@@ -6,6 +6,46 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://pyth0nb3st.github.io/awesome-gpt-image-2/assets/images/087-use-case-productivity-visual.png</image:loc>
+      <image:title>Use case: productivity-visual</image:title>
+      <image:caption>Use case: productivity-visual Asset type: derived play concept image, single finished image Primary request: Create a 16:9 concept called &quot;RUBRIC ARENA&quot;, derived from the visual QA rubric. It turns image evaluation into a playful tournamen...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://pyth0nb3st.github.io/awesome-gpt-image-2/assets/images/088-use-case-lighting-weather.png</image:loc>
+      <image:title>Use case: lighting-weather</image:title>
+      <image:caption>Use case: lighting-weather Asset type: derived play concept image, single finished image Primary request: Create a 16:9 interactive concept called &quot;LIGHTING DJ&quot;, derived from the same-room four-hours image. Show a tactile console that lets...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://pyth0nb3st.github.io/awesome-gpt-image-2/assets/images/089-use-case-infographic-diagram.png</image:loc>
+      <image:title>Use case: infographic-diagram</image:title>
+      <image:caption>Use case: infographic-diagram Asset type: derived play concept image, single finished image Primary request: Create a 16:9 tabletop puzzle concept called &quot;FIX-IT QUEST DECK&quot;, derived from the repair manual maker. It turns an exploded produ...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://pyth0nb3st.github.io/awesome-gpt-image-2/assets/images/090-use-case-stylized-concept.png</image:loc>
+      <image:title>Use case: stylized-concept</image:title>
+      <image:caption>Use case: stylized-concept Asset type: derived play concept image, single finished image Primary request: Create a 16:9 game-like concept called &quot;SIGNAGE ESCAPE ROOM&quot;, derived from the museum wayfinding idea. Players solve a path through a...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://pyth0nb3st.github.io/awesome-gpt-image-2/assets/images/091-use-case-ui-mockup.png</image:loc>
+      <image:title>Use case: ui-mockup</image:title>
+      <image:caption>Use case: ui-mockup Asset type: exploratory GPT Image 2 use-case card, single finished image Primary request: Create a 16:9 high-fidelity software mockup called &quot;VISUAL QA RUBRIC&quot; where a designer compares generated image variants against...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://pyth0nb3st.github.io/awesome-gpt-image-2/assets/images/092-use-case-photorealistic-natural.png</image:loc>
+      <image:title>Use case: photorealistic-natural</image:title>
+      <image:caption>Use case: photorealistic-natural Asset type: exploratory GPT Image 2 use-case card, single finished image Primary request: Create a 16:9 &quot;SAME ROOM, FOUR HOURS&quot; concept image showing one small reading corner rendered consistently at mornin...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://pyth0nb3st.github.io/awesome-gpt-image-2/assets/images/093-use-case-product-mockup.png</image:loc>
+      <image:title>Use case: product-mockup</image:title>
+      <image:caption>Use case: product-mockup Asset type: exploratory GPT Image 2 use-case card, single finished image Primary request: Create a 16:9 &quot;REPAIR MANUAL MAKER&quot; concept image: a fictional exploded repair guide for a compact desk lamp, with numbered...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://pyth0nb3st.github.io/awesome-gpt-image-2/assets/images/094-use-case-infographic-diagram.png</image:loc>
+      <image:title>Use case: infographic-diagram</image:title>
+      <image:caption>Use case: infographic-diagram Asset type: exploratory GPT Image 2 use-case card, single finished image Primary request: Create a 16:9 polished visual concept titled &quot;SIGNAGE MAZE&quot; showing a fictional museum wayfinding test: crisp multiling...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://pyth0nb3st.github.io/awesome-gpt-image-2/assets/images/085-use-case-stylized-concept.png</image:loc>
       <image:title>Use case: stylized-concept</image:title>
       <image:caption>Use case: stylized-concept Asset type: GPT Image 2 gallery derived play modes board, 2K landscape contact sheet Primary request: Create a second polished 3x2 contact sheet of six NEW game-like play mechanics derived from the use cases in t...</image:caption>

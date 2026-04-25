@@ -5,6 +5,142 @@
   "summary": "A visual gallery of playful GPT Image use cases, prompts, and experiment patterns. Images are stored in this repository for GitHub Pages publishing.",
   "images": [
     {
+      "title": "Use case: productivity-visual",
+      "caption": "历史生成图，批次 019dc27a-1df8-7d43-9e16-cf5d23410941，生成时间 2026-04-25 10:42:41。",
+      "path": "assets/images/087-use-case-productivity-visual.png",
+      "alt": "Generated image ig_0020b64bb6530e7c0169ec29aa92f4819a9eb88e8ba38cb6ff",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-25 10:42:41",
+      "batch": "019dc27a-1df8-7d43-9e16-cf5d23410941",
+      "tags": [
+        "historical-import",
+        "prompt-recovered",
+        "batch-019dc27a"
+      ],
+      "prompt": "Use case: productivity-visual\nAsset type: derived play concept image, single finished image\nPrimary request: Create a 16:9 concept called \"RUBRIC ARENA\", derived from the visual QA rubric. It turns image evaluation into a playful tournament bracket where generated image variants compete on criteria like text accuracy, layout match, and object count.\nScene/backdrop: clean judge table with bracket board, score tokens, variant cards, and rubric dice.\nSubject: eight image variant cards in a tournament bracket, criteria badges, final winner pedestal.\nStyle/medium: polished tabletop strategy game prototype with crisp printed components.\nComposition/framing: overhead view, bracket path clearly visible.\nLighting/mood: bright, analytical, fun but not childish.\nColor palette: white board, charcoal text, green pass tokens, amber warning tokens, red retry tokens.\nText (verbatim): \"RUBRIC ARENA\", \"Text\", \"Layout\", \"Objects\", \"Safety\", \"PASS\", \"FIX\", \"WINNER\".\nConstraints: no real brands, no logos, no watermark, avoid copyrighted game references, text should be legible.",
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc27a-1df8-7d43-9e16-cf5d23410941/ig_0020b64bb6530e7c0169ec29aa92f4819a9eb88e8ba38cb6ff.png"
+    },
+    {
+      "title": "Use case: lighting-weather",
+      "caption": "历史生成图，批次 019dc27a-1df8-7d43-9e16-cf5d23410941，生成时间 2026-04-25 10:40:43。",
+      "path": "assets/images/088-use-case-lighting-weather.png",
+      "alt": "Generated image ig_0020b64bb6530e7c0169ec296e1d1c819a92dbab3d285a8e6c",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-25 10:40:43",
+      "batch": "019dc27a-1df8-7d43-9e16-cf5d23410941",
+      "tags": [
+        "historical-import",
+        "prompt-recovered",
+        "batch-019dc27a"
+      ],
+      "prompt": "Use case: lighting-weather\nAsset type: derived play concept image, single finished image\nPrimary request: Create a 16:9 interactive concept called \"LIGHTING DJ\", derived from the same-room four-hours image. Show a tactile console that lets players remix one room's lighting with sliders for sun angle, lamp warmth, window weather, and shadow softness, while preview thumbnails update around it.\nScene/backdrop: design studio desk with a physical control board and four preview screens of the same reading nook.\nSubject: knobs and sliders labeled for lighting variables, thumbnails showing consistent room with different light recipes.\nStyle/medium: cinematic product photography mixed with clear UI screens.\nComposition/framing: console centered, preview screens behind, hands absent.\nLighting/mood: moody studio with colorful but restrained light accents.\nColor palette: charcoal console, white labels, amber lamp glow, cool blue weather preview, green plant accents.\nText (verbatim): \"LIGHTING DJ\", \"Sun angle\", \"Lamp warmth\", \"Rain\", \"Shadow soft\", \"Preview\".\nConstraints: no real brands, no logos, no watermark, keep the same room layout in all thumbnails, labels should be readable.",
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc27a-1df8-7d43-9e16-cf5d23410941/ig_0020b64bb6530e7c0169ec296e1d1c819a92dbab3d285a8e6c.png"
+    },
+    {
+      "title": "Use case: infographic-diagram",
+      "caption": "历史生成图，批次 019dc27a-1df8-7d43-9e16-cf5d23410941，生成时间 2026-04-25 10:39:42。",
+      "path": "assets/images/089-use-case-infographic-diagram.png",
+      "alt": "Generated image ig_0020b64bb6530e7c0169ec2934d820819a835960801b55a528",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-25 10:39:42",
+      "batch": "019dc27a-1df8-7d43-9e16-cf5d23410941",
+      "tags": [
+        "historical-import",
+        "prompt-recovered",
+        "batch-019dc27a"
+      ],
+      "prompt": "Use case: infographic-diagram\nAsset type: derived play concept image, single finished image\nPrimary request: Create a 16:9 tabletop puzzle concept called \"FIX-IT QUEST DECK\", derived from the repair manual maker. It turns an exploded product diagram into a cooperative card game: players collect part cards, tool tokens, and sequence cards to assemble a lamp.\nScene/backdrop: tabletop with a small lamp model, exploded-view board, part cards, tool tokens, and a progress track.\nSubject: cards labeled with lamp parts and simple icons, not actual repair instructions.\nStyle/medium: polished board game prototype photography with clean technical illustration on cards.\nComposition/framing: overhead angle, organized play area, clear card hierarchy.\nLighting/mood: warm maker-space lighting, playful but practical.\nColor palette: cream cards, graphite ink, orange highlights, steel gray pieces.\nText (verbatim): \"FIX-IT QUEST\", \"SHADE\", \"HINGE\", \"SPRING\", \"BASE\", \"SWITCH\", \"ASSEMBLE\".\nConstraints: fictional game, no real brands, no watermark, avoid unsafe wiring steps, keep text legible.",
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc27a-1df8-7d43-9e16-cf5d23410941/ig_0020b64bb6530e7c0169ec2934d820819a835960801b55a528.png"
+    },
+    {
+      "title": "Use case: stylized-concept",
+      "caption": "历史生成图，批次 019dc27a-1df8-7d43-9e16-cf5d23410941，生成时间 2026-04-25 10:38:45。",
+      "path": "assets/images/090-use-case-stylized-concept.png",
+      "alt": "Generated image ig_0020b64bb6530e7c0169ec28fba538819a96aa35c97ca55568",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-25 10:38:45",
+      "batch": "019dc27a-1df8-7d43-9e16-cf5d23410941",
+      "tags": [
+        "historical-import",
+        "prompt-recovered",
+        "batch-019dc27a"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: derived play concept image, single finished image\nPrimary request: Create a 16:9 game-like concept called \"SIGNAGE ESCAPE ROOM\", derived from the museum wayfinding idea. Players solve a path through a tiny isometric museum by reading multilingual signs, matching arrows, and finding the correct exit.\nScene/backdrop: miniature isometric museum maze on a tabletop, with room tiles, signposts, colored route tokens, and clue cards.\nSubject: playable puzzle board with clear arrows and a marked start/end route.\nStyle/medium: high-end board game product photography plus crisp miniatures.\nComposition/framing: top-down three-quarter view, all pieces visible, tactile and playable.\nLighting/mood: bright tabletop game night, clever and inviting.\nColor palette: teal route paths, amber clue cards, white museum walls, black text.\nText (verbatim): \"START\", \"入口\", \"LIGHT\", \"CITY\", \"EXIT\", \"解锁\".\nConstraints: no real brands, no logos, no watermark, avoid copyrighted board-game references, text should be legible.",
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc27a-1df8-7d43-9e16-cf5d23410941/ig_0020b64bb6530e7c0169ec28fba538819a96aa35c97ca55568.png"
+    },
+    {
+      "title": "Use case: ui-mockup",
+      "caption": "历史生成图，批次 019dc27a-1df8-7d43-9e16-cf5d23410941，生成时间 2026-04-25 10:37:48。",
+      "path": "assets/images/091-use-case-ui-mockup.png",
+      "alt": "Generated image ig_0020b64bb6530e7c0169ec28c46e38819a8e00e63eaf74279f",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-25 10:37:48",
+      "batch": "019dc27a-1df8-7d43-9e16-cf5d23410941",
+      "tags": [
+        "historical-import",
+        "prompt-recovered",
+        "batch-019dc27a"
+      ],
+      "prompt": "Use case: ui-mockup\nAsset type: exploratory GPT Image 2 use-case card, single finished image\nPrimary request: Create a 16:9 high-fidelity software mockup called \"VISUAL QA RUBRIC\" where a designer compares generated image variants against a checklist: text accuracy, object count, layout match, lighting, and safety. This demonstrates using GPT Image 2 outputs as testable artifacts.\nScene/backdrop: desktop web app interface, not a marketing landing page.\nSubject: three image thumbnails on the left, scoring table on the right, red/yellow/green status chips, short notes.\nStyle/medium: realistic SaaS dashboard screenshot mockup, compact and work-focused.\nComposition/framing: full browser window, dense but readable controls.\nLighting/mood: neutral productivity app, no decorative blobs.\nColor palette: white, charcoal, slate, green, amber, red.\nText (verbatim): \"VISUAL QA RUBRIC\", \"Text accuracy\", \"Object count\", \"Layout match\", \"Lighting\", \"Safety\", \"PASS\", \"FIX\", \"RETRY\".\nConstraints: no real company logos, no watermark, keep all UI text legible, avoid oversized hero style.",
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc27a-1df8-7d43-9e16-cf5d23410941/ig_0020b64bb6530e7c0169ec28c46e38819a8e00e63eaf74279f.png"
+    },
+    {
+      "title": "Use case: photorealistic-natural",
+      "caption": "历史生成图，批次 019dc27a-1df8-7d43-9e16-cf5d23410941，生成时间 2026-04-25 10:36:53。",
+      "path": "assets/images/092-use-case-photorealistic-natural.png",
+      "alt": "Generated image ig_0020b64bb6530e7c0169ec28923368819ab7b4d3d35a7c2f31",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-25 10:36:53",
+      "batch": "019dc27a-1df8-7d43-9e16-cf5d23410941",
+      "tags": [
+        "historical-import",
+        "prompt-recovered",
+        "batch-019dc27a"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: exploratory GPT Image 2 use-case card, single finished image\nPrimary request: Create a 16:9 \"SAME ROOM, FOUR HOURS\" concept image showing one small reading corner rendered consistently at morning, noon, dusk, and night in four vertical slices. This demonstrates scene consistency, lighting/time variation, and spatial memory without changing furniture.\nScene/backdrop: cozy apartment reading nook with one armchair, side table, plant, bookshelf, window, and mug.\nSubject: identical room layout across four time states.\nStyle/medium: photorealistic interior photography, natural textures.\nComposition/framing: one seamless room divided into four vertical time bands, same camera angle.\nLighting/mood: morning soft sun, noon bright daylight, dusk warm orange, night lamp glow.\nColor palette: varied by time while furniture stays constant.\nText (verbatim): small unobtrusive labels only: \"MORNING\", \"NOON\", \"DUSK\", \"NIGHT\".\nConstraints: keep furniture positions identical, no people, no logos, no watermark, no fantasy elements.",
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc27a-1df8-7d43-9e16-cf5d23410941/ig_0020b64bb6530e7c0169ec28923368819ab7b4d3d35a7c2f31.png"
+    },
+    {
+      "title": "Use case: product-mockup",
+      "caption": "历史生成图，批次 019dc27a-1df8-7d43-9e16-cf5d23410941，生成时间 2026-04-25 10:36:03。",
+      "path": "assets/images/093-use-case-product-mockup.png",
+      "alt": "Generated image ig_0020b64bb6530e7c0169ec2825a280819a932fb595242031b0",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-25 10:36:03",
+      "batch": "019dc27a-1df8-7d43-9e16-cf5d23410941",
+      "tags": [
+        "historical-import",
+        "prompt-recovered",
+        "batch-019dc27a"
+      ],
+      "prompt": "Use case: product-mockup\nAsset type: exploratory GPT Image 2 use-case card, single finished image\nPrimary request: Create a 16:9 \"REPAIR MANUAL MAKER\" concept image: a fictional exploded repair guide for a compact desk lamp, with numbered parts, arrows, callouts, tiny tool illustrations, and a final assembled lamp thumbnail. This demonstrates structured visual reasoning and useful diagrams from plain language.\nScene/backdrop: clean workbench with the manual page floating above the real lamp parts.\nSubject: desk lamp components: shade, hinge, spring, base, cable, switch, screws.\nStyle/medium: premium technical illustration blended with realistic product photography.\nComposition/framing: centered exploded view with crisp callout lines and small labels.\nLighting/mood: bright studio lighting, practical, maker-lab feeling.\nColor palette: off-white paper, graphite lines, safety orange highlights, brushed steel parts.\nText (verbatim): \"REPAIR MANUAL MAKER\", \"1 SHADE\", \"2 HINGE\", \"3 SPRING\", \"4 BASE\", \"5 SWITCH\".\nConstraints: fictional product only, no brand logos, no watermark, no unsafe electrical instructions, prioritize legible labels.",
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc27a-1df8-7d43-9e16-cf5d23410941/ig_0020b64bb6530e7c0169ec2825a280819a932fb595242031b0.png"
+    },
+    {
+      "title": "Use case: infographic-diagram",
+      "caption": "历史生成图，批次 019dc27a-1df8-7d43-9e16-cf5d23410941，生成时间 2026-04-25 10:34:14。",
+      "path": "assets/images/094-use-case-infographic-diagram.png",
+      "alt": "Generated image ig_0020b64bb6530e7c0169ec27ae4dd8819aa52dc5bf78e436c9",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-25 10:34:14",
+      "batch": "019dc27a-1df8-7d43-9e16-cf5d23410941",
+      "tags": [
+        "historical-import",
+        "prompt-recovered",
+        "batch-019dc27a"
+      ],
+      "prompt": "Use case: infographic-diagram\nAsset type: exploratory GPT Image 2 use-case card, single finished image\nPrimary request: Create a 16:9 polished visual concept titled \"SIGNAGE MAZE\" showing a fictional museum wayfinding test: crisp multilingual signs in English, Chinese, Japanese, and Spanish guide visitors through four exhibit zones. The image demonstrates accurate text rendering, spatial layout, and visual hierarchy.\nScene/backdrop: bright modern museum atrium with overhead map, wall arrows, floor decals, and kiosk screen.\nSubject: readable signage system with zone names: \"入口 Entrance\", \"光影 Light\", \"城市 City\", \"出口 Exit\".\nStyle/medium: realistic editorial design render, clean architectural visualization.\nComposition/framing: wide view with signs distributed through the space, no giant poster board, signs integrated into the environment.\nLighting/mood: daylight, calm, precise, professional.\nColor palette: white architecture, teal arrows, amber zone accents, dark graphite text.\nText (verbatim): \"入口 Entrance\", \"光影 Light\", \"城市 City\", \"出口 Exit\".\nConstraints: no real brands, no logos, no watermarks, avoid unreadable gibberish; make text as legible as possible.",
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc27a-1df8-7d43-9e16-cf5d23410941/ig_0020b64bb6530e7c0169ec27ae4dd8819aa52dc5bf78e436c9.png"
+    },
+    {
       "title": "Use case: stylized-concept",
       "caption": "历史生成图，批次 019dc267-ce49-7430-a662-73d1b4ec4e58，生成时间 2026-04-25 10:16:56。",
       "path": "assets/images/085-use-case-stylized-concept.png",
