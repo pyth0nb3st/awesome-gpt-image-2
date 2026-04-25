@@ -42,18 +42,18 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 
 - `product-mockup` (79)
 - `typography` (76)
-- `game-design` (68)
+- `game-design` (67)
 - `ui-mockup` (62)
 - `storytelling` (53)
-- `lighting-weather` (37)
-- `worldbuilding` (35)
+- `lighting-weather` (36)
 - `infographic` (33)
 - `photoreal` (33)
+- `worldbuilding` (33)
 - `education` (23)
 - `interior-design` (23)
-- `material-study` (19)
-- `operations` (17)
-- `evaluation` (16)
+- `material-study` (17)
+- `evaluation` (15)
+- `operations` (15)
 - `productivity-visual` (15)
 - `stylized-concept` (15)
 - `illustration-story` (9)
@@ -61,12 +61,24 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `prompt-game` (7)
 - `infographic-diagram` (6)
 - `scientific-educational` (5)
-- `sound-to-scene` (5)
+- `sound-to-scene` (3)
 - `photorealistic-natural` (2)
 - `ui-fiction-simulator` (2)
 
 ### Latest Play Tags
 
+- `ridge-draft` - Derived Play: Contour Sandbox League
+- `fence-veto` - Derived Play: Contour Sandbox League
+- `mold-memory` - Derived Play: Contour Sandbox League
+- `shadow-wager` - Derived Play: Contour Sandbox League
+- `frame-squeeze` - Derived Play: Contour Sandbox League
+- `sign-whisper` - Derived Play: Contour Sandbox League
+- `contour-brief` - Use Case Sandbox: Contour Image Rehearsal
+- `boundary-edit` - Use Case Sandbox: Contour Image Rehearsal
+- `landmark-mold` - Use Case Sandbox: Contour Image Rehearsal
+- `sun-peg` - Use Case Sandbox: Contour Image Rehearsal
+- `scale-frame` - Use Case Sandbox: Contour Image Rehearsal
+- `label-stake` - Use Case Sandbox: Contour Image Rehearsal
 - `cable-route-draft` - Derived Play: Patch Cable League
 - `overload-fuse` - Derived Play: Patch Cable League
 - `checksum-badge` - Derived Play: Patch Cable League
@@ -91,36 +103,24 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `color-gel-mood-control` - Use Case Lantern: Layered Slide Compositing
 - `continuity-stack-check` - Use Case Lantern: Layered Slide Compositing
 - `scale-shift-registration` - Use Case Lantern: Layered Slide Compositing
-- `parallax-star-hop` - Derived Play: Orbit Mobile League
-- `eclipse-token-lock` - Derived Play: Orbit Mobile League
-- `orbit-window-draft` - Derived Play: Orbit Mobile League
-- `glyph-meteor-race` - Derived Play: Orbit Mobile League
-- `nebula-signal-sort` - Derived Play: Orbit Mobile League
-- `safe-harbor-swap` - Derived Play: Orbit Mobile League
-- `reference-parallax-check` - Use Case Planetarium: Image Navigation
-- `mask-eclipse-edit` - Use Case Planetarium: Image Navigation
-- `orbit-crop-planner` - Use Case Planetarium: Image Navigation
-- `glyph-constellation-typeset` - Use Case Planetarium: Image Navigation
-- `nebula-noise-denoiser` - Use Case Planetarium: Image Navigation
-- `rights-safe-starfield-swap` - Use Case Planetarium: Image Navigation
 
 <details>
 <summary>All generated tags</summary>
 
 - `product-mockup` (79)
 - `typography` (76)
-- `game-design` (68)
+- `game-design` (67)
 - `ui-mockup` (62)
 - `storytelling` (53)
-- `lighting-weather` (37)
-- `worldbuilding` (35)
+- `lighting-weather` (36)
 - `infographic` (33)
 - `photoreal` (33)
+- `worldbuilding` (33)
 - `education` (23)
 - `interior-design` (23)
-- `material-study` (19)
-- `operations` (17)
-- `evaluation` (16)
+- `material-study` (17)
+- `evaluation` (15)
+- `operations` (15)
 - `productivity-visual` (15)
 - `stylized-concept` (15)
 - `illustration-story` (9)
@@ -128,7 +128,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `prompt-game` (7)
 - `infographic-diagram` (6)
 - `scientific-educational` (5)
-- `sound-to-scene` (5)
+- `sound-to-scene` (3)
 - `photorealistic-natural` (2)
 - `ui-fiction-simulator` (2)
 - `accessibility-pollinator-view` (1)
@@ -141,6 +141,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `barometer-countdown` (1)
 - `blackout-mask-prompt` (1)
 - `blackout-mask-tray` (1)
+- `boundary-edit` (1)
 - `brand-multiverse` (1)
 - `brief-bouncer` (1)
 - `cable-route-draft` (1)
@@ -164,6 +165,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `continuity-mycelium` (1)
 - `continuity-prop-witness` (1)
 - `continuity-stack-check` (1)
+- `contour-brief` (1)
 - `crop-contract` (1)
 - `crop-curtain-sprint` (1)
 - `crop-heddle-router` (1)
@@ -188,6 +190,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `failure-ladder` (1)
 - `failure-mode-atlas` (1)
 - `failure-mode-catalog` (1)
+- `fence-veto` (1)
 - `fictional-exhibit-mini-tours` (1)
 - `fictional-product-sku-factory` (1)
 - `field-note-builder` (1)
@@ -195,6 +198,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `focus-tape-swap` (1)
 - `format-jetstream-router` (1)
 - `forme-lock-rescue` (1)
+- `frame-squeeze` (1)
 - `game-asset-sheet` (1)
 - `gel-wheel-tint` (1)
 - `gesture-to-tool-mockup` (1)
@@ -211,7 +215,9 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `iteration-diff` (1)
 - `jetstream-cut` (1)
 - `kitchen-mise-map` (1)
+- `label-stake` (1)
 - `label-stitch-judge` (1)
+- `landmark-mold` (1)
 - `language-mood-matrix` (1)
 - `layer-separation-slide` (1)
 - `learning-card-deck` (1)
@@ -231,6 +237,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `messy-brief-sanitizer` (1)
 - `microbrand-kit` (1)
 - `mini-tour-stamp-rally` (1)
+- `mold-memory` (1)
 - `mood-mascot-mixer` (1)
 - `multilingual-poster-lab` (1)
 - `nebula-noise-denoiser` (1)
@@ -277,11 +284,13 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `relation-ramp` (1)
 - `repair-triage-photos` (1)
 - `restoration-what-if` (1)
+- `ridge-draft` (1)
 - `rights-safe-forme-lock` (1)
 - `rights-safe-starfield-swap` (1)
 - `root-memory-chain` (1)
 - `safe-fiction-cloudbreak` (1)
 - `safe-harbor-swap` (1)
+- `scale-frame` (1)
 - `scale-shift-registration` (1)
 - `scenario-switch` (1)
 - `scent-palette-translator` (1)
@@ -291,9 +300,11 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `selvedge-drift-trap` (1)
 - `series-checksum` (1)
 - `shadow-court` (1)
+- `shadow-wager` (1)
 - `shelf-spec-poker` (1)
 - `shot-list-rescue` (1)
 - `shuttle-order-draft` (1)
+- `sign-whisper` (1)
 - `silence-plug` (1)
 - `slide-layer-draft` (1)
 - `sound-shape-notation` (1)
@@ -302,6 +313,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `storyboard-continuity-game` (1)
 - `style-pollination-dome` (1)
 - `style-transfer` (1)
+- `sun-peg` (1)
 - `tabletop-quest-props` (1)
 - `tactile-diagram-draft` (1)
 - `text-label-embroider` (1)
@@ -357,11 +369,11 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 
 ## Prompt Gallery
 
-### 001. Wide 16:9 original derived-play concept scene titled "Derived Play: Contour Sandbo
+### 001. Derived Play: Contour Sandbox League
 
-![Wide 16:9 original derived-play concept scene titled "Derived Play: Contour Sandbo](assets/images/131-a-wide-16-9-original-derived-play-concept-scene-titled-derived-p.png)
+![Derived Play: Contour Sandbox League](assets/images/131-derived-play-contour-sandbox-league.png)
 
-**Tags:** `evaluation` `game-design` `infographic` `material-study` `operations` `sound-to-scene` `typography` `worldbuilding`
+**Tags:** `fence-veto` `frame-squeeze` `infographic` `mold-memory` `ridge-draft` `shadow-wager` `sign-whisper` `typography`
 
 **Prompt excerpt:** Create a wide 16:9 original derived-play concept scene titled "Derived Play: Contour Sandbox League". Purpose: derive a playable image-prompt game from the sand-table use-case idea, but make it a distinct rules object: a competitive kineti...
 
@@ -394,11 +406,11 @@ Avoid showing: underwater sonar, bathymetry screens, portholes, signal patch cab
 
 </details>
 
-### 002. Wide 16:9 original GPT Image use-case concept scene titled "Use Case Sandbox: Cont
+### 002. Use Case Sandbox: Contour Image Rehearsal
 
-![Wide 16:9 original GPT Image use-case concept scene titled "Use Case Sandbox: Cont](assets/images/132-a-wide-16-9-original-gpt-image-use-case-concept-scene-titled-use.png)
+![Use Case Sandbox: Contour Image Rehearsal](assets/images/132-use-case-sandbox-contour-image-rehearsal.png)
 
-**Tags:** `game-design` `lighting-weather` `material-study` `operations` `sound-to-scene` `typography` `worldbuilding`
+**Tags:** `boundary-edit` `contour-brief` `game-design` `label-stake` `landmark-mold` `scale-frame` `sun-peg` `typography`
 
 **Prompt excerpt:** Create a wide 16:9 original GPT Image use-case concept scene titled "Use Case Sandbox: Contour Image Rehearsal". Purpose: visualize a fresh set of GPT Image use cases as a single interactive topographic sand-table instrument for planning i...
 

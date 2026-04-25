@@ -6,13 +6,13 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://gptimg2.best/assets/images/131-a-wide-16-9-original-derived-play-concept-scene-titled-derived-p.png</image:loc>
-      <image:title>Wide 16:9 original derived-play concept scene titled &quot;Derived Play: Contour Sandbo</image:title>
+      <image:loc>https://gptimg2.best/assets/images/131-derived-play-contour-sandbox-league.png</image:loc>
+      <image:title>Derived Play: Contour Sandbox League</image:title>
       <image:caption>Create a wide 16:9 original derived-play concept scene titled &quot;Derived Play: Contour Sandbox League&quot;. Purpose: derive a playable image-prompt game from the sand-table use-case idea, but make it a distinct rules object: a competitive kineti...</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://gptimg2.best/assets/images/132-a-wide-16-9-original-gpt-image-use-case-concept-scene-titled-use.png</image:loc>
-      <image:title>Wide 16:9 original GPT Image use-case concept scene titled &quot;Use Case Sandbox: Cont</image:title>
+      <image:loc>https://gptimg2.best/assets/images/132-use-case-sandbox-contour-image-rehearsal.png</image:loc>
+      <image:title>Use Case Sandbox: Contour Image Rehearsal</image:title>
       <image:caption>Create a wide 16:9 original GPT Image use-case concept scene titled &quot;Use Case Sandbox: Contour Image Rehearsal&quot;. Purpose: visualize a fresh set of GPT Image use cases as a single interactive topographic sand-table instrument for planning i...</image:caption>
     </image:image>
     <image:image>
@@ -679,24 +679,24 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/prompts/131-a-wide-16-9-original-derived-play-concept-scene-titled-derived-p/</loc>
+    <loc>https://gptimg2.best/prompts/131-derived-play-contour-sandbox-league/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
-      <image:loc>https://gptimg2.best/assets/images/131-a-wide-16-9-original-derived-play-concept-scene-titled-derived-p.png</image:loc>
-      <image:title>Wide 16:9 original derived-play concept scene titled &quot;Derived Play: Contour Sandbo</image:title>
+      <image:loc>https://gptimg2.best/assets/images/131-derived-play-contour-sandbox-league.png</image:loc>
+      <image:title>Derived Play: Contour Sandbox League</image:title>
       <image:caption>Create a wide 16:9 original derived-play concept scene titled &quot;Derived Play: Contour Sandbox League&quot;. Purpose: derive a playable image-prompt game from the sand-table use-case idea, but make it a distinct rules object: a competitive kineti...</image:caption>
     </image:image>
   </url>
   <url>
-    <loc>https://gptimg2.best/prompts/132-a-wide-16-9-original-gpt-image-use-case-concept-scene-titled-use/</loc>
+    <loc>https://gptimg2.best/prompts/132-use-case-sandbox-contour-image-rehearsal/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
-      <image:loc>https://gptimg2.best/assets/images/132-a-wide-16-9-original-gpt-image-use-case-concept-scene-titled-use.png</image:loc>
-      <image:title>Wide 16:9 original GPT Image use-case concept scene titled &quot;Use Case Sandbox: Cont</image:title>
+      <image:loc>https://gptimg2.best/assets/images/132-use-case-sandbox-contour-image-rehearsal.png</image:loc>
+      <image:title>Use Case Sandbox: Contour Image Rehearsal</image:title>
       <image:caption>Create a wide 16:9 original GPT Image use-case concept scene titled &quot;Use Case Sandbox: Contour Image Rehearsal&quot;. Purpose: visualize a fresh set of GPT Image use cases as a single interactive topographic sand-table instrument for planning i...</image:caption>
     </image:image>
   </url>
@@ -2167,12 +2167,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/worldbuilding/</loc>
-    <lastmod>2026-04-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://gptimg2.best/tags/infographic/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -2180,6 +2174,12 @@
   </url>
   <url>
     <loc>https://gptimg2.best/tags/photoreal/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/worldbuilding/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -2203,13 +2203,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/operations/</loc>
+    <loc>https://gptimg2.best/tags/evaluation/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/evaluation/</loc>
+    <loc>https://gptimg2.best/tags/operations/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
