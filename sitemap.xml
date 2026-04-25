@@ -7,12 +7,12 @@
     <priority>1.0</priority>
     <image:image>
       <image:loc>https://gptimg2.best/assets/images/141-make-a-single-public-gallery-image-an-original-derived-play-chal.png</image:loc>
-      <image:title>Make a single public-gallery image: an original derived-play challenge called ICE CO</image:title>
+      <image:title>Derived Play: Ice Core Relay</image:title>
       <image:caption>Make a single public-gallery image: an original derived-play challenge called ICE CORE RELAY, built from the cold-storage cabinet idea. Format is a wide 16:9 cinematic photo of a frosted lab bench with three vertical sample racks, sliding...</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://gptimg2.best/assets/images/142-make-a-single-public-gallery-image-a-cold-storage-cabinet-of-tra.png</image:loc>
-      <image:title>Make a single public-gallery image: a cold-storage cabinet of transparent ice-core s</image:title>
+      <image:title>Use Case Freezer: Ice Core Prompt Lab</image:title>
       <image:caption>Make a single public-gallery image: a cold-storage cabinet of transparent ice-core specimens used as a playful image-generation laboratory. The scene is a tall 4:5 editorial photograph of an open stainless freezer drawer, blue-white frost,...</image:caption>
     </image:image>
     <image:image>
@@ -715,7 +715,7 @@
     <priority>0.7</priority>
     <image:image>
       <image:loc>https://gptimg2.best/assets/images/141-make-a-single-public-gallery-image-an-original-derived-play-chal.png</image:loc>
-      <image:title>Make a single public-gallery image: an original derived-play challenge called ICE CO</image:title>
+      <image:title>Derived Play: Ice Core Relay</image:title>
       <image:caption>Make a single public-gallery image: an original derived-play challenge called ICE CORE RELAY, built from the cold-storage cabinet idea. Format is a wide 16:9 cinematic photo of a frosted lab bench with three vertical sample racks, sliding...</image:caption>
     </image:image>
   </url>
@@ -726,7 +726,7 @@
     <priority>0.7</priority>
     <image:image>
       <image:loc>https://gptimg2.best/assets/images/142-make-a-single-public-gallery-image-a-cold-storage-cabinet-of-tra.png</image:loc>
-      <image:title>Make a single public-gallery image: a cold-storage cabinet of transparent ice-core s</image:title>
+      <image:title>Use Case Freezer: Ice Core Prompt Lab</image:title>
       <image:caption>Make a single public-gallery image: a cold-storage cabinet of transparent ice-core specimens used as a playful image-generation laboratory. The scene is a tall 4:5 editorial photograph of an open stainless freezer drawer, blue-white frost,...</image:caption>
     </image:image>
   </url>
@@ -2263,6 +2263,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://gptimg2.best/tags/infographic/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://gptimg2.best/tags/photoreal/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -2275,19 +2281,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/infographic/</loc>
+    <loc>https://gptimg2.best/tags/education/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/interior-design/</loc>
-    <lastmod>2026-04-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gptimg2.best/tags/education/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>

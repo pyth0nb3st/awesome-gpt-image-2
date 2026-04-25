@@ -42,18 +42,18 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 
 - `product-mockup` (80)
 - `typography` (78)
-- `game-design` (70)
+- `game-design` (68)
 - `ui-mockup` (63)
-- `storytelling` (56)
-- `lighting-weather` (37)
-- `photoreal` (34)
-- `worldbuilding` (34)
+- `storytelling` (54)
+- `lighting-weather` (36)
 - `infographic` (33)
-- `interior-design` (25)
+- `photoreal` (33)
+- `worldbuilding` (33)
 - `education` (23)
-- `material-study` (18)
-- `evaluation` (17)
-- `operations` (17)
+- `interior-design` (23)
+- `material-study` (17)
+- `evaluation` (15)
+- `operations` (15)
 - `productivity-visual` (15)
 - `stylized-concept` (15)
 - `illustration-story` (9)
@@ -67,6 +67,20 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 
 ### Latest Play Tags
 
+- `ice-core-relay` - Derived Play: Ice Core Relay
+- `freeze-draft` - Derived Play: Ice Core Relay
+- `thaw-window` - Derived Play: Ice Core Relay
+- `frost-whisper` - Derived Play: Ice Core Relay
+- `sleeve-swap` - Derived Play: Ice Core Relay
+- `bubble-wager` - Derived Play: Ice Core Relay
+- `ring-audit` - Derived Play: Ice Core Relay
+- `ice-core-prompt-lab` - Use Case Freezer: Ice Core Prompt Lab
+- `core-memory` - Use Case Freezer: Ice Core Prompt Lab
+- `thaw-edit` - Use Case Freezer: Ice Core Prompt Lab
+- `frost-type` - Use Case Freezer: Ice Core Prompt Lab
+- `slice-format` - Use Case Freezer: Ice Core Prompt Lab
+- `bubble-texture` - Use Case Freezer: Ice Core Prompt Lab
+- `ring-ledger` - Use Case Freezer: Ice Core Prompt Lab
 - `grout-route-mosaic-league` - Derived Play: Grout Route Mosaic League
 - `subject-tile-draft` - Derived Play: Grout Route Mosaic League
 - `border-context-locks` - Derived Play: Grout Route Mosaic League
@@ -89,38 +103,24 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `subtotal-dial` - Derived Play: Receipt Run League
 - `receipt-audit-gate` - Derived Play: Receipt Run League
 - `prompt-line-itemization` - Use Case Receipt: Prompt Accounting
-- `constraint-subtotal` - Use Case Receipt: Prompt Accounting
-- `edit-refund-lane` - Use Case Receipt: Prompt Accounting
-- `style-coupon-clipping` - Use Case Receipt: Prompt Accounting
-- `provenance-stamp` - Use Case Receipt: Prompt Accounting
-- `aspect-ratio-price-check` - Use Case Receipt: Prompt Accounting
-- `visual-reconciliation` - Use Case Receipt: Prompt Accounting
-- `ridge-draft` - Derived Play: Contour Sandbox League
-- `fence-veto` - Derived Play: Contour Sandbox League
-- `mold-memory` - Derived Play: Contour Sandbox League
-- `shadow-wager` - Derived Play: Contour Sandbox League
-- `frame-squeeze` - Derived Play: Contour Sandbox League
-- `sign-whisper` - Derived Play: Contour Sandbox League
-- `contour-brief` - Use Case Sandbox: Contour Image Rehearsal
-- `boundary-edit` - Use Case Sandbox: Contour Image Rehearsal
 
 <details>
 <summary>All generated tags</summary>
 
 - `product-mockup` (80)
 - `typography` (78)
-- `game-design` (70)
+- `game-design` (68)
 - `ui-mockup` (63)
-- `storytelling` (56)
-- `lighting-weather` (37)
-- `photoreal` (34)
-- `worldbuilding` (34)
+- `storytelling` (54)
+- `lighting-weather` (36)
 - `infographic` (33)
-- `interior-design` (25)
+- `photoreal` (33)
+- `worldbuilding` (33)
 - `education` (23)
-- `material-study` (18)
-- `evaluation` (17)
-- `operations` (17)
+- `interior-design` (23)
+- `material-study` (17)
+- `evaluation` (15)
+- `operations` (15)
 - `productivity-visual` (15)
 - `stylized-concept` (15)
 - `illustration-story` (9)
@@ -148,6 +148,8 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `boundary-edit` (1)
 - `brand-multiverse` (1)
 - `brief-bouncer` (1)
+- `bubble-texture` (1)
+- `bubble-wager` (1)
 - `cable-route-draft` (1)
 - `calendar-scene-forge` (1)
 - `camera-blocking-rehearsal` (1)
@@ -174,6 +176,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `continuity-prop-witness` (1)
 - `continuity-stack-check` (1)
 - `contour-brief` (1)
+- `core-memory` (1)
 - `coupon-veto` (1)
 - `crop-contract` (1)
 - `crop-curtain-sprint` (1)
@@ -212,6 +215,9 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `forme-lock-rescue` (1)
 - `frame-fit-scoring` (1)
 - `frame-squeeze` (1)
+- `freeze-draft` (1)
+- `frost-type` (1)
+- `frost-whisper` (1)
 - `game-asset-sheet` (1)
 - `gel-wheel-tint` (1)
 - `gesture-to-tool-mockup` (1)
@@ -223,6 +229,8 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `grout-route-mosaic-league` (1)
 - `harvest-judge` (1)
 - `humidity-lock` (1)
+- `ice-core-prompt-lab` (1)
+- `ice-core-relay` (1)
 - `icon-object-crosswalk` (1)
 - `ink-pass-poker` (1)
 - `ink-separation-remix` (1)
@@ -309,6 +317,8 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `ridge-draft` (1)
 - `rights-safe-forme-lock` (1)
 - `rights-safe-starfield-swap` (1)
+- `ring-audit` (1)
+- `ring-ledger` (1)
 - `root-memory-chain` (1)
 - `safe-fiction-cloudbreak` (1)
 - `safe-harbor-swap` (1)
@@ -329,6 +339,8 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `shuttle-order-draft` (1)
 - `sign-whisper` (1)
 - `silence-plug` (1)
+- `sleeve-swap` (1)
+- `slice-format` (1)
 - `slide-layer-draft` (1)
 - `sound-shape-notation` (1)
 - `spec-to-shelf-prototype` (1)
@@ -346,6 +358,8 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `text-label-embroider` (1)
 - `text-legibility-barometer` (1)
 - `texture-cipher-relay` (1)
+- `thaw-edit` (1)
+- `thaw-window` (1)
 - `thread-budget-auction` (1)
 - `thumbnail-gate` (1)
 - `thumbnail-stress` (1)
@@ -397,11 +411,11 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 
 ## Prompt Gallery
 
-### 001. Make a single public-gallery image: an original derived-play challenge called ICE CO
+### 001. Derived Play: Ice Core Relay
 
-![Make a single public-gallery image: an original derived-play challenge called ICE CO](assets/images/141-make-a-single-public-gallery-image-an-original-derived-play-chal.png)
+![Derived Play: Ice Core Relay](assets/images/141-make-a-single-public-gallery-image-an-original-derived-play-chal.png)
 
-**Tags:** `evaluation` `game-design` `interior-design` `operations` `photoreal` `storytelling` `typography` `worldbuilding`
+**Tags:** `bubble-wager` `freeze-draft` `frost-whisper` `ice-core-relay` `ring-audit` `sleeve-swap` `thaw-window` `typography`
 
 **Prompt excerpt:** Make a single public-gallery image: an original derived-play challenge called ICE CORE RELAY, built from the cold-storage cabinet idea. Format is a wide 16:9 cinematic photo of a frosted lab bench with three vertical sample racks, sliding...
 
@@ -424,11 +438,11 @@ Show pucks moving in a relay path across freezer rails, but not as a printed boa
 
 </details>
 
-### 002. Make a single public-gallery image: a cold-storage cabinet of transparent ice-core s
+### 002. Use Case Freezer: Ice Core Prompt Lab
 
-![Make a single public-gallery image: a cold-storage cabinet of transparent ice-core s](assets/images/142-make-a-single-public-gallery-image-a-cold-storage-cabinet-of-tra.png)
+![Use Case Freezer: Ice Core Prompt Lab](assets/images/142-make-a-single-public-gallery-image-a-cold-storage-cabinet-of-tra.png)
 
-**Tags:** `evaluation` `game-design` `interior-design` `lighting-weather` `material-study` `operations` `storytelling` `typography`
+**Tags:** `bubble-texture` `core-memory` `frost-type` `ice-core-prompt-lab` `ring-ledger` `slice-format` `thaw-edit` `typography`
 
 **Prompt excerpt:** Make a single public-gallery image: a cold-storage cabinet of transparent ice-core specimens used as a playful image-generation laboratory. The scene is a tall 4:5 editorial photograph of an open stainless freezer drawer, blue-white frost,...
 
