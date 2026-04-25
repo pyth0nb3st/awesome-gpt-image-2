@@ -1,9 +1,47 @@
 {
   "title": "Awesome GPT Image 2",
   "automation": "gpt image 2 play",
-  "run": "2026-04-25 historical sync",
+  "run": "2026-04-25 09:34 CST",
   "summary": "A visual gallery of playful GPT Image use cases, prompts, and experiment patterns. Images are stored in this repository for GitHub Pages publishing.",
   "images": [
+    {
+      "title": "GPT Image 2 use cases: continuity and operations labs",
+      "caption": "本轮新增非重复 use case 图组：衣橱连续性、展陈预演、应急演练、材料替换、声音转舞台、维护日志可视化。",
+      "alt": "Six-panel concept board of new GPT Image play use cases: wardrobe continuity lab, museum exhibit rehearsal, emergency drill simulator, material substitution studio, sound-to-scene composer, maintenance log visualizer.",
+      "width": 1536,
+      "height": 1024,
+      "createdAt": "2026-04-25 09:32 CST",
+      "batch": "019dc241-cff4-7851-886a-53946fe42e59",
+      "tags": [
+        "gpt-image-2-play",
+        "new-use-cases",
+        "non-repeat",
+        "operations-lab",
+        "continuity-evaluation"
+      ],
+      "prompt": "Create a single high-quality landscape concept board showing six NEW playful GPT Image 2 use cases. Avoid repeating these previous themes: toybox product remix, alternate-history field guide, UI-to-world portal, emotion weather portraits, recipe still life, micro-brand launch kit, masked reality patch, character consistency episode, diagram-to-diorama, annotation archaeology, localization stress test, game asset rarity ladder, data outlier evidence cards, assembly manual, patent sketch simulator, itinerary memory map, building lighting rehearsal, board-game prototype factory, regression detective, constraint bingo, prompt relay, variant draft, scene grammar kit, scale-shift microscope. \n\nNo readable text except tiny abstract marks. Style: polished creative lab research board, six-panel grid, crisp realistic objects with subtle editorial illustration polish, vivid balanced palette, no logos, no famous people, no copyrighted characters.\n\nSix fresh panels:\n1. Wardrobe continuity lab: a capsule wardrobe is turned into a season-by-season outfit continuity board for a fictional character, with fabric swatches, silhouettes, laundry wear, and travel packing variants, but without relying on face identity.\n2. Museum exhibit rehearsal: a curator prompt becomes a miniature gallery installation with plinths, wall lighting, visitor flow, object labels represented only as abstract marks, and alternate display layouts.\n3. Emergency drill simulator: a floor plan becomes realistic staged safety-drill scenes with signage shapes, blocked paths, assembly points, and before/after readiness photos.\n4. Material substitution studio: one product form is explored in glass, paper pulp, recycled plastic, ceramic, woven fabric, and metal, preserving the silhouette while changing tactile qualities.\n5. Sound-to-scene composer: waveform-like audio patterns become a physical stage design with lights, props, motion trails, and mood zones for an imaginary performance.\n6. Maintenance log visualizer: routine machine notes become a visual checklist wall with worn parts, oil traces, inspection stamps, tool shadows, and replacement candidates.\n\nMake each panel self-explanatory as a practical GPT Image 2 experiment, not just a pretty picture.",
+      "path": "assets/images/078-gpt-image-2-use-cases-continuity-and-operations-labs.png",
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc241-cff4-7851-886a-53946fe42e59/ig_032182e231389e340169ec19a014c0819aa099bcbe74eb3407.png"
+    },
+    {
+      "title": "GPT Image 2 play formats: evaluation games",
+      "caption": "本轮新增派生玩法图组：衣橱审计、展厅速通、演练路径谜题、材料真值表、波形舞台 jam、维护分诊选秀。",
+      "alt": "Six-panel concept board of derivative GPT Image play formats: continuity wardrobe audit, gallery layout speedrun, drill-path puzzle, material truth table, waveform stage jam, maintenance triage draft.",
+      "width": 1536,
+      "height": 1024,
+      "createdAt": "2026-04-25 09:33 CST",
+      "batch": "019dc241-cff4-7851-886a-53946fe42e59",
+      "tags": [
+        "gpt-image-2-play",
+        "derived-play",
+        "non-repeat",
+        "evaluation-games",
+        "visual-qa"
+      ],
+      "prompt": "Create a second single high-quality landscape concept board showing six NEW derived game-like GPT Image 2 play formats inspired by the previous use cases. Avoid repeating all previous play formats: hidden-object hunt, brand slot machine, moodboard battle, time-machine photo chain, character passport, prompt recipe kitchen, toy remixes, micro-brand kits, old photo repair, regression detective, constraint bingo, prompt relay telephone, variant draft arena, scene grammar kit, scale-shift microscope, plus the six use cases from the previous board. \n\nNo readable text except tiny abstract marks. Style: polished tabletop/game design artifact plus creative operations studio, six-panel grid, energetic but organized, clear interaction mechanics, balanced multi-color palette, no logos, no famous people, no copyrighted characters.\n\nSix fresh derived play formats:\n1. Continuity wardrobe audit: players receive generated outfit boards and score whether fabric, wear, season logic, and packing constraints stay consistent across image rounds.\n2. Gallery layout speedrun: players race to arrange generated mini-exhibits under constraints like visitor path, lighting budget, object fragility, and wall density.\n3. Drill-path puzzle: generated floor plans and scene cards become a cooperative route-planning puzzle where players place blockers, exits, and assembly markers.\n4. Material truth table: one object is generated in many materials; players rank which version best communicates weight, softness, durability, cost, and repairability.\n5. Waveform stage jam: players convert abstract sound cards into stage scene prompts, then compare the resulting lighting, props, and movement language.\n6. Maintenance triage draft: generated machine-inspection cards are drafted into urgent, watch-list, and safe piles based on visible wear, residue, missing parts, and tool evidence.\n\nMake it look like a reusable play kit for evaluating and playing with image generation, with each panel self-explanatory visually.",
+      "path": "assets/images/079-gpt-image-2-play-formats-evaluation-games.png",
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc241-cff4-7851-886a-53946fe42e59/ig_032182e231389e340169ec19a8cb2c819aa16042cb70630f98.png"
+    },
     {
       "title": "a single high-quality 2K landscape concept board showing six playful GPT Image 2 use",
       "caption": "历史生成图，批次 019dc238-a73b-7103-9511-255abf22bf76，生成时间 2026-04-25 09:23:26。",
