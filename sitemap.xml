@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/199-derived-play-buoy-chain-regatta.png</image:loc>
+      <image:title>Derived Play: Buoy Chain Regatta</image:title>
+      <image:caption>Create one polished public-gallery image titled &quot;Derived Play: Buoy Chain Regatta&quot;. This is a derived playable mode from Prompt Buoy Chain, but it must look like a different rules object: a cooperative floating-token regatta played in a ci...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/200-use-case-tidepool-prompt-buoy-chain.png</image:loc>
+      <image:title>Use Case Tidepool: Prompt Buoy Chain</image:title>
+      <image:caption>Create one polished public-gallery concept image titled &quot;Use Case Tidepool: Prompt Buoy Chain&quot;. Output format: a single 21:9 panoramic tabletop water-diorama photograph, not a grid, not a contact sheet, not a poster, not a card layout, not...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/197-derived-play-wardrobe-continuity-relay.png</image:loc>
       <image:title>Derived Play: Wardrobe Continuity Relay</image:title>
       <image:caption>Create one polished public-gallery image titled &quot;Derived Play: Wardrobe Continuity Relay&quot;. This is a derived playable mode from Prompt Wardrobe Check, but it must look like a different rules object: a cooperative costume-continuity relay b...</image:caption>
@@ -967,6 +977,28 @@
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/199-derived-play-buoy-chain-regatta/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/199-derived-play-buoy-chain-regatta.png</image:loc>
+      <image:title>Derived Play: Buoy Chain Regatta</image:title>
+      <image:caption>Create one polished public-gallery image titled &quot;Derived Play: Buoy Chain Regatta&quot;. This is a derived playable mode from Prompt Buoy Chain, but it must look like a different rules object: a cooperative floating-token regatta played in a ci...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/200-use-case-tidepool-prompt-buoy-chain/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/200-use-case-tidepool-prompt-buoy-chain.png</image:loc>
+      <image:title>Use Case Tidepool: Prompt Buoy Chain</image:title>
+      <image:caption>Create one polished public-gallery concept image titled &quot;Use Case Tidepool: Prompt Buoy Chain&quot;. Output format: a single 21:9 panoramic tabletop water-diorama photograph, not a grid, not a contact sheet, not a poster, not a card layout, not...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/197-derived-play-wardrobe-continuity-relay/</loc>

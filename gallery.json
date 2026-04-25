@@ -18,6 +18,93 @@
   },
   "images": [
     {
+      "title": "Derived Play: Buoy Chain Regatta",
+      "caption": "从潮池浮标链派生出的圆形水盆接力玩法：玩家拨 Current Ring、移动浮标但不能断链，并依次放 Anchor Token、转 Drift Ghost、换 Tide Edit、停 Reef Blocker、夹 Caption Pennant、花 Lantern Charge，最后用 Proof Cove 和 Chain Score 检查同一枚虚构缺口螺旋贝是否保持可识别。",
+      "path": "assets/images/199-derived-play-buoy-chain-regatta.png",
+      "alt": "Square overhead product photograph of a round ceramic water basin game with floating modular buoys, current rings, drift ghosts, tide edit buoy, reef blockers, caption pennants, lantern charges, proof coves, chain score markers, and teal notched spiral shell tokens",
+      "width": 1254,
+      "height": 1254,
+      "createdAt": "2026-04-26 07:31:17",
+      "batch": "019dc6f8-c23b-7713-bd34-65bfa4768dd8",
+      "tags": [
+        "buoy-chain-regatta",
+        "anchor-token",
+        "current-ring",
+        "drift-ghost",
+        "tide-edit",
+        "reef-blocker",
+        "caption-pennant",
+        "lantern-charge",
+        "proof-cove",
+        "chain-score",
+        "batch-019dc6f8"
+      ],
+      "prompt": "Create one polished public-gallery image titled \"Derived Play: Buoy Chain Regatta\".\n\nThis is a derived playable mode from Prompt Buoy Chain, but it must look like a different rules object: a cooperative floating-token regatta played in a circular tabletop water arena, not the same panoramic calibration tray, not a navigation chart, not a boat race, not real marine equipment, not a 2x3 grid, not cards, not a contact sheet, not a rectangular board game, not a poster, not a toy latch, not a fossil drawer, not a wardrobe carousel, not a library cabinet, not a terrain model, not a weather station, not a kite tunnel, not a patchbay.\n\nOutput format: one square 1:1 overhead product photograph of a round shallow ceramic basin filled with clear water. Inside the basin are twelve floating modular buoys, three soft reef blockers, tiny washable caption pennants, translucent current rings, a turn dial clipped to the rim, and four proof coves around the edge. The only subject motif is an invented teal spiral shell with two square notches, repeated on safe foam tokens. No people, no hands, no real places, no boats, no animals.\n\nPlayable rules shown through objects: players take turns flicking a small current ring, then must move one buoy without breaking the cotton-cord chain. Each round they place an Anchor Token, rotate a Current Ring, slide a Drift Ghost, swap one Tide Edit buoy, park one Reef Blocker, clip one Caption Pennant, spend a Lantern Charge, and check that the teal notched spiral shell reaches the correct Proof Cove. A score only counts when the subject is still recognizable, the caption pennant is readable, the reef blocker excludes one unwanted motif, and the final proof cove repeats the same shell.\n\nReadable short labels on components: Anchor Token, Current Ring, Drift Ghost, Tide Edit, Reef Blocker, Caption Pennant, Lantern Charge, Proof Cove, Chain Score. Visual language: premium tactile tabletop prototype, round ivory ceramic basin, clear rippling water, sea-glass teal, coral red, pearl white, graphite labels, small warm waterproof LEDs, crisp overhead shadows, playful but sophisticated. Everything is fictional, original, unbranded, rights-safe, non-political, harmless, non-adult, non-graphic. Avoid real brands, logos, public figures, celebrity likenesses, copyrighted characters, living-artist style imitation, weapons, dangerous procedures, gore, nudity, and watermark.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original cooperative floating-token water-basin regatta generated locally from the Prompt Buoy Chain concept. No external prompt, image, artwork, visual style, brand, character, case-study mechanic, or source image was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Original fictional tabletop water-basin game with invented notched spiral shell tokens and harmless floating props only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc6f8-c23b-7713-bd34-65bfa4768dd8/ig_0d3d7ed4927e10250169ed4e81299c819390a923aeb8e045fc.png"
+    },
+    {
+      "title": "Use Case Tidepool: Prompt Buoy Chain",
+      "caption": "把 GPT Image 2 的提示设计做成桌面潮池浮标链：Anchor Subject、Context Current、Reference Drift、Edit Tide、Exclusion Reef、Caption Flag、Style Lantern、Scale Gauge 和 Proof Harbor 用水流、漂移、潮位尺、阻隔礁和证明港来检查主体、上下文、局部编辑、排除项、文字与一致性。",
+      "path": "assets/images/200-use-case-tidepool-prompt-buoy-chain.png",
+      "alt": "Panoramic tabletop tidepool water diorama with floating buoy chain, teal notched spiral shell, context current flow lines, reference drift ghost marker, edit tide pocket, exclusion reef blockers, caption flags, style lantern buoy, scale gauge rulers, and proof harbor window",
+      "width": 1915,
+      "height": 821,
+      "createdAt": "2026-04-26 07:30:10",
+      "batch": "019dc6f8-c23b-7713-bd34-65bfa4768dd8",
+      "tags": [
+        "prompt-buoy-chain",
+        "tidepool",
+        "anchor-subject",
+        "context-current",
+        "reference-drift",
+        "edit-tide",
+        "exclusion-reef",
+        "caption-flag",
+        "style-lantern",
+        "scale-gauge",
+        "proof-harbor",
+        "batch-019dc6f8"
+      ],
+      "prompt": "Create one polished public-gallery concept image titled \"Use Case Tidepool: Prompt Buoy Chain\".\n\nOutput format: a single 21:9 panoramic tabletop water-diorama photograph, not a grid, not a contact sheet, not a poster, not a card layout, not a board game rectangle, not a library cabinet, not an elevator, not a toy latch, not a fossil drawer, not a wardrobe fitting, not a greenhouse, not a weather station, not a kite tunnel, not a planetarium, not a lantern slide, not a patchbay, not a proof press, not a loom, not a mosaic kiln, not a music box, not a sand tray, not a terrain model, not a courtroom, not a film stage.\n\nScene: a shallow black enamel tray filled with clear water and smooth fictional tidepool stones. Across the water is one curved chain of small colorful floating buoys connected by thin cotton cord, with translucent acrylic tide rulers, tiny waterproof label flags, safe foam reef shapes, and a small illuminated proof window at the end showing the same invented object: a teal spiral shell with two square notches. No boats, no real navigation equipment, no people, no hands, no real places.\n\nMechanism: GPT Image 2 prompt design is expressed as a buoy-chain calibration system. Show these readable labels on tiny flags, buoys, and transparent rulers: Anchor Subject, Context Current, Reference Drift, Edit Tide, Exclusion Reef, Caption Flag, Style Lantern, Scale Gauge, Proof Harbor. The anchor subject is the teal notched spiral shell; context current is shown by subtle flow lines in the water; reference drift is a translucent ghost-shell marker offset from the chain; local edit is one buoy moved into a new tide pocket; exclusions are safe foam reef blockers; text accuracy is tested by caption flags; style control is a small colored lantern buoy; scale and crop are checked by clear tide rulers; consistency is proven by the final proof harbor window repeating the shell exactly.\n\nVisual language: premium macro tabletop photography, glossy black enamel tray, clear rippling water, sea-glass teal, coral red, pearl white, graphite labels, tiny warm lantern glow, crisp reflections, highly readable short labels, tactile and playful but sophisticated. Everything is fictional, original, unbranded, rights-safe, non-political, harmless, non-adult, non-graphic. Avoid real brands, logos, public figures, celebrity likenesses, copyrighted characters, living-artist style imitation, weapons, dangerous procedures, gore, nudity, and watermark.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original tabletop tidepool buoy-chain prompt mechanism generated locally from existing-gallery gap analysis. No external prompt, image, artwork, visual style, brand, character, case-study mechanic, or source image was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Original fictional tabletop water-diorama with invented notched spiral shell and harmless foam reef/buoy props only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc6f8-c23b-7713-bd34-65bfa4768dd8/ig_0d3d7ed4927e10250169ed4e4e5f348193b480e30ddf6af43e.png"
+    },
+    {
       "title": "Derived Play: Wardrobe Continuity Relay",
       "caption": "从服装连续性检查派生出的旋转衣橱接力：玩家每回合转 Carousel、抽 Silhouette Token、贴 Patch Tile、换 Swatch Coin、过 Mirror Wedge、放 Caption Strip，并用 Hook Match 和 Outfit Echo 检查三个人台钉上的同一虚构探险服是否保持可识别。",
       "path": "assets/images/197-derived-play-wardrobe-continuity-relay.png",

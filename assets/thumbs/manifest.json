@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/199-derived-play-buoy-chain-regatta.png": {
+      "path": "assets/thumbs/199-derived-play-buoy-chain-regatta.jpg",
+      "width": 768,
+      "height": 768
+    },
+    "assets/images/200-use-case-tidepool-prompt-buoy-chain.png": {
+      "path": "assets/thumbs/200-use-case-tidepool-prompt-buoy-chain.jpg",
+      "width": 768,
+      "height": 330
+    },
     "assets/images/197-derived-play-wardrobe-continuity-relay.png": {
       "path": "assets/thumbs/197-derived-play-wardrobe-continuity-relay.jpg",
       "width": 768,
