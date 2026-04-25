@@ -5,6 +5,40 @@
   "summary": "A visual gallery of playful GPT Image use cases, prompts, and experiment patterns. Images are stored in this repository for GitHub Pages publishing.",
   "images": [
     {
+      "title": "a second polished GPT Image 2 derived-play board as a single 3:2 landscape image, la",
+      "caption": "历史生成图，批次 019dc389-51e6-70d0-96aa-99f4990eeb67，生成时间 2026-04-25 15:33:55。",
+      "path": "assets/images/107-a-second-polished-gpt-image-2-derived-play-board-as-a-single-3-2.png",
+      "alt": "Generated image ig_0ad59638150920a20169ec6daa11508190a08c96ce1d540ee8",
+      "width": 1536,
+      "height": 1024,
+      "createdAt": "2026-04-25 15:33:55",
+      "batch": "019dc389-51e6-70d0-96aa-99f4990eeb67",
+      "tags": [
+        "historical-import",
+        "prompt-recovered",
+        "batch-019dc389"
+      ],
+      "prompt": "Create a second polished GPT Image 2 derived-play board as a single 3:2 landscape image, laid out as a clean 2x3 contact sheet with six distinct panels. This board should derive playful mechanics from the previous use cases, with compact legible English panel labels. No giant title, no logos, no watermarks.\n\nPanel 1 label: AVATAR CONSENT DICE. Show a tabletop-style rules mat with dice for pose, camera angle, outfit coverage, and approval states; the game is about generating only consent-safe avatar variants.\nPanel 2 label: ASSEMBLY TIME TRIAL. Show three lamp assembly snapshots as a timed puzzle lane, with ghost overlays, error tokens, and a final alignment score.\nPanel 3 label: CURATOR SWITCHBOARD. Show one artifact at the center and toggle cards for audience age, reading level, language tone, and label length; outputs become different museum cards.\nPanel 4 label: FIXTURE BOSS RUSH. Show a QA arcade board with synthetic image challenges: glare, blur, occlusion, tiny text, low light, reflection; each has a multimodal test badge.\nPanel 5 label: ROOM MOOD SPELLBOOK. Show a recipe-like visual spellbook for transforming a room mood with lighting, object swaps, texture cards, and forbidden style clashes.\nPanel 6 label: RULEBOOK MUTATION LAB. Show a controlled mutation lab for a fictional game item: sliders for silhouette, palette, scale, background noise, and icon readability, with approved/rejected outputs.\n\nStyle: refined visual design, research-lab meets game manual, tactile paper and screen mockups, warm gray background with varied accent colors, clear panel boundaries, professional composition, no decorative blobs, avoid a one-note purple/blue palette. Keep all content fictional and privacy-safe.",
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc389-51e6-70d0-96aa-99f4990eeb67/ig_0ad59638150920a20169ec6daa11508190a08c96ce1d540ee8.png"
+    },
+    {
+      "title": "a polished GPT Image 2 use-case research board as a single 3:2 landscape image, laid",
+      "caption": "历史生成图，批次 019dc389-51e6-70d0-96aa-99f4990eeb67，生成时间 2026-04-25 15:30:48。",
+      "path": "assets/images/108-a-polished-gpt-image-2-use-case-research-board-as-a-single-3-2-l.png",
+      "alt": "Generated image ig_0ad59638150920a20169ec6d4a06e881908cc2c61efa057330",
+      "width": 1536,
+      "height": 1024,
+      "createdAt": "2026-04-25 15:30:48",
+      "batch": "019dc389-51e6-70d0-96aa-99f4990eeb67",
+      "tags": [
+        "historical-import",
+        "prompt-recovered",
+        "batch-019dc389"
+      ],
+      "prompt": "Create a polished GPT Image 2 use-case research board as a single 3:2 landscape image, laid out as a clean 2x3 contact sheet with six distinct panels. No giant title, no logos, no watermarks. Each panel should show a different novel use case concept with small legible panel labels in English only.\n\nPanel 1 label: CONSENT AVATAR WARDROBE. Show a fictional person-safe avatar mannequin, outfit layers, camera-angle lock icons, and a style approval checklist; communicate identity-preserving fashion/character exploration without using a real celebrity.\nPanel 2 label: AR ASSEMBLY GHOSTS. Show a desk with a flat-pack lamp, translucent step overlays, screw callouts, and before/after component alignment; a use case for turning manuals into visual assembly guidance.\nPanel 3 label: MUSEUM LABEL REMIX. Show one artifact rendered in three exhibit label styles: kid-friendly, expert catalog, and audio-guide card; emphasize controlled text + visual context.\nPanel 4 label: VISION TEST FIXTURES. Show small synthetic screenshots, bounding boxes, edge cases, and pass/fail stickers; a use case for generating QA fixtures for multimodal app testing.\nPanel 5 label: MOOD TO ROOM SET. Show the same small room transformed into calm focus, celebratory dinner, and rainy reading modes using lighting, objects, and color.\nPanel 6 label: IMAGE RULEBOOK. Show a visual rule sheet for a fictional game item, with icon constraints, forbidden variants, and example cards.\n\nStyle: sophisticated editorial product-research board, realistic mixed-media mockups, crisp small text where possible, neutral background, strong visual separation between panels, no purple/blue gradient theme, no decorative blobs. Use consistent margins and stable panel framing.",
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc389-51e6-70d0-96aa-99f4990eeb67/ig_0ad59638150920a20169ec6d4a06e881908cc2c61efa057330.png"
+    },
+    {
       "title": "Derived Play Modes: Context Loop Arcade",
       "caption": "第八组玩法派生：从上下文循环能力图继续扩展成周程重混、决策线索、事实明信片、维修分诊接力、语气切换台和货架规格扑克。",
       "path": "assets/images/105-derived-play-modes-context-loop-arcade.png",
