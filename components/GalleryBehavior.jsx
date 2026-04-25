@@ -11,19 +11,14 @@ export default function GalleryBehavior({ initialImageCount = 12, imageBatchSize
     const matchCount = document.querySelector("#match-count");
     const loadSentinel = document.querySelector("#load-sentinel");
     const loadMore = document.querySelector("#load-more");
-    const modal = document.querySelector("#image-modal");
-    const modalImage = document.querySelector("#modal-image");
-    const modalTitle = document.querySelector("#modal-title");
-    const modalCaption = document.querySelector("#modal-caption");
 
-    if (!search || !visibleCount || !matchCount || !loadSentinel || !loadMore || !modal || !modalImage) {
+    if (!search || !visibleCount || !matchCount || !loadSentinel || !loadMore) {
       return;
     }
 
     let visibleLimit = initialImageCount;
     let activeTag = "";
     let autoLoadQueued = false;
-    let lastTrigger = null;
     let observer = null;
 
     const hydrateCardImage = (card) => {
@@ -130,43 +125,6 @@ export default function GalleryBehavior({ initialImageCount = 12, imageBatchSize
     window.addEventListener("scroll", queueAutoLoadCheck, { passive: true });
     window.addEventListener("resize", queueAutoLoadCheck);
 
-    const closeModal = () => {
-      modal.hidden = true;
-      document.body.classList.remove("modal-open");
-      modalImage.removeAttribute("src");
-      if (lastTrigger) {
-        lastTrigger.focus();
-      }
-    };
-
-    const modalCleanups = [...document.querySelectorAll("[data-modal-image]")].map((link) => {
-      const onClick = (event) => {
-        event.preventDefault();
-        lastTrigger = link;
-        modalImage.src = link.href;
-        modalImage.alt = link.querySelector("img")?.alt ?? "";
-        modalTitle.textContent = link.dataset.title ?? "";
-        modalCaption.textContent = link.dataset.caption ?? "";
-        modal.hidden = false;
-        document.body.classList.add("modal-open");
-        modal.querySelector(".modal-close")?.focus();
-      };
-      link.addEventListener("click", onClick);
-      return () => link.removeEventListener("click", onClick);
-    });
-
-    const closeCleanups = [...document.querySelectorAll("[data-modal-close]")].map((button) => {
-      button.addEventListener("click", closeModal);
-      return () => button.removeEventListener("click", closeModal);
-    });
-
-    const onKeydown = (event) => {
-      if (event.key === "Escape" && !modal.hidden) {
-        closeModal();
-      }
-    };
-    document.addEventListener("keydown", onKeydown);
-
     filterCards();
 
     return () => {
@@ -174,9 +132,8 @@ export default function GalleryBehavior({ initialImageCount = 12, imageBatchSize
       loadMore.removeEventListener("click", loadNextBatch);
       window.removeEventListener("scroll", queueAutoLoadCheck);
       window.removeEventListener("resize", queueAutoLoadCheck);
-      document.removeEventListener("keydown", onKeydown);
       observer?.disconnect();
-      for (const cleanup of [...tagCleanups, ...modalCleanups, ...closeCleanups]) {
+      for (const cleanup of tagCleanups) {
         cleanup();
       }
     };

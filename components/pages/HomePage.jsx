@@ -1,6 +1,7 @@
 import Footer from "../Footer";
 import GalleryBehavior from "../GalleryBehavior";
 import { GalleryCard } from "../GalleryCards";
+import ImageModal from "../ImageModal";
 import LanguageSwitch from "../LanguageSwitch";
 import {
   DRILL_URL,
@@ -96,21 +97,7 @@ export default function HomePageContent({ locale = "en" }) {
 
         <Footer locale={locale} />
       </main>
-      <div className="image-modal" id="image-modal" role="dialog" aria-modal="true" aria-labelledby="modal-title" hidden>
-        <button className="modal-backdrop" type="button" data-modal-close aria-label={t.closePreview} />
-        <div className="modal-panel">
-          <button className="modal-close" type="button" data-modal-close>
-            {t.close}
-          </button>
-          <figure className="modal-figure">
-            <img id="modal-image" alt="" />
-            <figcaption>
-              <strong id="modal-title" />
-              <span id="modal-caption" />
-            </figcaption>
-          </figure>
-        </div>
-      </div>
+      <ImageModal locale={locale} />
       <GalleryBehavior
         initialImageCount={INITIAL_IMAGE_COUNT}
         imageBatchSize={IMAGE_BATCH_SIZE}
