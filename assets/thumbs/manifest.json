@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/113-derived-play-constraint-pinball.png": {
+      "path": "assets/thumbs/113-derived-play-constraint-pinball.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/114-use-case-foundry-constraint-engines.png": {
+      "path": "assets/thumbs/114-use-case-foundry-constraint-engines.jpg",
+      "width": 768,
+      "height": 512
+    },
     "assets/images/111-an-original-gpt-image-2-derived-play-scene-as-one-3-2-landscape-.png": {
       "path": "assets/thumbs/111-an-original-gpt-image-2-derived-play-scene-as-one-3-2-landscape-.jpg",
       "width": 768,

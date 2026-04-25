@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/113-derived-play-constraint-pinball.png</image:loc>
+      <image:title>Derived Play: Constraint Pinball</image:title>
+      <image:caption>Create an original GPT Image 2 derived-play image as one 3:2 landscape scene, not a contact sheet, not a 2x3 grid, not separate cards, not a circular rules machine, not a fold-out field kit. Format: a single photographed tabletop &quot;constrai...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/114-use-case-foundry-constraint-engines.png</image:loc>
+      <image:title>Use Case Foundry: Constraint Engines</image:title>
+      <image:caption>Create an original GPT Image 2 use-case image as one 3:2 landscape scene, not a contact sheet, not a 2x3 grid, not separate cards, not a circular rules machine, not a fold-out field kit. Format: a single isometric cutaway of a fictional &quot;v...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/111-an-original-gpt-image-2-derived-play-scene-as-one-3-2-landscape-.png</image:loc>
       <image:title>Derived Play: Loop Engine</image:title>
       <image:caption>Create an original GPT Image 2 derived-play scene as one 3:2 landscape image, not a contact sheet, not a 2x3 grid, not separate poster panels. Format: a single photographed circular tabletop &quot;rules machine&quot; with nested rotating rings, wind...</image:caption>
@@ -577,6 +587,28 @@
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/113-derived-play-constraint-pinball/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/113-derived-play-constraint-pinball.png</image:loc>
+      <image:title>Derived Play: Constraint Pinball</image:title>
+      <image:caption>Create an original GPT Image 2 derived-play image as one 3:2 landscape scene, not a contact sheet, not a 2x3 grid, not separate cards, not a circular rules machine, not a fold-out field kit. Format: a single photographed tabletop &quot;constrai...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/114-use-case-foundry-constraint-engines/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/114-use-case-foundry-constraint-engines.png</image:loc>
+      <image:title>Use Case Foundry: Constraint Engines</image:title>
+      <image:caption>Create an original GPT Image 2 use-case image as one 3:2 landscape scene, not a contact sheet, not a 2x3 grid, not separate cards, not a circular rules machine, not a fold-out field kit. Format: a single isometric cutaway of a fictional &quot;v...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/111-an-original-gpt-image-2-derived-play-scene-as-one-3-2-landscape/</loc>
@@ -1883,13 +1915,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/operations/</loc>
+    <loc>https://gptimg2.best/tags/evaluation/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/evaluation/</loc>
+    <loc>https://gptimg2.best/tags/operations/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
