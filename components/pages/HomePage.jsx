@@ -9,6 +9,7 @@ import {
   buildJsonLd,
   galleryData,
   galleryEntries,
+  referralUrl,
   tagEntries,
   topTags,
   updatedDate,
@@ -34,15 +35,15 @@ export default function HomePageContent({ locale = "en" }) {
             <h1>{t.homeTitle}</h1>
             <p className="summary">{t.homeDescription}</p>
             <nav className="hero-links" aria-label={t.projectLinks}>
-              <a href={DRILL_URL}>Drill</a>
-              <a href={VIBEART_URL}>VibeArt</a>
+              <a href={referralUrl(DRILL_URL, "hero_drill")}>Drill</a>
+              <a href={referralUrl(VIBEART_URL, "hero_vibeart")}>VibeArt</a>
               <a href={localizedPath("/prompts/", locale)}>{t.examples}</a>
               <a href={localizedPath("/tags/", locale)}>{t.topics}</a>
-              <a href={REPO_URL}>{t.github}</a>
+              <a href={referralUrl(REPO_URL, "hero_github")}>{t.github}</a>
               <LanguageSwitch locale={locale} path="/" />
             </nav>
             <p className="repo-strip">
-              {t.source}: <a href={REPO_URL}>{REPO_URL}</a>
+              {t.source}: <a href={referralUrl(REPO_URL, "source_link")}>{REPO_URL}</a>
             </p>
           </div>
           <div className="stats" aria-label="gallery stats">

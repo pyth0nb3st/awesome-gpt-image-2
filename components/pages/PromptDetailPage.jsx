@@ -9,6 +9,7 @@ import {
   localizedTagUrl,
   promptExcerpt,
   relatedFor,
+  referralUrl,
   tagEntrySet,
 } from "../../lib/gallery";
 import { getCopy, tagLabel } from "../../lib/i18n";
@@ -76,10 +77,10 @@ export default function PromptDetailPageContent({ entry, locale = "en" }) {
           <p className="meta">{t.reuseTitle}</p>
           <p>{t.reuseBody(tagLabels)}</p>
           <p>
-            <a className="button-link" href={DRILL_URL}>
+            <a className="button-link" href={referralUrl(DRILL_URL, "prompt_detail_drill")}>
               {t.exploreDrill}
             </a>{" "}
-            <a className="button-link" href={VIBEART_URL}>
+            <a className="button-link" href={referralUrl(VIBEART_URL, "prompt_detail_vibeart")}>
               {t.openVibeArt}
             </a>
           </p>
