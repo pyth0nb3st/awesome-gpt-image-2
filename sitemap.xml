@@ -6,6 +6,11 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/104-derived-play-modes-evidence-to-systems.png</image:loc>
+      <image:title>Derived Play Modes: Evidence to Systems</image:title>
+      <image:caption>Create a second polished GPT-image-2 derived-play research board as a single 3:2 landscape image, like a collectible creative game design spread. Six clearly separated panels in a 3x2 grid, each panel with a short readable English title an...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/101-operations-arcade.png</image:loc>
       <image:title>Operations Arcade</image:title>
       <image:caption>Use case: stylized-concept Asset type: GPT Image 2 derived play modes board, 3:2 landscape contact sheet Primary request: Derive six NEW playful, recordable experiments from the &quot;System Stress Tests&quot; use-case board. Do not repeat earlier g...</image:caption>
@@ -17,7 +22,7 @@
     </image:image>
     <image:image>
       <image:loc>https://gptimg2.best/assets/images/103-a-polished-gpt-image-2-use-case-research-board-as-a-single-3-2-l.png</image:loc>
-      <image:title>Polished GPT-image-2 use-case research board as a single 3:2 landscape image, like</image:title>
+      <image:title>Use Case Lab: Evidence to Systems</image:title>
       <image:caption>Create a polished GPT-image-2 use-case research board as a single 3:2 landscape image, like a high-end design lab documentation artifact. Six clearly separated panels in a 3x2 grid, each panel with a short readable English title and a dist...</image:caption>
     </image:image>
     <image:image>
@@ -534,6 +539,17 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://gptimg2.best/prompts/104-derived-play-modes-evidence-to-systems/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/104-derived-play-modes-evidence-to-systems.png</image:loc>
+      <image:title>Derived Play Modes: Evidence to Systems</image:title>
+      <image:caption>Create a second polished GPT-image-2 derived-play research board as a single 3:2 landscape image, like a collectible creative game design spread. Six clearly separated panels in a 3x2 grid, each panel with a short readable English title an...</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://gptimg2.best/prompts/101-operations-arcade/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>monthly</changefreq>
@@ -562,7 +578,7 @@
     <priority>0.7</priority>
     <image:image>
       <image:loc>https://gptimg2.best/assets/images/103-a-polished-gpt-image-2-use-case-research-board-as-a-single-3-2-l.png</image:loc>
-      <image:title>Polished GPT-image-2 use-case research board as a single 3:2 landscape image, like</image:title>
+      <image:title>Use Case Lab: Evidence to Systems</image:title>
       <image:caption>Create a polished GPT-image-2 use-case research board as a single 3:2 landscape image, like a high-end design lab documentation artifact. Six clearly separated panels in a 3x2 grid, each panel with a short readable English title and a dist...</image:caption>
     </image:image>
   </url>
@@ -1667,13 +1683,13 @@
     </image:image>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/typography/</loc>
+    <loc>https://gptimg2.best/tags/product-mockup/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/product-mockup/</loc>
+    <loc>https://gptimg2.best/tags/typography/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -1703,13 +1719,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/worldbuilding/</loc>
+    <loc>https://gptimg2.best/tags/photoreal/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/photoreal/</loc>
+    <loc>https://gptimg2.best/tags/worldbuilding/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -1721,13 +1737,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/education/</loc>
+    <loc>https://gptimg2.best/tags/interior-design/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/interior-design/</loc>
+    <loc>https://gptimg2.best/tags/education/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>

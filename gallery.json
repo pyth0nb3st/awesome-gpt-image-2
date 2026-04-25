@@ -5,6 +5,26 @@
   "summary": "A visual gallery of playful GPT Image use cases, prompts, and experiment patterns. Images are stored in this repository for GitHub Pages publishing.",
   "images": [
     {
+      "title": "Derived Play Modes: Evidence to Systems",
+      "caption": "第六组玩法派生：从证据到系统能力地图继续扩展成观察宾果、约束拍卖、菜谱取证、政策分镜竞速、档案侦探和故障分类选秀。",
+      "path": "assets/images/104-derived-play-modes-evidence-to-systems.png",
+      "alt": "GPT Image 2 derived play modes board with observation bingo, constraint auction, recipe forensics, policy storyboard race, archive detective, and glitch taxonomy draft",
+      "width": 1536,
+      "height": 1024,
+      "createdAt": "2026-04-25 15:01:40",
+      "batch": "019dc352-62ba-7810-b2b3-43b4e5cf2351",
+      "tags": [
+        "observation-bingo",
+        "constraint-auction",
+        "recipe-forensics",
+        "policy-storyboard-race",
+        "archive-detective",
+        "glitch-taxonomy-draft"
+      ],
+      "prompt": "Create a second polished GPT-image-2 derived-play research board as a single 3:2 landscape image, like a collectible creative game design spread. Six clearly separated panels in a 3x2 grid, each panel with a short readable English title and a distinct playable demo. Overall title: \"GPT-Image-2 Derived Play Modes: Evidence to Systems\".\n\nThese must be NEW play mechanics derived from the companion board: Field Note Builder, Constraint Posterizer, Recipe Reality Check, Policy Comic Translator, Archive Label Restorer, and Failure Mode Catalog. Avoid repeating earlier recorded mechanics such as prompt archaeology, QA spot-the-diff, microbrand kit, learning card deck, wayfinding remix, tabletop quest props, rubric arena, lighting DJ, fix-it quest, signage escape room, manual maze, prop continuity poker, prompt relay, constraint bingo, gallery speedrun, material truth table, or source stamp sprint.\n\nPanel 1 title: \"Observation Bingo\" showing players marking generated field-note cards for date, location, subject, evidence, uncertainty, and sketch clarity.\nPanel 2 title: \"Constraint Auction\" showing poster briefs as auction lots, with bid tokens for ink limit, contrast rule, object count, and copy length.\nPanel 3 title: \"Recipe Forensics\" showing plated food image cards matched against ingredient clues, timing tracks, allergen tokens, and missing-step alerts.\nPanel 4 title: \"Policy Storyboard Race\" showing teams turning rule cards into four-frame comic strips, judged by sequence clarity and misuse prevention.\nPanel 5 title: \"Archive Detective\" showing museum label fragments, accession-number tiles, object-photo cards, era stamps, and reconstruction score sheets.\nPanel 6 title: \"Glitch Taxonomy Draft\" showing players sorting generated-image failure cards into categories: text warp, scale drift, shadow gap, repeat object, and fix candidate.\n\nStyle: premium tabletop design-game photography plus polished concept art, tactile cards, tokens, score tracks, magnifier tools, pencils, and small generated-output thumbnails. Rich but restrained color variety, warm studio documentation lighting, crisp typography only for the overall title, six panel titles, and simple game labels. No real brands, no logos, no watermark, no copyrighted characters. Make every panel visually distinct, recordable, and immediately understandable as a game people could play.",
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc352-62ba-7810-b2b3-43b4e5cf2351/ig_0df9355d0ea4c8110169ec661e875c819092407de75a2a513a.png"
+    },
+    {
       "title": "Operations Arcade",
       "caption": "第六组玩法派生：从工作流视觉板继续拆成状态锁定、证据花园、情景开关、备餐竞速、配色侦探和故障阶梯。",
       "path": "assets/images/101-operations-arcade.png",
@@ -45,18 +65,21 @@
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc364-b279-7ab3-995a-fda017c85f6f/ig_0e7d11b3eeaad7e70169ec63b04f188194845d4fec4b4fcb5e.png"
     },
     {
-      "title": "a polished GPT-image-2 use-case research board as a single 3:2 landscape image, like",
-      "caption": "历史生成图，批次 019dc352-62ba-7810-b2b3-43b4e5cf2351，生成时间 2026-04-25 14:33:50。",
+      "title": "Use Case Lab: Evidence to Systems",
+      "caption": "第五组能力地图：把现场笔记、约束海报、菜谱校验、政策漫画、档案标签修复和失败模式目录做成可复用研究板。",
       "path": "assets/images/103-a-polished-gpt-image-2-use-case-research-board-as-a-single-3-2-l.png",
-      "alt": "Generated image ig_0df9355d0ea4c8110169ec5f7b583881908f42a9c99d7f2616",
+      "alt": "GPT Image 2 use-case board with field notes, poster constraints, recipe checks, policy comics, archive labels, and failure catalogs",
       "width": 1536,
       "height": 1024,
       "createdAt": "2026-04-25 14:33:50",
       "batch": "019dc352-62ba-7810-b2b3-43b4e5cf2351",
       "tags": [
-        "historical-import",
-        "prompt-recovered",
-        "batch-019dc352"
+        "field-note-builder",
+        "constraint-posterizer",
+        "recipe-reality-check",
+        "policy-comic-translator",
+        "archive-label-restorer",
+        "failure-mode-catalog"
       ],
       "prompt": "Create a polished GPT-image-2 use-case research board as a single 3:2 landscape image, like a high-end design lab documentation artifact. Six clearly separated panels in a 3x2 grid, each panel with a short readable English title and a distinct visual demo. Overall title: \"GPT-Image-2 Use Case Lab: Evidence to Systems\".\n\nPanel 1 title: \"Field Note Builder\" showing messy handwritten field notes transformed into a clean illustrated observation sheet with icons, map pins, specimen thumbnails, and a dated log strip.\nPanel 2 title: \"Constraint Posterizer\" showing one plain prompt becoming three poster variants under visible constraints: low ink, high contrast, and one-object-only.\nPanel 3 title: \"Recipe Reality Check\" showing a fictional recipe card converted into plated food, ingredient layout, timing diagram, and allergy badge system.\nPanel 4 title: \"Policy Comic Translator\" showing a dense workplace policy paragraph transformed into a four-panel comic explainer with clear visual steps and readable labels.\nPanel 5 title: \"Archive Label Restorer\" showing damaged museum object labels reconstructed into plausible clean catalog cards with accession codes, era tags, and object thumbnails.\nPanel 6 title: \"Failure Mode Catalog\" showing a generated product image audit wall: warped text, missing shadow, wrong scale, repeated object, and corrected examples.\n\nStyle: premium editorial collage, crisp realistic miniatures mixed with clean interface-like labels, varied colors across panels, professional lighting, sharp details.\nText constraints: render only the overall title and the six panel titles exactly as listed plus tiny simple labels where needed; avoid long unreadable paragraphs; no logos, no brands, no watermark.\nComposition: six equal panels in a clean 3x2 grid, balanced margins, print-quality contact sheet.",
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc352-62ba-7810-b2b3-43b4e5cf2351/ig_0df9355d0ea4c8110169ec5f7b583881908f42a9c99d7f2616.png"
