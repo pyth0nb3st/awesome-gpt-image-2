@@ -42,18 +42,18 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 
 - `product-mockup` (71)
 - `typography` (71)
-- `game-design` (60)
+- `game-design` (58)
 - `ui-mockup` (55)
 - `storytelling` (52)
 - `lighting-weather` (36)
 - `photoreal` (33)
-- `worldbuilding` (33)
+- `worldbuilding` (32)
 - `infographic` (30)
-- `interior-design` (25)
+- `interior-design` (23)
 - `education` (22)
-- `material-study` (19)
-- `operations` (17)
-- `evaluation` (16)
+- `material-study` (17)
+- `operations` (15)
+- `evaluation` (14)
 - `productivity-visual` (14)
 - `stylized-concept` (13)
 - `illustration-story` (8)
@@ -61,12 +61,24 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `prompt-game` (7)
 - `infographic-diagram` (6)
 - `scientific-educational` (5)
-- `sound-to-scene` (4)
+- `sound-to-scene` (3)
 - `photorealistic-natural` (2)
 - `ui-fiction-simulator` (2)
 
 ### Latest Play Tags
 
+- `aroma-semaphore` - Derived Play: Loop Engine
+- `waveform-sculptor` - Derived Play: Loop Engine
+- `palace-breadcrumbs` - Derived Play: Loop Engine
+- `grip-auction` - Derived Play: Loop Engine
+- `truth-ring` - Derived Play: Loop Engine
+- `errand-reality-lock` - Derived Play: Loop Engine
+- `scent-palette-translator` - Use Case Kit: Sensorial Loops
+- `sound-shape-notation` - Use Case Kit: Sensorial Loops
+- `memory-palace-map` - Use Case Kit: Sensorial Loops
+- `gesture-to-tool-mockup` - Use Case Kit: Sensorial Loops
+- `material-honesty-audit` - Use Case Kit: Sensorial Loops
+- `dream-errand-planner` - Use Case Kit: Sensorial Loops
 - `texture-cipher-relay` - Derived Play Modes: Material Arcade
 - `drawer-tetris-draft` - Derived Play Modes: Material Arcade
 - `weather-oracle-cards` - Derived Play Modes: Material Arcade
@@ -91,36 +103,24 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `repair-triage-photos` - Use Case Lab: Live Context Loops
 - `language-mood-matrix` - Use Case Lab: Live Context Loops
 - `spec-to-shelf-prototype` - Use Case Lab: Live Context Loops
-- `observation-bingo` - Derived Play Modes: Evidence to Systems
-- `constraint-auction` - Derived Play Modes: Evidence to Systems
-- `recipe-forensics` - Derived Play Modes: Evidence to Systems
-- `policy-storyboard-race` - Derived Play Modes: Evidence to Systems
-- `archive-detective` - Derived Play Modes: Evidence to Systems
-- `glitch-taxonomy-draft` - Derived Play Modes: Evidence to Systems
-- `state-lock` - Operations Arcade
-- `evidence-garden` - Operations Arcade
-- `scenario-switch` - Operations Arcade
-- `prep-race` - Operations Arcade
-- `palette-detective` - Operations Arcade
-- `failure-ladder` - Operations Arcade
 
 <details>
 <summary>All generated tags</summary>
 
 - `product-mockup` (71)
 - `typography` (71)
-- `game-design` (60)
+- `game-design` (58)
 - `ui-mockup` (55)
 - `storytelling` (52)
 - `lighting-weather` (36)
 - `photoreal` (33)
-- `worldbuilding` (33)
+- `worldbuilding` (32)
 - `infographic` (30)
-- `interior-design` (25)
+- `interior-design` (23)
 - `education` (22)
-- `material-study` (19)
-- `operations` (17)
-- `evaluation` (16)
+- `material-study` (17)
+- `operations` (15)
+- `evaluation` (14)
 - `productivity-visual` (14)
 - `stylized-concept` (13)
 - `illustration-story` (8)
@@ -128,12 +128,13 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `prompt-game` (7)
 - `infographic-diagram` (6)
 - `scientific-educational` (5)
-- `sound-to-scene` (4)
+- `sound-to-scene` (3)
 - `photorealistic-natural` (2)
 - `ui-fiction-simulator` (2)
 - `archive-color-lab` (1)
 - `archive-detective` (1)
 - `archive-label-restorer` (1)
+- `aroma-semaphore` (1)
 - `brand-multiverse` (1)
 - `calendar-scene-forge` (1)
 - `cardboard-kit-forge` (1)
@@ -145,7 +146,9 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `decision-thread` (1)
 - `drawer-shadow-planner` (1)
 - `drawer-tetris-draft` (1)
+- `dream-errand-planner` (1)
 - `educational-infographic-remix` (1)
+- `errand-reality-lock` (1)
 - `evidence-garden` (1)
 - `fact-postcard-duel` (1)
 - `failure-ladder` (1)
@@ -156,20 +159,25 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `field-note-builder` (1)
 - `field-notebook-plate` (1)
 - `game-asset-sheet` (1)
+- `gesture-to-tool-mockup` (1)
 - `glitch-taxonomy-draft` (1)
+- `grip-auction` (1)
 - `interior-style-matrix` (1)
 - `kitchen-mise-map` (1)
 - `language-mood-matrix` (1)
 - `learning-card-deck` (1)
 - `localized-shelf-packaging` (1)
 - `mascot-mood-notes` (1)
+- `material-honesty-audit` (1)
 - `meeting-memory-board` (1)
+- `memory-palace-map` (1)
 - `microbrand-kit` (1)
 - `mini-tour-stamp-rally` (1)
 - `mood-mascot-mixer` (1)
 - `multilingual-poster-lab` (1)
 - `observation-bingo` (1)
 - `onboarding-state-machine` (1)
+- `palace-breadcrumbs` (1)
 - `palette-detective` (1)
 - `panel` (1)
 - `policy-comic-translator` (1)
@@ -187,8 +195,10 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `repair-triage-photos` (1)
 - `restoration-what-if` (1)
 - `scenario-switch` (1)
+- `scent-palette-translator` (1)
 - `season-wear-simulator` (1)
 - `shelf-spec-poker` (1)
+- `sound-shape-notation` (1)
 - `spec-to-shelf-prototype` (1)
 - `state-lock` (1)
 - `storyboard-continuity-game` (1)
@@ -199,6 +209,8 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `time-machine-before-after` (1)
 - `tone-switchboard` (1)
 - `triage-relay` (1)
+- `truth-ring` (1)
+- `waveform-sculptor` (1)
 - `wayfinding-remix` (1)
 - `weather-oracle-cards` (1)
 - `week-remix-draft` (1)
@@ -237,11 +249,11 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 
 ## Prompt Gallery
 
-### 001. Original GPT Image 2 derived-play scene as one 3:2 landscape image, not a contact
+### 001. Derived Play: Loop Engine
 
-![Original GPT Image 2 derived-play scene as one 3:2 landscape image, not a contact](assets/images/111-an-original-gpt-image-2-derived-play-scene-as-one-3-2-landscape-.png)
+![Derived Play: Loop Engine](assets/images/111-an-original-gpt-image-2-derived-play-scene-as-one-3-2-landscape-.png)
 
-**Tags:** `evaluation` `game-design` `interior-design` `material-study` `operations` `sound-to-scene` `storytelling` `typography`
+**Tags:** `aroma-semaphore` `errand-reality-lock` `grip-auction` `palace-breadcrumbs` `storytelling` `truth-ring` `typography` `waveform-sculptor`
 
 **Prompt excerpt:** Create an original GPT Image 2 derived-play scene as one 3:2 landscape image, not a contact sheet, not a 2x3 grid, not separate poster panels. Format: a single photographed circular tabletop "rules machine" with nested rotating rings, wind...
 
@@ -266,11 +278,11 @@ Visual requirements: one continuous mechanical object, visible rules components 
 
 </details>
 
-### 002. Original GPT Image 2 use-case scene as one 3:2 landscape image, not a contact she
+### 002. Use Case Kit: Sensorial Loops
 
-![Original GPT Image 2 use-case scene as one 3:2 landscape image, not a contact she](assets/images/112-an-original-gpt-image-2-use-case-scene-as-one-3-2-landscape-imag.png)
+![Use Case Kit: Sensorial Loops](assets/images/112-an-original-gpt-image-2-use-case-scene-as-one-3-2-landscape-imag.png)
 
-**Tags:** `evaluation` `game-design` `interior-design` `material-study` `operations` `storytelling` `typography` `worldbuilding`
+**Tags:** `dream-errand-planner` `gesture-to-tool-mockup` `material-honesty-audit` `memory-palace-map` `scent-palette-translator` `sound-shape-notation` `storytelling` `typography`
 
 **Prompt excerpt:** Create an original GPT Image 2 use-case scene as one 3:2 landscape image, not a contact sheet, not a 2x3 grid, not separate poster panels. Format: a single overhead photographed fold-out "visual instrument case" on a neutral workbench, lik...
 
