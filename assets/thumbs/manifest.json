@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/164-derived-play-crease-court-rally.png": {
+      "path": "assets/thumbs/164-derived-play-crease-court-rally.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/165-use-case-fold-prompt-origami-atlas.png": {
+      "path": "assets/thumbs/165-use-case-fold-prompt-origami-atlas.jpg",
+      "width": 768,
+      "height": 432
+    },
     "assets/images/162-derived-play-string-tangle-trials.png": {
       "path": "assets/thumbs/162-derived-play-string-tangle-trials.jpg",
       "width": 768,

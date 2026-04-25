@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/164-derived-play-crease-court-rally.png</image:loc>
+      <image:title>Derived Play: Crease Court Rally</image:title>
+      <image:caption>Visible title: &quot;Derived Play: Crease Court Rally&quot;. Create one polished original derived-play concept image for a public GPT Image 2 gallery, 16:9 landscape. This is a tabletop folding-rule game derived from the Prompt Origami Atlas use cas...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/165-use-case-fold-prompt-origami-atlas.png</image:loc>
+      <image:title>Use Case Fold: Prompt Origami Atlas</image:title>
+      <image:caption>Visible title: &quot;Use Case Fold: Prompt Origami Atlas&quot;. Create one polished original GPT Image 2 use-case concept image for a public gallery, 16:9 landscape. Show a single oversized unfolded origami crease-map sheet on a quiet studio table,...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/162-derived-play-string-tangle-trials.png</image:loc>
       <image:title>Derived Play: String Tangle Trials</image:title>
       <image:caption>Visible title: &quot;Derived Play: String Tangle Trials&quot;. Create one polished original derived-play concept image for a public GPT Image 2 gallery, 16:9 landscape. This is a physical dexterity-and-logic game derived from the Prompt Marionettes...</image:caption>
@@ -797,6 +807,28 @@
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/164-derived-play-crease-court-rally/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/164-derived-play-crease-court-rally.png</image:loc>
+      <image:title>Derived Play: Crease Court Rally</image:title>
+      <image:caption>Visible title: &quot;Derived Play: Crease Court Rally&quot;. Create one polished original derived-play concept image for a public GPT Image 2 gallery, 16:9 landscape. This is a tabletop folding-rule game derived from the Prompt Origami Atlas use cas...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/165-use-case-fold-prompt-origami-atlas/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/165-use-case-fold-prompt-origami-atlas.png</image:loc>
+      <image:title>Use Case Fold: Prompt Origami Atlas</image:title>
+      <image:caption>Visible title: &quot;Use Case Fold: Prompt Origami Atlas&quot;. Create one polished original GPT Image 2 use-case concept image for a public gallery, 16:9 landscape. Show a single oversized unfolded origami crease-map sheet on a quiet studio table,...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/162-derived-play-string-tangle-trials/</loc>

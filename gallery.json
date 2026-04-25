@@ -18,6 +18,92 @@
   },
   "images": [
     {
+      "title": "Derived Play: Crease Court Rally",
+      "caption": "从折纸语法图派生出的纸面赛道玩法：Valley Claim、Mountain Lift、Pocket Draft、Flap Block、Tab Read、Pleat Sprint 和 Seal Win 把提示折痕变成一局可玩的策略赛。",
+      "path": "assets/images/164-derived-play-crease-court-rally.png",
+      "alt": "Handmade cardstock folding-rule court with crease lanes, pop-up gates, pocket draft area, flap block, tab read card, pleat sprint, and seal envelopes",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-26 01:12:07",
+      "batch": "019dc59c-d65e-7683-9128-e6eeb4b9a871",
+      "tags": [
+        "crease-court-rally",
+        "valley-claim",
+        "mountain-lift",
+        "pocket-draft",
+        "flap-block",
+        "tab-read",
+        "pleat-sprint",
+        "seal-win",
+        "batch-019dc59c"
+      ],
+      "prompt": "Visible title: \"Derived Play: Crease Court Rally\". Create one polished original derived-play concept image for a public GPT Image 2 gallery, 16:9 landscape. This is a tabletop folding-rule game derived from the Prompt Origami Atlas use case, but it must be a distinct playable object: a low rectangular paper court made from layered cardstock, with diagonal crease lanes, pop-up gates, foldable referee flags, blank geometric paper tokens, a rotating crease judge dial, score clips, and sealed source envelopes. The play rules are visible as seven short labels on the court edge: Valley Claim, Mountain Lift, Pocket Draft, Flap Block, Tab Read, Pleat Sprint, Seal Win. Gameplay: choose a paper token, claim one valley lane, lift a mountain gate, draft a pocket reference card, block one move with a mask flap, read a tiny tab phrase, sprint across accordion pleats without tearing the sheet, then seal the win envelope. Make it look like a photographed handmade strategy game, not a diagram grid, not a research board, not a card spread. Use paper texture, crease shadows, colored edge strips, small wooden clips, and clean studio lighting. No hands, no people, no real brands, no celebrities, no copyrighted characters. Original fictional content only. Avoid political persuasion, parties, elections, public political figures, propaganda, harmful instructions, sexual or nude content, explicit content, weapons, gore, graphic violence, and living-artist style imitation.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original cardstock crease-court play mechanic and prompt generated locally. OpenAI documentation was consulted only as current image-generation capability background; no external prompt, image, article, case study, repository, artwork, brand, or character source was reused."
+      },
+      "promptSources": [
+        {
+          "title": "Image generation | OpenAI API",
+          "url": "https://platform.openai.com/docs/guides/image-generation/",
+          "authorOrPublisher": "OpenAI",
+          "license": "OpenAI website terms; used only for factual image-generation workflow background, with no prompt text or artwork reused.",
+          "accessedAt": "2026-04-26",
+          "usedAs": "Capability background for prompt-driven image generation and editing workflows; final crease-court game concept, wording, labels, and layout are original."
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "reviewNote": "Original fictional handmade folding-rule game with blank geometric tokens; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful instructions, weapons, gore, graphic violence, and living-artist style imitation."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc59c-d65e-7683-9128-e6eeb4b9a871/ig_0111b901e0b91b860169ecf5acee8481958854eb1d5c0df5c2.png"
+    },
+    {
+      "title": "Use Case Fold: Prompt Origami Atlas",
+      "caption": "把 GPT Image 2 的提示实验折成一张连续折纸语法图：Subject Valley、Context Mountain、Reference Pocket、Mask Flap、Text Tab、Scale Pleat 和 Source Seal 用折痕、口袋、翻页和封口记录生成约束。",
+      "path": "assets/images/165-use-case-fold-prompt-origami-atlas.png",
+      "alt": "Oversized origami crease-map sheet with pop-up prompt islands, reference pocket, mask flap, text tab, scale pleat, and source seal",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-26 01:11:11",
+      "batch": "019dc59c-d65e-7683-9128-e6eeb4b9a871",
+      "tags": [
+        "prompt-origami-atlas",
+        "subject-valley",
+        "context-mountain",
+        "reference-pocket",
+        "mask-flap",
+        "text-tab",
+        "scale-pleat",
+        "source-seal",
+        "batch-019dc59c"
+      ],
+      "prompt": "Visible title: \"Use Case Fold: Prompt Origami Atlas\". Create one polished original GPT Image 2 use-case concept image for a public gallery, 16:9 landscape. Show a single oversized unfolded origami crease-map sheet on a quiet studio table, with several partially folded paper islands rising from the same sheet, not a grid and not a panel board. The artifact explains how GPT Image 2 prompt work can be treated as fold grammar: valley folds narrow a subject, mountain folds add context, pocket folds hold reference images, flap folds mark local edit masks, tiny tab folds test readable short text, accordion pleats compare aspect ratios, and a wax-paper seal flap records provenance and safety. Use visible legible etched labels on the paper: Subject Valley, Context Mountain, Reference Pocket, Mask Flap, Text Tab, Scale Pleat, Source Seal. Include small neutral fictional mini-scenes only: blank product block, abstract room corner, simple icon tile, geometric landscape, non-human paper mascot silhouette. Use tactile paper fibers, crease shadows, registration dots, ruler marks, and soft side lighting. No hands, no people, no real brands, no celebrities, no copyrighted characters. Original fictional content only. Avoid political persuasion, parties, elections, public political figures, propaganda, harmful instructions, sexual or nude content, explicit content, weapons, gore, graphic violence, and living-artist style imitation.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original origami-fold grammar concept and prompt generated locally. OpenAI documentation was consulted only as current image-generation capability background; no external prompt, image, article, case study, repository, artwork, brand, or character source was reused."
+      },
+      "promptSources": [
+        {
+          "title": "Image generation | OpenAI API",
+          "url": "https://platform.openai.com/docs/guides/image-generation/",
+          "authorOrPublisher": "OpenAI",
+          "license": "OpenAI website terms; used only for factual image-generation workflow background, with no prompt text or artwork reused.",
+          "accessedAt": "2026-04-26",
+          "usedAs": "Capability background for prompt-driven image generation and editing workflows; final origami atlas concept, wording, labels, and layout are original."
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "reviewNote": "Original fictional folded-paper prompt atlas with neutral mini-scenes; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful instructions, weapons, gore, graphic violence, and living-artist style imitation."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc59c-d65e-7683-9128-e6eeb4b9a871/ig_0111b901e0b91b860169ecf5755ee481959388c6ee76a1eb26.png"
+    },
+    {
       "title": "Derived Play: String Tangle Trials",
       "caption": "从木偶控制台派生出的拉线解结玩法：Pull Cue、Knot Draft、Curtain Feint、Swatch Toll、Bell Echo、Slack Rescue 和 Seal Score 把提示一致性变成一局悬挂线索竞技。",
       "path": "assets/images/162-derived-play-string-tangle-trials.png",
