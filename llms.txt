@@ -15,17 +15,17 @@ Dedicated tag pages: 24
 Top tags:
 - product-mockup: 71
 - typography: 69
-- game-design: 60
+- game-design: 58
 - ui-mockup: 55
-- storytelling: 52
+- storytelling: 50
 - lighting-weather: 36
 - photoreal: 33
-- worldbuilding: 33
-- infographic: 32
-- education: 24
+- worldbuilding: 32
+- infographic: 30
 - interior-design: 23
-- material-study: 18
-- operations: 17
+- education: 22
+- material-study: 17
+- operations: 15
 - evaluation: 14
 - productivity-visual: 14
 - stylized-concept: 13

@@ -18,18 +18,21 @@
   },
   "images": [
     {
-      "title": "a second polished original GPT Image 2 derived-play mechanics board as a single 3:2 ",
-      "caption": "历史生成图，批次 019dc39b-a1bf-7a91-bddb-57588cfd0f74，生成时间 2026-04-25 15:52:40。",
+      "title": "Derived Play Modes: Material Arcade",
+      "caption": "从材料与可访问性能力图派生出的六个原创玩法：纹理密码接力、抽屉俄罗斯方块、天气预言牌、纸板原型对决、情绪吉祥物混合器和迷你导览集章。",
       "path": "assets/images/109-a-second-polished-original-gpt-image-2-derived-play-mechanics-bo.png",
-      "alt": "Generated image ig_02b4e2a4e36110b00169ec725c84ac8193b1dc646007d501cd",
+      "alt": "GPT Image 2 derived play board with texture cipher relay, drawer tetris draft, weather oracle cards, prototype punch-out duel, mood mascot mixer, and mini-tour stamp rally",
       "width": 1536,
       "height": 1024,
       "createdAt": "2026-04-25 15:52:40",
       "batch": "019dc39b-a1bf-7a91-bddb-57588cfd0f74",
       "tags": [
-        "historical-import",
-        "prompt-recovered",
-        "batch-019dc39b"
+        "texture-cipher-relay",
+        "drawer-tetris-draft",
+        "weather-oracle-cards",
+        "prototype-punch-out-duel",
+        "mood-mascot-mixer",
+        "mini-tour-stamp-rally"
       ],
       "prompt": "Create a second polished original GPT Image 2 derived-play mechanics board as a single 3:2 landscape image, clean 2x3 contact-sheet layout with six clearly separated panels. No logos, no real brands, no celebrity likenesses, no public figures, no copyrighted characters, no politics, no sexual content, no violence, no watermarks. Overall tiny header: \"GPT-IMAGE-2 DERIVED PLAY MODES: MATERIAL ARCADE\". Derive playful, recordable image-generation games from the prior material/accessibility use cases. Each panel has a short readable English label and looks like a complete tabletop or studio challenge card:\n1 \"Texture Cipher Relay\" - players convert everyday object photos into raised-line texture keys, then another player reconstructs the object category from the diagram.\n2 \"Drawer Tetris Draft\" - randomized fictional tools must fit into a foam insert grid; show tokens, grid slots, and scored layout cards.\n3 \"Weather Oracle Cards\" - material sample cards are dealt with sun/rain/frost/dust modifiers to predict visible aging outcomes.\n4 \"Prototype Punch-Out Duel\" - two paper-kit designs compete through constraints: fewest folds, strongest shape, smallest scrap pile.\n5 \"Mood Mascot Mixer\" - emotion words, color chips, and shape dice combine into non-human mascot families with consistency rules.\n6 \"Mini-Tour Stamp Rally\" - fictional exhibit objects become route stamps; players build the clearest three-stop visitor path from shuffled object cards.\nStyle: collectible creative game-design spread, crisp typography, realistic cards and tokens photographed on a clean studio table, thin dividers, restrained varied accent colors, legible labels, professional editorial design, no brand marks.",
       "provenance": {
@@ -52,18 +55,21 @@
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc39b-a1bf-7a91-bddb-57588cfd0f74/ig_02b4e2a4e36110b00169ec725c84ac8193b1dc646007d501cd.png"
     },
     {
-      "title": "a polished original GPT Image 2 use-case research board as a single 3:2 landscape im",
-      "caption": "历史生成图，批次 019dc39b-a1bf-7a91-bddb-57588cfd0f74，生成时间 2026-04-25 15:50:51。",
+      "title": "Use Case Lab: Material and Accessibility Play",
+      "caption": "一组新的原创 GPT Image 2 用例：触觉图草稿、抽屉阴影规划、季节磨损模拟、纸板套件生成、吉祥物心情笔记和虚构展品迷你导览。",
       "path": "assets/images/110-a-polished-original-gpt-image-2-use-case-research-board-as-a-sin.png",
-      "alt": "Generated image ig_02b4e2a4e36110b00169ec721101148193af4523f9dfb918c8",
+      "alt": "GPT Image 2 use-case board with tactile diagram draft, drawer shadow planner, season wear simulator, cardboard kit forge, mascot mood notes, and fictional exhibit mini-tours",
       "width": 1536,
       "height": 1024,
       "createdAt": "2026-04-25 15:50:51",
       "batch": "019dc39b-a1bf-7a91-bddb-57588cfd0f74",
       "tags": [
-        "historical-import",
-        "prompt-recovered",
-        "batch-019dc39b"
+        "tactile-diagram-draft",
+        "drawer-shadow-planner",
+        "season-wear-simulator",
+        "cardboard-kit-forge",
+        "mascot-mood-notes",
+        "fictional-exhibit-mini-tours"
       ],
       "prompt": "Create a polished original GPT Image 2 use-case research board as a single 3:2 landscape image, clean 2x3 contact-sheet layout with six clearly separated panels. No logos, no real brands, no celebrity likenesses, no public figures, no copyrighted characters, no politics, no sexual content, no violence, no watermarks. Overall tiny header: \"GPT-IMAGE-2 USE CASE LAB: MATERIAL + ACCESSIBILITY PLAY\". Each panel has a short readable English label and shows a fictional, practical image-generation workflow:\n1 \"Tactile Diagram Draft\" - a fictional kitchen timer and plant pot transformed into high-contrast raised-line style diagrams with braille-like dotted texture placeholders, accessibility education concept.\n2 \"Drawer Shadow Planner\" - a messy set of fictional craft tools converted into a neat foam-insert drawer layout with silhouettes and tiny labels.\n3 \"Season Wear Simulator\" - one generic outdoor stool shown across sun, rain, frost, and dust aging previews, material planning concept.\n4 \"Cardboard Kit Forge\" - a rough sketch of a small imaginary desk organizer turned into punch-out cardboard parts and assembled prototype steps.\n5 \"Mascot Mood Notes\" - abstract daily moods converted into friendly non-human geometric mascots on journaling cards, no therapy claims.\n6 \"Fictional Exhibit Mini-Tours\" - a invented object collection turned into small visitor route thumbnails and plain-language captions, all fictional.\nStyle: premium design lab documentation wall, crisp typography, realistic paper textures, neutral white background with restrained accent colors, accurate readable labels, professional editorial lighting, no brand marks.",
       "provenance": {

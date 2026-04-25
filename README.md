@@ -38,17 +38,17 @@ Most prompt examples disappear into chat history. This repo turns image-generati
 
 - `product-mockup` (71)
 - `typography` (69)
-- `game-design` (60)
+- `game-design` (58)
 - `ui-mockup` (55)
-- `storytelling` (52)
+- `storytelling` (50)
 - `lighting-weather` (36)
 - `photoreal` (33)
-- `worldbuilding` (33)
-- `infographic` (32)
-- `education` (24)
+- `worldbuilding` (32)
+- `infographic` (30)
 - `interior-design` (23)
-- `material-study` (18)
-- `operations` (17)
+- `education` (22)
+- `material-study` (17)
+- `operations` (15)
 - `evaluation` (14)
 - `productivity-visual` (14)
 - `stylized-concept` (13)
@@ -65,18 +65,22 @@ Most prompt examples disappear into chat history. This repo turns image-generati
 - `archive-label-restorer` (1)
 - `brand-multiverse` (1)
 - `calendar-scene-forge` (1)
+- `cardboard-kit-forge` (1)
 - `catalog-transformer` (1)
 - `constraint-auction` (1)
 - `constraint-posterizer` (1)
 - `data-to-poster` (1)
 - `dataset-postcard-sampler` (1)
 - `decision-thread` (1)
+- `drawer-shadow-planner` (1)
+- `drawer-tetris-draft` (1)
 - `educational-infographic-remix` (1)
 - `evidence-garden` (1)
 - `fact-postcard-duel` (1)
 - `failure-ladder` (1)
 - `failure-mode-atlas` (1)
 - `failure-mode-catalog` (1)
+- `fictional-exhibit-mini-tours` (1)
 - `fictional-product-sku-factory` (1)
 - `field-note-builder` (1)
 - `field-notebook-plate` (1)
@@ -87,8 +91,11 @@ Most prompt examples disappear into chat history. This repo turns image-generati
 - `language-mood-matrix` (1)
 - `learning-card-deck` (1)
 - `localized-shelf-packaging` (1)
+- `mascot-mood-notes` (1)
 - `meeting-memory-board` (1)
 - `microbrand-kit` (1)
+- `mini-tour-stamp-rally` (1)
+- `mood-mascot-mixer` (1)
 - `multilingual-poster-lab` (1)
 - `observation-bingo` (1)
 - `onboarding-state-machine` (1)
@@ -101,6 +108,7 @@ Most prompt examples disappear into chat history. This repo turns image-generati
 - `process-twin` (1)
 - `prompt-archaeology` (1)
 - `prompt-escape-room` (1)
+- `prototype-punch-out-duel` (1)
 - `qa-spot-the-diff` (1)
 - `recipe-forensics` (1)
 - `recipe-reality-check` (1)
@@ -108,16 +116,20 @@ Most prompt examples disappear into chat history. This repo turns image-generati
 - `repair-triage-photos` (1)
 - `restoration-what-if` (1)
 - `scenario-switch` (1)
+- `season-wear-simulator` (1)
 - `shelf-spec-poker` (1)
 - `spec-to-shelf-prototype` (1)
 - `state-lock` (1)
 - `storyboard-continuity-game` (1)
 - `style-transfer` (1)
 - `tabletop-quest-props` (1)
+- `tactile-diagram-draft` (1)
+- `texture-cipher-relay` (1)
 - `time-machine-before-after` (1)
 - `tone-switchboard` (1)
 - `triage-relay` (1)
 - `wayfinding-remix` (1)
+- `weather-oracle-cards` (1)
 - `week-remix-draft` (1)
 - `worldbuilding-atlas` (1)
 
@@ -151,11 +163,11 @@ Most prompt examples disappear into chat history. This repo turns image-generati
 
 ## Prompt Gallery
 
-### 001. Second polished original GPT Image 2 derived-play mechanics board as a single 3:2
+### 001. Derived Play Modes: Material Arcade
 
-![Second polished original GPT Image 2 derived-play mechanics board as a single 3:2](assets/images/109-a-second-polished-original-gpt-image-2-derived-play-mechanics-bo.png)
+![Derived Play Modes: Material Arcade](assets/images/109-a-second-polished-original-gpt-image-2-derived-play-mechanics-bo.png)
 
-**Tags:** `education` `game-design` `infographic` `operations` `product-mockup` `storytelling` `typography` `worldbuilding`
+**Tags:** `drawer-tetris-draft` `mini-tour-stamp-rally` `mood-mascot-mixer` `product-mockup` `prototype-punch-out-duel` `texture-cipher-relay` `typography` `weather-oracle-cards`
 
 **Prompt excerpt:** Create a second polished original GPT Image 2 derived-play mechanics board as a single 3:2 landscape image, clean 2x3 contact-sheet layout with six clearly separated panels. No logos, no real brands, no celebrity likenesses, no public figu...
 
@@ -175,11 +187,11 @@ Style: collectible creative game-design spread, crisp typography, realistic card
 
 </details>
 
-### 002. Polished original GPT Image 2 use-case research board as a single 3:2 landscape im
+### 002. Use Case Lab: Material and Accessibility Play
 
-![Polished original GPT Image 2 use-case research board as a single 3:2 landscape im](assets/images/110-a-polished-original-gpt-image-2-use-case-research-board-as-a-sin.png)
+![Use Case Lab: Material and Accessibility Play](assets/images/110-a-polished-original-gpt-image-2-use-case-research-board-as-a-sin.png)
 
-**Tags:** `education` `game-design` `infographic` `material-study` `operations` `product-mockup` `storytelling` `typography`
+**Tags:** `cardboard-kit-forge` `drawer-shadow-planner` `fictional-exhibit-mini-tours` `mascot-mood-notes` `product-mockup` `season-wear-simulator` `tactile-diagram-draft` `typography`
 
 **Prompt excerpt:** Create a polished original GPT Image 2 use-case research board as a single 3:2 landscape image, clean 2x3 contact-sheet layout with six clearly separated panels. No logos, no real brands, no celebrity likenesses, no public figures, no copy...
 
