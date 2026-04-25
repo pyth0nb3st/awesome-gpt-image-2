@@ -6,6 +6,21 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/101-operations-arcade.png</image:loc>
+      <image:title>Operations Arcade</image:title>
+      <image:caption>Use case: stylized-concept Asset type: GPT Image 2 derived play modes board, 3:2 landscape contact sheet Primary request: Derive six NEW playful, recordable experiments from the &quot;System Stress Tests&quot; use-case board. Do not repeat earlier g...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/102-system-stress-tests.png</image:loc>
+      <image:title>System Stress Tests</image:title>
+      <image:caption>Use case: productivity-visual Asset type: GPT Image 2 use-case research board, 3:2 landscape contact sheet Primary request: Create a polished research board titled &quot;GPT-IMAGE-2 USE CASE LAB: SYSTEM STRESS TESTS&quot; showing six NEW practical u...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/103-a-polished-gpt-image-2-use-case-research-board-as-a-single-3-2-l.png</image:loc>
+      <image:title>Polished GPT-image-2 use-case research board as a single 3:2 landscape image, like</image:title>
+      <image:caption>Create a polished GPT-image-2 use-case research board as a single 3:2 landscape image, like a high-end design lab documentation artifact. Six clearly separated panels in a 3x2 grid, each panel with a short readable English title and a dist...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/099-derived-play-modes-batch-b.png</image:loc>
       <image:title>Derived Play Modes Batch B</image:title>
       <image:caption>Create a second polished GPT-image-2 derived-play research board as a single 3:2 landscape image, like a collectible playbook spread for creative workflows. Six clearly separated panels in a 3x2 grid, each panel with a short readable Engli...</image:caption>
@@ -517,6 +532,39 @@
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/101-operations-arcade/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/101-operations-arcade.png</image:loc>
+      <image:title>Operations Arcade</image:title>
+      <image:caption>Use case: stylized-concept Asset type: GPT Image 2 derived play modes board, 3:2 landscape contact sheet Primary request: Derive six NEW playful, recordable experiments from the &quot;System Stress Tests&quot; use-case board. Do not repeat earlier g...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/102-system-stress-tests/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/102-system-stress-tests.png</image:loc>
+      <image:title>System Stress Tests</image:title>
+      <image:caption>Use case: productivity-visual Asset type: GPT Image 2 use-case research board, 3:2 landscape contact sheet Primary request: Create a polished research board titled &quot;GPT-IMAGE-2 USE CASE LAB: SYSTEM STRESS TESTS&quot; showing six NEW practical u...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/103-a-polished-gpt-image-2-use-case-research-board-as-a-single-3-2-l/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/103-a-polished-gpt-image-2-use-case-research-board-as-a-single-3-2-l.png</image:loc>
+      <image:title>Polished GPT-image-2 use-case research board as a single 3:2 landscape image, like</image:title>
+      <image:caption>Create a polished GPT-image-2 use-case research board as a single 3:2 landscape image, like a high-end design lab documentation artifact. Six clearly separated panels in a 3x2 grid, each panel with a short readable English title and a dist...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/099-derived-play-modes-batch-b/</loc>
@@ -1655,13 +1703,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/photoreal/</loc>
+    <loc>https://gptimg2.best/tags/worldbuilding/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/worldbuilding/</loc>
+    <loc>https://gptimg2.best/tags/photoreal/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -1673,13 +1721,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/interior-design/</loc>
+    <loc>https://gptimg2.best/tags/education/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/education/</loc>
+    <loc>https://gptimg2.best/tags/interior-design/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -1697,13 +1745,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/evaluation/</loc>
+    <loc>https://gptimg2.best/tags/productivity-visual/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/productivity-visual/</loc>
+    <loc>https://gptimg2.best/tags/evaluation/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>

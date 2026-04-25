@@ -5,6 +5,63 @@
   "summary": "A visual gallery of playful GPT Image use cases, prompts, and experiment patterns. Images are stored in this repository for GitHub Pages publishing.",
   "images": [
     {
+      "title": "Operations Arcade",
+      "caption": "第六组玩法派生：从工作流视觉板继续拆成状态锁定、证据花园、情景开关、备餐竞速、配色侦探和故障阶梯。",
+      "path": "assets/images/101-operations-arcade.png",
+      "alt": "GPT Image 2 operations arcade play modes board with state lock, evidence garden, scenario switch, prep race, palette detective, and failure ladder",
+      "width": 1536,
+      "height": 1024,
+      "createdAt": "2026-04-25 14:53:46",
+      "batch": "019dc364-b279-7ab3-995a-fda017c85f6f",
+      "tags": [
+        "state-lock",
+        "evidence-garden",
+        "scenario-switch",
+        "prep-race",
+        "palette-detective",
+        "failure-ladder"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: GPT Image 2 derived play modes board, 3:2 landscape contact sheet\nPrimary request: Derive six NEW playful, recordable experiments from the \"System Stress Tests\" use-case board. Do not repeat earlier gallery mechanics such as prompt relay, constraint bingo, regression detective, variant draft arena, scene grammar kit, scale-shift microscope, wardrobe audit, gallery speedrun, drill-path puzzle, material truth table, waveform jam, maintenance triage, claim court, access route remix, director's cut ladder, aging oracle, taste telemetry duel, edge-case hunt, manual maze, price canon kitchen, prop continuity poker, signage babel sprint, figure ladder duel, locked-room remix, rubric arena, lighting DJ, fix-it quest, source stamp, alpha edge, ratio relay, safety sketch, tiny type, deck poker, material guessing, plant doctor, clause boss battle, bookmark dungeon, legibility gauntlet, aging timeline poker, prompt archaeology, QA spot-the-diff, microbrand kit, learning card deck, wayfinding remix, or tabletop quest props.\nOverall title: \"GPT-IMAGE-2 DERIVED PLAY MODES: OPERATIONS ARCADE\".\nPanel 1 title: \"State Lock\" — players generate four process states and score whether the same machine remains structurally identical across time.\nPanel 2 title: \"Evidence Garden\" — teams convert rough nature notes into observation plates, then other players guess which visual claims are certain, partial, or speculative.\nPanel 3 title: \"Scenario Switch\" — policy scenes are remixed by swapping one variable at a time: tone, setting, power dynamic, and outcome, while preserving the rule.\nPanel 4 title: \"Prep Race\" — recipe station cards become a timed sequencing game where players assemble mise en place before a clock token reaches service.\nPanel 5 title: \"Palette Detective\" — players match recolored archive objects to evidence swatches and justify which palette is most plausible.\nPanel 6 title: \"Failure Ladder\" — device condition cards are arranged from normal to severe, with repair tokens and risk markers scored for continuity.\nStyle/medium: premium tabletop game documentation spread, realistic cards, score mats, tokens, timers, loupes, pencils, small generated-output samples, no real brands.\nComposition/framing: six equal panels in a clean 3x2 grid; each panel shows title, components, scoring evidence, and a tiny play record sheet.\nLighting/mood: warm studio tabletop lighting, playful but practical, immediately understandable.\nColor palette: neutral table, varied accent colors for each game, crisp black rule text, colorful scoring tokens.\nText constraints: render only the overall title, six panel titles, and simple words \"PASS\", \"RISK\", \"FIX\", \"SCORE\", \"ROUND\"; no logos, no watermarks, no copyrighted characters.",
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc364-b279-7ab3-995a-fda017c85f6f/ig_0e7d11b3eeaad7e70169ec6453735c8194943ac4060a94836e.png"
+    },
+    {
+      "title": "System Stress Tests",
+      "caption": "第五组能力地图：把流程孪生、野外笔记、政策情景、厨房工位、档案配色和故障模式做成可测试的工作流视觉板。",
+      "path": "assets/images/102-system-stress-tests.png",
+      "alt": "GPT Image 2 system stress test board with process twin, field notebook, policy theater, kitchen mise map, archive color lab, and failure mode atlas",
+      "width": 1536,
+      "height": 1024,
+      "createdAt": "2026-04-25 14:51:00",
+      "batch": "019dc364-b279-7ab3-995a-fda017c85f6f",
+      "tags": [
+        "process-twin",
+        "field-notebook-plate",
+        "policy-theater-cards",
+        "kitchen-mise-map",
+        "archive-color-lab",
+        "failure-mode-atlas"
+      ],
+      "prompt": "Use case: productivity-visual\nAsset type: GPT Image 2 use-case research board, 3:2 landscape contact sheet\nPrimary request: Create a polished research board titled \"GPT-IMAGE-2 USE CASE LAB: SYSTEM STRESS TESTS\" showing six NEW practical use cases for image generation and editing that avoid prior themes such as catalog transformation, data posters, onboarding states, localization packaging, restoration, game asset sheets, prompt archaeology, QA spot-the-diff, microbrand kits, learning cards, wayfinding, tabletop props, transparent stickers, aspect ratio relays, safety sketches, menus, style decks, repair manuals, room lighting, legal risk maps, bookmark memory palaces, event poster stress labs, and object aging.\nPanel 1 title: \"Process Twin\" — a factory maintenance workflow visualized as before, during, after, and exception states with the same machine silhouette preserved.\nPanel 2 title: \"Field Notebook\" — messy field notes and specimen sketches transformed into a clean ecological observation plate with readable labels and uncertainty badges.\nPanel 3 title: \"Policy Theater\" — abstract workplace policy paragraphs turned into role-play scene cards showing safe and unsafe examples, no real companies.\nPanel 4 title: \"Kitchen Mise Map\" — a recipe converted into station setup diagrams, timing strips, ingredient prep bowls, and plating thumbnails.\nPanel 5 title: \"Archive Color Lab\" — black-and-white public-domain-style object photos recolored into three historically plausible palettes with evidence swatches.\nPanel 6 title: \"Failure Mode Atlas\" — one everyday device shown across jammed, overheated, cracked, water-exposed, and repaired states with callout tags.\nComposition/framing: six equal panels in a clean 3x2 grid, each with a short readable English title, visual evidence artifacts, and a finished sample output.\nStyle/medium: premium design-research documentation wall, crisp printed boards, realistic desk objects, high detail, professional lighting.\nColor: varied accents per panel, neutral workspace base, avoid a one-hue palette.\nText constraints: render only the title plus the six panel titles and tiny simple labels like \"OK\", \"RISK\", \"FIX\", \"SOURCE\"; no real brands, no logos, no watermark, no political figures, no copyrighted characters.",
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc364-b279-7ab3-995a-fda017c85f6f/ig_0e7d11b3eeaad7e70169ec63b04f188194845d4fec4b4fcb5e.png"
+    },
+    {
+      "title": "a polished GPT-image-2 use-case research board as a single 3:2 landscape image, like",
+      "caption": "历史生成图，批次 019dc352-62ba-7810-b2b3-43b4e5cf2351，生成时间 2026-04-25 14:33:50。",
+      "path": "assets/images/103-a-polished-gpt-image-2-use-case-research-board-as-a-single-3-2-l.png",
+      "alt": "Generated image ig_0df9355d0ea4c8110169ec5f7b583881908f42a9c99d7f2616",
+      "width": 1536,
+      "height": 1024,
+      "createdAt": "2026-04-25 14:33:50",
+      "batch": "019dc352-62ba-7810-b2b3-43b4e5cf2351",
+      "tags": [
+        "historical-import",
+        "prompt-recovered",
+        "batch-019dc352"
+      ],
+      "prompt": "Create a polished GPT-image-2 use-case research board as a single 3:2 landscape image, like a high-end design lab documentation artifact. Six clearly separated panels in a 3x2 grid, each panel with a short readable English title and a distinct visual demo. Overall title: \"GPT-Image-2 Use Case Lab: Evidence to Systems\".\n\nPanel 1 title: \"Field Note Builder\" showing messy handwritten field notes transformed into a clean illustrated observation sheet with icons, map pins, specimen thumbnails, and a dated log strip.\nPanel 2 title: \"Constraint Posterizer\" showing one plain prompt becoming three poster variants under visible constraints: low ink, high contrast, and one-object-only.\nPanel 3 title: \"Recipe Reality Check\" showing a fictional recipe card converted into plated food, ingredient layout, timing diagram, and allergy badge system.\nPanel 4 title: \"Policy Comic Translator\" showing a dense workplace policy paragraph transformed into a four-panel comic explainer with clear visual steps and readable labels.\nPanel 5 title: \"Archive Label Restorer\" showing damaged museum object labels reconstructed into plausible clean catalog cards with accession codes, era tags, and object thumbnails.\nPanel 6 title: \"Failure Mode Catalog\" showing a generated product image audit wall: warped text, missing shadow, wrong scale, repeated object, and corrected examples.\n\nStyle: premium editorial collage, crisp realistic miniatures mixed with clean interface-like labels, varied colors across panels, professional lighting, sharp details.\nText constraints: render only the overall title and the six panel titles exactly as listed plus tiny simple labels where needed; avoid long unreadable paragraphs; no logos, no brands, no watermark.\nComposition: six equal panels in a clean 3x2 grid, balanced margins, print-quality contact sheet.",
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc352-62ba-7810-b2b3-43b4e5cf2351/ig_0df9355d0ea4c8110169ec5f7b583881908f42a9c99d7f2616.png"
+    },
+    {
       "title": "Derived Play Modes Batch B",
       "caption": "第四组玩法派生：把新能力继续拆成提示词考古、QA 找茬、微品牌套件、学习卡牌、导视本地化和桌游任务道具。",
       "path": "assets/images/099-derived-play-modes-batch-b.png",
