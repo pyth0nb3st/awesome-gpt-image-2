@@ -4,6 +4,8 @@ A public gallery of playful GPT Image experiments: prompts, outputs, use-case pa
 
 This repository is built from local Codex image-generation sessions. Each gallery card keeps the generated image and the prompt that produced it, so the repo works as both a visual archive and a prompt notebook.
 
+**Live site:** https://pyth0nb3st.github.io/awesome-gpt-image-2/
+
 ## Gallery
 
 - **77 generated images**
