@@ -40,16 +40,16 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 
 ### Top Themes
 
-- `product-mockup` (79)
-- `typography` (77)
-- `game-design` (69)
+- `product-mockup` (80)
+- `typography` (76)
+- `game-design` (68)
 - `ui-mockup` (63)
 - `storytelling` (54)
 - `lighting-weather` (36)
-- `infographic` (34)
+- `infographic` (33)
 - `photoreal` (33)
 - `worldbuilding` (33)
-- `education` (24)
+- `education` (23)
 - `interior-design` (23)
 - `material-study` (17)
 - `evaluation` (15)
@@ -67,18 +67,21 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 
 ### Latest Play Tags
 
-- `biome-deal` - Derived Play: Tidegate Habitat League
-- `sluice-edit` - Derived Play: Tidegate Habitat League
-- `shoal-memory` - Derived Play: Tidegate Habitat League
-- `label-pearl` - Derived Play: Tidegate Habitat League
-- `tide-window` - Derived Play: Tidegate Habitat League
-- `salinity-bluff` - Derived Play: Tidegate Habitat League
-- `brief-to-biome` - Use Case Aquarium: Habitat Prompt Ecology
-- `reference-shoal-nursery` - Use Case Aquarium: Habitat Prompt Ecology
-- `edit-quarantine-bubble` - Use Case Aquarium: Habitat Prompt Ecology
-- `caption-coral-reef` - Use Case Aquarium: Habitat Prompt Ecology
-- `format-tide-gauge` - Use Case Aquarium: Habitat Prompt Ecology
-- `style-salinity-mixer` - Use Case Aquarium: Habitat Prompt Ecology
+- `grout-route-mosaic-league` - Derived Play: Grout Route Mosaic League
+- `subject-tile-draft` - Derived Play: Grout Route Mosaic League
+- `border-context-locks` - Derived Play: Grout Route Mosaic League
+- `glaze-mood-wagers` - Derived Play: Grout Route Mosaic League
+- `caption-tessera-clarity` - Derived Play: Grout Route Mosaic League
+- `edit-tile-swaps` - Derived Play: Grout Route Mosaic League
+- `frame-fit-scoring` - Derived Play: Grout Route Mosaic League
+- `mosaic-prompt-grammar` - Use Case Kiln: Mosaic Prompt Grammar
+- `subject-tiles` - Use Case Kiln: Mosaic Prompt Grammar
+- `context-border-tiles` - Use Case Kiln: Mosaic Prompt Grammar
+- `lighting-glaze-tests` - Use Case Kiln: Mosaic Prompt Grammar
+- `caption-tesserae` - Use Case Kiln: Mosaic Prompt Grammar
+- `edit-replacement-tiles` - Use Case Kiln: Mosaic Prompt Grammar
+- `aspect-frame-mosaics` - Use Case Kiln: Mosaic Prompt Grammar
+- `kiln-provenance-tags` - Use Case Kiln: Mosaic Prompt Grammar
 - `scan-line-item` - Derived Play: Receipt Run League
 - `coupon-veto` - Derived Play: Receipt Run League
 - `refund-conflict-detail` - Derived Play: Receipt Run League
@@ -100,23 +103,20 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `sign-whisper` - Derived Play: Contour Sandbox League
 - `contour-brief` - Use Case Sandbox: Contour Image Rehearsal
 - `boundary-edit` - Use Case Sandbox: Contour Image Rehearsal
-- `landmark-mold` - Use Case Sandbox: Contour Image Rehearsal
-- `sun-peg` - Use Case Sandbox: Contour Image Rehearsal
-- `scale-frame` - Use Case Sandbox: Contour Image Rehearsal
 
 <details>
 <summary>All generated tags</summary>
 
-- `product-mockup` (79)
-- `typography` (77)
-- `game-design` (69)
+- `product-mockup` (80)
+- `typography` (76)
+- `game-design` (68)
 - `ui-mockup` (63)
 - `storytelling` (54)
 - `lighting-weather` (36)
-- `infographic` (34)
+- `infographic` (33)
 - `photoreal` (33)
 - `worldbuilding` (33)
-- `education` (24)
+- `education` (23)
 - `interior-design` (23)
 - `material-study` (17)
 - `evaluation` (15)
@@ -138,23 +138,24 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `archive-detective` (1)
 - `archive-label-restorer` (1)
 - `aroma-semaphore` (1)
+- `aspect-frame-mosaics` (1)
 - `aspect-ratio-price-check` (1)
 - `bag-format-tray` (1)
 - `barometer-countdown` (1)
-- `biome-deal` (1)
 - `blackout-mask-prompt` (1)
 - `blackout-mask-tray` (1)
+- `border-context-locks` (1)
 - `boundary-edit` (1)
 - `brand-multiverse` (1)
 - `brief-bouncer` (1)
-- `brief-to-biome` (1)
 - `cable-route-draft` (1)
 - `calendar-scene-forge` (1)
 - `camera-blocking-rehearsal` (1)
 - `caption-compost-bin` (1)
-- `caption-coral-reef` (1)
 - `caption-register-strip` (1)
 - `caption-scene-grounder` (1)
+- `caption-tessera-clarity` (1)
+- `caption-tesserae` (1)
 - `caption-to-shot-list` (1)
 - `cardboard-kit-forge` (1)
 - `catalog-transformer` (1)
@@ -167,6 +168,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `constraint-mixer` (1)
 - `constraint-posterizer` (1)
 - `constraint-subtotal` (1)
+- `context-border-tiles` (1)
 - `continuity-echo-token` (1)
 - `continuity-mycelium` (1)
 - `continuity-prop-witness` (1)
@@ -188,8 +190,9 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `dream-errand-planner` (1)
 - `eclipse-token-lock` (1)
 - `edit-humidity-gauge` (1)
-- `edit-quarantine-bubble` (1)
 - `edit-refund-lane` (1)
+- `edit-replacement-tiles` (1)
+- `edit-tile-swaps` (1)
 - `edition-ledger-trail` (1)
 - `edition-trail-memory` (1)
 - `educational-infographic-remix` (1)
@@ -206,16 +209,18 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `field-notebook-plate` (1)
 - `focus-tape-swap` (1)
 - `format-jetstream-router` (1)
-- `format-tide-gauge` (1)
 - `forme-lock-rescue` (1)
+- `frame-fit-scoring` (1)
 - `frame-squeeze` (1)
 - `game-asset-sheet` (1)
 - `gel-wheel-tint` (1)
 - `gesture-to-tool-mockup` (1)
+- `glaze-mood-wagers` (1)
 - `glitch-taxonomy-draft` (1)
 - `glyph-constellation-typeset` (1)
 - `glyph-meteor-race` (1)
 - `grip-auction` (1)
+- `grout-route-mosaic-league` (1)
 - `harvest-judge` (1)
 - `humidity-lock` (1)
 - `icon-object-crosswalk` (1)
@@ -224,8 +229,8 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `interior-style-matrix` (1)
 - `iteration-diff` (1)
 - `jetstream-cut` (1)
+- `kiln-provenance-tags` (1)
 - `kitchen-mise-map` (1)
-- `label-pearl` (1)
 - `label-stake` (1)
 - `label-stitch-judge` (1)
 - `landmark-mold` (1)
@@ -235,6 +240,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `lens-compression-sketch` (1)
 - `lens-distance-bet` (1)
 - `light-logic-proof` (1)
+- `lighting-glaze-tests` (1)
 - `localized-shelf-packaging` (1)
 - `margin-multiball` (1)
 - `mascot-mood-notes` (1)
@@ -250,6 +256,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `mini-tour-stamp-rally` (1)
 - `mold-memory` (1)
 - `mood-mascot-mixer` (1)
+- `mosaic-prompt-grammar` (1)
 - `multilingual-poster-lab` (1)
 - `nebula-noise-denoiser` (1)
 - `nebula-signal-sort` (1)
@@ -292,7 +299,6 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `red-pencil-auction` (1)
 - `reference-drift-windsock` (1)
 - `reference-parallax-check` (1)
-- `reference-shoal-nursery` (1)
 - `reference-warp-thread` (1)
 - `refund-conflict-detail` (1)
 - `registration-peg-track` (1)
@@ -306,7 +312,6 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `root-memory-chain` (1)
 - `safe-fiction-cloudbreak` (1)
 - `safe-harbor-swap` (1)
-- `salinity-bluff` (1)
 - `scale-frame` (1)
 - `scale-shift-registration` (1)
 - `scan-line-item` (1)
@@ -320,21 +325,20 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `shadow-court` (1)
 - `shadow-wager` (1)
 - `shelf-spec-poker` (1)
-- `shoal-memory` (1)
 - `shot-list-rescue` (1)
 - `shuttle-order-draft` (1)
 - `sign-whisper` (1)
 - `silence-plug` (1)
 - `slide-layer-draft` (1)
-- `sluice-edit` (1)
 - `sound-shape-notation` (1)
 - `spec-to-shelf-prototype` (1)
 - `state-lock` (1)
 - `storyboard-continuity-game` (1)
 - `style-coupon-clipping` (1)
 - `style-pollination-dome` (1)
-- `style-salinity-mixer` (1)
 - `style-transfer` (1)
+- `subject-tile-draft` (1)
+- `subject-tiles` (1)
 - `subtotal-dial` (1)
 - `sun-peg` (1)
 - `tabletop-quest-props` (1)
@@ -345,7 +349,6 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `thread-budget-auction` (1)
 - `thumbnail-gate` (1)
 - `thumbnail-stress` (1)
-- `tide-window` (1)
 - `time-machine-before-after` (1)
 - `tone-switchboard` (1)
 - `triage-relay` (1)
@@ -394,72 +397,36 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 
 ## Prompt Gallery
 
-### 001. Derived Play: Tidegate Habitat League
+### 001. Derived Play: Grout Route Mosaic League
 
-![Derived Play: Tidegate Habitat League](assets/images/135-derived-play-tidegate-habitat-league.png)
+![Derived Play: Grout Route Mosaic League](assets/images/137-derived-play-grout-route-mosaic-league.png)
 
-**Tags:** `biome-deal` `education` `game-design` `label-pearl` `salinity-bluff` `shoal-memory` `sluice-edit` `tide-window`
+**Tags:** `border-context-locks` `caption-tessera-clarity` `edit-tile-swaps` `frame-fit-scoring` `glaze-mood-wagers` `grout-route-mosaic-league` `product-mockup` `subject-tile-draft`
 
-**Prompt excerpt:** Create a wide 16:9 original GPT Image 2 derived-play concept image titled in small legible lettering: "GPT Image 2 Tidegate Habitat League". Asset type: a single playable mechanical toy-theater aquarium, not a grid, not a research board, n...
+**Prompt excerpt:** Draw one high-resolution panoramic image: a hands-on mosaic strategy game derived from GPT Image 2 prompting. A tabletop has one shared ceramic mosaic map, loose tiles in trays, grout-route channels, removable spacers, glaze tokens, and ch...
 
 <details>
 <summary>Full prompt</summary>
 
 ```text
-Create a wide 16:9 original GPT Image 2 derived-play concept image titled in small legible lettering: "GPT Image 2 Tidegate Habitat League".
-
-Asset type: a single playable mechanical toy-theater aquarium, not a grid, not a research board, not cards, not a tabletop board game, not a loom, not a receipt, not a patchbay, not a projection table, not a sand table, not a stage, not a planetarium, not a press, and not the same public-exhibit aquarium hall as the source use-case image.
-
-Purpose: derive a new game from the Habitat Aquarium use-case concept. The game is about moving fictional prompt-creatures through changing water locks while keeping image constraints stable.
-
-Scene format: an upright transparent tidegate toy theater with three stacked water levels, brass hand wheels, colored acrylic sluice gates, magnetic creature tokens, sliding habitat trays, a scoring abacus made of glass beads, and a tiny rule scroll. It should feel like a physical playable object photographed in a workshop: compact, vertical, tactile, with visible mechanics and no collage panels.
-
-Six derived mechanics, shown as actual components on the toy theater:
-1. "Biome Deal" - players draft habitat trays for subject, light, texture, scale, and caption before opening the water gates.
-2. "Sluice Edit" - a small edit token passes through a narrow gate that changes only one object while the rest of the tank remains locked.
-3. "Shoal Memory" - matching creature tokens must stay consistent as they travel across three water levels.
-4. "Label Pearl" - tiny pearl tiles carry short fictional labels; points are lost if text drifts away from its plaque.
-5. "Tide Window" - sliding frames crop the same habitat into square, portrait, and panorama windows.
-6. "Salinity Bluff" - players secretly adjust mood, material, and light dials, then reveal whether the subject identity survived.
-
-Visual details: transparent water chambers, clear acrylic edges, brass wheels, bead counters, miniature fictional creatures, engraved labels, small safe fictional icons, workshop lighting, teal water contrasted with coral/orange gate handles and polished steel. No real brands, no real people, no recognizable characters.
-
-Output should be one coherent high-resolution concept photograph/illustration of the playable toy theater, with enough readable labels to understand the rules.
+Draw one high-resolution panoramic image: a hands-on mosaic strategy game derived from GPT Image 2 prompting. A tabletop has one shared ceramic mosaic map, loose tiles in trays, grout-route channels, removable spacers, glaze tokens, and challenge zones for subject tile drafting, border-context locks, glaze mood wagers, caption tessera clarity, edit-tile swaps, and frame-fit scoring. The output format is a playable craft table, not a research board, not cards, not a machine, not a receipt. Use fictional symbols, invented short labels, crisp shadows, ceramic dust, tiny score markers, and warm studio light. Original fictional content only, brand-free, people-free, family-safe.
 ```
 
 </details>
 
-### 002. Use Case Aquarium: Habitat Prompt Ecology
+### 002. Use Case Kiln: Mosaic Prompt Grammar
 
-![Use Case Aquarium: Habitat Prompt Ecology](assets/images/136-use-case-aquarium-habitat-prompt-ecology.png)
+![Use Case Kiln: Mosaic Prompt Grammar](assets/images/138-use-case-kiln-mosaic-prompt-grammar.png)
 
-**Tags:** `brief-to-biome` `caption-coral-reef` `edit-quarantine-bubble` `format-tide-gauge` `infographic` `reference-shoal-nursery` `style-salinity-mixer` `typography`
+**Tags:** `aspect-frame-mosaics` `caption-tesserae` `context-border-tiles` `edit-replacement-tiles` `kiln-provenance-tags` `lighting-glaze-tests` `mosaic-prompt-grammar` `subject-tiles`
 
-**Prompt excerpt:** Create a wide 16:9 original GPT Image 2 use-case concept image titled in small legible lettering: "GPT Image 2 Habitat Aquarium". Asset type: a single continuous public-exhibit aquarium cutaway, not a grid, not a six-panel board, not cards...
+**Prompt excerpt:** Draw one high-resolution square image: a ceramic mosaic workshop for GPT Image 2 experiments. The surface is a half-built wall mural made from loose glazed tiles, grout channels, alignment spacers, color chips, and small kiln tags. It demo...
 
 <details>
 <summary>Full prompt</summary>
 
 ```text
-Create a wide 16:9 original GPT Image 2 use-case concept image titled in small legible lettering: "GPT Image 2 Habitat Aquarium".
-
-Asset type: a single continuous public-exhibit aquarium cutaway, not a grid, not a six-panel board, not cards, not a loom, not a receipt, not a patchbay, not a projection table, not a sand table, not a stage, not a planetarium, not a press.
-
-Purpose: visualize fresh GPT Image 2 use cases through fictional image-prompt habitats. Make it feel like a polished museum-aquarium exhibit where every tank demonstrates a different workflow for creating or editing images.
-
-Scene format: one panoramic glass aquarium hall with six connected habitats, each separated by curved acrylic partitions, overhead pipes, tiny fictional labels, water-level rulers, specimen trays, and soft exhibit lighting. No real brands, no real people, no recognizable characters; all signs and creatures are fictional and family-safe.
-
-Six use-case habitats, each represented as a small visual mechanism inside the continuous aquarium:
-1. "Brief-to-Biome Tank" - a messy fictional image brief decomposes into temperature, depth, lighting, scale, subject, and caption layers.
-2. "Reference Shoal Nursery" - multiple tiny reference thumbnails swim together while a keeper balances consistency without copying exact source images.
-3. "Edit Quarantine Bubble" - an edited object sits in a clear isolation bubble while surrounding water preserves the rest of the scene.
-4. "Caption Coral Reef" - short multilingual fictional labels grow on coral plaques, testing whether text stays readable and aligned.
-5. "Format Tide Gauge" - the same tiny scene rises through square, portrait, landscape, and ultrawide water windows without losing the main subject.
-6. "Style Salinity Mixer" - dials blend material texture, lighting, and mood as colored currents, while keeping the subject identity stable.
-
-Visual details: precise glass reflections, readable but small labels, miniature non-real sea-creatures shaped like abstract prompt tokens, clear water, tiny maintenance tools, specimen tags, layered depth, natural teal plus coral plus stainless-steel palette, cinematic but diagrammatic clarity.
-
-Output should look like one coherent high-resolution concept photograph/illustration of a physical exhibit, not a collage. Include the six labels above as exhibit tags where possible.
+Draw one high-resolution square image: a ceramic mosaic workshop for GPT Image 2 experiments. The surface is a half-built wall mural made from loose glazed tiles, grout channels, alignment spacers, color chips, and small kiln tags. It demonstrates image prompting as tile grammar: subject tiles, context border tiles, lighting glaze tests, caption tesserae, edit-replacement tiles, and aspect-ratio frame mosaics. Make the artifact tactile and modular, with a tile cutter, damp sponge, tray of fictional symbol tiles, and a small paper legend using invented words. Original fictional content only, brand-free, people-free, family-safe.
 ```
 
 </details>

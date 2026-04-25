@@ -18,90 +18,101 @@
   },
   "images": [
     {
-      "title": "Derived Play: Tidegate Habitat League",
-      "caption": "从水族馆用例派生出的透明潮汐闸门玩具剧场：用栖息地抽取、单点闸门编辑、群游记忆、珍珠标签、比例潮窗和盐度诈唬来计分。",
-      "path": "assets/images/135-derived-play-tidegate-habitat-league.png",
-      "alt": "Transparent upright tidegate aquarium toy theater with water locks, creature tokens, dials, crop windows, and bead scoring",
-      "width": 1672,
-      "height": 941,
-      "createdAt": "2026-04-25 21:33:21",
-      "batch": "019dc4d3-14fd-74d2-baa8-8ad063c2757a",
+      "title": "Derived Play: Grout Route Mosaic League",
+      "caption": "派生玩法：把 GPT Image 2 prompt 变成可玩的陶瓷马赛克策略桌，用填缝路线、釉色筹码、替换瓦片和框格得分来训练构图与编辑判断。",
+      "path": "assets/images/137-derived-play-grout-route-mosaic-league.png",
+      "alt": "A panoramic tabletop mosaic strategy game with ceramic tiles, grout routes, glaze tokens, and frame-fit scoring for GPT Image 2 play.",
+      "width": 1536,
+      "height": 1024,
+      "createdAt": "2026-04-25 21:44:00",
+      "batch": "019dc4d3-769f-7f33-8078-27a479f634fd",
       "tags": [
-        "biome-deal",
-        "sluice-edit",
-        "shoal-memory",
-        "label-pearl",
-        "tide-window",
-        "salinity-bluff"
+        "grout-route-mosaic-league",
+        "subject-tile-draft",
+        "border-context-locks",
+        "glaze-mood-wagers",
+        "caption-tessera-clarity",
+        "edit-tile-swaps",
+        "frame-fit-scoring",
+        "batch-019dc4d3"
       ],
-      "prompt": "Create a wide 16:9 original GPT Image 2 derived-play concept image titled in small legible lettering: \"GPT Image 2 Tidegate Habitat League\".\n\nAsset type: a single playable mechanical toy-theater aquarium, not a grid, not a research board, not cards, not a tabletop board game, not a loom, not a receipt, not a patchbay, not a projection table, not a sand table, not a stage, not a planetarium, not a press, and not the same public-exhibit aquarium hall as the source use-case image.\n\nPurpose: derive a new game from the Habitat Aquarium use-case concept. The game is about moving fictional prompt-creatures through changing water locks while keeping image constraints stable.\n\nScene format: an upright transparent tidegate toy theater with three stacked water levels, brass hand wheels, colored acrylic sluice gates, magnetic creature tokens, sliding habitat trays, a scoring abacus made of glass beads, and a tiny rule scroll. It should feel like a physical playable object photographed in a workshop: compact, vertical, tactile, with visible mechanics and no collage panels.\n\nSix derived mechanics, shown as actual components on the toy theater:\n1. \"Biome Deal\" - players draft habitat trays for subject, light, texture, scale, and caption before opening the water gates.\n2. \"Sluice Edit\" - a small edit token passes through a narrow gate that changes only one object while the rest of the tank remains locked.\n3. \"Shoal Memory\" - matching creature tokens must stay consistent as they travel across three water levels.\n4. \"Label Pearl\" - tiny pearl tiles carry short fictional labels; points are lost if text drifts away from its plaque.\n5. \"Tide Window\" - sliding frames crop the same habitat into square, portrait, and panorama windows.\n6. \"Salinity Bluff\" - players secretly adjust mood, material, and light dials, then reveal whether the subject identity survived.\n\nVisual details: transparent water chambers, clear acrylic edges, brass wheels, bead counters, miniature fictional creatures, engraved labels, small safe fictional icons, workshop lighting, teal water contrasted with coral/orange gate handles and polished steel. No real brands, no real people, no recognizable characters.\n\nOutput should be one coherent high-resolution concept photograph/illustration of the playable toy theater, with enough readable labels to understand the rules.",
+      "prompt": "Draw one high-resolution panoramic image: a hands-on mosaic strategy game derived from GPT Image 2 prompting. A tabletop has one shared ceramic mosaic map, loose tiles in trays, grout-route channels, removable spacers, glaze tokens, and challenge zones for subject tile drafting, border-context locks, glaze mood wagers, caption tessera clarity, edit-tile swaps, and frame-fit scoring. The output format is a playable craft table, not a research board, not cards, not a machine, not a receipt. Use fictional symbols, invented short labels, crisp shadows, ceramic dust, tiny score markers, and warm studio light. Original fictional content only, brand-free, people-free, family-safe.",
       "provenance": {
         "status": "external_attributed",
-        "origin": "local_codex_original_concept_with_openai_docs_background",
-        "sourceNote": "Original prompt and gameplay concept by this automation. OpenAI documentation was used only to confirm current image-generation capabilities and prompt-revision behavior."
+        "origin": "local_codex_original_prompt_with_official_docs_background",
+        "sourceNote": "Concepts, prompts, fictional symbols, and visual layouts are original; OpenAI documentation was consulted only for current GPT Image capability background."
       },
       "promptSources": [
         {
-          "title": "Image generation guide",
-          "url": "https://developers.openai.com/api/docs/guides/image-generation",
+          "title": "Image generation | OpenAI API",
+          "url": "https://platform.openai.com/docs/guides/image-generation/",
           "authorOrPublisher": "OpenAI",
-          "license": "OpenAI public documentation; used as current capability background only, no prompt or image copied",
+          "license": "OpenAI documentation; used as current capability background, not as a copied prompt or visual reference.",
           "accessedAt": "2026-04-25",
-          "usedAs": "Capability background for image generation, prompt revision behavior, image inputs/edits, text rendering, and output format planning; no external prompt, image, artwork, repository, or case-study concept was reused."
+          "usedAs": "Capability background for GPT Image generation, editing, flexible output sizes, revised prompts, and known limitations."
         }
       ],
       "contentSafety": {
         "status": "screened",
         "policy": [
-          "Fictional creatures, exhibits, labels, tools, products, places, data, and marks only.",
-          "No civic persuasion, electioneering, real public figures, unsafe operational instructions, adult-only material, graphic harm, real trademarks, celebrity likenesses, copyrighted characters, or living-artist style imitation."
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
         ],
-        "reviewNote": "Prompt and visible output were screened for public-gallery suitability, rights-safe fictionalization, and family-safe content."
+        "reviewNote": "Screened for public-gallery suitability: fictional material, no real brands or people, no restricted civic persuasion, unsafe operational guidance, adult explicitness, or graphic harm."
       },
-      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc4d3-14fd-74d2-baa8-8ad063c2757a/ig_0b92b4ad70313c300169ecc25498848196823346d9918b8313.png"
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc4d3-769f-7f33-8078-27a479f634fd/ig_0c5bf7763b091f470169ecc27b15c48196b1f5edabaef789a3.png"
     },
     {
-      "title": "Use Case Aquarium: Habitat Prompt Ecology",
-      "caption": "把 GPT Image 2 工作流做成连续水族馆剖面：从 brief 分层、参考图一致性、局部编辑、文字珊瑚、比例潮汐到风格盐度混合。",
-      "path": "assets/images/136-use-case-aquarium-habitat-prompt-ecology.png",
-      "alt": "Panoramic fictional aquarium exhibit with six connected prompt-habitat tanks for GPT Image 2 use cases",
-      "width": 1672,
-      "height": 941,
-      "createdAt": "2026-04-25 21:32:06",
-      "batch": "019dc4d3-14fd-74d2-baa8-8ad063c2757a",
+      "title": "Use Case Kiln: Mosaic Prompt Grammar",
+      "caption": "用例玩法：把主体、语境边框、光照釉色、文字碎片、编辑替换和画幅比例做成一面可拆装的陶瓷马赛克语法墙。",
+      "path": "assets/images/138-use-case-kiln-mosaic-prompt-grammar.png",
+      "alt": "A square ceramic mosaic workshop showing GPT Image 2 prompt grammar with subject tiles, border context, glaze tests, and aspect frames.",
+      "width": 1254,
+      "height": 1254,
+      "createdAt": "2026-04-25 21:43:30",
+      "batch": "019dc4d3-769f-7f33-8078-27a479f634fd",
       "tags": [
-        "brief-to-biome",
-        "reference-shoal-nursery",
-        "edit-quarantine-bubble",
-        "caption-coral-reef",
-        "format-tide-gauge",
-        "style-salinity-mixer"
+        "mosaic-prompt-grammar",
+        "subject-tiles",
+        "context-border-tiles",
+        "lighting-glaze-tests",
+        "caption-tesserae",
+        "edit-replacement-tiles",
+        "aspect-frame-mosaics",
+        "kiln-provenance-tags",
+        "batch-019dc4d3"
       ],
-      "prompt": "Create a wide 16:9 original GPT Image 2 use-case concept image titled in small legible lettering: \"GPT Image 2 Habitat Aquarium\".\n\nAsset type: a single continuous public-exhibit aquarium cutaway, not a grid, not a six-panel board, not cards, not a loom, not a receipt, not a patchbay, not a projection table, not a sand table, not a stage, not a planetarium, not a press.\n\nPurpose: visualize fresh GPT Image 2 use cases through fictional image-prompt habitats. Make it feel like a polished museum-aquarium exhibit where every tank demonstrates a different workflow for creating or editing images.\n\nScene format: one panoramic glass aquarium hall with six connected habitats, each separated by curved acrylic partitions, overhead pipes, tiny fictional labels, water-level rulers, specimen trays, and soft exhibit lighting. No real brands, no real people, no recognizable characters; all signs and creatures are fictional and family-safe.\n\nSix use-case habitats, each represented as a small visual mechanism inside the continuous aquarium:\n1. \"Brief-to-Biome Tank\" - a messy fictional image brief decomposes into temperature, depth, lighting, scale, subject, and caption layers.\n2. \"Reference Shoal Nursery\" - multiple tiny reference thumbnails swim together while a keeper balances consistency without copying exact source images.\n3. \"Edit Quarantine Bubble\" - an edited object sits in a clear isolation bubble while surrounding water preserves the rest of the scene.\n4. \"Caption Coral Reef\" - short multilingual fictional labels grow on coral plaques, testing whether text stays readable and aligned.\n5. \"Format Tide Gauge\" - the same tiny scene rises through square, portrait, landscape, and ultrawide water windows without losing the main subject.\n6. \"Style Salinity Mixer\" - dials blend material texture, lighting, and mood as colored currents, while keeping the subject identity stable.\n\nVisual details: precise glass reflections, readable but small labels, miniature non-real sea-creatures shaped like abstract prompt tokens, clear water, tiny maintenance tools, specimen tags, layered depth, natural teal plus coral plus stainless-steel palette, cinematic but diagrammatic clarity.\n\nOutput should look like one coherent high-resolution concept photograph/illustration of a physical exhibit, not a collage. Include the six labels above as exhibit tags where possible.",
+      "prompt": "Draw one high-resolution square image: a ceramic mosaic workshop for GPT Image 2 experiments. The surface is a half-built wall mural made from loose glazed tiles, grout channels, alignment spacers, color chips, and small kiln tags. It demonstrates image prompting as tile grammar: subject tiles, context border tiles, lighting glaze tests, caption tesserae, edit-replacement tiles, and aspect-ratio frame mosaics. Make the artifact tactile and modular, with a tile cutter, damp sponge, tray of fictional symbol tiles, and a small paper legend using invented words. Original fictional content only, brand-free, people-free, family-safe.",
       "provenance": {
         "status": "external_attributed",
-        "origin": "local_codex_original_concept_with_openai_docs_background",
-        "sourceNote": "Original prompt and gameplay concept by this automation. OpenAI documentation was used only to confirm current image-generation capabilities and prompt-revision behavior."
+        "origin": "local_codex_original_prompt_with_official_docs_background",
+        "sourceNote": "Concepts, prompts, fictional symbols, and visual layouts are original; OpenAI documentation was consulted only for current GPT Image capability background."
       },
       "promptSources": [
         {
-          "title": "Image generation guide",
-          "url": "https://developers.openai.com/api/docs/guides/image-generation",
+          "title": "Image generation | OpenAI API",
+          "url": "https://platform.openai.com/docs/guides/image-generation/",
           "authorOrPublisher": "OpenAI",
-          "license": "OpenAI public documentation; used as current capability background only, no prompt or image copied",
+          "license": "OpenAI documentation; used as current capability background, not as a copied prompt or visual reference.",
           "accessedAt": "2026-04-25",
-          "usedAs": "Capability background for image generation, prompt revision behavior, image inputs/edits, text rendering, and output format planning; no external prompt, image, artwork, repository, or case-study concept was reused."
+          "usedAs": "Capability background for GPT Image generation, editing, flexible output sizes, revised prompts, and known limitations."
         }
       ],
       "contentSafety": {
         "status": "screened",
         "policy": [
-          "Fictional creatures, exhibits, labels, tools, products, places, data, and marks only.",
-          "No civic persuasion, electioneering, real public figures, unsafe operational instructions, adult-only material, graphic harm, real trademarks, celebrity likenesses, copyrighted characters, or living-artist style imitation."
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
         ],
-        "reviewNote": "Prompt and visible output were screened for public-gallery suitability, rights-safe fictionalization, and family-safe content."
+        "reviewNote": "Screened for public-gallery suitability: fictional material, no real brands or people, no restricted civic persuasion, unsafe operational guidance, adult explicitness, or graphic harm."
       },
-      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc4d3-14fd-74d2-baa8-8ad063c2757a/ig_0b92b4ad70313c300169ecc1ae4e608196b85155847b9a3142.png"
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc4d3-769f-7f33-8078-27a479f634fd/ig_0c5bf7763b091f470169ecc223d9788196a59544d235909e6d.png"
     },
     {
       "title": "Derived Play: Receipt Run League",
