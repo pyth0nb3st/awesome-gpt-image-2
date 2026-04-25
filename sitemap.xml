@@ -6,6 +6,26 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/146-a-second-polished-gallery-image-that-derives-a-playable-original.png</image:loc>
+      <image:title>Second polished gallery image that derives a playable original mechanic from the p</image:title>
+      <image:caption>Create a second polished gallery image that derives a playable original mechanic from the previous seismograph-paper use case. Title text visible, small and legible: &quot;Derived Play: Tremor Trace Rally&quot; Output format: one continuous co-op tr...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/147-a-single-polished-gallery-image-for-an-original-gpt-image-2-use-.png</image:loc>
+      <image:title>Single polished gallery image for an original GPT Image 2 use-case concept</image:title>
+      <image:caption>Create a single polished gallery image for an original GPT Image 2 use-case concept. Title text visible, small and legible: &quot;Use Case Seismograph: Prompt Tremor Lab&quot; Output format: one continuous analog seismograph paper-roll artifact, lan...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/148-a-premium-square-app-icon-for-a-website-called-awesome-gpt-image.png</image:loc>
+      <image:title>Premium square app icon for a website called &quot;Awesome GPT Image 2&quot;</image:title>
+      <image:caption>Create a premium square app icon for a website called &quot;Awesome GPT Image 2&quot;. 1:1 aspect ratio. Visual direction: editorial design-lab archive badge, warm paper background, subtle grid texture, crisp black ink border, small abstract image-c...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/149-a-premium-open-graph-image-for-a-website-called-awesome-gpt-imag.png</image:loc>
+      <image:title>Premium Open Graph image for a website called &quot;Awesome GPT Image 2&quot;</image:title>
+      <image:caption>Create a premium Open Graph image for a website called &quot;Awesome GPT Image 2&quot;. Aspect ratio 1200x630. Visual direction: editorial design-lab archive, warm paper background, subtle grid texture, crisp black ink border, sophisticated generate...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/145-use-case-sand-scroll-prompt-raking.png</image:loc>
       <image:title>Use Case Sand Scroll: Prompt Raking</image:title>
       <image:caption>Create a single polished gallery image for an original GPT Image 2 use-case concept. Title text visible: &quot;Use Case Sand Scroll: Prompt Raking&quot; Output format: one long horizontal tabletop sand-scroll artifact, seen from above, like a narrow...</image:caption>
@@ -717,6 +737,50 @@
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/146-a-second-polished-gallery-image-that-derives-a-playable-original/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/146-a-second-polished-gallery-image-that-derives-a-playable-original.png</image:loc>
+      <image:title>Second polished gallery image that derives a playable original mechanic from the p</image:title>
+      <image:caption>Create a second polished gallery image that derives a playable original mechanic from the previous seismograph-paper use case. Title text visible, small and legible: &quot;Derived Play: Tremor Trace Rally&quot; Output format: one continuous co-op tr...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/147-a-single-polished-gallery-image-for-an-original-gpt-image-2-use/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/147-a-single-polished-gallery-image-for-an-original-gpt-image-2-use-.png</image:loc>
+      <image:title>Single polished gallery image for an original GPT Image 2 use-case concept</image:title>
+      <image:caption>Create a single polished gallery image for an original GPT Image 2 use-case concept. Title text visible, small and legible: &quot;Use Case Seismograph: Prompt Tremor Lab&quot; Output format: one continuous analog seismograph paper-roll artifact, lan...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/148-a-premium-square-app-icon-for-a-website-called-awesome-gpt-image/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/148-a-premium-square-app-icon-for-a-website-called-awesome-gpt-image.png</image:loc>
+      <image:title>Premium square app icon for a website called &quot;Awesome GPT Image 2&quot;</image:title>
+      <image:caption>Create a premium square app icon for a website called &quot;Awesome GPT Image 2&quot;. 1:1 aspect ratio. Visual direction: editorial design-lab archive badge, warm paper background, subtle grid texture, crisp black ink border, small abstract image-c...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/149-a-premium-open-graph-image-for-a-website-called-awesome-gpt-imag/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/149-a-premium-open-graph-image-for-a-website-called-awesome-gpt-imag.png</image:loc>
+      <image:title>Premium Open Graph image for a website called &quot;Awesome GPT Image 2&quot;</image:title>
+      <image:caption>Create a premium Open Graph image for a website called &quot;Awesome GPT Image 2&quot;. Aspect ratio 1200x630. Visual direction: editorial design-lab archive, warm paper background, subtle grid texture, crisp black ink border, sophisticated generate...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/145-use-case-sand-scroll-prompt-raking/</loc>
@@ -2301,13 +2365,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/photoreal/</loc>
+    <loc>https://gptimg2.best/tags/worldbuilding/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/worldbuilding/</loc>
+    <loc>https://gptimg2.best/tags/photoreal/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
