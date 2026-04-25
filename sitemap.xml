@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/195-derived-play-cast-brush-rally.png</image:loc>
+      <image:title>Derived Play: Cast Brush Rally</image:title>
+      <image:caption>Create one polished public-gallery image titled &quot;Derived Play: Cast Brush Rally&quot;. This is a derived playable mode from Prompt Excavation Block, but it must look like a different rules object: a cooperative timed fossil-casting tabletop cha...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/196-use-case-fossil-prompt-excavation-block.png</image:loc>
+      <image:title>Use Case Fossil: Prompt Excavation Block</image:title>
+      <image:caption>Create one polished public-gallery concept image titled &quot;Use Case Fossil: Prompt Excavation Block&quot;. Output format: a single vertical 4:5 museum-prep macro photograph, not a grid, not cards, not a poster, not a board game, not a sand tray,...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/193-derived-play-charm-latch-relay.png</image:loc>
       <image:title>Derived Play: Charm Latch Relay</image:title>
       <image:caption>Create a single polished public-gallery image titled &quot;Derived Play: Charm Latch Relay&quot;. This is a distinct derived play mode from Prompt Key Fitting, shown as a cooperative tabletop charm-and-latch relay, not the same product diagram and n...</image:caption>
@@ -947,6 +957,28 @@
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/195-derived-play-cast-brush-rally/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/195-derived-play-cast-brush-rally.png</image:loc>
+      <image:title>Derived Play: Cast Brush Rally</image:title>
+      <image:caption>Create one polished public-gallery image titled &quot;Derived Play: Cast Brush Rally&quot;. This is a derived playable mode from Prompt Excavation Block, but it must look like a different rules object: a cooperative timed fossil-casting tabletop cha...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/196-use-case-fossil-prompt-excavation-block/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/196-use-case-fossil-prompt-excavation-block.png</image:loc>
+      <image:title>Use Case Fossil: Prompt Excavation Block</image:title>
+      <image:caption>Create one polished public-gallery concept image titled &quot;Use Case Fossil: Prompt Excavation Block&quot;. Output format: a single vertical 4:5 museum-prep macro photograph, not a grid, not cards, not a poster, not a board game, not a sand tray,...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/193-derived-play-charm-latch-relay/</loc>

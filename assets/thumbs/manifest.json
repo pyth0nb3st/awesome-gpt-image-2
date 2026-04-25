@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/195-derived-play-cast-brush-rally.png": {
+      "path": "assets/thumbs/195-derived-play-cast-brush-rally.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/196-use-case-fossil-prompt-excavation-block.png": {
+      "path": "assets/thumbs/196-use-case-fossil-prompt-excavation-block.jpg",
+      "width": 768,
+      "height": 1200
+    },
     "assets/images/193-derived-play-charm-latch-relay.png": {
       "path": "assets/thumbs/193-derived-play-charm-latch-relay.jpg",
       "width": 768,
