@@ -22,6 +22,7 @@ html {
 
 body {
   margin: 0;
+  padding-bottom: 64px;
   background:
     linear-gradient(90deg, rgba(23, 21, 18, 0.045) 1px, transparent 1px),
     linear-gradient(180deg, rgba(23, 21, 18, 0.035) 1px, transparent 1px),
@@ -491,7 +492,7 @@ pre {
   font-family: ui-sans-serif, system-ui, sans-serif;
 }
 
-footer {
+.site-footer {
   display: grid;
   gap: 8px;
   margin-top: 34px;
@@ -499,6 +500,49 @@ footer {
   padding-top: 18px;
   color: var(--muted);
   font: 13px ui-sans-serif, system-ui, sans-serif;
+}
+
+.fixed-disclaimer {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 80;
+  display: flex;
+  justify-content: center;
+  gap: 14px;
+  align-items: center;
+  min-height: 48px;
+  border-top: 1px solid color-mix(in srgb, var(--ink) 42%, transparent);
+  background: color-mix(in srgb, var(--panel) 94%, white);
+  color: var(--muted);
+  padding: 8px max(16px, calc((100vw - 1240px) / 2 + 16px));
+  box-shadow: 0 -12px 28px rgba(20, 17, 12, 0.12);
+  font: 12px/1.35 ui-sans-serif, system-ui, sans-serif;
+}
+
+.fixed-disclaimer span {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.fixed-disclaimer nav {
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.fixed-disclaimer a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.fixed-disclaimer a:hover {
+  text-decoration: underline;
 }
 
 @media (max-width: 980px) {
@@ -511,6 +555,10 @@ footer {
 }
 
 @media (max-width: 680px) {
+  body {
+    padding-bottom: 86px;
+  }
+
   .site-shell {
     width: min(100% - 20px, 1240px);
     padding-top: 28px;
@@ -530,5 +578,21 @@ footer {
 
   .result-count {
     white-space: normal;
+  }
+
+  .fixed-disclaimer {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 5px;
+    min-height: 70px;
+    padding: 9px 12px;
+  }
+
+  .fixed-disclaimer span {
+    display: -webkit-box;
+    overflow: hidden;
+    white-space: normal;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
   }
 }
