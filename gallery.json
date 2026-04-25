@@ -18,40 +18,26 @@
   },
   "images": [
     {
-      "title": "Derived Play: Tilt Gate League",
-      "caption": "派生玩法：把透镜展廊变成走廊式倾角闯关，用旋转门、rib 下注、重影校准、裁切快门、反光字幕和边缘审计条计分。",
-      "path": "assets/images/139-one-high-resolution-original-derived-play-scene-titled-with-smal.png",
-      "alt": "A walk-through lenticular challenge course with rotating clear gates, rib count bids, ghost frame rescue, crop shutter dash, caption glint checks, and edge stripe audit rails.",
+      "title": "Make a single public-gallery image: an original derived-play challenge called ICE CO",
+      "caption": "历史生成图，批次 019dc4e5-b2f3-7a63-9759-1037497c9e58，生成时间 2026-04-25 22:00:25。",
+      "path": "assets/images/141-make-a-single-public-gallery-image-an-original-derived-play-chal.png",
+      "alt": "Generated image ig_084d72900c1ddaa40169ecc8adb9f48194bae7aa2862ae6dff",
       "width": 1672,
       "height": 941,
-      "createdAt": "2026-04-25 21:53:44",
+      "createdAt": "2026-04-25 22:00:25",
       "batch": "019dc4e5-b2f3-7a63-9759-1037497c9e58",
       "tags": [
-        "tilt-gate-league",
-        "angle-lock",
-        "rib-count-bid",
-        "ghost-frame-rescue",
-        "crop-shutter-dash",
-        "glint-caption-check",
-        "edge-stripe-audit",
+        "historical-import",
+        "prompt-recovered",
         "batch-019dc4e5"
       ],
-      "prompt": "Create one high-resolution original derived-play scene titled with small readable labels: \"GPT Image 2 Tilt Gate League\".\n\nAsset type: 16:9 landscape walk-through lenticular challenge installation, not a grid, not a contact sheet, not cards, not a tabletop board game, not a craft table, not a machine cutaway, not a receipt, not a mosaic wall, not a sand table, not a patchbay, not a film stage, not a planetarium, not a loom, not a printshop, not a weather station, and not the same corridor display as the previous image.\n\nCore idea: derive a playable rule system from the lenticular prompt arcade. The scene is a compact gallery obstacle course made of rotating clear gates, ribbed flip-panels, floor angle arcs, token slots, edge-audit rails, and tiny abstract thumbnails. Players are absent; gameplay is shown through movable tokens, arrows, gate positions, and score lights.\n\nShow six distinct play mechanisms as physical stations with short readable English labels:\n1. \"angle lock\" - choose one viewing angle and keep the fictional object identity stable through three gates.\n2. \"rib count bid\" - wager how many lenticular ribs are needed before small text becomes readable.\n3. \"ghost frame rescue\" - align double images until the before/after edit is clear without losing the safe original subject.\n4. \"crop shutter dash\" - slide shutters quickly through square, tall, wide, and banner windows while preserving the subject.\n5. \"glint caption check\" - catch a light reflection that reveals whether each tiny caption is legible and fictional.\n6. \"edge stripe audit\" - move a transparent token along the side rail only if source, safety, and revision marks are complete.\n\nVisual direction: playable museum installation prototype, prismatic acrylic, ribbed lenticular surfaces, polished concrete floor, floor arcs marked -30, 0, +30, transparent tokens, magnetic gate pivots, small colored score LEDs. Palette uses clear material, black markings, teal, lemon, coral, and a little violet; not dominated by one hue. Make it feel like a real interactive rule course rather than a diagram.\n\nComposition: diagonal perspective from floor level, gates receding through space, six stations integrated along a zigzag path. Labels should be compact and legible; no long paragraphs.\n\nOriginality and safety: original prompt and gameplay concept; suitable for a public prompt gallery; fictional people-free content; non-political, non-adult, non-graphic, non-harmful, no dangerous instructions, no real trademarks, no celebrity likenesses, no copyrighted characters, no living artist style imitation, no watermark.",
+      "prompt": "Make a single public-gallery image: an original derived-play challenge called ICE CORE RELAY, built from the cold-storage cabinet idea. Format is a wide 16:9 cinematic photo of a frosted lab bench with three vertical sample racks, sliding freezer rails, insulated token pucks, color-ring keys, thaw-window lenses, crop sleeves, and a small score thermograph. It must not be a board game, card spread, grid, poster, arcade cabinet, corridor, machine cutaway, press, loom, mosaic, receipt, sand table, patch panel, planetarium, film set, weather room, or tabletop route map.\n\nGameplay is visible without people. Six stations are integrated as cold handling actions with short engraved labels:\n- freeze draft: choose one transparent sample tube and lock an invented object silhouette into the first layer.\n- thaw window: place a warm lens token to edit exactly one harmless patch.\n- frost whisper: read tiny fictional labels through frost before time runs out.\n- sleeve swap: slide square, tall, wide, and banner sleeves over the same ice core while keeping the subject centered.\n- bubble wager: predict which trapped-bubble texture best matches a prompt clue.\n- ring audit: align colored edge rings for revision, safety, and source before the thermograph reaches zero.\n\nShow pucks moving in a relay path across freezer rails, but not as a printed board; the path is made from real metal grooves, frost shadows, and condensation trails. Use abstract invented objects only, no people, no brands, no real places, no famous characters. Palette: cold cyan ice and stainless steel with coral, lemon, mint, and graphite accents. Crisp legible short labels, premium macro product photography, tactile frost, safe original content, no politics, no adult content, no graphic violence, no dangerous instructions, no watermark.",
       "provenance": {
-        "status": "external_attributed",
-        "origin": "local_codex_original_concept_with_official_docs_background",
-        "sourceNote": "Concepts, prompts, fictional labels, and visual layouts are original; OpenAI documentation was consulted only for current GPT Image capability background."
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Generated by the automation from local Codex session metadata. No external prompt/reference source was used unless promptSources is populated."
       },
-      "promptSources": [
-        {
-          "title": "Image generation | OpenAI API",
-          "url": "https://platform.openai.com/docs/guides/image-generation/",
-          "authorOrPublisher": "OpenAI",
-          "license": "OpenAI documentation; used as current capability background, not as a copied prompt or visual reference.",
-          "accessedAt": "2026-04-25",
-          "usedAs": "Capability background for GPT Image generation, editing, flexible output sizes, prompt revision behavior, and known limitations."
-        }
-      ],
+      "promptSources": [],
       "contentSafety": {
         "status": "screened",
         "policy": [
@@ -61,45 +47,31 @@
           "No graphic violence, gore, torture, or dismemberment.",
           "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
         ],
-        "reviewNote": "Screened for public-gallery suitability: fictional people-free material, no real brands, political persuasion, unsafe operational guidance, adult explicitness, or graphic harm."
+        "reviewNote": "Automation is instructed to avoid political, harmful, sexual, explicit, and graphic-violence content before publishing."
       },
-      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc4e5-b2f3-7a63-9759-1037497c9e58/ig_084d72900c1ddaa40169ecc71bfe3c8194a4fd03ce0390278a.png"
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc4e5-b2f3-7a63-9759-1037497c9e58/ig_084d72900c1ddaa40169ecc8adb9f48194bae7aa2862ae6dff.png"
     },
     {
-      "title": "Use Case Arcade: Lenticular Prompt Gates",
-      "caption": "用例玩法：把参考一致性、局部编辑、文字可读、裁切适配、风格相位和来源审计做成一条角度依赖的透镜翻转展廊。",
-      "path": "assets/images/140-one-high-resolution-original-gpt-image-use-case-concept-scene-ti.png",
-      "alt": "A GPT Image 2 lenticular prompt arcade with ribbed flip panels for reference lock, edit reveal, text tests, crop sweep, style phase, and provenance edge stripes.",
-      "width": 1672,
-      "height": 941,
-      "createdAt": "2026-04-25 21:52:30",
+      "title": "Make a single public-gallery image: a cold-storage cabinet of transparent ice-core s",
+      "caption": "历史生成图，批次 019dc4e5-b2f3-7a63-9759-1037497c9e58，生成时间 2026-04-25 21:59:11。",
+      "path": "assets/images/142-make-a-single-public-gallery-image-a-cold-storage-cabinet-of-tra.png",
+      "alt": "Generated image ig_084d72900c1ddaa40169ecc85bab788194b83dea69a4b420dd",
+      "width": 1122,
+      "height": 1402,
+      "createdAt": "2026-04-25 21:59:11",
       "batch": "019dc4e5-b2f3-7a63-9759-1037497c9e58",
       "tags": [
-        "lenticular-prompt-gates",
-        "reference-lock",
-        "edit-reveal",
-        "rib-text-test",
-        "crop-sweep",
-        "style-phase",
-        "edge-provenance",
+        "historical-import",
+        "prompt-recovered",
         "batch-019dc4e5"
       ],
-      "prompt": "Create one high-resolution original GPT Image use-case concept scene titled only with small readable fictional labels: \"GPT Image 2 Lenticular Prompt Arcade\".\n\nAsset type: 16:9 landscape immersive lenticular flip-panel corridor, not a grid, not a contact sheet, not cards, not a tabletop board game, not a craft table, not a machine cutaway, not a receipt, not a mosaic wall, not a sand table, not a patchbay, not a film stage, not a planetarium, not a loom, not a printshop, not a weather station.\n\nCore idea: visualize fun GPT Image 2 use cases through angle-dependent ribbed lenticular display panels. The viewer sees six freestanding translucent panels in a quiet gallery corridor; each panel changes meaning depending on viewing angle, with ribbed plastic texture, small angle markers, edge stripes, crop shutters, and tiny abstract thumbnails. No people.\n\nShow six mechanisms as physical lenticular panels, each with short readable English labels:\n1. \"reference lock\" - the same fictional object remains recognizable from left, center, and right viewing angles.\n2. \"edit reveal\" - a harmless before/after edit appears only when the panel is tilted.\n3. \"rib text test\" - short labels stay readable across the ribbed surface.\n4. \"crop sweep\" - sliding view windows test whether the subject survives square, poster, and banner crops.\n5. \"style phase\" - one invented object moves through three fictional visual moods without copying any artist style.\n6. \"edge provenance\" - a narrow edge stripe records source, safety, and prompt revision checkpoints using invented symbols.\n\nVisual direction: premium exhibition photography, crisp acrylic and lenticular plastic, prismatic highlights, clean white floor, subtle teal, lemon, coral, graphite, and clear materials. Make the angle-dependent illusion visible by showing duplicate ghosted mini-images inside each ribbed panel. Use invented symbols and labels only, no real brands, no public figures, no copyrighted characters, no watermarks.\n\nOriginality and safety: original prompt and concept; suitable for a public prompt gallery; fictional people-free content; non-political, non-adult, non-graphic, non-harmful, no dangerous instructions, no real trademarks, no celebrity likenesses, no living artist style imitation.",
+      "prompt": "Make a single public-gallery image: a cold-storage cabinet of transparent ice-core specimens used as a playful image-generation laboratory. The scene is a tall 4:5 editorial photograph of an open stainless freezer drawer, blue-white frost, numbered glass tubes, colored wax rings, tiny crop calipers, thaw windows, and condensation beads. It is not a board, grid, card spread, poster, arcade, corridor, machine, press, loom, mosaic, receipt, sand table, patch panel, planetarium, film set, weather room, or tabletop game.\n\nThe artifact demonstrates six original GPT Image use cases through physical ice-core samples, with short labels engraved on frosted tabs:\n- core memory: preserve one invented object silhouette through several frozen layers.\n- thaw edit: reveal a harmless local change only in a melted window.\n- frost type: test whether tiny invented labels remain readable under frost.\n- slice format: cut the same core into square, tall, wide, and banner viewing sleeves.\n- bubble texture: compare material textures using trapped air bubbles and colored inclusions.\n- ring ledger: record prompt revision, safety, and source checkpoints as colored rings on the edge of the core.\n\nUse fictional abstract objects only: no people, no brands, no real places, no famous characters. Keep labels compact and legible. Visual feel: premium lab photography, translucent ice, silver rails, pale cyan light, coral and lemon ring markers, graphite labels, tactile condensation, crisp depth. Safe, original, non-political, non-adult, non-graphic, no dangerous procedures, no watermark.",
       "provenance": {
-        "status": "external_attributed",
-        "origin": "local_codex_original_concept_with_official_docs_background",
-        "sourceNote": "Concepts, prompts, fictional labels, and visual layouts are original; OpenAI documentation was consulted only for current GPT Image capability background."
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Generated by the automation from local Codex session metadata. No external prompt/reference source was used unless promptSources is populated."
       },
-      "promptSources": [
-        {
-          "title": "Image generation | OpenAI API",
-          "url": "https://platform.openai.com/docs/guides/image-generation/",
-          "authorOrPublisher": "OpenAI",
-          "license": "OpenAI documentation; used as current capability background, not as a copied prompt or visual reference.",
-          "accessedAt": "2026-04-25",
-          "usedAs": "Capability background for GPT Image generation, editing, flexible output sizes, prompt revision behavior, and known limitations."
-        }
-      ],
+      "promptSources": [],
       "contentSafety": {
         "status": "screened",
         "policy": [
@@ -109,9 +81,9 @@
           "No graphic violence, gore, torture, or dismemberment.",
           "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
         ],
-        "reviewNote": "Screened for public-gallery suitability: fictional people-free material, no real brands, political persuasion, unsafe operational guidance, adult explicitness, or graphic harm."
+        "reviewNote": "Automation is instructed to avoid political, harmful, sexual, explicit, and graphic-violence content before publishing."
       },
-      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc4e5-b2f3-7a63-9759-1037497c9e58/ig_084d72900c1ddaa40169ecc6cb4178819492f4c469ea6b9cdd.png"
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc4e5-b2f3-7a63-9759-1037497c9e58/ig_084d72900c1ddaa40169ecc85bab788194b83dea69a4b420dd.png"
     },
     {
       "title": "Derived Play: Grout Route Mosaic League",
