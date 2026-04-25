@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/135-derived-play-tidegate-habitat-league.png</image:loc>
+      <image:title>Derived Play: Tidegate Habitat League</image:title>
+      <image:caption>Create a wide 16:9 original GPT Image 2 derived-play concept image titled in small legible lettering: &quot;GPT Image 2 Tidegate Habitat League&quot;. Asset type: a single playable mechanical toy-theater aquarium, not a grid, not a research board, n...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/136-use-case-aquarium-habitat-prompt-ecology.png</image:loc>
+      <image:title>Use Case Aquarium: Habitat Prompt Ecology</image:title>
+      <image:caption>Create a wide 16:9 original GPT Image 2 use-case concept image titled in small legible lettering: &quot;GPT Image 2 Habitat Aquarium&quot;. Asset type: a single continuous public-exhibit aquarium cutaway, not a grid, not a six-panel board, not cards...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/133-derived-play-receipt-run-league.png</image:loc>
       <image:title>Derived Play: Receipt Run League</image:title>
       <image:caption>Derived Play: Receipt Run League Asset type: vertical 9:16 playable checkout-conveyor board game photograph, not a grid, not a six-panel research board, not a craft loom, projection table, patchbay, or sand table. Primary request: Derive a...</image:caption>
@@ -687,6 +697,28 @@
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/135-derived-play-tidegate-habitat-league/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/135-derived-play-tidegate-habitat-league.png</image:loc>
+      <image:title>Derived Play: Tidegate Habitat League</image:title>
+      <image:caption>Create a wide 16:9 original GPT Image 2 derived-play concept image titled in small legible lettering: &quot;GPT Image 2 Tidegate Habitat League&quot;. Asset type: a single playable mechanical toy-theater aquarium, not a grid, not a research board, n...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/136-use-case-aquarium-habitat-prompt-ecology/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/136-use-case-aquarium-habitat-prompt-ecology.png</image:loc>
+      <image:title>Use Case Aquarium: Habitat Prompt Ecology</image:title>
+      <image:caption>Create a wide 16:9 original GPT Image 2 use-case concept image titled in small legible lettering: &quot;GPT Image 2 Habitat Aquarium&quot;. Asset type: a single continuous public-exhibit aquarium cutaway, not a grid, not a six-panel board, not cards...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/133-derived-play-receipt-run-league/</loc>
