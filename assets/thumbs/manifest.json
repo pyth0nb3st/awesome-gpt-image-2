@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/123-derived-play-proof-press-league.png": {
+      "path": "assets/thumbs/123-derived-play-proof-press-league.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/124-use-case-bureau-proof-press-workflows.png": {
+      "path": "assets/thumbs/124-use-case-bureau-proof-press-workflows.jpg",
+      "width": 768,
+      "height": 432
+    },
     "assets/images/121-one-original-gpt-image-2-derived-play-concept-image-as-a-16-9-la.png": {
       "path": "assets/thumbs/121-one-original-gpt-image-2-derived-play-concept-image-as-a-16-9-la.jpg",
       "width": 768,

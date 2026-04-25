@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/123-derived-play-proof-press-league.png</image:loc>
+      <image:title>Derived Play: Proof Press League</image:title>
+      <image:caption>Create one original GPT Image 2 derived-play concept image as a 16:9 landscape scene. Title inside the image, small and legible: &quot;GPT Image 2 Proof Press League&quot;. Core format: a playable letterpress workshop game derived from the Proof Pre...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/124-use-case-bureau-proof-press-workflows.png</image:loc>
+      <image:title>Use Case Bureau: Proof Press Workflows</image:title>
+      <image:caption>Create one original GPT Image 2 use-case concept image as a 16:9 landscape scene. Title inside the image, small and legible: &quot;GPT Image 2 Proof Press Bureau&quot;. Core format: a single fictional printmaking and proofing bureau for creative ima...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/121-one-original-gpt-image-2-derived-play-concept-image-as-a-16-9-la.png</image:loc>
       <image:title>Derived Play: Shuttle Draft</image:title>
       <image:caption>Create one original GPT Image 2 derived-play concept image as a 16:9 landscape scene. Title inside the image, small and legible: &quot;GPT Image 2 Shuttle Draft&quot;. Core format: a playable upright loom game derived from the Reference Loom idea. I...</image:caption>
@@ -627,6 +637,28 @@
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/123-derived-play-proof-press-league/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/123-derived-play-proof-press-league.png</image:loc>
+      <image:title>Derived Play: Proof Press League</image:title>
+      <image:caption>Create one original GPT Image 2 derived-play concept image as a 16:9 landscape scene. Title inside the image, small and legible: &quot;GPT Image 2 Proof Press League&quot;. Core format: a playable letterpress workshop game derived from the Proof Pre...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/124-use-case-bureau-proof-press-workflows/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/124-use-case-bureau-proof-press-workflows.png</image:loc>
+      <image:title>Use Case Bureau: Proof Press Workflows</image:title>
+      <image:caption>Create one original GPT Image 2 use-case concept image as a 16:9 landscape scene. Title inside the image, small and legible: &quot;GPT Image 2 Proof Press Bureau&quot;. Core format: a single fictional printmaking and proofing bureau for creative ima...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/121-one-original-gpt-image-2-derived-play-concept-image-as-a-16-9-la/</loc>
