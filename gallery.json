@@ -5,6 +5,40 @@
   "summary": "A visual gallery of playful GPT Image use cases, prompts, and experiment patterns. Images are stored in this repository for GitHub Pages publishing.",
   "images": [
     {
+      "title": "Use case: stylized-concept",
+      "caption": "历史生成图，批次 019dc255-7e4b-7562-b49f-5dfa1d918887，生成时间 2026-04-25 09:56:46。",
+      "path": "assets/images/083-use-case-stylized-concept.png",
+      "alt": "Generated image ig_0399517c54fc15800169ec1ec5e9dc819aa9a14fb895c8e4ea",
+      "width": 1536,
+      "height": 1024,
+      "createdAt": "2026-04-25 09:56:46",
+      "batch": "019dc255-7e4b-7562-b49f-5dfa1d918887",
+      "tags": [
+        "historical-import",
+        "prompt-recovered",
+        "batch-019dc255"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: gallery contact sheet for derived GPT Image play formats\nPrimary request: Create a polished 3x2 contact sheet showing six NEW game-like play formats derived from the use cases in the companion board. These are interaction/game mechanics for using GPT Image outputs, not simple repeats of earlier recorded games such as regression detective, constraint bingo, prompt relay, variant draft arena, scene grammar kit, scale-shift microscope, wardrobe audit, gallery speedrun, drill-path puzzle, material truth table, waveform jam, or maintenance triage.\nPanels:\n1. Claim Court: players prosecute or defend generated ad posters by placing evidence tokens on visual claims, missing caveats, and emotional manipulation cues.\n2. Access Route Remix: players redraw a generated street scene for different bodies and contexts, scoring friction removed per edit round.\n3. Director's Cut Ladder: players convert a script scene into increasingly constrained shot boards, then vote on the clearest emotional beat.\n4. Aging Oracle: players predict which generated product details will fail first, then generate later-life variants to reveal outcomes.\n5. Taste Telemetry Duel: two teams turn the same flavor card into packaging, lighting, texture, and vessel images, then blind-rank sensory fit.\n6. Edge-Case Hunt: players draft rare generated dataset examples and build the smallest set that covers the most failure modes.\nStyle/medium: premium tabletop rulebook spread meets design-research wall, realistic game components, tokens, cards, mini boards, pencils, sticky notes, image tiles, no brand names.\nComposition/framing: 3 columns by 2 rows, six clear panels; each panel contains a compact play setup with components and scoring traces; small labels okay but do not rely on exact typography.\nLighting/mood: warm studio table lighting with crisp shadows, collaborative and experimental.\nColor palette: varied panel accents, neutral tabletop, black ink, colored tokens, photographic tiles.\nConstraints: no logos, no watermarks, no real company marks, avoid repeating prior recorded play formats; every panel should feel playable and recordable.",
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc255-7e4b-7562-b49f-5dfa1d918887/ig_0399517c54fc15800169ec1ec5e9dc819aa9a14fb895c8e4ea.png"
+    },
+    {
+      "title": "Use case: stylized-concept",
+      "caption": "历史生成图，批次 019dc255-7e4b-7562-b49f-5dfa1d918887，生成时间 2026-04-25 09:54:14。",
+      "path": "assets/images/084-use-case-stylized-concept.png",
+      "alt": "Generated image ig_0399517c54fc15800169ec1e41a1c4819a9f5d0578296d04f4",
+      "width": 1536,
+      "height": 1024,
+      "createdAt": "2026-04-25 09:54:14",
+      "batch": "019dc255-7e4b-7562-b49f-5dfa1d918887",
+      "tags": [
+        "historical-import",
+        "prompt-recovered",
+        "batch-019dc255"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: gallery contact sheet for GPT Image use case research\nPrimary request: Create a polished 3x2 contact sheet showing six NEW practical GPT Image-family use cases that are playful but not repeats of product remix, museum field guides, UI portals, weather portraits, recipe still lifes, micro-brands, masked edits, character episodes, diagram dioramas, annotation archaeology, localization stress tests, RPG rarity ladders, data anomaly cards, assembly manuals, patent sketches, itinerary maps, facade lighting, board games, wardrobe boards, exhibit rehearsals, emergency drills, material substitution, waveform stages, or maintenance logs.\nPanels:\n1. Policy red-team ad lab: a wall of synthetic posters being checked for claims, disclosures, and misleading visual cues.\n2. Accessibility empathy simulator: one street corner visualized through low vision, glare, one-handed use, wheelchair route, and audio-only cue overlays.\n3. Script-to-camera blocking: a short dialogue scene transformed into overhead blocking, lens cards, actor marks, and lighting setup.\n4. Future wear forecast: one everyday backpack shown as pristine, six-month scuffed, repaired, patched, and end-of-life material states.\n5. Flavor-to-form atlas: a drink flavor profile turned into color, texture, vessel shape, garnish, and mood boards.\n6. Synthetic dataset gap filler: a QA table showing rare edge-case product photos generated under unusual angles, weather, occlusion, and lighting.\nStyle/medium: high-end editorial design board, crisp photorealistic miniature scenes mixed with clean annotation graphics, no brand names.\nComposition/framing: 3 columns by 2 rows, each panel visually distinct, small legible title areas but avoid relying on exact text; rich details, balanced margins.\nLighting/mood: bright studio-documentary lighting, practical and inventive.\nColor palette: varied but coherent; white workspace, signal colors, natural material accents.\nConstraints: no logos, no watermarks, no real company marks, avoid repeating earlier gallery concepts; prioritize clear use-case differentiation.",
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc255-7e4b-7562-b49f-5dfa1d918887/ig_0399517c54fc15800169ec1e41a1c4819a9f5d0578296d04f4.png"
+    },
+    {
       "title": "a second single high-quality landscape concept board showing six NEW derived game-li",
       "caption": "历史生成图，批次 019dc241-cff4-7851-886a-53946fe42e59，生成时间 2026-04-25 09:33:34。",
       "path": "assets/images/079-gpt-image-2-play-formats-evaluation-games.png",
