@@ -42,6 +42,25 @@ export const slugify = (value) =>
 
 export const absoluteUrl = (path) => new URL(path, SITE_URL).toString();
 
+export const humanizeTag = (tag) =>
+  String(tag)
+    .split("-")
+    .filter(Boolean)
+    .map((part) => part.charAt(0).toUpperCase() + part.slice(1))
+    .join(" ");
+
+export const imageSlug = (image, index = 0) => {
+  const fileName = String(image.path ?? "")
+    .split("/")
+    .pop()
+    ?.replace(/\.[a-z0-9]+$/i, "");
+  return slugify(fileName || `${String(index + 1).padStart(3, "0")}-${cleanTitle(image, index)}`);
+};
+
+export const promptPagePath = (image, index = 0) => `prompts/${imageSlug(image, index)}/`;
+
+export const tagPagePath = (tag) => `tags/${slugify(tag)}/`;
+
 export const markdownEscape = (value) =>
   String(value).replaceAll("|", "\\|").replaceAll("\r\n", "\n");
 

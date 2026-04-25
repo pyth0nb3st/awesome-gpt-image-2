@@ -66,6 +66,7 @@ This is an awesome-style archive for GPT Image 2 / GPT Image prompt exploration.
 - [Popular Tags](#popular-tags)
 - [Gallery Features](#gallery-features)
 - [Creator Tools](#creator-tools)
+- [SEO Landing Pages](#seo-landing-pages)
 - [Prompt Gallery](#prompt-gallery)
 - [Rebuild](#rebuild)
 - [Notes](#notes)
@@ -90,11 +91,18 @@ ${tagIndex}
 - **Image SEO:** descriptive filenames, alt text, captions, and full prompt text near every image.
 - **Prompt preservation:** prompts are recovered from Codex image-generation session logs and stored in \`gallery.json\`.
 - **GitHub Pages ready:** the public site is served from the repository root.
+- **Programmatic inner pages:** every image has a dedicated prompt page, and recurring tags have crawlable collection pages.
 
 ## Creator Tools
 
 - [Drill](${DRILL_URL}) helps readers drill into dense articles, papers, and technical ideas.
 - [VibeArt](${VIBEART_URL}) is an AI visual creation workspace for turning prompts and concepts into usable visual assets.
+
+## SEO Landing Pages
+
+- [Prompt page index](${SITE_URL}prompts/) links to ${data.images.length} individual GPT Image 2 prompt examples.
+- [Tag page index](${SITE_URL}tags/) groups examples by visual intent, asset type, and workflow.
+- Each generated prompt page includes a unique title, meta description, canonical URL, Open Graph image, image schema, full prompt text, and related internal links.
 
 ## Prompt Gallery
 

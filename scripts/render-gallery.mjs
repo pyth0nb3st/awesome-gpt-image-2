@@ -11,12 +11,15 @@ import {
   displayTags,
   escapeAttribute,
   escapeHtml,
+  promptPagePath,
   promptExcerpt,
+  tagPagePath,
   tagCounts,
 } from "./gallery-utils.mjs";
 
 const data = JSON.parse(await readFile(new URL("../gallery.json", import.meta.url), "utf8"));
 const counts = tagCounts(data.images);
+const indexableTags = new Set(counts.filter(([, count]) => count >= 2).map(([tag]) => tag));
 const topTags = counts.slice(0, 24);
 const heroImage = data.images[0];
 const seoDescription = buildSeoDescription(data.images);
@@ -33,7 +36,15 @@ const cards = data.images
   .map((image, index) => {
     const title = cleanTitle(image, index);
     const tags = displayTags(image);
-    const tagList = tags.map((tag) => `<li>${escapeHtml(tag)}</li>`).join("\n                ");
+    const pagePath = promptPagePath(image, index);
+    const tagList = tags
+      .map((tag) => {
+        const label = escapeHtml(tag);
+        return indexableTags.has(tag)
+          ? `<li><a href="${escapeAttribute(tagPagePath(tag))}">${label}</a></li>`
+          : `<li>${label}</li>`;
+      })
+      .join("\n                ");
     const search = [title, image.caption, image.prompt, ...tags].join(" ").toLowerCase();
 
     return `        <article class="card" id="prompt-${index + 1}" data-search="${escapeAttribute(search)}" data-tags="${escapeAttribute(tags.join(" "))}">
@@ -42,11 +53,12 @@ const cards = data.images
           </a>
           <div class="content">
             <div class="eyebrow">#${String(index + 1).padStart(2, "0")} · ${escapeHtml(image.createdAt ?? "historical")}</div>
-            <h2>${escapeHtml(title)}</h2>
+            <h2><a class="title-link" href="${escapeAttribute(pagePath)}">${escapeHtml(title)}</a></h2>
             <p class="caption">${escapeHtml(image.caption)}</p>
             <ul class="tags">
               ${tagList}
             </ul>
+            <a class="detail-link" href="${escapeAttribute(pagePath)}">Open prompt SEO page</a>
             <details>
               <summary>Prompt</summary>
               <pre>${escapeHtml(image.prompt)}</pre>
@@ -447,6 +459,26 @@ const html = `<!doctype html>
         font-weight: 800;
       }
 
+      .tags a,
+      .title-link {
+        color: inherit;
+        text-decoration: none;
+      }
+
+      .title-link:hover,
+      .tags a:hover {
+        text-decoration: underline;
+      }
+
+      .detail-link {
+        width: fit-content;
+        color: var(--accent);
+        font-family: ui-sans-serif, system-ui, sans-serif;
+        font-size: 12px;
+        font-weight: 900;
+        text-transform: uppercase;
+      }
+
       details {
         border-top: 1px solid var(--line);
         padding-top: 10px;
@@ -520,6 +552,8 @@ const html = `<!doctype html>
           <nav class="hero-links" aria-label="Project links">
             <a href="${DRILL_URL}">Drill</a>
             <a href="${VIBEART_URL}">VibeArt</a>
+            <a href="prompts/">Prompt pages</a>
+            <a href="tags/">Tag pages</a>
             <a href="${REPO_URL}">GitHub repo</a>
             <a href="gallery.json">Raw gallery JSON</a>
             <a href="sitemap.xml">Sitemap</a>
@@ -656,6 +690,34 @@ const sitemapImages = data.images
   )
   .join("\n");
 
+const promptSitemapUrls = data.images
+  .map(
+    (image, index) => `  <url>
+    <loc>${escapeHtml(absoluteUrl(promptPagePath(image, index)))}</loc>
+    <lastmod>${updated}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>${escapeHtml(absoluteUrl(image.path))}</image:loc>
+      <image:title>${escapeHtml(cleanTitle(image, index))}</image:title>
+      <image:caption>${escapeHtml(promptExcerpt(image.prompt, 240))}</image:caption>
+    </image:image>
+  </url>`,
+  )
+  .join("\n");
+
+const tagSitemapUrls = counts
+  .filter(([, count]) => count >= 2)
+  .map(
+    ([tag]) => `  <url>
+    <loc>${escapeHtml(absoluteUrl(tagPagePath(tag)))}</loc>
+    <lastmod>${updated}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>`,
+  )
+  .join("\n");
+
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
@@ -665,6 +727,20 @@ const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
     <priority>1.0</priority>
 ${sitemapImages}
   </url>
+  <url>
+    <loc>${escapeHtml(absoluteUrl("prompts/"))}</loc>
+    <lastmod>${updated}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>${escapeHtml(absoluteUrl("tags/"))}</loc>
+    <lastmod>${updated}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+${promptSitemapUrls}
+${tagSitemapUrls}
 </urlset>
 `;
 
@@ -685,6 +761,8 @@ Gallery JSON: ${SITE_URL}gallery.json
 Sitemap: ${SITE_URL}sitemap.xml
 
 The site contains ${data.images.length} generated image examples. Each example includes a repository-local image, full prompt text, dimensions, creation time, and semantic tags for prompt discovery.
+Dedicated prompt pages: ${data.images.length}
+Dedicated tag pages: ${counts.filter(([, count]) => count >= 2).length}
 
 Top tags:
 ${counts

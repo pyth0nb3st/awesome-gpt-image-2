@@ -9,6 +9,8 @@ Gallery JSON: https://gptimg2.best/gallery.json
 Sitemap: https://gptimg2.best/sitemap.xml
 
 The site contains 94 generated image examples. Each example includes a repository-local image, full prompt text, dimensions, creation time, and semantic tags for prompt discovery.
+Dedicated prompt pages: 94
+Dedicated tag pages: 24
 
 Top tags:
 - typography: 60
