@@ -1,6 +1,7 @@
 import { notFound } from "next/navigation";
 import TagDetailPageContent from "../../../components/pages/TagDetailPage";
-import { getEntriesByTag, humanizeTag, tagEntries, tagUrl } from "../../../lib/gallery";
+import { getEntriesByTag, tagEntries, tagUrl } from "../../../lib/gallery";
+import { tagLabel } from "../../../lib/i18n";
 
 export function generateStaticParams() {
   return tagEntries.map(([tag]) => ({ tag }));
@@ -11,7 +12,7 @@ export async function generateMetadata({ params }) {
   const entries = getEntriesByTag(tag);
   if (entries.length === 0) return {};
 
-  const label = humanizeTag(tag);
+  const label = tagLabel(tag, "en");
   const description = `Browse ${entries.length} GPT Image 2 examples about ${label.toLowerCase()}, including generated images, prompt text, and related ideas.`;
 
   return {

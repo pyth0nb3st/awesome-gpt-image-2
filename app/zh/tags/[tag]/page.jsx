@@ -1,7 +1,7 @@
 import { notFound } from "next/navigation";
 import TagDetailPageContent from "../../../../components/pages/TagDetailPage";
-import { getEntriesByTag, humanizeTag, tagEntries, tagUrl } from "../../../../lib/gallery";
-import { getCopy } from "../../../../lib/i18n";
+import { getEntriesByTag, tagEntries, tagUrl } from "../../../../lib/gallery";
+import { getCopy, tagLabel } from "../../../../lib/i18n";
 
 export function generateStaticParams() {
   return tagEntries.map(([tag]) => ({ tag }));
@@ -13,7 +13,7 @@ export async function generateMetadata({ params }) {
   if (entries.length === 0) return {};
 
   const t = getCopy("zh");
-  const label = humanizeTag(tag);
+  const label = tagLabel(tag, "zh");
   const description = t.tagDescription(entries.length, label);
 
   return {

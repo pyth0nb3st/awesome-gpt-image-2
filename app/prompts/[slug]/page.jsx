@@ -1,6 +1,7 @@
 import { notFound } from "next/navigation";
 import PromptDetailPageContent from "../../../components/pages/PromptDetailPage";
 import { galleryEntries, getEntryBySlug, imageUrl, promptExcerpt } from "../../../lib/gallery";
+import { tagLabel } from "../../../lib/i18n";
 
 export function generateStaticParams() {
   return galleryEntries.map((entry) => ({ slug: entry.slug }));
@@ -12,7 +13,7 @@ export async function generateMetadata({ params }) {
   if (!entry) return {};
 
   const description = promptExcerpt(
-    `${entry.title}. Full GPT Image 2 example with generated image, topics ${entry.tags.join(", ")}, and reusable prompt structure.`,
+    `${entry.title}. GPT Image 2 example with generated image, topics ${entry.tags.map((tag) => tagLabel(tag, "en")).join(", ")}, and reusable prompt structure.`,
     158,
   );
 

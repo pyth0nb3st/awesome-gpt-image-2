@@ -1,25 +1,28 @@
 import "./globals.css";
-import { SITE_URL, seoDescription } from "../lib/gallery";
+import { SITE_URL } from "../lib/gallery";
+import { getCopy } from "../lib/i18n";
+
+const t = getCopy("en");
 
 export const metadata = {
   metadataBase: new URL(SITE_URL),
   title: {
-    default: "Awesome GPT Image 2 Prompts & Use Cases Gallery",
+    default: t.homeTitle,
     template: "%s | Awesome GPT Image 2",
   },
-  description: seoDescription,
+  description: t.homeDescription,
   authors: [{ name: "pyth0nb3st" }],
   openGraph: {
     type: "website",
     siteName: "Awesome GPT Image 2",
-    title: "Awesome GPT Image 2 Prompts & Use Cases",
-    description: seoDescription,
+    title: t.homeTitle,
+    description: t.homeDescription,
     url: SITE_URL,
   },
   twitter: {
     card: "summary_large_image",
-    title: "Awesome GPT Image 2 Prompts & Use Cases",
-    description: seoDescription,
+    title: t.homeTitle,
+    description: t.homeDescription,
   },
   robots: {
     index: true,
