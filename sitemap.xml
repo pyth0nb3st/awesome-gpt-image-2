@@ -7,12 +7,12 @@
     <priority>1.0</priority>
     <image:image>
       <image:loc>https://gptimg2.best/assets/images/143-a-second-polished-gallery-image-that-derives-a-playable-original.png</image:loc>
-      <image:title>Second polished gallery image that derives a playable original mechanic from the p</image:title>
+      <image:title>Derived Play: Rake Maze League</image:title>
       <image:caption>Create a second polished gallery image that derives a playable original mechanic from the previous sand-tray use case. Title text visible: &quot;Derived Play: Rake Maze League&quot; Output format: one tabletop sand-tray game seen from above, shaped...</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://gptimg2.best/assets/images/144-a-single-polished-gallery-image-for-an-original-gpt-image-2-use-.png</image:loc>
-      <image:title>Single polished gallery image for an original GPT Image 2 use-case concept</image:title>
+      <image:title>Use Case Sand Tray: Prompt Raking</image:title>
       <image:caption>Create a single polished gallery image for an original GPT Image 2 use-case concept. Title text visible: &quot;Use Case Sand Tray: Prompt Raking&quot; Output format: a continuous top-down tabletop sand tray artifact, not a 2x3 board, not a card spre...</image:caption>
     </image:image>
     <image:image>
@@ -725,7 +725,7 @@
     <priority>0.7</priority>
     <image:image>
       <image:loc>https://gptimg2.best/assets/images/143-a-second-polished-gallery-image-that-derives-a-playable-original.png</image:loc>
-      <image:title>Second polished gallery image that derives a playable original mechanic from the p</image:title>
+      <image:title>Derived Play: Rake Maze League</image:title>
       <image:caption>Create a second polished gallery image that derives a playable original mechanic from the previous sand-tray use case. Title text visible: &quot;Derived Play: Rake Maze League&quot; Output format: one tabletop sand-tray game seen from above, shaped...</image:caption>
     </image:image>
   </url>
@@ -736,7 +736,7 @@
     <priority>0.7</priority>
     <image:image>
       <image:loc>https://gptimg2.best/assets/images/144-a-single-polished-gallery-image-for-an-original-gpt-image-2-use-.png</image:loc>
-      <image:title>Single polished gallery image for an original GPT Image 2 use-case concept</image:title>
+      <image:title>Use Case Sand Tray: Prompt Raking</image:title>
       <image:caption>Create a single polished gallery image for an original GPT Image 2 use-case concept. Title text visible: &quot;Use Case Sand Tray: Prompt Raking&quot; Output format: a continuous top-down tabletop sand tray artifact, not a 2x3 board, not a card spre...</image:caption>
     </image:image>
   </url>
@@ -2295,12 +2295,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/worldbuilding/</loc>
-    <lastmod>2026-04-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://gptimg2.best/tags/infographic/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -2308,6 +2302,12 @@
   </url>
   <url>
     <loc>https://gptimg2.best/tags/photoreal/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/worldbuilding/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>

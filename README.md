@@ -42,18 +42,18 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 
 - `product-mockup` (81)
 - `typography` (78)
-- `game-design` (69)
+- `game-design` (68)
 - `ui-mockup` (63)
 - `storytelling` (54)
 - `lighting-weather` (36)
-- `worldbuilding` (34)
 - `infographic` (33)
 - `photoreal` (33)
+- `worldbuilding` (33)
 - `education` (23)
 - `interior-design` (23)
 - `material-study` (17)
-- `evaluation` (16)
-- `operations` (16)
+- `evaluation` (15)
+- `operations` (15)
 - `productivity-visual` (15)
 - `stylized-concept` (15)
 - `illustration-story` (9)
@@ -67,6 +67,20 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 
 ### Latest Play Tags
 
+- `rake-maze-league` - Derived Play: Rake Maze League
+- `rake-budget` - Derived Play: Rake Maze League
+- `pebble-anchor` - Derived Play: Rake Maze League
+- `smooth-patch` - Derived Play: Rake Maze League
+- `text-furrow` - Derived Play: Rake Maze League
+- `wind-reset` - Derived Play: Rake Maze League
+- `memory-scar` - Derived Play: Rake Maze League
+- `sand-tray-prompt-raking` - Use Case Sand Tray: Prompt Raking
+- `stroke-prompt` - Use Case Sand Tray: Prompt Raking
+- `pebble-reference` - Use Case Sand Tray: Prompt Raking
+- `edit-window` - Use Case Sand Tray: Prompt Raking
+- `caption-furrow` - Use Case Sand Tray: Prompt Raking
+- `texture-drift` - Use Case Sand Tray: Prompt Raking
+- `memory-path` - Use Case Sand Tray: Prompt Raking
 - `ice-core-relay` - Derived Play: Ice Core Relay
 - `freeze-draft` - Derived Play: Ice Core Relay
 - `thaw-window` - Derived Play: Ice Core Relay
@@ -89,38 +103,24 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `edit-tile-swaps` - Derived Play: Grout Route Mosaic League
 - `frame-fit-scoring` - Derived Play: Grout Route Mosaic League
 - `mosaic-prompt-grammar` - Use Case Kiln: Mosaic Prompt Grammar
-- `subject-tiles` - Use Case Kiln: Mosaic Prompt Grammar
-- `context-border-tiles` - Use Case Kiln: Mosaic Prompt Grammar
-- `lighting-glaze-tests` - Use Case Kiln: Mosaic Prompt Grammar
-- `caption-tesserae` - Use Case Kiln: Mosaic Prompt Grammar
-- `edit-replacement-tiles` - Use Case Kiln: Mosaic Prompt Grammar
-- `aspect-frame-mosaics` - Use Case Kiln: Mosaic Prompt Grammar
-- `kiln-provenance-tags` - Use Case Kiln: Mosaic Prompt Grammar
-- `scan-line-item` - Derived Play: Receipt Run League
-- `coupon-veto` - Derived Play: Receipt Run League
-- `refund-conflict-detail` - Derived Play: Receipt Run League
-- `bag-format-tray` - Derived Play: Receipt Run League
-- `subtotal-dial` - Derived Play: Receipt Run League
-- `receipt-audit-gate` - Derived Play: Receipt Run League
-- `prompt-line-itemization` - Use Case Receipt: Prompt Accounting
 
 <details>
 <summary>All generated tags</summary>
 
 - `product-mockup` (81)
 - `typography` (78)
-- `game-design` (69)
+- `game-design` (68)
 - `ui-mockup` (63)
 - `storytelling` (54)
 - `lighting-weather` (36)
-- `worldbuilding` (34)
 - `infographic` (33)
 - `photoreal` (33)
+- `worldbuilding` (33)
 - `education` (23)
 - `interior-design` (23)
 - `material-study` (17)
-- `evaluation` (16)
-- `operations` (16)
+- `evaluation` (15)
+- `operations` (15)
 - `productivity-visual` (15)
 - `stylized-concept` (15)
 - `illustration-story` (9)
@@ -154,6 +154,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `calendar-scene-forge` (1)
 - `camera-blocking-rehearsal` (1)
 - `caption-compost-bin` (1)
+- `caption-furrow` (1)
 - `caption-register-strip` (1)
 - `caption-scene-grounder` (1)
 - `caption-tessera-clarity` (1)
@@ -196,6 +197,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `edit-refund-lane` (1)
 - `edit-replacement-tiles` (1)
 - `edit-tile-swaps` (1)
+- `edit-window` (1)
 - `edition-ledger-trail` (1)
 - `edition-trail-memory` (1)
 - `educational-infographic-remix` (1)
@@ -259,6 +261,8 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `material-honesty-audit` (1)
 - `meeting-memory-board` (1)
 - `memory-palace-map` (1)
+- `memory-path` (1)
+- `memory-scar` (1)
 - `messy-brief-sanitizer` (1)
 - `microbrand-kit` (1)
 - `mini-tour-stamp-rally` (1)
@@ -279,6 +283,8 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `palette-detective` (1)
 - `panel` (1)
 - `parallax-star-hop` (1)
+- `pebble-anchor` (1)
+- `pebble-reference` (1)
 - `pictogram-jackpot` (1)
 - `pin-register-duel` (1)
 - `policy-comic-translator` (1)
@@ -290,7 +296,6 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `projection-score-window` (1)
 - `prompt-archaeology` (1)
 - `prompt-escape-room` (1)
-- `prompt-gallery` (1)
 - `prompt-line-itemization` (1)
 - `prompt-pressure-altimeter` (1)
 - `prompt-seed-vault` (1)
@@ -300,6 +305,8 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `provenance-stamp` (1)
 - `prune-the-prompt` (1)
 - `qa-spot-the-diff` (1)
+- `rake-budget` (1)
+- `rake-maze-league` (1)
 - `readable-crop-rehearsal` (1)
 - `receipt-audit-gate` (1)
 - `recipe-forensics` (1)
@@ -323,6 +330,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `root-memory-chain` (1)
 - `safe-fiction-cloudbreak` (1)
 - `safe-harbor-swap` (1)
+- `sand-tray-prompt-raking` (1)
 - `scale-frame` (1)
 - `scale-shift-registration` (1)
 - `scan-line-item` (1)
@@ -343,10 +351,12 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `sleeve-swap` (1)
 - `slice-format` (1)
 - `slide-layer-draft` (1)
+- `smooth-patch` (1)
 - `sound-shape-notation` (1)
 - `spec-to-shelf-prototype` (1)
 - `state-lock` (1)
 - `storyboard-continuity-game` (1)
+- `stroke-prompt` (1)
 - `style-coupon-clipping` (1)
 - `style-pollination-dome` (1)
 - `style-transfer` (1)
@@ -356,9 +366,11 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `sun-peg` (1)
 - `tabletop-quest-props` (1)
 - `tactile-diagram-draft` (1)
+- `text-furrow` (1)
 - `text-label-embroider` (1)
 - `text-legibility-barometer` (1)
 - `texture-cipher-relay` (1)
+- `texture-drift` (1)
 - `thaw-edit` (1)
 - `thaw-window` (1)
 - `thread-budget-auction` (1)
@@ -376,6 +388,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `weather-oracle-cards` (1)
 - `weather-stress-test` (1)
 - `week-remix-draft` (1)
+- `wind-reset` (1)
 - `windsock-swap` (1)
 - `worldbuilding-atlas` (1)
 
@@ -412,11 +425,11 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 
 ## Prompt Gallery
 
-### 001. Second polished gallery image that derives a playable original mechanic from the p
+### 001. Derived Play: Rake Maze League
 
-![Second polished gallery image that derives a playable original mechanic from the p](assets/images/143-a-second-polished-gallery-image-that-derives-a-playable-original.png)
+![Derived Play: Rake Maze League](assets/images/143-a-second-polished-gallery-image-that-derives-a-playable-original.png)
 
-**Tags:** `evaluation` `game-design` `operations` `product-mockup` `worldbuilding`
+**Tags:** `memory-scar` `pebble-anchor` `product-mockup` `rake-budget` `rake-maze-league` `smooth-patch` `text-furrow` `wind-reset`
 
 **Prompt excerpt:** Create a second polished gallery image that derives a playable original mechanic from the previous sand-tray use case. Title text visible: "Derived Play: Rake Maze League" Output format: one tabletop sand-tray game seen from above, shaped...
 
@@ -450,11 +463,11 @@ Visual style: refined overhead editorial photography, tactile sand detail, shall
 
 </details>
 
-### 002. Single polished gallery image for an original GPT Image 2 use-case concept
+### 002. Use Case Sand Tray: Prompt Raking
 
-![Single polished gallery image for an original GPT Image 2 use-case concept](assets/images/144-a-single-polished-gallery-image-for-an-original-gpt-image-2-use-.png)
+![Use Case Sand Tray: Prompt Raking](assets/images/144-a-single-polished-gallery-image-for-an-original-gpt-image-2-use-.png)
 
-**Tags:** `prompt-gallery`
+**Tags:** `caption-furrow` `edit-window` `memory-path` `pebble-reference` `sand-tray-prompt-raking` `stroke-prompt` `texture-drift`
 
 **Prompt excerpt:** Create a single polished gallery image for an original GPT Image 2 use-case concept. Title text visible: "Use Case Sand Tray: Prompt Raking" Output format: a continuous top-down tabletop sand tray artifact, not a 2x3 board, not a card spre...
 
