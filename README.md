@@ -40,20 +40,20 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 
 ### Top Themes
 
-- `product-mockup` (85)
-- `typography` (80)
-- `game-design` (69)
+- `product-mockup` (83)
+- `typography` (78)
+- `game-design` (68)
 - `ui-mockup` (63)
-- `storytelling` (56)
-- `lighting-weather` (37)
-- `infographic` (35)
-- `photoreal` (35)
+- `storytelling` (54)
+- `lighting-weather` (36)
+- `infographic` (34)
+- `photoreal` (33)
 - `worldbuilding` (33)
 - `education` (23)
 - `interior-design` (23)
-- `material-study` (19)
-- `evaluation` (16)
-- `operations` (16)
+- `material-study` (17)
+- `evaluation` (15)
+- `operations` (15)
 - `productivity-visual` (15)
 - `stylized-concept` (15)
 - `illustration-story` (9)
@@ -61,12 +61,30 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `prompt-game` (7)
 - `infographic-diagram` (6)
 - `scientific-educational` (5)
-- `sound-to-scene` (4)
+- `sound-to-scene` (3)
 - `photorealistic-natural` (2)
 - `ui-fiction-simulator` (2)
 
 ### Latest Play Tags
 
+- `palate-pass-league` - Derived Play: Palate Pass League
+- `season-first` - Derived Play: Palate Pass League
+- `acid-swap` - Derived Play: Palate Pass League
+- `crunch-bet` - Derived Play: Palate Pass League
+- `bitter-blind` - Derived Play: Palate Pass League
+- `umami-blend` - Derived Play: Palate Pass League
+- `mint-read` - Derived Play: Palate Pass League
+- `finish-echo` - Derived Play: Palate Pass League
+- `rinse-gate` - Derived Play: Palate Pass League
+- `prompt-flavor-flight` - Use Case Tasting Menu: Prompt Flavor Flight
+- `subject-salt` - Use Case Tasting Menu: Prompt Flavor Flight
+- `mood-acid` - Use Case Tasting Menu: Prompt Flavor Flight
+- `texture-crunch` - Use Case Tasting Menu: Prompt Flavor Flight
+- `silhouette-bitter` - Use Case Tasting Menu: Prompt Flavor Flight
+- `color-umami` - Use Case Tasting Menu: Prompt Flavor Flight
+- `legibility-mint` - Use Case Tasting Menu: Prompt Flavor Flight
+- `memory-finish` - Use Case Tasting Menu: Prompt Flavor Flight
+- `rights-rinse` - Use Case Tasting Menu: Prompt Flavor Flight
 - `tremor-trace-rally` - Derived Play: Tremor Trace Rally
 - `quake-draft` - Derived Play: Tremor Trace Rally
 - `ref-weight` - Derived Play: Tremor Trace Rally
@@ -85,42 +103,24 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `stroke-prompt` - Use Case Sand Scroll: Prompt Raking
 - `pebble-reference` - Use Case Sand Scroll: Prompt Raking
 - `edit-window` - Use Case Sand Scroll: Prompt Raking
-- `caption-furrow` - Use Case Sand Scroll: Prompt Raking
-- `texture-drift` - Use Case Sand Scroll: Prompt Raking
-- `memory-path` - Use Case Sand Scroll: Prompt Raking
-- `rake-maze-league` - Derived Play: Rake Maze League
-- `rake-budget` - Derived Play: Rake Maze League
-- `pebble-anchor` - Derived Play: Rake Maze League
-- `smooth-patch` - Derived Play: Rake Maze League
-- `text-furrow` - Derived Play: Rake Maze League
-- `wind-reset` - Derived Play: Rake Maze League
-- `memory-scar` - Derived Play: Rake Maze League
-- `ice-core-relay` - Derived Play: Ice Core Relay
-- `freeze-draft` - Derived Play: Ice Core Relay
-- `thaw-window` - Derived Play: Ice Core Relay
-- `frost-whisper` - Derived Play: Ice Core Relay
-- `sleeve-swap` - Derived Play: Ice Core Relay
-- `bubble-wager` - Derived Play: Ice Core Relay
-- `ring-audit` - Derived Play: Ice Core Relay
-- `ice-core-prompt-lab` - Use Case Freezer: Ice Core Prompt Lab
 
 <details>
 <summary>All generated tags</summary>
 
-- `product-mockup` (85)
-- `typography` (80)
-- `game-design` (69)
+- `product-mockup` (83)
+- `typography` (78)
+- `game-design` (68)
 - `ui-mockup` (63)
-- `storytelling` (56)
-- `lighting-weather` (37)
-- `infographic` (35)
-- `photoreal` (35)
+- `storytelling` (54)
+- `lighting-weather` (36)
+- `infographic` (34)
+- `photoreal` (33)
 - `worldbuilding` (33)
 - `education` (23)
 - `interior-design` (23)
-- `material-study` (19)
-- `evaluation` (16)
-- `operations` (16)
+- `material-study` (17)
+- `evaluation` (15)
+- `operations` (15)
 - `productivity-visual` (15)
 - `stylized-concept` (15)
 - `illustration-story` (9)
@@ -128,10 +128,11 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `prompt-game` (7)
 - `infographic-diagram` (6)
 - `scientific-educational` (5)
-- `sound-to-scene` (4)
+- `sound-to-scene` (3)
 - `photorealistic-natural` (2)
 - `ui-fiction-simulator` (2)
 - `accessibility-pollinator-view` (1)
+- `acid-swap` (1)
 - `aftershock-edit` (1)
 - `altimeter-bid` (1)
 - `ambiguity-scope` (1)
@@ -143,6 +144,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `aspect-ratio-price-check` (1)
 - `bag-format-tray` (1)
 - `barometer-countdown` (1)
+- `bitter-blind` (1)
 - `blackout-mask-prompt` (1)
 - `blackout-mask-tray` (1)
 - `border-context-locks` (1)
@@ -167,6 +169,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `checksum-badge` (1)
 - `cloudbreak-audit` (1)
 - `color-gel-mood-control` (1)
+- `color-umami` (1)
 - `compression-swatch-proof` (1)
 - `conflict-fuse` (1)
 - `constraint-auction` (1)
@@ -185,6 +188,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `crop-curtain-sprint` (1)
 - `crop-heddle-router` (1)
 - `crop-loom-race` (1)
+- `crunch-bet` (1)
 - `damping-duel` (1)
 - `data-to-poster` (1)
 - `dataset-postcard-sampler` (1)
@@ -216,6 +220,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `fictional-product-sku-factory` (1)
 - `field-note-builder` (1)
 - `field-notebook-plate` (1)
+- `finish-echo` (1)
 - `focus-tape-swap` (1)
 - `format-faultline` (1)
 - `format-jetstream-router` (1)
@@ -252,6 +257,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `language-mood-matrix` (1)
 - `layer-separation-slide` (1)
 - `learning-card-deck` (1)
+- `legibility-mint` (1)
 - `lens-compression-sketch` (1)
 - `lens-distance-bet` (1)
 - `light-logic-proof` (1)
@@ -266,13 +272,16 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `mask-weft-edit` (1)
 - `material-honesty-audit` (1)
 - `meeting-memory-board` (1)
+- `memory-finish` (1)
 - `memory-palace-map` (1)
 - `memory-path` (1)
 - `memory-scar` (1)
 - `messy-brief-sanitizer` (1)
 - `microbrand-kit` (1)
 - `mini-tour-stamp-rally` (1)
+- `mint-read` (1)
 - `mold-memory` (1)
+- `mood-acid` (1)
 - `mood-mascot-mixer` (1)
 - `mosaic-prompt-grammar` (1)
 - `multilingual-poster-lab` (1)
@@ -286,6 +295,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `orbit-window-draft` (1)
 - `overload-fuse` (1)
 - `palace-breadcrumbs` (1)
+- `palate-pass-league` (1)
 - `palette-detective` (1)
 - `panel` (1)
 - `parallax-star-hop` (1)
@@ -302,6 +312,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `projection-score-window` (1)
 - `prompt-archaeology` (1)
 - `prompt-escape-room` (1)
+- `prompt-flavor-flight` (1)
 - `prompt-line-itemization` (1)
 - `prompt-pressure-altimeter` (1)
 - `prompt-seed-vault` (1)
@@ -347,6 +358,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `scan-line-item` (1)
 - `scenario-switch` (1)
 - `scent-palette-translator` (1)
+- `season-first` (1)
 - `season-wear-simulator` (1)
 - `seed-trait-draft` (1)
 - `selvedge-consistency-check` (1)
@@ -359,6 +371,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `shuttle-order-draft` (1)
 - `sign-whisper` (1)
 - `silence-plug` (1)
+- `silhouette-bitter` (1)
 - `sleeve-swap` (1)
 - `slice-format` (1)
 - `slide-layer-draft` (1)
@@ -372,6 +385,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `style-drift` (1)
 - `style-pollination-dome` (1)
 - `style-transfer` (1)
+- `subject-salt` (1)
 - `subject-tile-draft` (1)
 - `subject-tiles` (1)
 - `subtotal-dial` (1)
@@ -383,6 +397,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `text-legibility-barometer` (1)
 - `text-pulse` (1)
 - `texture-cipher-relay` (1)
+- `texture-crunch` (1)
 - `texture-drift` (1)
 - `thaw-edit` (1)
 - `thaw-window` (1)
@@ -396,6 +411,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `truth-ring` (1)
 - `typecase-brief-sorter` (1)
 - `typecase-scramble` (1)
+- `umami-blend` (1)
 - `visual-reconciliation` (1)
 - `waveform-sculptor` (1)
 - `wayfinding-remix` (1)
@@ -439,11 +455,11 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 
 ## Prompt Gallery
 
-### 001. Second polished public-gallery image that derives a playable original mechanic fro
+### 001. Derived Play: Palate Pass League
 
-![Second polished public-gallery image that derives a playable original mechanic fro](assets/images/150-a-second-polished-public-gallery-image-that-derives-a-playable-o.png)
+![Derived Play: Palate Pass League](assets/images/150-a-second-polished-public-gallery-image-that-derives-a-playable-o.png)
 
-**Tags:** `evaluation` `game-design` `material-study` `operations` `photoreal` `product-mockup` `storytelling` `typography`
+**Tags:** `acid-swap` `bitter-blind` `crunch-bet` `finish-echo` `mint-read` `palate-pass-league` `season-first` `umami-blend`
 
 **Prompt excerpt:** Create a second polished public-gallery image that derives a playable original mechanic from the tasting-menu prompt use case. Visible title, small and clean: "Derived Play: Palate Pass League" Output format: one playable chef's-counter ta...
 
@@ -472,11 +488,11 @@ Make the rules understandable through a route line, spoon positions, tokens, lit
 
 </details>
 
-### 002. One polished public-gallery image for an original GPT Image 2 use-case concept
+### 002. Use Case Tasting Menu: Prompt Flavor Flight
 
-![One polished public-gallery image for an original GPT Image 2 use-case concept](assets/images/151-one-polished-public-gallery-image-for-an-original-gpt-image-2-us.png)
+![Use Case Tasting Menu: Prompt Flavor Flight](assets/images/151-one-polished-public-gallery-image-for-an-original-gpt-image-2-us.png)
 
-**Tags:** `infographic` `lighting-weather` `material-study` `photoreal` `product-mockup` `sound-to-scene` `storytelling` `typography`
+**Tags:** `color-umami` `legibility-mint` `memory-finish` `mood-acid` `prompt-flavor-flight` `silhouette-bitter` `subject-salt` `texture-crunch`
 
 **Prompt excerpt:** Create one polished public-gallery image for an original GPT Image 2 use-case concept. Visible title, small and clean: "Use Case Tasting Menu: Prompt Flavor Flight" Make the output a single cinematic 16:9 tabletop tasting counter, not a di...
 
