@@ -18,6 +18,108 @@
   },
   "images": [
     {
+      "title": "Derived Play: String Tangle Trials",
+      "caption": "从木偶控制台派生出的拉线解结玩法：Pull Cue、Knot Draft、Curtain Feint、Swatch Toll、Bell Echo、Slack Rescue 和 Seal Score 把提示一致性变成一局悬挂线索竞技。",
+      "path": "assets/images/162-derived-play-string-tangle-trials.png",
+      "alt": "Hanging string dexterity game with tension dials, ring gates, curtains, swatch tolls, bell echo counter, and score seal envelopes",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-26 00:51:22",
+      "batch": "019dc58a-8627-7012-9329-8b09d4c9cb1e",
+      "tags": [
+        "string-tangle-trials",
+        "pull-cue",
+        "knot-draft",
+        "curtain-feint",
+        "swatch-toll",
+        "bell-echo",
+        "slack-rescue",
+        "seal-score",
+        "batch-019dc58a"
+      ],
+      "prompt": "Visible title: \"Derived Play: String Tangle Trials\". Create one polished original derived-play concept image for a public GPT Image 2 gallery, 16:9 landscape. This is a physical dexterity-and-logic game derived from the Prompt Marionettes use case, but it must be a distinct object: a hanging string arena under an overhead wooden gantry, seen from a low oblique angle, with tension dials, sliding ring gates, felt target hoops, tiny blank wooden puppet tokens, numbered knot pegs, curtain blockers, swatch toll plates, bell counters, and sealed score envelopes. Seven etched rule labels are visible and legible: Pull Cue, Knot Draft, Curtain Feint, Swatch Toll, Bell Echo, Slack Rescue, Seal Score. Play: pull one cue string, draft a knot peg, use a curtain blocker to hide a token, pay a fabric swatch toll, ring the echo bell only when two variants still match, rescue slack without crossing strings, then seal the score envelope. No hands, no people, no real brands, no celebrities, no copyrighted characters. Original fictional content only. Avoid political persuasion, public political figures, parties, elections, harmful instructions, sexual or nude content, weapons, gore, graphic violence, watermark, QR code, or trademarks. Make it clearly unlike prior gallery mechanisms: not a 2x3 board, not cards, not a route map, not a pinball table, not a bead market, not an abacus, not a chip or valve maze, not a greenhouse, kitchen, seismograph, sand tray, mosaic, receipt, patchbay, lantern, planetarium, print press, loom, weather station, kite line, hotel cabinet, or film stage.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original string-arena play mechanic and prompt generated locally. OpenAI documentation was consulted only as current GPT Image 2 capability background; no external prompt, image, article, case study, repository, artwork, brand, or character source was reused."
+      },
+      "promptSources": [
+        {
+          "title": "GPT Image 2 Model | OpenAI API",
+          "url": "https://developers.openai.com/api/docs/models/gpt-image-2",
+          "authorOrPublisher": "OpenAI",
+          "license": "OpenAI website terms; used only for factual model capability background, with no prompt text or artwork reused.",
+          "accessedAt": "2026-04-26",
+          "usedAs": "Capability background for GPT Image 2 generation and editing support; final string-arena game concept, wording, labels, and layout are original."
+        },
+        {
+          "title": "Image generation | OpenAI API",
+          "url": "https://platform.openai.com/docs/guides/image-generation/",
+          "authorOrPublisher": "OpenAI",
+          "license": "OpenAI website terms; used only for factual image-generation workflow background, with no prompt text or artwork reused.",
+          "accessedAt": "2026-04-26",
+          "usedAs": "Capability background for prompt-driven image generation and editing workflows; no external creative expression was copied."
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "reviewNote": "Original fictional hanging string game with blank wooden tokens; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful instructions, weapons, gore, and graphic violence."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc58a-8627-7012-9329-8b09d4c9cb1e/ig_077bb3125bb803e20169ecf0d04d308190b0a393eb693acdef.png"
+    },
+    {
+      "title": "Use Case Rig: Prompt Marionettes",
+      "caption": "把 GPT Image 2 的多参考、姿态、遮挡、材质、短文字、连续性和安全来源封存做成一套悬挂木偶控制台：Pose String、Reference Knot、Occlusion Curtain、Texture Swatch、Caption Loop、Continuity Bell 和 Safety Seal 都是可调的实体提示部件。",
+      "path": "assets/images/163-use-case-rig-prompt-marionettes.png",
+      "alt": "Suspended wooden marionette prompt rig with pulley labels for pose, reference knots, occlusion curtains, fabric swatches, captions, continuity, and safety sealing",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-26 00:50:25",
+      "batch": "019dc58a-8627-7012-9329-8b09d4c9cb1e",
+      "tags": [
+        "prompt-marionettes",
+        "pose-string",
+        "reference-knot",
+        "occlusion-curtain",
+        "texture-swatch",
+        "caption-loop",
+        "continuity-bell",
+        "safety-seal",
+        "batch-019dc58a"
+      ],
+      "prompt": "Visible title: \"Use Case Rig: Prompt Marionettes\". Create one polished original GPT Image 2 use-case concept image for a public gallery, 16:9 landscape. Output format: a suspended marionette rehearsal rig photographed in a quiet fictional workshop, not a grid, not a contact sheet, not cards, not a board game, not a maze, not a chip, not an abacus, not a stage-camera setup. The artifact is a wooden overhead rail with pulleys, colored strings, tiny blank puppet silhouettes, cloth swatches, small paper cue tags, curtain strips, knot counters, and sealed source envelopes. Seven short labels are visible and legible: Pose String, Reference Knot, Occlusion Curtain, Texture Swatch, Caption Loop, Continuity Bell, Safety Seal. Meaning: use GPT Image 2 for pose/gesture drafting, multi-reference influence control, occlusion rehearsal, material consistency, short in-image labels, variant continuity checks, and provenance/safety sealing. Keep all figures as simple wooden non-human puppets with blank faces; no real people, no brands, no celebrities, no copyrighted characters. Original fictional content only. Avoid political persuasion, public political figures, parties, elections, harmful instructions, sexual or nude content, weapons, gore, graphic violence, watermark, QR code, or real trademarks. Make the mechanism visually distinct from prior gallery artifacts: no 2x3 panel board, no greenhouse, kitchen, seismograph roll, sand tray, mosaic, receipt, patchbay, lantern, planetarium, proof press, loom, weather station, pinball, kite line, hotel cabinet, film stage, microfluidic chip, or bead ledger.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original marionette-control concept and prompt generated locally. OpenAI documentation was consulted only as current GPT Image 2 capability background; no external prompt, image, article, case study, repository, artwork, brand, or character source was reused."
+      },
+      "promptSources": [
+        {
+          "title": "GPT Image 2 Model | OpenAI API",
+          "url": "https://developers.openai.com/api/docs/models/gpt-image-2",
+          "authorOrPublisher": "OpenAI",
+          "license": "OpenAI website terms; used only for factual model capability background, with no prompt text or artwork reused.",
+          "accessedAt": "2026-04-26",
+          "usedAs": "Capability background for GPT Image 2 generation and editing support; final marionette-rig concept, wording, labels, and layout are original."
+        },
+        {
+          "title": "Image generation | OpenAI API",
+          "url": "https://platform.openai.com/docs/guides/image-generation/",
+          "authorOrPublisher": "OpenAI",
+          "license": "OpenAI website terms; used only for factual image-generation workflow background, with no prompt text or artwork reused.",
+          "accessedAt": "2026-04-26",
+          "usedAs": "Capability background for prompt-driven image generation and editing workflows; no external creative expression was copied."
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "reviewNote": "Original fictional non-human wooden puppet prompt rig; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful instructions, weapons, gore, and graphic violence."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc58a-8627-7012-9329-8b09d4c9cb1e/ig_077bb3125bb803e20169ecf097a47481909985675cab643ec8.png"
+    },
+    {
       "title": "Derived Play: Bead Balance Bazaar",
       "caption": "从算盘用例派生出的珠子预算游戏：Draft Row、Cap Phrase、Trade Weight、Letter Toll、Frame Ticket、Echo Tip 和 Seal Pot 把提示调参变成一局可玩的平衡交易。",
       "path": "assets/images/160-derived-play-bead-balance-bazaar.png",

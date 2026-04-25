@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/162-derived-play-string-tangle-trials.png</image:loc>
+      <image:title>Derived Play: String Tangle Trials</image:title>
+      <image:caption>Visible title: &quot;Derived Play: String Tangle Trials&quot;. Create one polished original derived-play concept image for a public GPT Image 2 gallery, 16:9 landscape. This is a physical dexterity-and-logic game derived from the Prompt Marionettes...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/163-use-case-rig-prompt-marionettes.png</image:loc>
+      <image:title>Use Case Rig: Prompt Marionettes</image:title>
+      <image:caption>Visible title: &quot;Use Case Rig: Prompt Marionettes&quot;. Create one polished original GPT Image 2 use-case concept image for a public gallery, 16:9 landscape. Output format: a suspended marionette rehearsal rig photographed in a quiet fictional...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/160-derived-play-bead-balance-bazaar.png</image:loc>
       <image:title>Derived Play: Bead Balance Bazaar</image:title>
       <image:caption>Visible title: &quot;Derived Play: Bead Balance Bazaar&quot;. Create a compact handcrafted tabletop skill game photographed from a low oblique angle, 16:9. It is a semicircular bead market tray with tilting rails, bead bowls, tiny balance scales, fe...</image:caption>
@@ -787,6 +797,28 @@
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/162-derived-play-string-tangle-trials/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/162-derived-play-string-tangle-trials.png</image:loc>
+      <image:title>Derived Play: String Tangle Trials</image:title>
+      <image:caption>Visible title: &quot;Derived Play: String Tangle Trials&quot;. Create one polished original derived-play concept image for a public GPT Image 2 gallery, 16:9 landscape. This is a physical dexterity-and-logic game derived from the Prompt Marionettes...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/163-use-case-rig-prompt-marionettes/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/163-use-case-rig-prompt-marionettes.png</image:loc>
+      <image:title>Use Case Rig: Prompt Marionettes</image:title>
+      <image:caption>Visible title: &quot;Use Case Rig: Prompt Marionettes&quot;. Create one polished original GPT Image 2 use-case concept image for a public gallery, 16:9 landscape. Output format: a suspended marionette rehearsal rig photographed in a quiet fictional...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/160-derived-play-bead-balance-bazaar/</loc>

@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/162-derived-play-string-tangle-trials.png": {
+      "path": "assets/thumbs/162-derived-play-string-tangle-trials.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/163-use-case-rig-prompt-marionettes.png": {
+      "path": "assets/thumbs/163-use-case-rig-prompt-marionettes.jpg",
+      "width": 768,
+      "height": 432
+    },
     "assets/images/160-derived-play-bead-balance-bazaar.png": {
       "path": "assets/thumbs/160-derived-play-bead-balance-bazaar.jpg",
       "width": 768,

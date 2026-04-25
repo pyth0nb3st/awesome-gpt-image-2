@@ -150,6 +150,7 @@ const safetyScanText = (image) =>
     .join("\n")
     .replace(/^Safety and rights constraints:[^\n]+$/gim, " ")
     .replace(/^Safety constraints:[^\n]+$/gim, " ")
+    .replace(/\bAvoid\s+[^.。]+[.。]/gi, " ")
     .replace(negatedBlockedMention, " ");
 
 const similarity = (left, right) => {
