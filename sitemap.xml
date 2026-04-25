@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/166-derived-play-gear-drift-derby.png</image:loc>
+      <image:title>Derived Play: Gear Drift Derby</image:title>
+      <image:caption>Visible title: &quot;Derived Play: Gear Drift Derby&quot;. A shallow circular transparent clockwork racing puzzle, 16:9 low oblique product photo. Interlocking brass gear lanes, removable tooth tokens, winding keys, balance-wheel gates, jewel checkp...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/167-use-case-watch-prompt-escapement.png</image:loc>
+      <image:title>Use Case Watch: Prompt Escapement</image:title>
+      <image:caption>Visible title: &quot;Use Case Watch: Prompt Escapement&quot;. One transparent oversized mechanical watch movement on a horology bench, 16:9 landscape. It is a single macro object, not a grid, not panels, not cards. Engraved labels: Mainspring Subjec...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/164-derived-play-crease-court-rally.png</image:loc>
       <image:title>Derived Play: Crease Court Rally</image:title>
       <image:caption>Visible title: &quot;Derived Play: Crease Court Rally&quot;. Create one polished original derived-play concept image for a public GPT Image 2 gallery, 16:9 landscape. This is a tabletop folding-rule game derived from the Prompt Origami Atlas use cas...</image:caption>
@@ -807,6 +817,28 @@
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/166-derived-play-gear-drift-derby/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/166-derived-play-gear-drift-derby.png</image:loc>
+      <image:title>Derived Play: Gear Drift Derby</image:title>
+      <image:caption>Visible title: &quot;Derived Play: Gear Drift Derby&quot;. A shallow circular transparent clockwork racing puzzle, 16:9 low oblique product photo. Interlocking brass gear lanes, removable tooth tokens, winding keys, balance-wheel gates, jewel checkp...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/167-use-case-watch-prompt-escapement/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/167-use-case-watch-prompt-escapement.png</image:loc>
+      <image:title>Use Case Watch: Prompt Escapement</image:title>
+      <image:caption>Visible title: &quot;Use Case Watch: Prompt Escapement&quot;. One transparent oversized mechanical watch movement on a horology bench, 16:9 landscape. It is a single macro object, not a grid, not panels, not cards. Engraved labels: Mainspring Subjec...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/164-derived-play-crease-court-rally/</loc>
@@ -2674,6 +2706,12 @@
   </url>
   <url>
     <loc>https://gptimg2.best/tags/sound-to-scene/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/caseback-seal/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>

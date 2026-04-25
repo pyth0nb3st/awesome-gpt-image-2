@@ -18,6 +18,88 @@
   },
   "images": [
     {
+      "title": "Derived Play: Gear Drift Derby",
+      "caption": "从 Prompt Escapement 派生的圆形齿轮漂移赛：Wind Claim、Crown Set、Tooth Trade、Fork Release、Jewel Read、Pendulum Return 和 Caseback Seal 把提示节拍变成一局可玩的钟表策略。",
+      "path": "assets/images/166-derived-play-gear-drift-derby.png",
+      "alt": "Circular transparent clockwork derby tray with gear lanes, winding keys, tooth tokens, escapement fork gates, jewel checkpoints, timing clips, drift wedges, and score casebacks",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-26 01:33:40",
+      "batch": "019dc5af-26ab-71d1-a7a5-ce0bdc9566cf",
+      "tags": [
+        "gear-drift-derby",
+        "wind-claim",
+        "crown-set",
+        "tooth-trade",
+        "fork-release",
+        "jewel-read",
+        "pendulum-return",
+        "caseback-seal",
+        "batch-019dc5af"
+      ],
+      "prompt": "Visible title: \"Derived Play: Gear Drift Derby\". A shallow circular transparent clockwork racing puzzle, 16:9 low oblique product photo. Interlocking brass gear lanes, removable tooth tokens, winding keys, balance-wheel gates, jewel checkpoints, timing clips, drift wedges, sealed score casebacks. Rim rules: Wind Claim, Crown Set, Tooth Trade, Fork Release, Jewel Read, Pendulum Return, Caseback Seal. Players choose a blank subject gear, set one crown context, trade one tooth to change detail density, pass the fork gate, read one invented jewel label, return to the timing mark, then seal the score. Make it tactile and playable, like a premium clockwork strategy toy, not a board grid, not cards, not pinball, not abacus, not a maze chip, not puppets, not paper folding, not a route map, not camera gear. Fictional, brand-free, person-free, rights-safe, nonpolitical, nonsexual, nonviolent. No real logos, no celebrities, no copyrighted characters, no watermark, no QR code.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original clockwork derby play mechanic and prompt generated locally from the Prompt Escapement use-case concept. No external prompt, article, image, artwork, repository, brand, character, or case-study source was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Original fictional clockwork strategy toy with no people, brands, public figures, copyrighted characters, sexual content, dangerous instructions, gore, graphic violence, or political persuasion."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc5af-26ab-71d1-a7a5-ce0bdc9566cf/ig_0f715337bc0195760169ecfaba2ad88195af0a8704e007882d.png"
+    },
+    {
+      "title": "Use Case Watch: Prompt Escapement",
+      "caption": "把 GPT Image 2 的提示稳定性做成一枚透明钟表机芯：主体上弦、语境表冠、细节齿比、局部编辑擒纵、宝石字粒、摆轮回声和底盖封存都变成可调的时间部件。",
+      "path": "assets/images/167-use-case-watch-prompt-escapement.png",
+      "alt": "Transparent mechanical watch movement for Prompt Escapement with mainspring, crown, gear density, escapement fork, jewel letter, balance return, and caseback seal",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-26 01:32:43",
+      "batch": "019dc5af-26ab-71d1-a7a5-ce0bdc9566cf",
+      "tags": [
+        "prompt-escapement-watch",
+        "mainspring-subject",
+        "crown-context",
+        "gear-density",
+        "escapement-edit",
+        "jewel-letter",
+        "balance-return",
+        "caseback-seal",
+        "batch-019dc5af"
+      ],
+      "prompt": "Visible title: \"Use Case Watch: Prompt Escapement\". One transparent oversized mechanical watch movement on a horology bench, 16:9 landscape. It is a single macro object, not a grid, not panels, not cards. Engraved labels: Mainspring Subject, Crown Context, Gear Density, Escapement Edit, Jewel Letter, Balance Return, Caseback Seal. The mechanism treats GPT Image 2 prompting as timing: wind a fictional subject, set context through a crown, tune detail with gear ratios, release one harmless local edit through the fork, test a tiny invented word in a synthetic jewel, compare variant rhythm with a balance wheel, close source notes in the caseback. Brass gears, glass bridges, synthetic ruby dots, screw trays, calibration ticks, blank sample silhouettes, crisp macro studio lighting. Fictional, brand-free, person-free, rights-safe, nonpolitical, nonsexual, nonviolent. No real logos, no celebrities, no copyrighted characters, no watermark, no QR code.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original clockwork escapement concept and prompt generated locally from existing-gallery gap analysis. No external prompt, article, image, artwork, repository, brand, character, or case-study source was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Original fictional horology workbench artifact with no people, brands, public figures, copyrighted characters, sexual content, dangerous instructions, gore, graphic violence, or political persuasion."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc5af-26ab-71d1-a7a5-ce0bdc9566cf/ig_0f715337bc0195760169ecfa4972608195b4a5d275c04bde8a.png"
+    },
+    {
       "title": "Derived Play: Crease Court Rally",
       "caption": "从折纸语法图派生出的纸面赛道玩法：Valley Claim、Mountain Lift、Pocket Draft、Flap Block、Tab Read、Pleat Sprint 和 Seal Win 把提示折痕变成一局可玩的策略赛。",
       "path": "assets/images/164-derived-play-crease-court-rally.png",
