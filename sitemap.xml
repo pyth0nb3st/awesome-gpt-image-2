@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/143-a-second-polished-gallery-image-that-derives-a-playable-original.png</image:loc>
+      <image:title>Second polished gallery image that derives a playable original mechanic from the p</image:title>
+      <image:caption>Create a second polished gallery image that derives a playable original mechanic from the previous sand-tray use case. Title text visible: &quot;Derived Play: Rake Maze League&quot; Output format: one tabletop sand-tray game seen from above, shaped...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/144-a-single-polished-gallery-image-for-an-original-gpt-image-2-use-.png</image:loc>
+      <image:title>Single polished gallery image for an original GPT Image 2 use-case concept</image:title>
+      <image:caption>Create a single polished gallery image for an original GPT Image 2 use-case concept. Title text visible: &quot;Use Case Sand Tray: Prompt Raking&quot; Output format: a continuous top-down tabletop sand tray artifact, not a 2x3 board, not a card spre...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/141-make-a-single-public-gallery-image-an-original-derived-play-chal.png</image:loc>
       <image:title>Derived Play: Ice Core Relay</image:title>
       <image:caption>Make a single public-gallery image: an original derived-play challenge called ICE CORE RELAY, built from the cold-storage cabinet idea. Format is a wide 16:9 cinematic photo of a frosted lab bench with three vertical sample racks, sliding...</image:caption>
@@ -707,6 +717,28 @@
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/143-a-second-polished-gallery-image-that-derives-a-playable-original/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/143-a-second-polished-gallery-image-that-derives-a-playable-original.png</image:loc>
+      <image:title>Second polished gallery image that derives a playable original mechanic from the p</image:title>
+      <image:caption>Create a second polished gallery image that derives a playable original mechanic from the previous sand-tray use case. Title text visible: &quot;Derived Play: Rake Maze League&quot; Output format: one tabletop sand-tray game seen from above, shaped...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/144-a-single-polished-gallery-image-for-an-original-gpt-image-2-use/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/144-a-single-polished-gallery-image-for-an-original-gpt-image-2-use-.png</image:loc>
+      <image:title>Single polished gallery image for an original GPT Image 2 use-case concept</image:title>
+      <image:caption>Create a single polished gallery image for an original GPT Image 2 use-case concept. Title text visible: &quot;Use Case Sand Tray: Prompt Raking&quot; Output format: a continuous top-down tabletop sand tray artifact, not a 2x3 board, not a card spre...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/141-make-a-single-public-gallery-image-an-original-derived-play-chal/</loc>
@@ -2263,6 +2295,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://gptimg2.best/tags/worldbuilding/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://gptimg2.best/tags/infographic/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -2270,12 +2308,6 @@
   </url>
   <url>
     <loc>https://gptimg2.best/tags/photoreal/</loc>
-    <lastmod>2026-04-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gptimg2.best/tags/worldbuilding/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
