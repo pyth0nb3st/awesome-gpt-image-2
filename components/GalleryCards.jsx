@@ -1,6 +1,8 @@
-import { imageUrl, promptExcerpt, promptUrl, tagEntrySet, tagUrl } from "../lib/gallery";
+import { imageUrl, localizedPromptUrl, localizedTagUrl, promptExcerpt, tagEntrySet } from "../lib/gallery";
+import { getCopy } from "../lib/i18n";
 
-export function GalleryCard({ entry, defer = false }) {
+export function GalleryCard({ entry, defer = false, locale = "en" }) {
+  const t = getCopy(locale);
   const { image, index, search, tags, title } = entry;
   const imgProps = defer ? { "data-src": imageUrl(image) } : { src: imageUrl(image) };
 
@@ -17,12 +19,12 @@ export function GalleryCard({ entry, defer = false }) {
         data-modal-image
         data-title={title}
         data-caption={image.caption}
-        aria-label={`Open image preview for ${title}`}
+        aria-label={t.openPreview(title)}
       >
         <img
           loading={index < 3 ? "eager" : "lazy"}
           fetchPriority={index === 0 ? "high" : undefined}
-          alt={`${title}. Tags: ${tags.join(", ")}.`}
+          alt={t.cardAlt(title, tags)}
           width={image.width}
           height={image.height}
           {...imgProps}
@@ -33,7 +35,7 @@ export function GalleryCard({ entry, defer = false }) {
           #{String(index + 1).padStart(2, "0")} · {image.createdAt ?? "historical"}
         </div>
         <h2>
-          <a className="title-link" href={promptUrl(entry)}>
+          <a className="title-link" href={localizedPromptUrl(entry, locale)}>
             {title}
           </a>
         </h2>
@@ -41,15 +43,15 @@ export function GalleryCard({ entry, defer = false }) {
         <ul className="tags">
           {tags.map((tag) => (
             <li key={tag}>
-              {tagEntrySet.has(tag) ? <a href={tagUrl(tag)}>{tag}</a> : tag}
+              {tagEntrySet.has(tag) ? <a href={localizedTagUrl(tag, locale)}>{tag}</a> : tag}
             </li>
           ))}
         </ul>
-        <a className="detail-link" href={promptUrl(entry)}>
-          Open prompt SEO page
+        <a className="detail-link" href={localizedPromptUrl(entry, locale)}>
+          {t.viewDetails}
         </a>
         <details>
-          <summary>Prompt</summary>
+          <summary>{t.promptText}</summary>
           <pre>{image.prompt}</pre>
         </details>
       </div>
@@ -57,15 +59,17 @@ export function GalleryCard({ entry, defer = false }) {
   );
 }
 
-export function CardGrid({ entries }) {
+export function CardGrid({ entries, locale = "en" }) {
+  const t = getCopy(locale);
+
   return (
     <div className="grid">
       {entries.map((entry) => (
         <article className="card" key={entry.pagePath}>
-          <a href={promptUrl(entry)}>
+          <a href={localizedPromptUrl(entry, locale)}>
             <img
               src={imageUrl(entry.image)}
-              alt={`${entry.title}. GPT Image 2 prompt example.`}
+              alt={t.exampleAlt(entry.title)}
               loading="lazy"
               width={entry.image.width}
               height={entry.image.height}

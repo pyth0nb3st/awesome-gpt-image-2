@@ -2,7 +2,7 @@
 
 import { useEffect } from "react";
 
-export default function GalleryBehavior({ initialImageCount = 12, imageBatchSize = 12 }) {
+export default function GalleryBehavior({ initialImageCount = 12, imageBatchSize = 12, loadMoreLabel = "Load more", loadMoreCountLabel }) {
   useEffect(() => {
     const search = document.querySelector("#search");
     const cards = [...document.querySelectorAll(".card[data-search]")];
@@ -84,7 +84,10 @@ export default function GalleryBehavior({ initialImageCount = 12, imageBatchSize
 
       const remaining = matches.length - visible;
       loadSentinel.hidden = remaining <= 0;
-      loadMore.textContent = remaining > 0 ? `Load ${Math.min(imageBatchSize, remaining)} more` : "Load more";
+      loadMore.textContent =
+        remaining > 0
+          ? loadMoreCountLabel?.replace("{count}", String(Math.min(imageBatchSize, remaining))) ?? `Load ${Math.min(imageBatchSize, remaining)} more`
+          : loadMoreLabel;
       queueAutoLoadCheck();
     }
 
@@ -177,7 +180,7 @@ export default function GalleryBehavior({ initialImageCount = 12, imageBatchSize
         cleanup();
       }
     };
-  }, [imageBatchSize, initialImageCount]);
+  }, [imageBatchSize, initialImageCount, loadMoreCountLabel, loadMoreLabel]);
 
   return null;
 }

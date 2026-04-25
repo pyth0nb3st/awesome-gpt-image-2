@@ -1,18 +1,18 @@
 import { DRILL_URL, REPO_URL, VIBEART_URL } from "../lib/gallery";
+import { getCopy } from "../lib/i18n";
 
-export default function Footer() {
+export default function Footer({ locale = "en" }) {
+  const t = getCopy(locale);
+
   return (
     <footer>
+      <span>{t.footerArchive}</span>
       <span>
-        Built from Codex image-generation session logs. Images, prompts, tags, and metadata are preserved for static hosting
-        and search indexing.
+        {t.footerToolsPrefix} <a href={DRILL_URL}>Drill</a> {t.footerToolsText} <a href={VIBEART_URL}>VibeArt</a>{" "}
+        {t.footerToolsSuffix}
       </span>
       <span>
-        Creator tools: <a href={DRILL_URL}>Drill</a> for deeper reading workflows and <a href={VIBEART_URL}>VibeArt</a> for AI
-        visual creation.
-      </span>
-      <span>
-        GitHub source: <a href={REPO_URL}>{REPO_URL}</a>
+        {t.footerSource} <a href={REPO_URL}>{REPO_URL}</a>
       </span>
     </footer>
   );
