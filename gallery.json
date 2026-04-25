@@ -5,6 +5,40 @@
   "summary": "A visual gallery of playful GPT Image use cases, prompts, and experiment patterns. Images are stored in this repository for GitHub Pages publishing.",
   "images": [
     {
+      "title": "Use case: stylized-concept",
+      "caption": "历史生成图，批次 019dc28c-6d98-78d2-971c-80ff7c682854，生成时间 2026-04-25 10:57:46。",
+      "path": "assets/images/095-use-case-stylized-concept.png",
+      "alt": "Generated image ig_071d373895ea5d0c0169ec2cf690e0819aae1a001a9ccf672e",
+      "width": 1536,
+      "height": 1024,
+      "createdAt": "2026-04-25 10:57:46",
+      "batch": "019dc28c-6d98-78d2-971c-80ff7c682854",
+      "tags": [
+        "historical-import",
+        "prompt-recovered",
+        "batch-019dc28c"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: GPT Image 2 gallery derived play modes board, 2K landscape contact sheet\nPrimary request: Create a second polished 3x2 contact sheet of six NEW game-like play mechanics derived from the companion Images 2.0 use-case board. These must be playable frameworks for experimenting with GPT Image 2 outputs, not repeats of earlier recorded mechanics such as product-to-flavor-lab, app-to-board-game, poster-to-mini-comic, Claim Court, Access Route Remix, Director's Cut Ladder, Aging Oracle, Taste Telemetry Duel, Edge-Case Hunt, Manual Maze, Price Canon Kitchen, Prop Continuity Poker, Signage Babel Sprint, Figure Ladder Duel, Locked-Room Remix, Rubric Arena, Lighting DJ, Fix-It Quest, prompt relay, constraint bingo, regression detective, variant draft arena, scene grammar kit, scale-shift microscope, wardrobe audit, gallery speedrun, drill-path puzzle, material truth table, waveform jam, or maintenance triage.\nPanels:\n1. Source Stamp Sprint: players draft a current-data visual card, then earn points for visible date, source, uncertainty, and non-misleading summary cues.\n2. Alpha Edge Trial: players generate cutout sticker sheets, then inspect corners, holes, shadows, and hairline edges with loupe tokens and pass/fail mats.\n3. Ratio Relay Run: teams adapt one image brief across 3:1, 1:1, 9:16, and poster formats; penalties for changed hero object, lost message, or cramped text.\n4. Safety Sketch Court: players convert rough product sketches into safe mockups, defending each change with hazard cards and material tokens.\n5. Tiny-Type Tavern: teams build dense multilingual menu boards; judges order items using only the generated signs, scoring legibility and hierarchy.\n6. Deck Pick Poker: each player generates a style deck from one brief, then bids on which direction best balances clarity, cost, novelty, and reuse.\nStyle/medium: premium tabletop game documentation spread, realistic cards, score sheets, timer tiles, loupes, tokens, mini output images, pencils, no real brands.\nComposition/framing: 3 columns by 2 rows, six clearly separated panels; each panel shows title, components, round structure, scoring evidence, and a small generated-output sample.\nLighting/mood: warm studio tabletop lighting, collaborative design lab energy, precise enough for documentation.\nColor palette: neutral table, varied accent colors for each game, crisp black rule text, colorful scoring tokens.\nText (verbatim, keep titles simple and legible): \"SOURCE STAMP\", \"ALPHA EDGE\", \"RATIO RELAY\", \"SAFETY SKETCH\", \"TINY TYPE\", \"DECK POKER\", \"PASS\", \"FIX\", \"SCORE\".\nConstraints: no logos, no watermarks, no copyrighted characters, no real news claims, no political figures; every play mode should feel playable, scoreable, and recordable.",
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc28c-6d98-78d2-971c-80ff7c682854/ig_071d373895ea5d0c0169ec2cf690e0819aae1a001a9ccf672e.png"
+    },
+    {
+      "title": "Use case: stylized-concept",
+      "caption": "历史生成图，批次 019dc28c-6d98-78d2-971c-80ff7c682854，生成时间 2026-04-25 10:54:47。",
+      "path": "assets/images/096-use-case-stylized-concept.png",
+      "alt": "Generated image ig_071d373895ea5d0c0169ec2c7c4500819a834bb55f5781dbcc",
+      "width": 1536,
+      "height": 1024,
+      "createdAt": "2026-04-25 10:54:47",
+      "batch": "019dc28c-6d98-78d2-971c-80ff7c682854",
+      "tags": [
+        "historical-import",
+        "prompt-recovered",
+        "batch-019dc28c"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: GPT Image 2 gallery research board, 2K landscape contact sheet\nPrimary request: Create a polished 3x2 visual research board showing six NEW practical and playful GPT Image 2 use cases based on current Images 2.0 capabilities: stronger instruction following, dense in-image text, high-fidelity image inputs, flexible aspect ratios, transparent/detail-oriented image edits, multi-output generation, and thinking-mode planning. Avoid repeating prior gallery themes such as repair manuals, museum wayfinding, continuity prop bibles, visual QA rubrics, same-room lighting, receipt-to-menu worlds, research figure remixers, interior swaps, policy ad labs, accessibility simulators, script blocking, future wear forecasts, flavor atlases, synthetic dataset gap fillers, board-game conversions, prompt relay, constraint bingo, regression detective, claim court, director ladder, and signage escape rooms.\nPanels:\n1. Live Fact Card Forge: a research desk where a model plans a fresh web-informed infographic card, with date stamps, source tabs, thumbnail map, and a final concise explainer card.\n2. Transparent Sticker Factory: a creator table making clean cutout sticker sheets from ordinary objects, with alpha checkerboard previews, edge inspection loupe, and export tiles.\n3. Aspect Ratio Shape-Shifter: one campaign concept shown as horizontal banner, square post, vertical story, and ultra-tall poster while preserving the same character, prop, and message.\n4. Sketch-to-Safety Prototype: a rough napkin sketch of a household gadget becomes three safe product mockups with rounded edges, warning icons, and material callouts.\n5. Multilingual Tiny-Type Menu: a compact fictional cafe board with readable English, Chinese, Japanese, Korean, and Arabic labels arranged in dense but clean typography.\n6. Multi-Output Style Deck: eight coordinated visual directions generated from one brief, displayed as a selector board with style chips, risk notes, and pick markers.\nStyle/medium: premium design-research wall, realistic printed boards, screens, cutout previews, prompt cards, thumbnails, annotation stickers, no real brands.\nComposition/framing: 3 columns by 2 rows, each panel visually distinct with a short simple title; visible before-to-after or source-to-output relationship in every panel.\nLighting/mood: bright studio documentation lighting, crisp and inventive, production-ready rather than whimsical.\nColor palette: neutral workspace, black ink, teal/amber/red/blue accent systems, varied per panel.\nText (verbatim, keep simple and legible where possible): \"FACT CARD\", \"TRANSPARENT\", \"WIDE\", \"SQUARE\", \"VERTICAL\", \"SAFE MOCKUP\", \"MENU\", \"STYLE DECK\".\nConstraints: no logos, no watermarks, no real company marks, no copyrighted characters, no real news claims, no political figures; make every panel feel like a recordable use case with components and evidence.",
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc28c-6d98-78d2-971c-80ff7c682854/ig_071d373895ea5d0c0169ec2c7c4500819a834bb55f5781dbcc.png"
+    },
+    {
       "title": "Use case: productivity-visual",
       "caption": "历史生成图，批次 019dc27a-1df8-7d43-9e16-cf5d23410941，生成时间 2026-04-25 10:42:41。",
       "path": "assets/images/087-use-case-productivity-visual.png",

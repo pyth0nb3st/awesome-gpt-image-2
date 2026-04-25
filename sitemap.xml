@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/095-use-case-stylized-concept.png</image:loc>
+      <image:title>Use case: stylized-concept</image:title>
+      <image:caption>Use case: stylized-concept Asset type: GPT Image 2 gallery derived play modes board, 2K landscape contact sheet Primary request: Create a second polished 3x2 contact sheet of six NEW game-like play mechanics derived from the companion Imag...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/096-use-case-stylized-concept.png</image:loc>
+      <image:title>Use case: stylized-concept</image:title>
+      <image:caption>Use case: stylized-concept Asset type: GPT Image 2 gallery research board, 2K landscape contact sheet Primary request: Create a polished 3x2 visual research board showing six NEW practical and playful GPT Image 2 use cases based on current...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/087-use-case-productivity-visual.png</image:loc>
       <image:title>Use case: productivity-visual</image:title>
       <image:caption>Use case: productivity-visual Asset type: derived play concept image, single finished image Primary request: Create a 16:9 concept called &quot;RUBRIC ARENA&quot;, derived from the visual QA rubric. It turns image evaluation into a playful tournamen...</image:caption>
@@ -487,6 +497,28 @@
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/095-use-case-stylized-concept/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/095-use-case-stylized-concept.png</image:loc>
+      <image:title>Use case: stylized-concept</image:title>
+      <image:caption>Use case: stylized-concept Asset type: GPT Image 2 gallery derived play modes board, 2K landscape contact sheet Primary request: Create a second polished 3x2 contact sheet of six NEW game-like play mechanics derived from the companion Imag...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/096-use-case-stylized-concept/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/096-use-case-stylized-concept.png</image:loc>
+      <image:title>Use case: stylized-concept</image:title>
+      <image:caption>Use case: stylized-concept Asset type: GPT Image 2 gallery research board, 2K landscape contact sheet Primary request: Create a polished 3x2 visual research board showing six NEW practical and playful GPT Image 2 use cases based on current...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/087-use-case-productivity-visual/</loc>
@@ -1601,13 +1633,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/productivity-visual/</loc>
+    <loc>https://gptimg2.best/tags/evaluation/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/evaluation/</loc>
+    <loc>https://gptimg2.best/tags/productivity-visual/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
