@@ -500,7 +500,9 @@ pre {
 }
 
 .lucky-image-link {
-  display: block;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   border-bottom: 1px solid var(--ink);
   background: #e9dfca;
   cursor: zoom-in;
@@ -510,8 +512,8 @@ pre {
   display: block;
   width: 100%;
   height: auto;
-  aspect-ratio: 3 / 2;
-  object-fit: cover;
+  max-height: min(78vh, 860px);
+  object-fit: contain;
 }
 
 .lucky-card-body,
