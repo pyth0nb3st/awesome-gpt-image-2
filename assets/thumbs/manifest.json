@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/119-use-case-station-visual-weather-signals.png": {
+      "path": "assets/thumbs/119-use-case-station-visual-weather-signals.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/120-use-case-station-visual-weather-signals.png": {
+      "path": "assets/thumbs/120-use-case-station-visual-weather-signals.jpg",
+      "width": 768,
+      "height": 432
+    },
     "assets/images/117-one-original-gpt-image-2-derived-play-concept-image-as-a-16-9-la.png": {
       "path": "assets/thumbs/117-one-original-gpt-image-2-derived-play-concept-image-as-a-16-9-la.jpg",
       "width": 768,

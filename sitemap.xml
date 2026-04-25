@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/119-use-case-station-visual-weather-signals.png</image:loc>
+      <image:title>Use Case Station: Visual Weather Signals</image:title>
+      <image:caption>Create one original GPT Image 2 derived-play concept image as a 16:9 landscape scene. Title inside the image, small and legible: &quot;GPT Image 2 Forecast Rally&quot;. Core format: a cooperative tabletop weather-rally game derived from the Visual W...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/120-use-case-station-visual-weather-signals.png</image:loc>
+      <image:title>Use Case Station: Visual Weather Signals</image:title>
+      <image:caption>Create one original GPT Image 2 use-case concept image as a 16:9 landscape scene. Title inside the image, small and legible: &quot;GPT Image 2 Visual Weather Station&quot;. Core format: a single immersive analog meteorology room for image-generation...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/117-one-original-gpt-image-2-derived-play-concept-image-as-a-16-9-la.png</image:loc>
       <image:title>Derived Play: Shot-Cue Relay</image:title>
       <image:caption>Create one original GPT Image 2 derived-play concept image as a 16:9 landscape scene. Title in the image, small and legible: &quot;GPT Image 2 Shot-Cue Relay&quot;. Core format: a continuous playable film-stage relay challenge inside a miniature stu...</image:caption>
@@ -607,6 +617,28 @@
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/119-use-case-station-visual-weather-signals/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/119-use-case-station-visual-weather-signals.png</image:loc>
+      <image:title>Use Case Station: Visual Weather Signals</image:title>
+      <image:caption>Create one original GPT Image 2 derived-play concept image as a 16:9 landscape scene. Title inside the image, small and legible: &quot;GPT Image 2 Forecast Rally&quot;. Core format: a cooperative tabletop weather-rally game derived from the Visual W...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/120-use-case-station-visual-weather-signals/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/120-use-case-station-visual-weather-signals.png</image:loc>
+      <image:title>Use Case Station: Visual Weather Signals</image:title>
+      <image:caption>Create one original GPT Image 2 use-case concept image as a 16:9 landscape scene. Title inside the image, small and legible: &quot;GPT Image 2 Visual Weather Station&quot;. Core format: a single immersive analog meteorology room for image-generation...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/117-one-original-gpt-image-2-derived-play-concept-image-as-a-16-9-la/</loc>
@@ -2039,7 +2071,43 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://gptimg2.best/tags/edit-humidity-gauge/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/format-jetstream-router/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://gptimg2.best/tags/photorealistic-natural/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/prompt-pressure-altimeter/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/reference-drift-windsock/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/safe-fiction-cloudbreak/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/text-legibility-barometer/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
