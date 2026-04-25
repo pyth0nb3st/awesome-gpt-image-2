@@ -6,6 +6,40 @@
   "images": [
     {
       "title": "Use case: stylized-concept",
+      "caption": "历史生成图，批次 019dc267-ce49-7430-a662-73d1b4ec4e58，生成时间 2026-04-25 10:16:56。",
+      "path": "assets/images/085-use-case-stylized-concept.png",
+      "alt": "Generated image ig_077f6043413368330169ec2358cbc4819a9a972b75240ee3df",
+      "width": 1536,
+      "height": 1024,
+      "createdAt": "2026-04-25 10:16:56",
+      "batch": "019dc267-ce49-7430-a662-73d1b4ec4e58",
+      "tags": [
+        "historical-import",
+        "prompt-recovered",
+        "batch-019dc267"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: GPT Image 2 gallery derived play modes board, 2K landscape contact sheet\nPrimary request: Create a second polished 3x2 contact sheet of six NEW game-like play mechanics derived from the use cases in the companion board. These must be playable frameworks for experimenting with GPT Image 2 outputs, not repeats of earlier recorded mechanics such as product-to-flavor-lab, app-to-board-game, poster-to-mini-comic, Claim Court, Access Route Remix, Director's Cut Ladder, Aging Oracle, Taste Telemetry Duel, Edge-Case Hunt, prompt relay, constraint bingo, regression detective, variant draft arena, scene grammar kit, scale-shift microscope, wardrobe audit, gallery speedrun, drill-path puzzle, material truth table, waveform jam, or maintenance triage.\nPanels:\n1. Manual Maze: players receive a messy procedure card, generate a pocket manual, then race to spot missing warnings, unclear order, and ambiguous icons.\n2. Price Canon Kitchen: players expand one receipt into a menu world; points reward price consistency, cuisine coherence, and believable supporting props.\n3. Prop Continuity Poker: each player generates a different view of the same fictional object, then bids on which details survive across front, side, damaged, and hero shots.\n4. Signage Babel Sprint: teams design multilingual wayfinding; judges test whether a traveler can infer route, exit, transfer, restroom, and help without reading all languages.\n5. Figure Ladder Duel: players transform one dense chart into poster, slide, and thumbnail; each round removes 20 percent of visual clutter while preserving the claim.\n6. Locked-Room Remix: players redesign an interior from a fixed reference layout; scoring favors style diversity while penalizing changed windows, wall geometry, or camera angle.\nStyle/medium: premium tabletop game documentation spread, realistic cards, score sheets, tokens, timers, judge stickers, mini output images, pencils, no real brands.\nComposition/framing: 3 columns by 2 rows, six clearly separated panels; each panel shows the game components, scoring traces, and a small output sample.\nLighting/mood: warm studio tabletop lighting, collaborative design jam energy, precise enough for documentation.\nColor palette: neutral table, varied accent colors for each game, crisp black rule text, colorful scoring tokens.\nConstraints: no logos, no watermarks, no copyrighted characters; make each play mode visibly recordable with title, components, round structure, and scoring evidence; avoid repeating any prior gallery play format.",
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc267-ce49-7430-a662-73d1b4ec4e58/ig_077f6043413368330169ec2358cbc4819a9a972b75240ee3df.png"
+    },
+    {
+      "title": "Use case: stylized-concept",
+      "caption": "历史生成图，批次 019dc267-ce49-7430-a662-73d1b4ec4e58，生成时间 2026-04-25 10:13:45。",
+      "path": "assets/images/086-use-case-stylized-concept.png",
+      "alt": "Generated image ig_077f6043413368330169ec23049680819a9442ea2dfb0eb018",
+      "width": 1536,
+      "height": 1024,
+      "createdAt": "2026-04-25 10:13:45",
+      "batch": "019dc267-ce49-7430-a662-73d1b4ec4e58",
+      "tags": [
+        "historical-import",
+        "prompt-recovered",
+        "batch-019dc267"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: GPT Image 2 gallery research board, 2K landscape contact sheet\nPrimary request: Create a polished 3x2 visual research board showing six NEW practical and playful GPT Image 2 use cases, focused on capabilities reported in current GPT Image 2/API materials: high-quality generation and editing, flexible image sizes, high-fidelity image inputs, stronger instruction following, structured layouts, and reliable in-image text. Avoid repeating earlier gallery themes such as Cloud Oolong packaging, Route Bento app, midnight bookstore poster, Drill learning UI, tea brewing diagram, local legend store style transfer, weather portraits, recipe storyboards, museum field guides, prompt relay, constraint bingo, or regression detective.\nPanels:\n1. Micro-Manual Builder: turn a messy handwritten process into a clean illustrated pocket manual with numbered steps, safety marks, and small diagrams.\n2. Receipt-to-Menu World: transform a plain restaurant receipt into a full fictional menu board, food photography, staff badge, and table tent while keeping prices coherent.\n3. Continuity Prop Bible: generate a film prop reference sheet showing the same imaginary object from front, side, back, damaged, and hero-shot views.\n4. Multilingual Wayfinding Kit: create coordinated transit signs in Chinese, English, Japanese, Korean, and icon language, testing legibility and layout hierarchy.\n5. Research Figure Remixer: convert a dense academic chart into three reader-friendly visual explanations: poster, slide, and annotated thumbnail.\n6. Input-Fidelity Interior Swap: use a room photo as a locked layout reference, then show three furniture/material redesign options without changing windows, walls, or camera angle.\nStyle/medium: premium design-research wall, realistic printed boards, image tiles, UI fragments, diagrams, mockups, small annotation labels, no real brands.\nComposition/framing: 3 columns by 2 rows, each panel has a distinct mini-scene and a short title; title text should be simple and legible but the image must not depend on perfect typography.\nLighting/mood: bright studio table and pinboard lighting, crisp shadows, exploratory but production-ready.\nColor palette: varied accents per panel, neutral paper, black ink, a few saturated markers.\nConstraints: no logos, no watermarks, no real company marks, no copyrighted characters; make every panel feel like a recordable use case with visible before/after or source/output relationship.",
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc267-ce49-7430-a662-73d1b4ec4e58/ig_077f6043413368330169ec23049680819a9442ea2dfb0eb018.png"
+    },
+    {
+      "title": "Use case: stylized-concept",
       "caption": "历史生成图，批次 019dc255-7e4b-7562-b49f-5dfa1d918887，生成时间 2026-04-25 09:56:46。",
       "path": "assets/images/083-use-case-stylized-concept.png",
       "alt": "Generated image ig_0399517c54fc15800169ec1ec5e9dc819aa9a14fb895c8e4ea",

@@ -7,26 +7,26 @@ Repository: https://github.com/pyth0nb3st/awesome-gpt-image-2
 Gallery JSON: https://pyth0nb3st.github.io/awesome-gpt-image-2/gallery.json
 Sitemap: https://pyth0nb3st.github.io/awesome-gpt-image-2/sitemap.xml
 
-The site contains 84 generated image examples. Each example includes a repository-local image, full prompt text, dimensions, creation time, and semantic tags for prompt discovery.
+The site contains 86 generated image examples. Each example includes a repository-local image, full prompt text, dimensions, creation time, and semantic tags for prompt discovery.
 
 Top tags:
-- product-mockup: 56
-- typography: 56
-- game-design: 47
-- ui-mockup: 43
-- storytelling: 42
+- product-mockup: 58
+- typography: 58
+- game-design: 49
+- ui-mockup: 45
+- storytelling: 44
 - photoreal: 30
 - lighting-weather: 28
 - worldbuilding: 26
-- infographic: 21
-- education: 16
+- infographic: 23
+- education: 17
+- interior-design: 15
 - material-study: 15
-- interior-design: 14
 - operations: 11
 - productivity-visual: 11
 - evaluation: 10
 - illustration-story: 8
+- stylized-concept: 8
 - ads-marketing: 7
 - prompt-game: 7
-- stylized-concept: 6
 - scientific-educational: 5
