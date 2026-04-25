@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/176-derived-play-checkmate-prompt-relay.png</image:loc>
+      <image:title>Derived Play: Checkmate Prompt Relay</image:title>
+      <image:caption>Create a single polished gallery image for a derived play concept titled Derived Play: Checkmate Prompt Relay. It should be a different artifact from the workstation: show a fictional head-to-head tabletop relay game on a long tournament t...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/177-use-case-prompt-chess-composer.png</image:loc>
+      <image:title>Use Case: Prompt Chess Composer</image:title>
+      <image:caption>Create a single polished gallery image for a new GPT Image 2 use case titled Use Case: Prompt Chess Composer. Show a fictional visual prompt-composition desk built around one large elegant chessboard, not a contact sheet: translucent chess...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/174-derived-play-dovetail-prompt-fit.png</image:loc>
       <image:title>Derived Play: Dovetail Prompt Fit</image:title>
       <image:caption>Create a single polished gallery image for a derived play concept titled Derived Play: Dovetail Prompt Fit. Show a compact tactile tabletop prototype in an open wooden tray, with interlocking harmless model blocks, dovetail sliders, soft m...</image:caption>
@@ -857,6 +867,28 @@
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/176-derived-play-checkmate-prompt-relay/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/176-derived-play-checkmate-prompt-relay.png</image:loc>
+      <image:title>Derived Play: Checkmate Prompt Relay</image:title>
+      <image:caption>Create a single polished gallery image for a derived play concept titled Derived Play: Checkmate Prompt Relay. It should be a different artifact from the workstation: show a fictional head-to-head tabletop relay game on a long tournament t...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/177-use-case-prompt-chess-composer/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/177-use-case-prompt-chess-composer.png</image:loc>
+      <image:title>Use Case: Prompt Chess Composer</image:title>
+      <image:caption>Create a single polished gallery image for a new GPT Image 2 use case titled Use Case: Prompt Chess Composer. Show a fictional visual prompt-composition desk built around one large elegant chessboard, not a contact sheet: translucent chess...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/174-derived-play-dovetail-prompt-fit/</loc>

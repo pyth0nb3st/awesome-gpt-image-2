@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/176-derived-play-checkmate-prompt-relay.png": {
+      "path": "assets/thumbs/176-derived-play-checkmate-prompt-relay.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/177-use-case-prompt-chess-composer.png": {
+      "path": "assets/thumbs/177-use-case-prompt-chess-composer.jpg",
+      "width": 768,
+      "height": 512
+    },
     "assets/images/174-derived-play-dovetail-prompt-fit.png": {
       "path": "assets/thumbs/174-derived-play-dovetail-prompt-fit.jpg",
       "width": 768,
