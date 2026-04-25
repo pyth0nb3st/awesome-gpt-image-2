@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/127-use-case-illustration-story-derived-play-mechanic-translucent-sl.png": {
+      "path": "assets/thumbs/127-use-case-illustration-story-derived-play-mechanic-translucent-sl.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/128-use-case-productivity-visual-infographic-diagram.png": {
+      "path": "assets/thumbs/128-use-case-productivity-visual-infographic-diagram.jpg",
+      "width": 768,
+      "height": 512
+    },
     "assets/images/125-derived-play-orbit-mobile-league.png": {
       "path": "assets/thumbs/125-derived-play-orbit-mobile-league.jpg",
       "width": 768,

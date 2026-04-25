@@ -18,6 +18,80 @@
   },
   "images": [
     {
+      "title": "Derived Play: Lantern Stack League",
+      "caption": "把透明玻璃片叠层、遮罩、彩色滤片、连续性 token 和对位钉做成一套可玩的投影解谜：玩家用叠片满足目标剪影并按对位、可读性和身份保持计分。",
+      "path": "assets/images/127-use-case-illustration-story-derived-play-mechanic-translucent-sl.png",
+      "alt": "Derived GPT Image 2 tabletop optical puzzle with translucent slide layers, masks, gels, alignment pegs, and scoring projection",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-25 19:52:08",
+      "batch": "019dc477-5f5b-78a1-9635-5548ff5064c3",
+      "tags": [
+        "slide-layer-draft",
+        "blackout-mask-tray",
+        "gel-wheel-tint",
+        "registration-peg-track",
+        "continuity-echo-token",
+        "projection-score-window"
+      ],
+      "prompt": "Use case: illustration-story / derived play mechanic: translucent-slide-rule-game\nAsset type: original derived gameplay concept image, landscape 16:9\nPrimary request: Create a single high-resolution visual concept titled \"Derived Play: Lantern Stack League\" as a playable tabletop optical puzzle built from translucent glass slides and a hand-cranked fictional projector. This must be a new derived play mode from GPT Image 2 image-compositing use cases, not a 2x3 board and not a card spread.\nGame mechanism: players draft slide layers, masks, color gels, caption strips, continuity tokens, and scale gauges, then stack them in a projector to satisfy a visible target silhouette without breaking constraints. Scoring is based on exact registration, preserved fictional object identity, readable tiny caption, palette match, and clean mask edges.\nScene/backdrop: overhead view of an open tabletop game box shaped like a compact magic-lantern case. A small projector in the center casts a target scene onto a fold-up screen. Around it are sliding rails, translucent tokens, registration pegs, a scoring dial, a crank, and a small rule wheel.\nSubject: visible game components include six unique mechanic zones: (1) \"Draft\" slide market with foreground/midground/background panes; (2) \"Block\" mask tray with harmless geometric cutouts; (3) \"Tint\" gel wheel; (4) \"Align\" peg track; (5) \"Echo\" continuity token showing the same ceramic moon across turns; (6) \"Reveal\" scoring window comparing target and projection.\nStyle/medium: polished product-like tabletop game photography mixed with editorial illustration; tactile glass, brass, paperboard, engraved dials, readable rules icons, fictional symbols only.\nComposition/framing: one continuous playable apparatus inside the box, with components arranged around the projector in an asymmetric mechanical layout. The screen projection and scoring window should make the rules understandable visually.\nLighting/mood: clear studio tabletop light plus a soft projector beam; no dark mystery mood; details must be inspectable.\nColor palette: ivory paperboard, warm brass, teal glass, coral/yellow/cobalt filters, charcoal rule marks; balanced and not monochrome.\nText (verbatim, small labels only): \"Draft\", \"Block\", \"Tint\", \"Align\", \"Echo\", \"Reveal\", \"Target\", \"Score\".\nConstraints: original concept; all brands, institutions, characters, data, labels, and objects must be fictional; make the play rules visible through components and scoring, not explanatory paragraphs; avoid a 2x3 grid, contact sheet, station board, loom, weather station, printshop, planetarium, film stage, pinball table, greenhouse, airport terminal, laundromat, or ordinary route-map board game.\nAvoid: disallowed sensitive, unsafe, adult, graphic, real-world identity, brand, rights-restricted, living-artist-style, and watermark material.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original automation concept and prompt. No external prompt, article, image, artwork, repository, or case-study source was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "policy": [
+          "No civic persuasion, electioneering, parties, public office-holder likenesses, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No adult explicitness or nudity.",
+          "No gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Prompt and visible concept were screened against civic-persuasion, unsafe-instruction, adult-explicitness, gore, real-brand, public-figure, copyrighted-character, and living-artist-style restrictions."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc477-5f5b-78a1-9635-5548ff5064c3/ig_021ec27244c0315c0169ecaa9b65dc8190bb135e1dc28c94ea.png"
+    },
+    {
+      "title": "Use Case Lantern: Layered Slide Compositing",
+      "caption": "把 GPT Image 2 的分层构图、负约束遮罩、短标签对位、色彩滤片、连续性保持和比例切换，转成一台可检查的魔灯投影工作台。",
+      "path": "assets/images/128-use-case-productivity-visual-infographic-diagram.png",
+      "alt": "GPT Image 2 use-case lantern desk with translucent glass slides, masks, color gels, caption registration, continuity stack, and scale alignment",
+      "width": 1536,
+      "height": 1024,
+      "createdAt": "2026-04-25 19:50:52",
+      "batch": "019dc477-5f5b-78a1-9635-5548ff5064c3",
+      "tags": [
+        "layer-separation-slide",
+        "blackout-mask-prompt",
+        "caption-register-strip",
+        "color-gel-mood-control",
+        "continuity-stack-check",
+        "scale-shift-registration"
+      ],
+      "prompt": "Use case: productivity-visual / infographic-diagram\nAsset type: original GPT Image 2 use-case exploration image, landscape 16:9\nPrimary request: Create a single high-resolution visual concept titled \"Use Case Lantern: Layered Slide Compositing\" as an analog magic-lantern projection desk, not a 2x3 board and not a card spread. Show a fictional tabletop projector casting one composite image onto a small screen while six physical glass slide strips sit in rails around it. Each strip represents a distinct GPT Image 2 use case: (1) layer-separation prompt: foreground, midground, background as separate translucent slides; (2) blackout-mask prompt: negative constraints drawn as opaque cutout masks; (3) caption-register prompt: a tiny fictional label slide aligned with the image; (4) color-gel prompt: mood and palette controlled by removable gel filters; (5) continuity-stack prompt: same fictional object preserved across three slide passes; (6) scale-shift prompt: miniature/model view and full-scene view aligned by registration pins.\nScene/backdrop: warm workshop table with a compact fictional magic-lantern projector, glass-slide rails, registration pins, vellum notes, and projected composite image on a small matte screen.\nSubject: the six use cases are visible as physical slide mechanisms and projected results, using invented objects only: abstract houses, ceramic moons, paper boats, geometric plants, and fictional symbols.\nStyle/medium: detailed editorial illustration with realistic materials, translucent glass, brass rails, matte paper, crisp tiny UI-like annotations.\nComposition/framing: three-quarter overhead view; continuous tabletop apparatus with radial slide rails converging toward the projector; the projected image is a layered, readable composite. The layout must feel like a usable optical instrument, not six rectangular panels.\nLighting/mood: warm lamp light, soft projector beam, high clarity, no smoky haze obscuring details.\nColor palette: amber brass, teal glass edges, ivory paper, muted coral and cobalt gel filters, balanced and not dominated by a single hue.\nText (verbatim, small labels only): \"layer\", \"mask\", \"caption\", \"gel\", \"continuity\", \"scale\".\nConstraints: original concept; all brands, institutions, characters, data, labels, and objects must be fictional; make the mechanism legible through physical stacking and projection; avoid a 2x3 grid, contact sheet, station board, loom, weather station, printshop, planetarium, film stage, pinball table, greenhouse, airport terminal, or laundromat.\nAvoid: disallowed sensitive, unsafe, adult, graphic, real-world identity, brand, rights-restricted, living-artist-style, and watermark material.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original automation concept and prompt. No external prompt, article, image, artwork, repository, or case-study source was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "policy": [
+          "No civic persuasion, electioneering, parties, public office-holder likenesses, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No adult explicitness or nudity.",
+          "No gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Prompt and visible concept were screened against civic-persuasion, unsafe-instruction, adult-explicitness, gore, real-brand, public-figure, copyrighted-character, and living-artist-style restrictions."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc477-5f5b-78a1-9635-5548ff5064c3/ig_021ec27244c0315c0169ecaa4df2ac81909e1e426c01ae45ee.png"
+    },
+    {
       "title": "Derived Play: Orbit Mobile League",
       "caption": "从星图穹顶派生出的悬挂式 kinetic mobile 玩法：移动参考挂件、锁定遮罩月影、抽取裁切轨道、读短字流星、分拣提示星云，并把真实感标记换成虚构安全符号后计分。",
       "path": "assets/images/125-derived-play-orbit-mobile-league.png",

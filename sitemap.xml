@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/127-use-case-illustration-story-derived-play-mechanic-translucent-sl.png</image:loc>
+      <image:title>Derived Play: Lantern Stack League</image:title>
+      <image:caption>Use case: illustration-story / derived play mechanic: translucent-slide-rule-game Asset type: original derived gameplay concept image, landscape 16:9 Primary request: Create a single high-resolution visual concept titled &quot;Derived Play: Lan...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/128-use-case-productivity-visual-infographic-diagram.png</image:loc>
+      <image:title>Use Case Lantern: Layered Slide Compositing</image:title>
+      <image:caption>Use case: productivity-visual / infographic-diagram Asset type: original GPT Image 2 use-case exploration image, landscape 16:9 Primary request: Create a single high-resolution visual concept titled &quot;Use Case Lantern: Layered Slide Composi...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/125-derived-play-orbit-mobile-league.png</image:loc>
       <image:title>Derived Play: Orbit Mobile League</image:title>
       <image:caption>Create a single high-quality landscape concept image showing an original derived GPT Image 2 play mode called Orbit Mobile League, as a suspended kinetic mobile sculpture game, not a board, not a grid, not cards, not a circular rules machi...</image:caption>
@@ -647,6 +657,28 @@
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/127-use-case-illustration-story-derived-play-mechanic-translucent-sl/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/127-use-case-illustration-story-derived-play-mechanic-translucent-sl.png</image:loc>
+      <image:title>Derived Play: Lantern Stack League</image:title>
+      <image:caption>Use case: illustration-story / derived play mechanic: translucent-slide-rule-game Asset type: original derived gameplay concept image, landscape 16:9 Primary request: Create a single high-resolution visual concept titled &quot;Derived Play: Lan...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/128-use-case-productivity-visual-infographic-diagram/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/128-use-case-productivity-visual-infographic-diagram.png</image:loc>
+      <image:title>Use Case Lantern: Layered Slide Compositing</image:title>
+      <image:caption>Use case: productivity-visual / infographic-diagram Asset type: original GPT Image 2 use-case exploration image, landscape 16:9 Primary request: Create a single high-resolution visual concept titled &quot;Use Case Lantern: Layered Slide Composi...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/125-derived-play-orbit-mobile-league/</loc>
@@ -2119,13 +2151,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/stylized-concept/</loc>
+    <loc>https://gptimg2.best/tags/productivity-visual/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/productivity-visual/</loc>
+    <loc>https://gptimg2.best/tags/stylized-concept/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
