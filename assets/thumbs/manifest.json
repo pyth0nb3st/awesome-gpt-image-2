@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/121-one-original-gpt-image-2-derived-play-concept-image-as-a-16-9-la.png": {
+      "path": "assets/thumbs/121-one-original-gpt-image-2-derived-play-concept-image-as-a-16-9-la.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/122-one-original-gpt-image-2-use-case-concept-image-as-a-16-9-landsc.png": {
+      "path": "assets/thumbs/122-one-original-gpt-image-2-use-case-concept-image-as-a-16-9-landsc.jpg",
+      "width": 768,
+      "height": 432
+    },
     "assets/images/119-derived-play-forecast-rally.png": {
       "path": "assets/thumbs/119-derived-play-forecast-rally.jpg",
       "width": 768,
