@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/170-use-case-magnet-field-spectrum.png": {
+      "path": "assets/thumbs/170-use-case-magnet-field-spectrum.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/171-derived-play-polarity-arena.png": {
+      "path": "assets/thumbs/171-derived-play-polarity-arena.jpg",
+      "width": 768,
+      "height": 432
+    },
     "assets/images/168-derived-play-glow-circuit-rodeo.png": {
       "path": "assets/thumbs/168-derived-play-glow-circuit-rodeo.jpg",
       "width": 768,

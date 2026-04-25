@@ -18,6 +18,90 @@
   },
   "images": [
     {
+      "title": "Use Case Magnet: Field Spectrum",
+      "caption": "把 GPT Image 2 的提示影响力做成一台密封场线谱仪：Seed Pole、Mood Flip、Negative Repel、Reference Bend、Trace Memory、Word Needle、Frame Guard 和 Source Shield 用石墨铁粉、罗盘针和玻璃刻度展示约束如何互相牵引。",
+      "path": "assets/images/170-use-case-magnet-field-spectrum.png",
+      "alt": "Sealed tabletop field-spectrum instrument with graphite magnetic contours, brass compass needles, teal calibration ticks, engraved tabs, and a blank fictional sample silhouette",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-26 02:37:28",
+      "batch": "019dc5e6-0eef-7202-b85a-1958ed872f51",
+      "tags": [
+        "field-spectrum",
+        "seed-pole",
+        "mood-flip",
+        "negative-repel",
+        "reference-bend",
+        "trace-memory",
+        "word-needle",
+        "frame-guard",
+        "source-shield",
+        "batch-019dc5e6"
+      ],
+      "prompt": "Visible title: \"Use Case Magnet: Field Spectrum\". Create a single 16:9 macro product photo of a sealed tabletop field-spectrum instrument for GPT Image 2 prompt experiments. Under clear glass, graphite filings form elegant magnetic contours around eight abstract influence points. Tiny engraved tabs read: Seed Pole, Mood Flip, Negative Repel, Reference Bend, Trace Memory, Word Needle, Frame Guard, Source Shield. Include brass compass needles, ceramic spacers, smoked glass, teal calibration ticks, and one blank fictional sample silhouette. Original fictional lab artifact; no people, no logos, no public figures, no copyrighted characters, no political content, no sexual content, no violence, no dangerous instructions, no watermark.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original magnetic field-spectrum prompt-control concept and prompt generated locally from existing-gallery gap analysis. No external prompt, article, image, artwork, repository, brand, character, or case-study source was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Original fictional sealed field-spectrum visualization with no people, brands, public figures, copyrighted characters, sexual content, dangerous instructions, gore, graphic violence, or political persuasion."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc5e6-0eef-7202-b85a-1958ed872f51/ig_035692792d2b842f0169ed09af40208197b81b071e8b010964.png"
+    },
+    {
+      "title": "Derived Play: Polarity Arena",
+      "caption": "从 Prompt Field Lines 派生的磁性竞技盘：Seed Pull、Polarity Flip、Repel Token、Attractor Bend、Memory Trace、Needle Read、Frame Ring 和 Shield Score 把提示影响力变成可计分的场线博弈。",
+      "path": "assets/images/171-derived-play-polarity-arena.png",
+      "alt": "Sealed circular magnetic strategy arena under glass with graphite filing arcs, compass needles, polarity gates, frame rings, source shields, and score capsules",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-26 02:31:41",
+      "batch": "019dc5e6-0eef-7202-b85a-1958ed872f51",
+      "tags": [
+        "polarity-arena",
+        "seed-pull",
+        "polarity-flip",
+        "repel-token",
+        "attractor-bend",
+        "memory-trace",
+        "needle-read",
+        "frame-ring",
+        "shield-score",
+        "batch-019dc5e6"
+      ],
+      "prompt": "Visible title: \"Derived Play: Polarity Arena\". A polished original derived-play image from Prompt Field Lines, 16:9 landscape. Show a sealed circular magnetic strategy arena under clear glass: loose dark filing tokens form live-looking arcs between safe hidden puck magnets, small compass needles, polarity gates, field rulers, crop rings, source shields, and score capsules. It must be a distinct playable artifact, not a 2x3 board, not cards, not a research panel, not a maze chip, not neon route, not clockwork racing, not paper folding, not puppets, not bead ledger, not sand raking, not patch cables, not pinball. Game mechanism: players place fictional magnet pucks to pull a subject cloud, flip context polarity, repel forbidden tokens, bend toward one reference attractor, preserve or erase memory traces, align a tiny readable word needle, keep filings inside frame rings, then close the source shield. Put rule labels on curved rim markers: Seed Pull, Polarity Flip, Repel Token, Attractor Bend, Memory Trace, Needle Read, Frame Ring, Shield Score. Make it tactile and playable with smoked glass, graphite filings, brass needles, colored polarity caps, ceramic scoring capsules, and clean studio lighting. Fictional safe magnetic toy metaphor only; no real brands, no people, no public figures, no political content, no dangerous operating instructions, no sexual content, no graphic violence, no copyrighted characters, no living-artist style, no watermark, no QR code.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original magnetic-field strategy play mechanic and prompt generated locally from the Prompt Field Lines use-case concept. No external prompt, article, image, artwork, repository, brand, character, or case-study source was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Original fictional sealed magnetic toy metaphor with no people, brands, public figures, copyrighted characters, sexual content, dangerous instructions, gore, graphic violence, or political persuasion."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc5e6-0eef-7202-b85a-1958ed872f51/ig_035692792d2b842f0169ed084def3c8197acd4583247dc960a.png"
+    },
+    {
       "title": "Derived Play: Glow Circuit Rodeo",
       "caption": "从霓虹弯管概念派生出的发光路线游戏：Bend Draft、Hue Bet、Bridge Clip、Letter Check、Spill Tax、Halo Keep 和 Seal Finish 把提示约束变成一条可搭建、可计分的光路。",
       "path": "assets/images/168-derived-play-glow-circuit-rodeo.png",
