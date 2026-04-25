@@ -5,6 +5,46 @@
   "summary": "A visual gallery of playful GPT Image use cases, prompts, and experiment patterns. Images are stored in this repository for GitHub Pages publishing.",
   "images": [
     {
+      "title": "Derived Play Modes: Context Loop Arcade",
+      "caption": "第八组玩法派生：从上下文循环能力图继续扩展成周程重混、决策线索、事实明信片、维修分诊接力、语气切换台和货架规格扑克。",
+      "path": "assets/images/105-derived-play-modes-context-loop-arcade.png",
+      "alt": "GPT Image 2 derived play modes board with week remix draft, decision thread, fact postcard duel, triage relay, tone switchboard, and shelf spec poker",
+      "width": 1536,
+      "height": 1024,
+      "createdAt": "2026-04-25 15:14:40",
+      "batch": "019dc377-02d2-7ac3-b4af-1a5a906728db",
+      "tags": [
+        "week-remix-draft",
+        "decision-thread",
+        "fact-postcard-duel",
+        "triage-relay",
+        "tone-switchboard",
+        "shelf-spec-poker"
+      ],
+      "prompt": "Create a second polished GPT-image-2 derived-play research board as one single 3:2 landscape image, like a collectible creative game-design spread. Overall title: \"GPT-IMAGE-2 DERIVED PLAY MODES: CONTEXT LOOP ARCADE\". Six clearly separated panels in a clean 3x2 grid. These play mechanics are derived from the companion use-case board \"Live Context Loops\" and must be NEW, avoiding all prior recorded gallery mechanics including prompt escape room, brand multiverse, time machine, recipe comic, worldbuilding atlas, prompt archaeology, QA spot-the-diff, microbrand kit, learning card deck, wayfinding remix, tabletop quest props, state lock, evidence garden, scenario switch, prep race, palette detective, failure ladder, observation bingo, constraint auction, recipe forensics, policy storyboard race, archive detective, glitch taxonomy draft, and any direct repeats of calendar scene forge, meeting memory board, dataset postcard sampler, repair triage photos, language mood matrix, spec-to-shelf prototype.\n\nPanel 1 title: \"Week Remix Draft\" — players draw event cards, weather chips, and outfit tokens, then score whether seven generated day-scenes preserve time, place, and continuity.\nPanel 2 title: \"Decision Thread\" — teams reconstruct a meeting outcome from visual action cards, blocker stamps, owner chips, and a hidden missing-decision token.\nPanel 3 title: \"Fact Postcard Duel\" — players turn spreadsheet rows into travel postcards, then opponents audit every visible number, unit, and category icon for fidelity.\nPanel 4 title: \"Triage Relay\" — appliance issue photos become numbered checklist boards; players race to place severity markers without giving unsafe repair advice.\nPanel 5 title: \"Tone Switchboard\" — one message is routed through mood sliders and script tiles; players score if visual tone changes while the core meaning stays intact.\nPanel 6 title: \"Shelf Spec Poker\" — product requirement cards are bet into packaging mockups; winning hands balance warnings, claims, ingredients, insert steps, and shelf contrast.\n\nStyle: premium tabletop prototype photography plus polished concept art, tactile cards, modular tiles, sliders, score sheets, chips, rulers, pencils, small generated-output thumbnails. Each panel should show components, scoring evidence, and a tiny play log. Use varied accent colors on a neutral table, crisp readable typography only for the overall title, six panel titles, and simple labels like \"SCORE\", \"CHECK\", \"SAFE\", \"FACT\", \"MOOD\", \"CLAIM\". No real brands, no logos, no watermarks, no copyrighted characters, no celebrity likenesses.",
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc377-02d2-7ac3-b4af-1a5a906728db/ig_0e5e243ae9adcc070169ec6938d55081979484be28ea0fafcf.png"
+    },
+    {
+      "title": "Use Case Lab: Live Context Loops",
+      "caption": "第七组能力地图：把日程、会议、数据行、维修照片、语气本地化和产品规格转成可视化上下文循环。",
+      "path": "assets/images/106-use-case-lab-live-context-loops.png",
+      "alt": "GPT Image 2 use-case board with calendar scene forge, meeting memory board, dataset postcards, repair triage photos, language mood matrix, and spec-to-shelf prototypes",
+      "width": 1536,
+      "height": 1024,
+      "createdAt": "2026-04-25 15:11:54",
+      "batch": "019dc377-02d2-7ac3-b4af-1a5a906728db",
+      "tags": [
+        "calendar-scene-forge",
+        "meeting-memory-board",
+        "dataset-postcard-sampler",
+        "repair-triage-photos",
+        "language-mood-matrix",
+        "spec-to-shelf-prototype"
+      ],
+      "prompt": "Create a polished GPT-image-2 use-case research board as one single 3:2 landscape image, like a premium design lab documentation wall. Overall title: \"GPT-IMAGE-2 USE CASE LAB: LIVE CONTEXT LOOPS\". Six clearly separated panels in a clean 3x2 grid, each panel with a short readable English title and a concrete demo. These must be NEW use cases, avoiding prior recorded gallery themes: multilingual posters, product SKU factories, UI fiction simulators, storyboard continuity, educational remixes, interior matrices, prompt escape rooms, brand multiverses, time machines, recipe comics, worldbuilding atlases, catalog transformers, data posters, onboarding state machines, localized packaging, restoration what-ifs, game asset sheets, prompt archaeology, QA spot-the-diff, microbrand kits, learning cards, wayfinding remix, tabletop quest props, process twins, field notebooks, policy theater, kitchen mise maps, archive color labs, failure mode atlases, state lock, evidence garden, scenario switch, prep race, palette detective, failure ladder, field note builder, constraint posterizer, recipe reality check, policy comic translator, archive label restorer, failure mode catalog, observation bingo, constraint auction, recipe forensics, policy storyboard race, archive detective, glitch taxonomy draft.\n\nPanel 1 title: \"Calendar Scene Forge\" showing a week of plain calendar events transformed into consistent location thumbnails, outfit hints, weather badges, and time-of-day lighting cues.\nPanel 2 title: \"Meeting Memory Board\" showing rough meeting notes converted into a visual decision map with faces as neutral silhouettes, action cards, blockers, and ownership chips.\nPanel 3 title: \"Dataset Postcard Sampler\" showing rows from a small fictional spreadsheet turned into six mini postcards, each preserving numeric facts as readable labels and icons.\nPanel 4 title: \"Repair Triage Photos\" showing user-submitted appliance photos becoming a safe diagnostic photo checklist with numbered areas, severity tags, and \"call expert\" flags.\nPanel 5 title: \"Language Mood Matrix\" showing the same short message rendered as visual tone cards across formal, friendly, urgent, playful, and calm moods in multiple scripts, no real brands.\nPanel 6 title: \"Spec-to-Shelf Prototype\" showing a plain product requirements spec converted into shelf-ready rough mockups: box, label, insert, warning card, and comparison tag.\n\nStyle: premium editorial documentation, realistic printed boards, crisp cards, mini screenshots, tiny charts, material samples, sticky notes, calipers, pencil annotations, warm studio light. Rich varied accent colors but not dominated by one hue. Typography should be readable only for overall title, six panel titles, and short labels like \"TODO\", \"RISK\", \"OWNER\", \"FACT\", \"SAFE\", \"DRAFT\". No real logos, no watermarks, no copyrighted characters, no celebrity likenesses.",
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc377-02d2-7ac3-b4af-1a5a906728db/ig_0e5e243ae9adcc070169ec6887b2fc81979ecc78d9165d5620.png"
+    },
+    {
       "title": "Derived Play Modes: Evidence to Systems",
       "caption": "第六组玩法派生：从证据到系统能力地图继续扩展成观察宾果、约束拍卖、菜谱取证、政策分镜竞速、档案侦探和故障分类选秀。",
       "path": "assets/images/104-derived-play-modes-evidence-to-systems.png",
