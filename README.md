@@ -299,7 +299,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 
 ### 001. Derived Play: Forecast Rally
 
-![Derived Play: Forecast Rally](assets/images/119-use-case-station-visual-weather-signals.png)
+![Derived Play: Forecast Rally](assets/images/119-derived-play-forecast-rally.png)
 
 **Tags:** `altimeter-bid` `barometer-countdown` `cloudbreak-audit` `game-design` `humidity-lock` `jetstream-cut` `windsock-swap` `worldbuilding`
 
