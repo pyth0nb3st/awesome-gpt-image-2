@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/129-derived-play-patch-cable-league.png</image:loc>
+      <image:title>Derived Play: Patch Cable League</image:title>
+      <image:caption>Create a wide 16:9 original derived-play concept scene titled &quot;Derived Play: Patch Cable League&quot;. Purpose: derive a playable prompt-engineering game from the patchbay use-case idea, but make it a distinct physical play object: a vertical m...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/130-use-case-patchbay-prompt-signal-debugging.png</image:loc>
+      <image:title>Use Case Patchbay: Prompt Signal Debugging</image:title>
+      <image:caption>Create a wide 16:9 original GPT Image 2 use-case concept scene titled &quot;Use Case Patchbay: Prompt Signal Debugging&quot;. Purpose: visualize a fresh set of GPT Image 2 use cases as a modular signal-debugging studio for image prompts. This must b...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/127-use-case-illustration-story-derived-play-mechanic-translucent-sl.png</image:loc>
       <image:title>Derived Play: Lantern Stack League</image:title>
       <image:caption>Use case: illustration-story / derived play mechanic: translucent-slide-rule-game Asset type: original derived gameplay concept image, landscape 16:9 Primary request: Create a single high-resolution visual concept titled &quot;Derived Play: Lan...</image:caption>
@@ -657,6 +667,28 @@
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/129-derived-play-patch-cable-league/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/129-derived-play-patch-cable-league.png</image:loc>
+      <image:title>Derived Play: Patch Cable League</image:title>
+      <image:caption>Create a wide 16:9 original derived-play concept scene titled &quot;Derived Play: Patch Cable League&quot;. Purpose: derive a playable prompt-engineering game from the patchbay use-case idea, but make it a distinct physical play object: a vertical m...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/130-use-case-patchbay-prompt-signal-debugging/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/130-use-case-patchbay-prompt-signal-debugging.png</image:loc>
+      <image:title>Use Case Patchbay: Prompt Signal Debugging</image:title>
+      <image:caption>Create a wide 16:9 original GPT Image 2 use-case concept scene titled &quot;Use Case Patchbay: Prompt Signal Debugging&quot;. Purpose: visualize a fresh set of GPT Image 2 use cases as a modular signal-debugging studio for image prompts. This must b...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/127-use-case-illustration-story-derived-play-mechanic-translucent-sl/</loc>

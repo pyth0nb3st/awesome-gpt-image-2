@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/129-derived-play-patch-cable-league.png": {
+      "path": "assets/thumbs/129-derived-play-patch-cable-league.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/130-use-case-patchbay-prompt-signal-debugging.png": {
+      "path": "assets/thumbs/130-use-case-patchbay-prompt-signal-debugging.jpg",
+      "width": 768,
+      "height": 432
+    },
     "assets/images/127-use-case-illustration-story-derived-play-mechanic-translucent-sl.png": {
       "path": "assets/thumbs/127-use-case-illustration-story-derived-play-mechanic-translucent-sl.jpg",
       "width": 768,

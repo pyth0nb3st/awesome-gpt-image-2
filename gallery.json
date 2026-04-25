@@ -18,6 +18,80 @@
   },
   "images": [
     {
+      "title": "Derived Play: Patch Cable League",
+      "caption": "把提示词调试派生成一台竖直磁吸线缆挑战柜：玩家通过线缆路由、过载熔断、checksum 徽章、diff 轨迹和缩略图闸门来测试生成规则。",
+      "path": "assets/images/129-derived-play-patch-cable-league.png",
+      "alt": "Derived GPT Image 2 patch cable challenge cabinet with route slots, fuse tokens, checksum badges, diff traces, and thumbnail gates",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-25 20:39:32",
+      "batch": "019dc49c-0471-73d2-be4a-f00d92184d03",
+      "tags": [
+        "cable-route-draft",
+        "overload-fuse",
+        "checksum-badge",
+        "diff-trace-duel",
+        "thumbnail-gate",
+        "silence-plug"
+      ],
+      "prompt": "Create a wide 16:9 original derived-play concept scene titled \"Derived Play: Patch Cable League\".\n\nPurpose: derive a playable prompt-engineering game from the patchbay use-case idea, but make it a distinct physical play object: a vertical magnetic patch-cable challenge cabinet with route slots, score meters, fuse tokens, checksum badges, and tiny output screens. Do not make a 2x3 board, a card spread, a tabletop route map, a poster, a loom, a projector, a printshop, a weather station, a planetarium, a film stage, or a pinball table.\n\nScene format: a close diagonal view of a freestanding arcade-like modular signal cabinet in a fictional image lab. Players are absent. The cabinet has colored patch cords, removable constraint plugs, waveform tiles, small thumbnail screens, sliding gates, fuse indicators, and a scoring column. All brands, logos, people, organizations, and labels are fictional or absent.\n\nSix derived play modes should be visible as mechanisms on the same cabinet, each with a short readable label:\n1. \"cable route draft\" - draw three prompt fragments and route them through compatible signal ports.\n2. \"overload fuse\" - avoid tripping a fuse by removing one conflicting instruction before generation.\n3. \"checksum badge\" - earn a badge when a fictional object keeps the same silhouette across a series.\n4. \"diff trace duel\" - choose which iteration changed only the intended visual feature.\n5. \"thumbnail gate\" - pass a generated idea through tiny, medium, and wide readability gates.\n6. \"silence plug\" - place a negative constraint plug to remove an unwanted motif without adding a new one.\n\nVisual language: polished tactile prototype, half arcade cabinet and half engineering test rig; graphite metal, warm off-white labels, teal/red/yellow/green cords, glowing meters, crisp screens, small physical tokens; rich detail, organized hierarchy, playful but not cartoonish.\n\nComposition: the full cabinet fills the frame from lower left to upper right; cable paths visibly connect the six mechanisms. The output should feel interactive and rule-based, with no hands, no humans, and no real-world brand marks.\n\nSafety and originality constraints: original concept only; no external prompt or image source; all entities, marks, characters, places, labels, and institutions must be fictional or rights-safe; avoid disallowed sensitive, unsafe, adult, graphic, real-world identity, brand-restricted, character-restricted, living-artist-style, and watermark material.\n\nDo not include: underwater sonar, bathymetry, portholes, reference locks, mask rings, crop windows, compression tests, 2x3 research board, tabletop card spread, greenhouse, loom, weather room, letterpress, planetarium, lantern slide stack, film set, airport terminal, laundromat, pinball table, or star map.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original automation concept and prompt. No external prompt, article, image, artwork, repository, or case-study source was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Prompt and visible concept were screened against civic-persuasion, unsafe-instruction, adult-explicitness, gore, real-brand, public-figure, copyrighted-character, and living-artist-style restrictions."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc49c-0471-73d2-be4a-f00d92184d03/ig_0045b2efb7e9b6c00169ecb59e56288197956d27117eba28bd.png"
+    },
+    {
+      "title": "Use Case Patchbay: Prompt Signal Debugging",
+      "caption": "把 GPT Image 2 的提示词歧义、约束混音、冲突熔断、系列一致性、迭代差异和小尺寸可读性，做成一面可操作的信号调试 patchbay。",
+      "path": "assets/images/130-use-case-patchbay-prompt-signal-debugging.png",
+      "alt": "GPT Image 2 prompt debugging patchbay with ambiguity scope, constraint mixer, conflict fuse, series checksum, iteration diff, and thumbnail stress modules",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-25 20:37:48",
+      "batch": "019dc49c-0471-73d2-be4a-f00d92184d03",
+      "tags": [
+        "ambiguity-scope",
+        "constraint-mixer",
+        "conflict-fuse",
+        "series-checksum",
+        "iteration-diff",
+        "thumbnail-stress"
+      ],
+      "prompt": "Create a wide 16:9 original GPT Image 2 use-case concept scene titled \"Use Case Patchbay: Prompt Signal Debugging\".\n\nPurpose: visualize a fresh set of GPT Image 2 use cases as a modular signal-debugging studio for image prompts. This must be one continuous wall-sized patchbay and oscilloscope workstation, not a 2x3 board, not a card spread, not a craft loom, not a planetarium, not a projector, not a printshop, not a weather station, not a film stage, not a tabletop game.\n\nScene format: a fictional rights-safe image lab where abstract prompt fragments are treated like colored signals. Show a tall modular patch panel with braided cables, small oscilloscopes, meters, toggle switches, test thumbnails, warning lamps, and a clean workbench below. All brands, logos, people, organizations, and labels are fictional or absent.\n\nSix use-case modules should be integrated into the single patchbay as distinct controls, each with a short readable fictional label:\n1. \"ambiguity scope\" - split one vague prompt into clearly different visual interpretations before choosing one.\n2. \"constraint mixer\" - balance material, mood, framing, and detail constraints without overloading the image.\n3. \"conflict fuse\" - reveal prompt instructions that fight each other, shown as a safe tripped fuse and a clean rewritten signal.\n4. \"series checksum\" - keep a fictional object family visually consistent across multiple outputs using repeatable feature marks.\n5. \"iteration diff\" - compare two generated attempts with tiny lit difference traces, without making a spot-the-diff board.\n6. \"thumbnail stress\" - test whether a concept still reads at icon, sticker, poster, and banner sizes.\n\nVisual language: polished product-design 3D illustration with editorial clarity; graphite panels, off-white labels, colored cables in teal, red, yellow, and green; glowing waveform lines, crisp tiny thumbnails, tactile knobs and switches; high detail but organized.\n\nComposition: dramatic diagonal perspective along the patchbay wall, with modules connected by visible cable routes and small output screens. The image should feel like a working instrument for debugging prompts, not a poster of examples.\n\nSafety and originality constraints: original concept only; no external prompt or image source; all entities, marks, characters, places, labels, and institutions must be fictional or rights-safe; avoid disallowed sensitive, unsafe, adult, graphic, real-world identity, brand-restricted, character-restricted, living-artist-style, and watermark material.\n\nDo not include: underwater sonar, bathymetry, portholes, reference locks, mask rings, crop windows, compression tests, 2x3 research board, tabletop card spread, greenhouse, loom, weather room, letterpress, planetarium, lantern slide stack, film set, airport terminal, laundromat, pinball table, or star map.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original automation concept and prompt. No external prompt, article, image, artwork, repository, or case-study source was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Prompt and visible concept were screened against civic-persuasion, unsafe-instruction, adult-explicitness, gore, real-brand, public-figure, copyrighted-character, and living-artist-style restrictions."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc49c-0471-73d2-be4a-f00d92184d03/ig_0045b2efb7e9b6c00169ecb4f7b80c8197be2c0312e5fe472d.png"
+    },
+    {
       "title": "Derived Play: Lantern Stack League",
       "caption": "把透明玻璃片叠层、遮罩、彩色滤片、连续性 token 和对位钉做成一套可玩的投影解谜：玩家用叠片满足目标剪影并按对位、可读性和身份保持计分。",
       "path": "assets/images/127-use-case-illustration-story-derived-play-mechanic-translucent-sl.png",
