@@ -18,6 +18,95 @@
   },
   "images": [
     {
+      "title": "Derived Play: Receipt Run League",
+      "caption": "从“提示词小票”派生出的结账传送带玩法：扫描行项目、使用优惠券、退回冲突细节、把缩略图装进比例托盘，再通过最终审计。",
+      "path": "assets/images/133-derived-play-receipt-run-league.png",
+      "alt": "Vertical checkout conveyor board game with scan gate, coupon tray, refund tray, aspect-ratio bagging area, subtotal dial, and audit stamp",
+      "width": 941,
+      "height": 1672,
+      "createdAt": "2026-04-25 21:13:56",
+      "batch": "019dc4c0-a81c-7a23-b5c1-3458fc1bf47e",
+      "tags": [
+        "scan-line-item",
+        "coupon-veto",
+        "refund-conflict-detail",
+        "bag-format-tray",
+        "subtotal-dial",
+        "receipt-audit-gate"
+      ],
+      "prompt": "Derived Play: Receipt Run League\nAsset type: vertical 9:16 playable checkout-conveyor board game photograph, not a grid, not a six-panel research board, not a craft loom, projection table, patchbay, or sand table.\nPrimary request: Derive a compact tabletop game from the prompt-accounting receipt use case. Players move transparent prompt tokens along a miniature checkout conveyor. The rules use receipt mechanics: scan one line item, apply one coupon, refund one conflicting detail, bag matching thumbnails into the correct aspect-ratio tray, set the subtotal dial, and pass the final receipt audit before the timer expires.\nScene/backdrop: fictional checkout counter game with a curling paper receipt, toy scanner gate, coupon clips, refund tray, subtotal dial, format trays, audit stamp, tiny abstract thumbnail tiles, numbered route arrows, and colorful transparent tokens.\nSubject: visible short labels SCAN, COUPON, REFUND, BAG, SUBTOTAL, AUDIT. Show rules through layout, arrows, trays, and token placement rather than paragraphs.\nStyle: tactile board-game prototype, clean photography, polished graphic design, colorful tokens on a neutral counter, high detail, readable short English labels, no watermark.\nSafety note: fully fictional and rights-safe; suitable for a public prompt gallery.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_original_concept_with_openai_docs_background",
+        "sourceNote": "Original prompt and gameplay concept by this automation. OpenAI documentation was used only to confirm current image-generation capabilities and revised-prompt behavior."
+      },
+      "promptSources": [
+        {
+          "title": "Image generation guide",
+          "url": "https://platform.openai.com/docs/guides/image-generation/",
+          "authorOrPublisher": "OpenAI",
+          "license": "OpenAI public documentation; terms apply",
+          "accessedAt": "2026-04-25",
+          "usedAs": "Capability background for GPT Image prompt revision, text rendering, output sizing, and safety-aware generation; no external prompt, image, artwork, repository, or case-study concept was reused."
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "policy": [
+          "Fictional brands, products, stores, data, marks, and sources only.",
+          "No civic persuasion, electioneering, parties, public political figures, or propaganda.",
+          "No unsafe operational instruction, adult-only material, gory harm, real trademarks, celebrity likenesses, copyrighted characters, or living-artist style imitation."
+        ],
+        "reviewNote": "Prompt and visible output were screened for public-gallery suitability and rights-safe fictionalization."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc4c0-a81c-7a23-b5c1-3458fc1bf47e/ig_0833dae3173de57b0169ecbd843c248193935e92a750c95575.png"
+    },
+    {
+      "title": "Use Case Receipt: Prompt Accounting",
+      "caption": "把 GPT Image 2 的提示词约束拆成小票行项目：约束小计、编辑退款、风格优惠券、来源印章、格式核对和最终匹配一起变成可审计的长收据。",
+      "path": "assets/images/134-use-case-receipt-prompt-accounting.png",
+      "alt": "Tall fictional prompt accounting receipt with line items, coupons, safe-source stamp, format check, and final audit total",
+      "width": 941,
+      "height": 1672,
+      "createdAt": "2026-04-25 21:11:33",
+      "batch": "019dc4c0-a81c-7a23-b5c1-3458fc1bf47e",
+      "tags": [
+        "prompt-line-itemization",
+        "constraint-subtotal",
+        "edit-refund-lane",
+        "style-coupon-clipping",
+        "provenance-stamp",
+        "aspect-ratio-price-check",
+        "visual-reconciliation"
+      ],
+      "prompt": "Use Case Receipt: Prompt Accounting\nAsset type: tall 9:16 thermal receipt and audit-ledger poster, not a grid, not a six-panel research board, not a physical workflow bench.\nPrimary request: Create an original GPT Image use-case artifact where a fictional image prompt becomes a checkout receipt. Each receipt line item demonstrates a capability test: prompt line-itemization, constraint subtotal, edit refund lane, style coupon clipping, provenance stamp, aspect-ratio price check, and final visual reconciliation.\nScene/backdrop: clean counter surface with one extra-long curling receipt passing through a small tabletop scanner, minimal fictional props, no real brands.\nSubject: the receipt is the hero, with line items, check marks, tiny thumbnail boxes, coupon perforations, subtotal stamps, a safe-source stamp, and crop marks. Include short readable fictional labels: PROMPT TOTAL, REFUND EDIT, COUPON STYLE, SAFE SOURCE, FORMAT CHECK, FINAL MATCH.\nStyle: crisp editorial product photograph mixed with diagrammatic print design, high detail, readable short English labels, original fictional interface language, no watermark.\nSafety note: fully fictional and rights-safe; suitable for a public prompt gallery.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_original_concept_with_openai_docs_background",
+        "sourceNote": "Original prompt and gameplay concept by this automation. OpenAI documentation was used only to confirm current image-generation capabilities and revised-prompt behavior."
+      },
+      "promptSources": [
+        {
+          "title": "Image generation guide",
+          "url": "https://platform.openai.com/docs/guides/image-generation/",
+          "authorOrPublisher": "OpenAI",
+          "license": "OpenAI public documentation; terms apply",
+          "accessedAt": "2026-04-25",
+          "usedAs": "Capability background for GPT Image prompt revision, text rendering, output sizing, and safety-aware generation; no external prompt, image, artwork, repository, or case-study concept was reused."
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "policy": [
+          "Fictional brands, products, stores, data, marks, and sources only.",
+          "No civic persuasion, electioneering, parties, public political figures, or propaganda.",
+          "No unsafe operational instruction, adult-only material, gory harm, real trademarks, celebrity likenesses, copyrighted characters, or living-artist style imitation."
+        ],
+        "reviewNote": "Prompt and visible output were screened for public-gallery suitability and rights-safe fictionalization."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc4c0-a81c-7a23-b5c1-3458fc1bf47e/ig_0833dae3173de57b0169ecbd3a08d8819394d9477b37cf12b9.png"
+    },
+    {
       "title": "Derived Play: Contour Sandbox League",
       "caption": "从地形沙盘派生出一套可玩的沙塑规则系统：玩家摆放地貌模具、保护编辑边界、复用地标模具、下注光影一致性，并用裁切框和标签桩计分。",
       "path": "assets/images/131-derived-play-contour-sandbox-league.png",

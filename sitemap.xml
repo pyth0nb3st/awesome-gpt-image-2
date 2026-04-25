@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/133-derived-play-receipt-run-league.png</image:loc>
+      <image:title>Derived Play: Receipt Run League</image:title>
+      <image:caption>Derived Play: Receipt Run League Asset type: vertical 9:16 playable checkout-conveyor board game photograph, not a grid, not a six-panel research board, not a craft loom, projection table, patchbay, or sand table. Primary request: Derive a...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/134-use-case-receipt-prompt-accounting.png</image:loc>
+      <image:title>Use Case Receipt: Prompt Accounting</image:title>
+      <image:caption>Use Case Receipt: Prompt Accounting Asset type: tall 9:16 thermal receipt and audit-ledger poster, not a grid, not a six-panel research board, not a physical workflow bench. Primary request: Create an original GPT Image use-case artifact w...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/131-derived-play-contour-sandbox-league.png</image:loc>
       <image:title>Derived Play: Contour Sandbox League</image:title>
       <image:caption>Create a wide 16:9 original derived-play concept scene titled &quot;Derived Play: Contour Sandbox League&quot;. Purpose: derive a playable image-prompt game from the sand-table use-case idea, but make it a distinct rules object: a competitive kineti...</image:caption>
@@ -677,6 +687,28 @@
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/133-derived-play-receipt-run-league/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/133-derived-play-receipt-run-league.png</image:loc>
+      <image:title>Derived Play: Receipt Run League</image:title>
+      <image:caption>Derived Play: Receipt Run League Asset type: vertical 9:16 playable checkout-conveyor board game photograph, not a grid, not a six-panel research board, not a craft loom, projection table, patchbay, or sand table. Primary request: Derive a...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/134-use-case-receipt-prompt-accounting/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/134-use-case-receipt-prompt-accounting.png</image:loc>
+      <image:title>Use Case Receipt: Prompt Accounting</image:title>
+      <image:caption>Use Case Receipt: Prompt Accounting Asset type: tall 9:16 thermal receipt and audit-ledger poster, not a grid, not a six-panel research board, not a physical workflow bench. Primary request: Create an original GPT Image use-case artifact w...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/131-derived-play-contour-sandbox-league/</loc>

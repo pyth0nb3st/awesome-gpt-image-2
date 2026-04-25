@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/133-derived-play-receipt-run-league.png": {
+      "path": "assets/thumbs/133-derived-play-receipt-run-league.jpg",
+      "width": 768,
+      "height": 1364
+    },
+    "assets/images/134-use-case-receipt-prompt-accounting.png": {
+      "path": "assets/thumbs/134-use-case-receipt-prompt-accounting.jpg",
+      "width": 768,
+      "height": 1364
+    },
     "assets/images/131-derived-play-contour-sandbox-league.png": {
       "path": "assets/thumbs/131-derived-play-contour-sandbox-league.jpg",
       "width": 768,

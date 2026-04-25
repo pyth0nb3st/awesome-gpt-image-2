@@ -1,11 +1,11 @@
 # Awesome GPT Image 2
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-live-2ea44f)](https://gptimg2.best/)
-[![Images](https://img.shields.io/badge/images-132-0f766e)](https://gptimg2.best/)
-[![Prompts](https://img.shields.io/badge/prompts-132-a34716)](https://gptimg2.best/)
+[![Images](https://img.shields.io/badge/images-134-0f766e)](https://gptimg2.best/)
+[![Prompts](https://img.shields.io/badge/prompts-134-a34716)](https://gptimg2.best/)
 [![License](https://img.shields.io/badge/license-code%20MIT%20%2B%20content%20review-lightgrey)](LICENSE.md)
 
-> Browse 132 GPT Image 2 prompt examples with generated images, reusable tags, image-generation use cases, and prompt text for product mockups, UI, games, diagrams, and storytelling.
+> Browse 134 GPT Image 2 prompt examples with generated images, reusable tags, image-generation use cases, and prompt text for product mockups, UI, games, diagrams, and storytelling.
 
 **Live gallery:** https://gptimg2.best/  
 **Repository:** https://github.com/pyth0nb3st/awesome-gpt-image-2  
@@ -42,9 +42,9 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 
 - `product-mockup` (79)
 - `typography` (76)
-- `game-design` (67)
-- `ui-mockup` (62)
-- `storytelling` (53)
+- `game-design` (68)
+- `ui-mockup` (63)
+- `storytelling` (54)
 - `lighting-weather` (36)
 - `infographic` (33)
 - `photoreal` (33)
@@ -67,6 +67,19 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 
 ### Latest Play Tags
 
+- `scan-line-item` - Derived Play: Receipt Run League
+- `coupon-veto` - Derived Play: Receipt Run League
+- `refund-conflict-detail` - Derived Play: Receipt Run League
+- `bag-format-tray` - Derived Play: Receipt Run League
+- `subtotal-dial` - Derived Play: Receipt Run League
+- `receipt-audit-gate` - Derived Play: Receipt Run League
+- `prompt-line-itemization` - Use Case Receipt: Prompt Accounting
+- `constraint-subtotal` - Use Case Receipt: Prompt Accounting
+- `edit-refund-lane` - Use Case Receipt: Prompt Accounting
+- `style-coupon-clipping` - Use Case Receipt: Prompt Accounting
+- `provenance-stamp` - Use Case Receipt: Prompt Accounting
+- `aspect-ratio-price-check` - Use Case Receipt: Prompt Accounting
+- `visual-reconciliation` - Use Case Receipt: Prompt Accounting
 - `ridge-draft` - Derived Play: Contour Sandbox League
 - `fence-veto` - Derived Play: Contour Sandbox League
 - `mold-memory` - Derived Play: Contour Sandbox League
@@ -90,28 +103,15 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `conflict-fuse` - Use Case Patchbay: Prompt Signal Debugging
 - `series-checksum` - Use Case Patchbay: Prompt Signal Debugging
 - `iteration-diff` - Use Case Patchbay: Prompt Signal Debugging
-- `thumbnail-stress` - Use Case Patchbay: Prompt Signal Debugging
-- `slide-layer-draft` - Derived Play: Lantern Stack League
-- `blackout-mask-tray` - Derived Play: Lantern Stack League
-- `gel-wheel-tint` - Derived Play: Lantern Stack League
-- `registration-peg-track` - Derived Play: Lantern Stack League
-- `continuity-echo-token` - Derived Play: Lantern Stack League
-- `projection-score-window` - Derived Play: Lantern Stack League
-- `layer-separation-slide` - Use Case Lantern: Layered Slide Compositing
-- `blackout-mask-prompt` - Use Case Lantern: Layered Slide Compositing
-- `caption-register-strip` - Use Case Lantern: Layered Slide Compositing
-- `color-gel-mood-control` - Use Case Lantern: Layered Slide Compositing
-- `continuity-stack-check` - Use Case Lantern: Layered Slide Compositing
-- `scale-shift-registration` - Use Case Lantern: Layered Slide Compositing
 
 <details>
 <summary>All generated tags</summary>
 
 - `product-mockup` (79)
 - `typography` (76)
-- `game-design` (67)
-- `ui-mockup` (62)
-- `storytelling` (53)
+- `game-design` (68)
+- `ui-mockup` (63)
+- `storytelling` (54)
 - `lighting-weather` (36)
 - `infographic` (33)
 - `photoreal` (33)
@@ -138,6 +138,8 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `archive-detective` (1)
 - `archive-label-restorer` (1)
 - `aroma-semaphore` (1)
+- `aspect-ratio-price-check` (1)
+- `bag-format-tray` (1)
 - `barometer-countdown` (1)
 - `blackout-mask-prompt` (1)
 - `blackout-mask-tray` (1)
@@ -161,11 +163,13 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `constraint-auction` (1)
 - `constraint-mixer` (1)
 - `constraint-posterizer` (1)
+- `constraint-subtotal` (1)
 - `continuity-echo-token` (1)
 - `continuity-mycelium` (1)
 - `continuity-prop-witness` (1)
 - `continuity-stack-check` (1)
 - `contour-brief` (1)
+- `coupon-veto` (1)
 - `crop-contract` (1)
 - `crop-curtain-sprint` (1)
 - `crop-heddle-router` (1)
@@ -181,6 +185,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `dream-errand-planner` (1)
 - `eclipse-token-lock` (1)
 - `edit-humidity-gauge` (1)
+- `edit-refund-lane` (1)
 - `edition-ledger-trail` (1)
 - `edition-trail-memory` (1)
 - `educational-infographic-remix` (1)
@@ -264,14 +269,17 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `projection-score-window` (1)
 - `prompt-archaeology` (1)
 - `prompt-escape-room` (1)
+- `prompt-line-itemization` (1)
 - `prompt-pressure-altimeter` (1)
 - `prompt-seed-vault` (1)
 - `proof-pull-critique` (1)
 - `prop-witness-check` (1)
 - `prototype-punch-out-duel` (1)
+- `provenance-stamp` (1)
 - `prune-the-prompt` (1)
 - `qa-spot-the-diff` (1)
 - `readable-crop-rehearsal` (1)
+- `receipt-audit-gate` (1)
 - `recipe-forensics` (1)
 - `recipe-reality-check` (1)
 - `recipe-to-comic` (1)
@@ -279,6 +287,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `reference-drift-windsock` (1)
 - `reference-parallax-check` (1)
 - `reference-warp-thread` (1)
+- `refund-conflict-detail` (1)
 - `registration-peg-track` (1)
 - `registration-pin-rehearsal` (1)
 - `relation-ramp` (1)
@@ -292,6 +301,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `safe-harbor-swap` (1)
 - `scale-frame` (1)
 - `scale-shift-registration` (1)
+- `scan-line-item` (1)
 - `scenario-switch` (1)
 - `scent-palette-translator` (1)
 - `season-wear-simulator` (1)
@@ -311,8 +321,10 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `spec-to-shelf-prototype` (1)
 - `state-lock` (1)
 - `storyboard-continuity-game` (1)
+- `style-coupon-clipping` (1)
 - `style-pollination-dome` (1)
 - `style-transfer` (1)
+- `subtotal-dial` (1)
 - `sun-peg` (1)
 - `tabletop-quest-props` (1)
 - `tactile-diagram-draft` (1)
@@ -328,6 +340,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `truth-ring` (1)
 - `typecase-brief-sorter` (1)
 - `typecase-scramble` (1)
+- `visual-reconciliation` (1)
 - `waveform-sculptor` (1)
 - `wayfinding-remix` (1)
 - `weather-oracle-cards` (1)
@@ -354,7 +367,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 
 ## Example Pages
 
-- [Prompt page index](https://gptimg2.best/prompts/) links to 132 individual GPT Image 2 prompt examples.
+- [Prompt page index](https://gptimg2.best/prompts/) links to 134 individual GPT Image 2 prompt examples.
 - [Tag page index](https://gptimg2.best/tags/) groups examples by visual intent, asset type, and workflow.
 - Each generated prompt page includes a unique title, meta description, canonical URL, Open Graph image, image schema, full prompt text, and related internal links.
 
@@ -369,7 +382,53 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 
 ## Prompt Gallery
 
-### 001. Derived Play: Contour Sandbox League
+### 001. Derived Play: Receipt Run League
+
+![Derived Play: Receipt Run League](assets/images/133-derived-play-receipt-run-league.png)
+
+**Tags:** `bag-format-tray` `coupon-veto` `game-design` `receipt-audit-gate` `refund-conflict-detail` `scan-line-item` `storytelling` `subtotal-dial`
+
+**Prompt excerpt:** Derived Play: Receipt Run League Asset type: vertical 9:16 playable checkout-conveyor board game photograph, not a grid, not a six-panel research board, not a craft loom, projection table, patchbay, or sand table. Primary request: Derive a...
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Derived Play: Receipt Run League
+Asset type: vertical 9:16 playable checkout-conveyor board game photograph, not a grid, not a six-panel research board, not a craft loom, projection table, patchbay, or sand table.
+Primary request: Derive a compact tabletop game from the prompt-accounting receipt use case. Players move transparent prompt tokens along a miniature checkout conveyor. The rules use receipt mechanics: scan one line item, apply one coupon, refund one conflicting detail, bag matching thumbnails into the correct aspect-ratio tray, set the subtotal dial, and pass the final receipt audit before the timer expires.
+Scene/backdrop: fictional checkout counter game with a curling paper receipt, toy scanner gate, coupon clips, refund tray, subtotal dial, format trays, audit stamp, tiny abstract thumbnail tiles, numbered route arrows, and colorful transparent tokens.
+Subject: visible short labels SCAN, COUPON, REFUND, BAG, SUBTOTAL, AUDIT. Show rules through layout, arrows, trays, and token placement rather than paragraphs.
+Style: tactile board-game prototype, clean photography, polished graphic design, colorful tokens on a neutral counter, high detail, readable short English labels, no watermark.
+Safety note: fully fictional and rights-safe; suitable for a public prompt gallery.
+```
+
+</details>
+
+### 002. Use Case Receipt: Prompt Accounting
+
+![Use Case Receipt: Prompt Accounting](assets/images/134-use-case-receipt-prompt-accounting.png)
+
+**Tags:** `aspect-ratio-price-check` `constraint-subtotal` `edit-refund-lane` `prompt-line-itemization` `provenance-stamp` `style-coupon-clipping` `ui-mockup` `visual-reconciliation`
+
+**Prompt excerpt:** Use Case Receipt: Prompt Accounting Asset type: tall 9:16 thermal receipt and audit-ledger poster, not a grid, not a six-panel research board, not a physical workflow bench. Primary request: Create an original GPT Image use-case artifact w...
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Use Case Receipt: Prompt Accounting
+Asset type: tall 9:16 thermal receipt and audit-ledger poster, not a grid, not a six-panel research board, not a physical workflow bench.
+Primary request: Create an original GPT Image use-case artifact where a fictional image prompt becomes a checkout receipt. Each receipt line item demonstrates a capability test: prompt line-itemization, constraint subtotal, edit refund lane, style coupon clipping, provenance stamp, aspect-ratio price check, and final visual reconciliation.
+Scene/backdrop: clean counter surface with one extra-long curling receipt passing through a small tabletop scanner, minimal fictional props, no real brands.
+Subject: the receipt is the hero, with line items, check marks, tiny thumbnail boxes, coupon perforations, subtotal stamps, a safe-source stamp, and crop marks. Include short readable fictional labels: PROMPT TOTAL, REFUND EDIT, COUPON STYLE, SAFE SOURCE, FORMAT CHECK, FINAL MATCH.
+Style: crisp editorial product photograph mixed with diagrammatic print design, high detail, readable short English labels, original fictional interface language, no watermark.
+Safety note: fully fictional and rights-safe; suitable for a public prompt gallery.
+```
+
+</details>
+
+### 003. Derived Play: Contour Sandbox League
 
 ![Derived Play: Contour Sandbox League](assets/images/131-derived-play-contour-sandbox-league.png)
 
@@ -406,7 +465,7 @@ Avoid showing: underwater sonar, bathymetry screens, portholes, signal patch cab
 
 </details>
 
-### 002. Use Case Sandbox: Contour Image Rehearsal
+### 004. Use Case Sandbox: Contour Image Rehearsal
 
 ![Use Case Sandbox: Contour Image Rehearsal](assets/images/132-use-case-sandbox-contour-image-rehearsal.png)
 
@@ -443,7 +502,7 @@ Avoid showing: underwater sonar, bathymetry screens, portholes, signal patch cab
 
 </details>
 
-### 003. Derived Play: Patch Cable League
+### 005. Derived Play: Patch Cable League
 
 ![Derived Play: Patch Cable League](assets/images/129-derived-play-patch-cable-league.png)
 
@@ -480,7 +539,7 @@ Do not include: underwater sonar, bathymetry, portholes, reference locks, mask r
 
 </details>
 
-### 004. Use Case Patchbay: Prompt Signal Debugging
+### 006. Use Case Patchbay: Prompt Signal Debugging
 
 ![Use Case Patchbay: Prompt Signal Debugging](assets/images/130-use-case-patchbay-prompt-signal-debugging.png)
 
@@ -517,7 +576,7 @@ Do not include: underwater sonar, bathymetry, portholes, reference locks, mask r
 
 </details>
 
-### 005. Derived Play: Lantern Stack League
+### 007. Derived Play: Lantern Stack League
 
 ![Derived Play: Lantern Stack League](assets/images/127-use-case-illustration-story-derived-play-mechanic-translucent-sl.png)
 
@@ -546,7 +605,7 @@ Avoid: disallowed sensitive, unsafe, adult, graphic, real-world identity, brand,
 
 </details>
 
-### 006. Use Case Lantern: Layered Slide Compositing
+### 008. Use Case Lantern: Layered Slide Compositing
 
 ![Use Case Lantern: Layered Slide Compositing](assets/images/128-use-case-productivity-visual-infographic-diagram.png)
 
@@ -574,7 +633,7 @@ Avoid: disallowed sensitive, unsafe, adult, graphic, real-world identity, brand,
 
 </details>
 
-### 007. Derived Play: Orbit Mobile League
+### 009. Derived Play: Orbit Mobile League
 
 ![Derived Play: Orbit Mobile League](assets/images/125-derived-play-orbit-mobile-league.png)
 
@@ -595,7 +654,7 @@ Visual style: polished miniature product photography mixed with refined 3D illus
 
 </details>
 
-### 008. Use Case Planetarium: Image Navigation
+### 010. Use Case Planetarium: Image Navigation
 
 ![Use Case Planetarium: Image Navigation](assets/images/126-use-case-planetarium-image-navigation.png)
 
@@ -616,7 +675,7 @@ Visual style: premium editorial 3D illustration plus technical drawing, precise 
 
 </details>
 
-### 009. Derived Play: Proof Press League
+### 011. Derived Play: Proof Press League
 
 ![Derived Play: Proof Press League](assets/images/123-derived-play-proof-press-league.png)
 
@@ -653,7 +712,7 @@ Composition: low three-quarter view following the play path from typecase scramb
 
 </details>
 
-### 010. Use Case Bureau: Proof Press Workflows
+### 012. Use Case Bureau: Proof Press Workflows
 
 ![Use Case Bureau: Proof Press Workflows](assets/images/124-use-case-bureau-proof-press-workflows.png)
 
@@ -688,7 +747,7 @@ Composition: low oblique view across the printshop bench, moving from loose type
 
 </details>
 
-### 011. Derived Play: Shuttle Draft
+### 013. Derived Play: Shuttle Draft
 
 ![Derived Play: Shuttle Draft](assets/images/121-one-original-gpt-image-2-derived-play-concept-image-as-a-16-9-la.png)
 
@@ -725,7 +784,7 @@ Composition: low frontal three-quarter view with the whole loom visible. The six
 
 </details>
 
-### 012. Use Case Loom: Reference Weaving
+### 014. Use Case Loom: Reference Weaving
 
 ![Use Case Loom: Reference Weaving](assets/images/122-one-original-gpt-image-2-use-case-concept-image-as-a-16-9-landsc.png)
 
@@ -760,7 +819,7 @@ Composition: low frontal three-quarter view of the loom, with thread paths visib
 
 </details>
 
-### 013. Derived Play: Forecast Rally
+### 015. Derived Play: Forecast Rally
 
 ![Derived Play: Forecast Rally](assets/images/119-derived-play-forecast-rally.png)
 
@@ -795,7 +854,7 @@ Composition: low oblique tabletop view with the looping route crossing the image
 
 </details>
 
-### 014. Use Case Station: Visual Weather Signals
+### 016. Use Case Station: Visual Weather Signals
 
 ![Use Case Station: Visual Weather Signals](assets/images/120-use-case-station-visual-weather-signals.png)
 
@@ -828,7 +887,7 @@ Composition: one coherent room with diagonal depth and a large weather-map table
 
 </details>
 
-### 015. Derived Play: Shot-Cue Relay
+### 017. Derived Play: Shot-Cue Relay
 
 ![Derived Play: Shot-Cue Relay](assets/images/117-one-original-gpt-image-2-derived-play-concept-image-as-a-16-9-la.png)
 
@@ -859,7 +918,7 @@ Visual requirements: one coherent studio relay course with all six labels embedd
 
 </details>
 
-### 016. Use Case Stage: Lens Rehearsals
+### 018. Use Case Stage: Lens Rehearsals
 
 ![Use Case Stage: Lens Rehearsals](assets/images/118-one-original-gpt-image-2-use-case-concept-image-as-a-16-9-landsc.png)
 
@@ -890,7 +949,7 @@ Visual requirements: premium editorial 3D illustration with crisp infographic de
 
 </details>
 
-### 017. Use Case Conservatory: Prompt Ecosystems
+### 019. Use Case Conservatory: Prompt Ecosystems
 
 ![Use Case Conservatory: Prompt Ecosystems](assets/images/115-use-case-conservatory-prompt-ecosystems.png)
 
@@ -914,7 +973,7 @@ Safety and originality: entirely fictional, no real brands, no logos, no celebri
 
 </details>
 
-### 018. Derived Play: Prompt Orchard League
+### 020. Derived Play: Prompt Orchard League
 
 ![Derived Play: Prompt Orchard League](assets/images/116-derived-play-prompt-orchard-league.png)
 
@@ -938,7 +997,7 @@ Safety and originality: entirely fictional, no real brands, no logos, no celebri
 
 </details>
 
-### 019. Derived Play: Constraint Pinball
+### 021. Derived Play: Constraint Pinball
 
 ![Derived Play: Constraint Pinball](assets/images/113-derived-play-constraint-pinball.png)
 
@@ -967,7 +1026,7 @@ Visual requirements: one continuous arcade object with all six labels integrated
 
 </details>
 
-### 020. Use Case Foundry: Constraint Engines
+### 022. Use Case Foundry: Constraint Engines
 
 ![Use Case Foundry: Constraint Engines](assets/images/114-use-case-foundry-constraint-engines.png)
 
@@ -996,7 +1055,7 @@ Visual requirements: one continuous isometric machine with visible input materia
 
 </details>
 
-### 021. Derived Play: Loop Engine
+### 023. Derived Play: Loop Engine
 
 ![Derived Play: Loop Engine](assets/images/111-an-original-gpt-image-2-derived-play-scene-as-one-3-2-landscape-.png)
 
@@ -1025,7 +1084,7 @@ Visual requirements: one continuous mechanical object, visible rules components 
 
 </details>
 
-### 022. Use Case Kit: Sensorial Loops
+### 024. Use Case Kit: Sensorial Loops
 
 ![Use Case Kit: Sensorial Loops](assets/images/112-an-original-gpt-image-2-use-case-scene-as-one-3-2-landscape-imag.png)
 
@@ -1054,7 +1113,7 @@ Visual requirements: all six labels are placed on small tabs within the case, bu
 
 </details>
 
-### 023. Derived Play Modes: Material Arcade
+### 025. Derived Play Modes: Material Arcade
 
 ![Derived Play Modes: Material Arcade](assets/images/109-a-second-polished-original-gpt-image-2-derived-play-mechanics-bo.png)
 
@@ -1078,7 +1137,7 @@ Style: collectible creative game-design spread, crisp typography, realistic card
 
 </details>
 
-### 024. Use Case Lab: Material and Accessibility Play
+### 026. Use Case Lab: Material and Accessibility Play
 
 ![Use Case Lab: Material and Accessibility Play](assets/images/110-a-polished-original-gpt-image-2-use-case-research-board-as-a-sin.png)
 
@@ -1102,7 +1161,7 @@ Style: premium design lab documentation wall, crisp typography, realistic paper 
 
 </details>
 
-### 025. Second polished GPT Image 2 derived-play board as a single 3:2 landscape image, la
+### 027. Second polished GPT Image 2 derived-play board as a single 3:2 landscape image, la
 
 ![Second polished GPT Image 2 derived-play board as a single 3:2 landscape image, la](assets/images/107-a-second-polished-gpt-image-2-derived-play-board-as-a-single-3-2.png)
 
@@ -1128,7 +1187,7 @@ Style: refined visual design, research-lab meets game manual, tactile paper and 
 
 </details>
 
-### 026. Polished GPT Image 2 use-case research board as a single 3:2 landscape image, laid
+### 028. Polished GPT Image 2 use-case research board as a single 3:2 landscape image, laid
 
 ![Polished GPT Image 2 use-case research board as a single 3:2 landscape image, laid](assets/images/108-a-polished-gpt-image-2-use-case-research-board-as-a-single-3-2-l.png)
 
@@ -1154,7 +1213,7 @@ Style: sophisticated editorial product-research board, realistic mixed-media moc
 
 </details>
 
-### 027. Derived Play Modes: Context Loop Arcade
+### 029. Derived Play Modes: Context Loop Arcade
 
 ![Derived Play Modes: Context Loop Arcade](assets/images/105-derived-play-modes-context-loop-arcade.png)
 
@@ -1180,7 +1239,7 @@ Style: premium tabletop prototype photography plus polished concept art, tactile
 
 </details>
 
-### 028. Use Case Lab: Live Context Loops
+### 030. Use Case Lab: Live Context Loops
 
 ![Use Case Lab: Live Context Loops](assets/images/106-use-case-lab-live-context-loops.png)
 
@@ -1206,7 +1265,7 @@ Style: premium editorial documentation, realistic printed boards, crisp cards, m
 
 </details>
 
-### 029. Derived Play Modes: Evidence to Systems
+### 031. Derived Play Modes: Evidence to Systems
 
 ![Derived Play Modes: Evidence to Systems](assets/images/104-derived-play-modes-evidence-to-systems.png)
 
@@ -1234,7 +1293,7 @@ Style: premium tabletop design-game photography plus polished concept art, tacti
 
 </details>
 
-### 030. Operations Arcade
+### 032. Operations Arcade
 
 ![Operations Arcade](assets/images/101-operations-arcade.png)
 
@@ -1265,7 +1324,7 @@ Text constraints: render only the overall title, six panel titles, and simple wo
 
 </details>
 
-### 031. System Stress Tests
+### 033. System Stress Tests
 
 ![System Stress Tests](assets/images/102-system-stress-tests.png)
 
@@ -1294,7 +1353,7 @@ Text constraints: render only the title plus the six panel titles and tiny simpl
 
 </details>
 
-### 032. Use Case Lab: Evidence to Systems
+### 034. Use Case Lab: Evidence to Systems
 
 ![Use Case Lab: Evidence to Systems](assets/images/103-a-polished-gpt-image-2-use-case-research-board-as-a-single-3-2-l.png)
 
@@ -1322,7 +1381,7 @@ Composition: six equal panels in a clean 3x2 grid, balanced margins, print-quali
 
 </details>
 
-### 033. Derived Play Modes Batch B
+### 035. Derived Play Modes Batch B
 
 ![Derived Play Modes Batch B](assets/images/099-derived-play-modes-batch-b.png)
 
@@ -1339,7 +1398,7 @@ Create a second polished GPT-image-2 derived-play research board as a single 3:2
 
 </details>
 
-### 034. Use-case Lab Batch A
+### 036. Use-case Lab Batch A
 
 ![Use-case Lab Batch A](assets/images/100-use-case-lab-batch-a.png)
 
@@ -1356,7 +1415,7 @@ Create a polished GPT-image-2 use-case research board as a single 3:2 landscape 
 
 </details>
 
-### 035. Use case: stylized-concept
+### 037. Use case: stylized-concept
 
 ![Use case: stylized-concept](assets/images/097-use-case-stylized-concept.png)
 
@@ -1385,7 +1444,7 @@ Quality: high detail, playful but professional, balanced color variety, each gam
 
 </details>
 
-### 036. Use case: productivity-visual
+### 038. Use case: productivity-visual
 
 ![Use case: productivity-visual](assets/images/098-use-case-productivity-visual.png)
 
@@ -1414,7 +1473,7 @@ Composition: six equal panels in a clean 3x2 grid, each panel visually different
 
 </details>
 
-### 037. Use case: stylized-concept
+### 039. Use case: stylized-concept
 
 ![Use case: stylized-concept](assets/images/095-use-case-stylized-concept.png)
 
@@ -1446,7 +1505,7 @@ Constraints: no logos, no watermarks, no copyrighted characters, no real news cl
 
 </details>
 
-### 038. Use case: stylized-concept
+### 040. Use case: stylized-concept
 
 ![Use case: stylized-concept](assets/images/096-use-case-stylized-concept.png)
 
@@ -1478,7 +1537,7 @@ Constraints: no logos, no watermarks, no real company marks, no copyrighted char
 
 </details>
 
-### 039. Use case: productivity-visual
+### 041. Use case: productivity-visual
 
 ![Use case: productivity-visual](assets/images/087-use-case-productivity-visual.png)
 
@@ -1505,7 +1564,7 @@ Constraints: no real brands, no logos, no watermark, avoid copyrighted game refe
 
 </details>
 
-### 040. Use case: lighting-weather
+### 042. Use case: lighting-weather
 
 ![Use case: lighting-weather](assets/images/088-use-case-lighting-weather.png)
 
@@ -1532,7 +1591,7 @@ Constraints: no real brands, no logos, no watermark, keep the same room layout i
 
 </details>
 
-### 041. Use case: infographic-diagram
+### 043. Use case: infographic-diagram
 
 ![Use case: infographic-diagram](assets/images/089-use-case-infographic-diagram.png)
 
@@ -1559,7 +1618,7 @@ Constraints: fictional game, no real brands, no watermark, avoid unsafe wiring s
 
 </details>
 
-### 042. Use case: stylized-concept
+### 044. Use case: stylized-concept
 
 ![Use case: stylized-concept](assets/images/090-use-case-stylized-concept.png)
 
@@ -1586,7 +1645,7 @@ Constraints: no real brands, no logos, no watermark, avoid copyrighted board-gam
 
 </details>
 
-### 043. Use case: ui-mockup
+### 045. Use case: ui-mockup
 
 ![Use case: ui-mockup](assets/images/091-use-case-ui-mockup.png)
 
@@ -1613,7 +1672,7 @@ Constraints: no real company logos, no watermark, keep all UI text legible, avoi
 
 </details>
 
-### 044. Use case: photorealistic-natural
+### 046. Use case: photorealistic-natural
 
 ![Use case: photorealistic-natural](assets/images/092-use-case-photorealistic-natural.png)
 
@@ -1640,7 +1699,7 @@ Constraints: keep furniture positions identical, no people, no logos, no waterma
 
 </details>
 
-### 045. Use case: product-mockup
+### 047. Use case: product-mockup
 
 ![Use case: product-mockup](assets/images/093-use-case-product-mockup.png)
 
@@ -1667,7 +1726,7 @@ Constraints: fictional product only, no brand logos, no watermark, no unsafe ele
 
 </details>
 
-### 046. Use case: infographic-diagram
+### 048. Use case: infographic-diagram
 
 ![Use case: infographic-diagram](assets/images/094-use-case-infographic-diagram.png)
 
@@ -1694,7 +1753,7 @@ Constraints: no real brands, no logos, no watermarks, avoid unreadable gibberish
 
 </details>
 
-### 047. Use case: stylized-concept
+### 049. Use case: stylized-concept
 
 ![Use case: stylized-concept](assets/images/085-use-case-stylized-concept.png)
 
@@ -1725,7 +1784,7 @@ Constraints: no logos, no watermarks, no copyrighted characters; make each play 
 
 </details>
 
-### 048. Use case: stylized-concept
+### 050. Use case: stylized-concept
 
 ![Use case: stylized-concept](assets/images/086-use-case-stylized-concept.png)
 
@@ -1756,7 +1815,7 @@ Constraints: no logos, no watermarks, no real company marks, no copyrighted char
 
 </details>
 
-### 049. Use case: stylized-concept
+### 051. Use case: stylized-concept
 
 ![Use case: stylized-concept](assets/images/083-use-case-stylized-concept.png)
 
@@ -1787,7 +1846,7 @@ Constraints: no logos, no watermarks, no real company marks, avoid repeating pri
 
 </details>
 
-### 050. Use case: stylized-concept
+### 052. Use case: stylized-concept
 
 ![Use case: stylized-concept](assets/images/084-use-case-stylized-concept.png)
 
@@ -1818,7 +1877,7 @@ Constraints: no logos, no watermarks, no real company marks, avoid repeating ear
 
 </details>
 
-### 051. Second single high-quality landscape concept board showing six NEW derived game-li
+### 053. Second single high-quality landscape concept board showing six NEW derived game-li
 
 ![Second single high-quality landscape concept board showing six NEW derived game-li](assets/images/079-gpt-image-2-play-formats-evaluation-games.png)
 
@@ -1847,7 +1906,7 @@ Make it look like a reusable play kit for evaluating and playing with image gene
 
 </details>
 
-### 052. Single high-quality landscape concept board showing six NEW playful GPT Image 2 us
+### 054. Single high-quality landscape concept board showing six NEW playful GPT Image 2 us
 
 ![Single high-quality landscape concept board showing six NEW playful GPT Image 2 us](assets/images/078-gpt-image-2-use-cases-continuity-and-operations-labs.png)
 
@@ -1876,7 +1935,7 @@ Make each panel self-explanatory as a practical GPT Image 2 experiment, not just
 
 </details>
 
-### 053. Single high-quality 2K landscape concept board showing six NEW derivative game-lik
+### 055. Single high-quality 2K landscape concept board showing six NEW derivative game-lik
 
 ![Single high-quality 2K landscape concept board showing six NEW derivative game-lik](assets/images/080-a-single-high-quality-2k-landscape-concept-board-showing-six-new.png)
 
@@ -1903,7 +1962,7 @@ Make it look like a reusable playbook for creative experiments, with each panel 
 
 </details>
 
-### 054. Single high-quality 2K landscape concept board showing six NEW playful GPT Image 2
+### 056. Single high-quality 2K landscape concept board showing six NEW playful GPT Image 2
 
 ![Single high-quality 2K landscape concept board showing six NEW playful GPT Image 2](assets/images/081-a-single-high-quality-2k-landscape-concept-board-showing-six-new.png)
 
@@ -1930,7 +1989,7 @@ Make every panel self-explanatory, no brand logos, no famous people, no copyrigh
 
 </details>
 
-### 055. Second single high-quality 2K landscape concept board showing six derivative game-
+### 057. Second single high-quality 2K landscape concept board showing six derivative game-
 
 ![Second single high-quality 2K landscape concept board showing six derivative game-](assets/images/082-a-second-single-high-quality-2k-landscape-concept-board-showing-.png)
 
@@ -1957,7 +2016,7 @@ Make it look like a record of product-play experiments: clear visual ideas, each
 
 </details>
 
-### 056. Single high-quality 2K landscape concept board showing six playful GPT Image 2 use
+### 058. Single high-quality 2K landscape concept board showing six playful GPT Image 2 use
 
 ![Single high-quality 2K landscape concept board showing six playful GPT Image 2 use](assets/images/001-a-single-high-quality-2k-landscape-concept-board-showing-six-pla.png)
 
@@ -1984,7 +2043,7 @@ Make the six panels feel like a useful research artifact, with clear visual sepa
 
 </details>
 
-### 057. Second polished 2x2 contact sheet of derived GPT image generation play patterns, n
+### 059. Second polished 2x2 contact sheet of derived GPT image generation play patterns, n
 
 ![Second polished 2x2 contact sheet of derived GPT image generation play patterns, n](assets/images/002-a-second-polished-2x2-contact-sheet-of-derived-gpt-image-generat.png)
 
@@ -2006,7 +2065,7 @@ Make each panel visually different, production-quality, playful experimentation 
 
 </details>
 
-### 058. Polished 2x2 contact sheet titled visually by panel composition only, no large cap
+### 060. Polished 2x2 contact sheet titled visually by panel composition only, no large cap
 
 ![Polished 2x2 contact sheet titled visually by panel composition only, no large cap](assets/images/003-a-polished-2x2-contact-sheet-titled-visually-by-panel-compositio.png)
 
@@ -2028,7 +2087,7 @@ Use varied palettes across panels, high detail, playful but sophisticated, squar
 
 </details>
 
-### 059. Derived Play Modes
+### 061. Derived Play Modes
 
 ![Derived Play Modes](assets/images/004-derived-play-modes.png)
 
@@ -2045,7 +2104,7 @@ Create a second polished 3x2 visual research board titled "DERIVED PLAY MODES". 
 
 </details>
 
-### 060. Use-case Board
+### 062. Use-case Board
 
 ![Use-case Board](assets/images/005-use-case-board.png)
 
@@ -2062,7 +2121,7 @@ Create a polished 3x2 visual research board titled "GPT-IMAGE-2 PLAYBOOK". Six d
 
 </details>
 
-### 061. Use case: stylized-concept
+### 063. Use case: stylized-concept
 
 ![Use case: stylized-concept](assets/images/006-use-case-stylized-concept.png)
 
@@ -2087,7 +2146,7 @@ Style: energetic, maker-lab aesthetic, tactile objects, clean lighting, high-res
 
 </details>
 
-### 062. Use case: productivity-visual
+### 064. Use case: productivity-visual
 
 ![Use case: productivity-visual](assets/images/007-use-case-productivity-visual.png)
 
@@ -2112,7 +2171,7 @@ Style: sharp, modern, playful but practical, strong material detail, balanced co
 
 </details>
 
-### 063. Use case: productivity-visual
+### 065. Use case: productivity-visual
 
 ![Use case: productivity-visual](assets/images/008-use-case-productivity-visual.png)
 
@@ -2136,7 +2195,7 @@ Composition: 4x2 grid, title at top, no extra text, no watermark.
 
 </details>
 
-### 064. Use case: stylized-concept
+### 066. Use case: stylized-concept
 
 ![Use case: stylized-concept](assets/images/009-use-case-stylized-concept.png)
 
@@ -2160,7 +2219,7 @@ Composition: 3x3 grid, equal padding, each icon centered, no watermark, no label
 
 </details>
 
-### 065. Use case: illustration-story
+### 067. Use case: illustration-story
 
 ![Use case: illustration-story](assets/images/010-use-case-illustration-story.png)
 
@@ -2184,7 +2243,7 @@ Composition: 2x2 grid, each panel visually distinct but same character design, n
 
 </details>
 
-### 066. Use case: illustration-story
+### 068. Use case: illustration-story
 
 ![Use case: illustration-story](assets/images/011-use-case-illustration-story.png)
 
@@ -2208,7 +2267,7 @@ Composition: portrait card centered, full card visible, no other cards, no water
 
 </details>
 
-### 067. Use case: scientific-educational
+### 069. Use case: scientific-educational
 
 ![Use case: scientific-educational](assets/images/012-use-case-scientific-educational.png)
 
@@ -2232,7 +2291,7 @@ Composition: portrait 4:5 poster, structured diagram, ample spacing, no fake tin
 
 </details>
 
-### 068. Use case: ui-mockup
+### 070. Use case: ui-mockup
 
 ![Use case: ui-mockup](assets/images/013-use-case-ui-mockup.png)
 
@@ -2256,7 +2315,7 @@ Composition: 16:10 desktop screenshot, crisp typography, no marketing hero, no e
 
 </details>
 
-### 069. Use case: product-mockup
+### 071. Use case: product-mockup
 
 ![Use case: product-mockup](assets/images/014-use-case-product-mockup.png)
 
@@ -2280,7 +2339,7 @@ Composition: landscape product shot, 4 cans visible front-on, strong lighting, r
 
 </details>
 
-### 070. Use case: ads-marketing
+### 072. Use case: ads-marketing
 
 ![Use case: ads-marketing](assets/images/015-use-case-ads-marketing.png)
 
@@ -2304,7 +2363,7 @@ Composition: square 1:1, main title centered, props arranged around edges, enoug
 
 </details>
 
-### 071. Use case: infographic-diagram
+### 073. Use case: infographic-diagram
 
 ![Use case: infographic-diagram](assets/images/016-use-case-infographic-diagram.png)
 
@@ -2323,7 +2382,7 @@ Primary request: Create a 16:9 concept image called "IMAGE QUEST MAP" showing a 
 
 </details>
 
-### 072. Use case: product-mockup
+### 074. Use case: product-mockup
 
 ![Use case: product-mockup](assets/images/017-use-case-product-mockup.png)
 
@@ -2342,7 +2401,7 @@ Primary request: Create a 16:9 image of a playful "ONE OBJECT, MANY LIVES" chall
 
 </details>
 
-### 073. Use case: illustration-story
+### 075. Use case: illustration-story
 
 ![Use case: illustration-story](assets/images/018-use-case-illustration-story.png)
 
@@ -2361,7 +2420,7 @@ Primary request: Create a 16:9 visual of a game called "VISUAL TELEPHONE" where 
 
 </details>
 
-### 074. Use case: productivity-visual
+### 076. Use case: productivity-visual
 
 ![Use case: productivity-visual](assets/images/019-use-case-productivity-visual.png)
 
@@ -2380,7 +2439,7 @@ Primary request: Create a 16:9 board-game style visual called "PROMPT REMIX CARD
 
 </details>
 
-### 075. Use case: ui-mockup
+### 077. Use case: ui-mockup
 
 ![Use case: ui-mockup](assets/images/020-use-case-ui-mockup.png)
 
@@ -2399,7 +2458,7 @@ Primary request: Create a sharp 16:9 high-fidelity UI mockup image of a fictiona
 
 </details>
 
-### 076. Use case: scientific-educational
+### 078. Use case: scientific-educational
 
 ![Use case: scientific-educational](assets/images/021-use-case-scientific-educational.png)
 
@@ -2418,7 +2477,7 @@ Primary request: Create a clean 16:9 educational explainer poster titled "HOW A 
 
 </details>
 
-### 077. Use case: illustration-story
+### 079. Use case: illustration-story
 
 ![Use case: illustration-story](assets/images/022-use-case-illustration-story.png)
 
@@ -2437,7 +2496,7 @@ Primary request: Create a 16:9 illustrated character continuity sheet for a fict
 
 </details>
 
-### 078. Use case: ads-marketing
+### 080. Use case: ads-marketing
 
 ![Use case: ads-marketing](assets/images/023-use-case-ads-marketing.png)
 
@@ -2461,7 +2520,7 @@ Composition: vertical 4:5, poster centered, surrounding notes add context, no re
 
 </details>
 
-### 079. Use case: ads-marketing
+### 081. Use case: ads-marketing
 
 ![Use case: ads-marketing](assets/images/024-use-case-ads-marketing.png)
 
@@ -2480,7 +2539,7 @@ Primary request: Create a polished 16:9 visual concept showing a fictional insta
 
 </details>
 
-### 080. Use case: scientific-educational
+### 082. Use case: scientific-educational
 
 ![Use case: scientific-educational](assets/images/025-use-case-scientific-educational.png)
 
@@ -2504,7 +2563,7 @@ Composition: top-down 4:5, all pieces visible, no watermark, no real school logo
 
 </details>
 
-### 081. Use case: product-mockup
+### 083. Use case: product-mockup
 
 ![Use case: product-mockup](assets/images/026-use-case-product-mockup.png)
 
@@ -2528,7 +2587,7 @@ Composition: horizontal 16:9 design review board, every can fully visible, no wa
 
 </details>
 
-### 082. Use case: stylized-concept
+### 084. Use case: stylized-concept
 
 ![Use case: stylized-concept](assets/images/027-use-case-stylized-concept.png)
 
@@ -2552,7 +2611,7 @@ Composition: square asset sheet, generous spacing, every pose fully visible.
 
 </details>
 
-### 083. Use case: ui-mockup
+### 085. Use case: ui-mockup
 
 ![Use case: ui-mockup](assets/images/028-use-case-ui-mockup.png)
 
@@ -2575,7 +2634,7 @@ Composition: vertical 4:5, phone screen large and legible, real-world context, n
 
 </details>
 
-### 084. Use case: illustration-story
+### 086. Use case: illustration-story
 
 ![Use case: illustration-story](assets/images/029-use-case-illustration-story.png)
 
@@ -2599,7 +2658,7 @@ Composition: square page, 2x2 panel layout, no watermark.
 
 </details>
 
-### 085. Use case: ads-marketing
+### 087. Use case: ads-marketing
 
 ![Use case: ads-marketing](assets/images/030-use-case-ads-marketing.png)
 
@@ -2622,7 +2681,7 @@ Composition: vertical poster 4:5, product large in center, copy integrated as ad
 
 </details>
 
-### 086. Use case: productivity-visual
+### 088. Use case: productivity-visual
 
 ![Use case: productivity-visual](assets/images/031-use-case-productivity-visual.png)
 
@@ -2645,7 +2704,7 @@ Composition: top-down 4:5, the board centered and fully visible, no brand logos,
 
 </details>
 
-### 087. Polished 2K visual board of six DERIVED play modes based on the four new GPT-image
+### 089. Polished 2K visual board of six DERIVED play modes based on the four new GPT-image
 
 ![Polished 2K visual board of six DERIVED play modes based on the four new GPT-image](assets/images/032-a-polished-2k-visual-board-of-six-derived-play-modes-based-on-th.png)
 
@@ -2662,7 +2721,7 @@ Create a polished 2K visual board of six DERIVED play modes based on the four ne
 
 </details>
 
-### 088. Polished 2K visual research board showing four NEW non-repeated GPT-image-2 use ca
+### 090. Polished 2K visual research board showing four NEW non-repeated GPT-image-2 use ca
 
 ![Polished 2K visual research board showing four NEW non-repeated GPT-image-2 use ca](assets/images/033-a-polished-2k-visual-research-board-showing-four-new-non-repeate.png)
 
@@ -2679,7 +2738,7 @@ Create a polished 2K visual research board showing four NEW non-repeated GPT-ima
 
 </details>
 
-### 089. Second polished 2K visual research board of six derived playful product/game ideas
+### 091. Second polished 2K visual research board of six derived playful product/game ideas
 
 ![Second polished 2K visual research board of six derived playful product/game ideas](assets/images/034-a-second-polished-2k-visual-research-board-of-six-derived-playfu.png)
 
@@ -2696,7 +2755,7 @@ Create a second polished 2K visual research board of six derived playful product
 
 </details>
 
-### 090. Polished 2K visual research board showing six fun GPT-image-2 use cases as a singl
+### 092. Polished 2K visual research board showing six fun GPT-image-2 use cases as a singl
 
 ![Polished 2K visual research board showing six fun GPT-image-2 use cases as a singl](assets/images/035-a-polished-2k-visual-research-board-showing-six-fun-gpt-image-2-.png)
 
@@ -2713,7 +2772,7 @@ Create a polished 2K visual research board showing six fun GPT-image-2 use cases
 
 </details>
 
-### 091. Second polished 2x2 contact sheet of DERIVED play modes from the four new GPT Imag
+### 093. Second polished 2x2 contact sheet of DERIVED play modes from the four new GPT Imag
 
 ![Second polished 2x2 contact sheet of DERIVED play modes from the four new GPT Imag](assets/images/036-a-second-polished-2x2-contact-sheet-of-derived-play-modes-from-t.png)
 
@@ -2741,7 +2800,7 @@ Avoid: real company branding, celebrity likenesses, copyrighted characters, gene
 
 </details>
 
-### 092. Polished 2x2 contact sheet of NEW, non-repeated GPT Image 2 playground use cases
+### 094. Polished 2x2 contact sheet of NEW, non-repeated GPT Image 2 playground use cases
 
 ![Polished 2x2 contact sheet of NEW, non-repeated GPT Image 2 playground use cases](assets/images/037-a-polished-2x2-contact-sheet-of-new-non-repeated-gpt-image-2-pla.png)
 
@@ -2769,7 +2828,7 @@ Avoid: previously recorded concepts, real company branding, celebrity likenesses
 
 </details>
 
-### 093. Second polished 2x2 contact sheet derived from the first group's ideas, exploring
+### 095. Second polished 2x2 contact sheet derived from the first group's ideas, exploring
 
 ![Second polished 2x2 contact sheet derived from the first group's ideas, exploring](assets/images/038-a-second-polished-2x2-contact-sheet-derived-from-the-first-group.png)
 
@@ -2797,7 +2856,7 @@ Avoid: real brands, celebrity likenesses, copyrighted characters, gibberish labe
 
 </details>
 
-### 094. Polished 2x2 contact sheet titled only with small unobtrusive labels, showing four
+### 096. Polished 2x2 contact sheet titled only with small unobtrusive labels, showing four
 
 ![Polished 2x2 contact sheet titled only with small unobtrusive labels, showing four](assets/images/039-a-polished-2x2-contact-sheet-titled-only-with-small-unobtrusive-.png)
 
@@ -2825,7 +2884,7 @@ Avoid: real company brands, celebrity likenesses, copyrighted characters, illegi
 
 </details>
 
-### 095. Polished 2x2 contact sheet titled "GPT Image 2: Derived Play Mechanics"
+### 097. Polished 2x2 contact sheet titled "GPT Image 2: Derived Play Mechanics"
 
 ![Polished 2x2 contact sheet titled "GPT Image 2: Derived Play Mechanics"](assets/images/040-a-polished-2x2-contact-sheet-titled-gpt-image-2-derived-play-mec.png)
 
@@ -2852,7 +2911,7 @@ Overall: four distinct panels, stable grid, sharp readable headings, thoughtful 
 
 </details>
 
-### 096. Polished 2x2 contact sheet titled "GPT Image 2: System Play Use Cases"
+### 098. Polished 2x2 contact sheet titled "GPT Image 2: System Play Use Cases"
 
 ![Polished 2x2 contact sheet titled "GPT Image 2: System Play Use Cases"](assets/images/041-a-polished-2x2-contact-sheet-titled-gpt-image-2-system-play-use-.png)
 
@@ -2879,7 +2938,7 @@ Overall: four distinct panels, consistent margins, sharp readable headings, play
 
 </details>
 
-### 097. Second polished 2x3 visual research contact sheet titled "Derived Play Patterns fo
+### 099. Second polished 2x3 visual research contact sheet titled "Derived Play Patterns fo
 
 ![Second polished 2x3 visual research contact sheet titled "Derived Play Patterns fo](assets/images/042-a-second-polished-2x3-visual-research-contact-sheet-titled-deriv.png)
 
@@ -2896,7 +2955,7 @@ Create a second polished 2x3 visual research contact sheet titled "Derived Play 
 
 </details>
 
-### 098. Polished 2x3 visual research contact sheet showcasing six playful GPT Image 2
+### 100. Polished 2x3 visual research contact sheet showcasing six playful GPT Image 2
 
 ![Polished 2x3 visual research contact sheet showcasing six playful GPT Image 2](assets/images/043-a-polished-2x3-visual-research-contact-sheet-showcasing-six-play.png)
 
@@ -2913,7 +2972,7 @@ Create a polished 2x3 visual research contact sheet showcasing six playful GPT I
 
 </details>
 
-### 099. Use case: productivity-visual / image evals
+### 101. Use case: productivity-visual / image evals
 
 ![Use case: productivity-visual / image evals](assets/images/044-use-case-productivity-visual-image-evals.png)
 
@@ -2934,7 +2993,7 @@ Avoid: repeating product packaging, storyboards, world-bible cards, camera lotte
 
 </details>
 
-### 100. Use case: productivity-visual / infographic-diagram
+### 102. Use case: productivity-visual / infographic-diagram
 
 ![Use case: productivity-visual / infographic-diagram](assets/images/045-use-case-productivity-visual-infographic-diagram.png)
 
@@ -2955,7 +3014,7 @@ Avoid: fantasy characters, food ads, tea steps, hardware product boards, paper b
 
 </details>
 
-### 101. Use case: infographic-diagram / image evals
+### 103. Use case: infographic-diagram / image evals
 
 ![Use case: infographic-diagram / image evals](assets/images/046-use-case-infographic-diagram-image-evals.png)
 
@@ -2976,7 +3035,7 @@ Avoid: gibberish text, brand logos, watermark, overdecorated sci-fi UI.
 
 </details>
 
-### 102. Use case: illustration-story / compositing concept
+### 104. Use case: illustration-story / compositing concept
 
 ![Use case: illustration-story / compositing concept](assets/images/047-use-case-illustration-story-compositing-concept.png)
 
@@ -2997,7 +3056,7 @@ Avoid: inconsistent styles, unreadable labels, brand logos, watermark, too many 
 
 </details>
 
-### 103. Use case: scientific-educational / illustration-story
+### 105. Use case: scientific-educational / illustration-story
 
 ![Use case: scientific-educational / illustration-story](assets/images/048-use-case-scientific-educational-illustration-story.png)
 
@@ -3018,7 +3077,7 @@ Avoid: gibberish, too much tiny body text, brand logos, watermark, messy fantasy
 
 </details>
 
-### 104. Use case: product-mockup / ads-marketing
+### 106. Use case: product-mockup / ads-marketing
 
 ![Use case: product-mockup / ads-marketing](assets/images/049-use-case-product-mockup-ads-marketing.png)
 
@@ -3039,7 +3098,7 @@ Avoid: real brand logos, misspelled title/subtitle, clutter, watermark.
 
 </details>
 
-### 105. Use case: infographic-diagram
+### 107. Use case: infographic-diagram
 
 ![Use case: infographic-diagram](assets/images/050-use-case-infographic-diagram.png)
 
@@ -3060,7 +3119,7 @@ Avoid: tiny unreadable text, misspelled Chinese, fake brand marks, clutter, wate
 
 </details>
 
-### 106. Use case: productivity-visual / ui-mockup
+### 108. Use case: productivity-visual / ui-mockup
 
 ![Use case: productivity-visual / ui-mockup](assets/images/051-use-case-productivity-visual-ui-mockup.png)
 
@@ -3081,7 +3140,7 @@ Avoid: gibberish text, extra labels, logos, watermarks, fantasy characters.
 
 </details>
 
-### 107. Polished 2x3 contact sheet of six NEW derived playful GPT Image 2 workflows, avoid
+### 109. Polished 2x3 contact sheet of six NEW derived playful GPT Image 2 workflows, avoid
 
 ![Polished 2x3 contact sheet of six NEW derived playful GPT Image 2 workflows, avoid](assets/images/052-a-polished-2x3-contact-sheet-of-six-new-derived-playful-gpt-imag.png)
 
@@ -3098,7 +3157,7 @@ Create a polished 2x3 contact sheet of six NEW derived playful GPT Image 2 workf
 
 </details>
 
-### 108. Polished 2x3 contact sheet of six NEW GPT Image 2 use-case concepts that explicitl
+### 110. Polished 2x3 contact sheet of six NEW GPT Image 2 use-case concepts that explicitl
 
 ![Polished 2x3 contact sheet of six NEW GPT Image 2 use-case concepts that explicitl](assets/images/053-a-polished-2x3-contact-sheet-of-six-new-gpt-image-2-use-case-con.png)
 
@@ -3115,7 +3174,7 @@ Create a polished 2x3 contact sheet of six NEW GPT Image 2 use-case concepts tha
 
 </details>
 
-### 109. Polished 2x3 contact sheet of six playful derived GPT Image 2 workflows, building
+### 111. Polished 2x3 contact sheet of six playful derived GPT Image 2 workflows, building
 
 ![Polished 2x3 contact sheet of six playful derived GPT Image 2 workflows, building](assets/images/054-a-polished-2x3-contact-sheet-of-six-playful-derived-gpt-image-2-.png)
 
@@ -3132,7 +3191,7 @@ Create a polished 2x3 contact sheet of six playful derived GPT Image 2 workflows
 
 </details>
 
-### 110. Polished 2x3 contact sheet of six distinct GPT Image 2 use-case concepts
+### 112. Polished 2x3 contact sheet of six distinct GPT Image 2 use-case concepts
 
 ![Polished 2x3 contact sheet of six distinct GPT Image 2 use-case concepts](assets/images/055-a-polished-2x3-contact-sheet-of-six-distinct-gpt-image-2-use-cas.png)
 
@@ -3149,7 +3208,7 @@ Create a polished 2x3 contact sheet of six distinct GPT Image 2 use-case concept
 
 </details>
 
-### 111. Single high-resolution 3-panel derived-play concept board
+### 113. Single high-resolution 3-panel derived-play concept board
 
 ![Single high-resolution 3-panel derived-play concept board](assets/images/056-a-single-high-resolution-3-panel-derived-play-concept-board.png)
 
@@ -3174,7 +3233,7 @@ Overall: polished concept research board, high detail, no watermark, no clutter,
 
 </details>
 
-### 112. Single high-resolution 3-panel concept board titled visually by layout only, no la
+### 114. Single high-resolution 3-panel concept board titled visually by layout only, no la
 
 ![Single high-resolution 3-panel concept board titled visually by layout only, no la](assets/images/057-a-single-high-resolution-3-panel-concept-board-titled-visually-b.png)
 
@@ -3199,7 +3258,7 @@ Overall: each panel separated by thin grid lines, modern design research board, 
 
 </details>
 
-### 113. Use case: style-transfer
+### 115. Use case: style-transfer
 
 ![Use case: style-transfer](assets/images/058-use-case-style-transfer.png)
 
@@ -3224,7 +3283,7 @@ Avoid: brand logos, extra signs, illegible text, chaotic layout, watermark.
 
 </details>
 
-### 114. Use case: ui-mockup
+### 116. Use case: ui-mockup
 
 ![Use case: ui-mockup](assets/images/059-use-case-ui-mockup.png)
 
@@ -3249,7 +3308,7 @@ Avoid: fake app store badges, illegible paragraphs, too many screens, watermark.
 
 </details>
 
-### 115. Use case: illustration-story
+### 117. Use case: illustration-story
 
 ![Use case: illustration-story](assets/images/060-use-case-illustration-story.png)
 
@@ -3274,7 +3333,7 @@ Avoid: text, frame numbers, random characters, inconsistent boat design, waterma
 
 </details>
 
-### 116. Use case: product-mockup
+### 118. Use case: product-mockup
 
 ![Use case: product-mockup](assets/images/061-use-case-product-mockup.png)
 
@@ -3299,7 +3358,7 @@ Avoid: real brand logos, unreadable labels, excessive futuristic shapes, waterma
 
 </details>
 
-### 117. Use case: scientific-educational
+### 119. Use case: scientific-educational
 
 ![Use case: scientific-educational](assets/images/062-use-case-scientific-educational.png)
 
@@ -3324,7 +3383,7 @@ Avoid: dense paragraphs, misspelled text, extra steps, watermark, ornate decorat
 
 </details>
 
-### 118. Use case: ads-marketing
+### 120. Use case: ads-marketing
 
 ![Use case: ads-marketing](assets/images/063-use-case-ads-marketing.png)
 
@@ -3349,7 +3408,7 @@ Avoid: misspelled text, unreadable tiny text, watermark, extra slogans, distorte
 
 </details>
 
-### 119. Use case: ads-marketing / derived play mechanic: product-to-flavor-lab
+### 121. Use case: ads-marketing / derived play mechanic: product-to-flavor-lab
 
 ![Use case: ads-marketing / derived play mechanic: product-to-flavor-lab](assets/images/064-use-case-ads-marketing-derived-play-mechanic-product-to-flavor-l.png)
 
@@ -3372,7 +3431,7 @@ Style: high-end beverage campaign triptych, clean typography, realistic material
 
 </details>
 
-### 120. Use case: ui-mockup / derived play mechanic: app-to-board-game
+### 122. Use case: ui-mockup / derived play mechanic: app-to-board-game
 
 ![Use case: ui-mockup / derived play mechanic: app-to-board-game](assets/images/065-use-case-ui-mockup-derived-play-mechanic-app-to-board-game.png)
 
@@ -3395,7 +3454,7 @@ Style: crisp product prototype photography, clear graphic design, readable label
 
 </details>
 
-### 121. Use case: illustration-story / derived play mechanic: poster-to-mini-comic
+### 123. Use case: illustration-story / derived play mechanic: poster-to-mini-comic
 
 ![Use case: illustration-story / derived play mechanic: poster-to-mini-comic](assets/images/066-use-case-illustration-story-derived-play-mechanic-poster-to-mini.png)
 
@@ -3418,7 +3477,7 @@ Style: polished graphic novel page, consistent lighting across panels, legible p
 
 </details>
 
-### 122. Use case: product-mockup / imaginary packaging system
+### 124. Use case: product-mockup / imaginary packaging system
 
 ![Use case: product-mockup / imaginary packaging system](assets/images/067-use-case-product-mockup-imaginary-packaging-system.png)
 
@@ -3441,7 +3500,7 @@ Style: commercial product photography, high realism, clean lighting, fresh palet
 
 </details>
 
-### 123. Use case: ui-mockup / layout-aware screenshot
+### 125. Use case: ui-mockup / layout-aware screenshot
 
 ![Use case: ui-mockup / layout-aware screenshot](assets/images/068-use-case-ui-mockup-layout-aware-screenshot.png)
 
@@ -3464,7 +3523,7 @@ Style: modern product design screenshot, crisp typography, restrained colors wit
 
 </details>
 
-### 124. Use case: ads-marketing / typography stress test
+### 126. Use case: ads-marketing / typography stress test
 
 ![Use case: ads-marketing / typography stress test](assets/images/069-use-case-ads-marketing-typography-stress-test.png)
 
@@ -3487,7 +3546,7 @@ Style: editorial poster, tasteful typography hierarchy, no real brands, no logos
 
 </details>
 
-### 125. Use case: ui-mockup
+### 127. Use case: ui-mockup
 
 ![Use case: ui-mockup](assets/images/070-use-case-ui-mockup.png)
 
@@ -3515,7 +3574,7 @@ Constraints: parent card must be largest, current smaller, child smallest; light
 
 </details>
 
-### 126. Use case: ui-mockup
+### 128. Use case: ui-mockup
 
 ![Use case: ui-mockup](assets/images/071-use-case-ui-mockup.png)
 
@@ -3543,7 +3602,7 @@ Constraints: parent must be largest card, current medium, child smallest; light 
 
 </details>
 
-### 127. Use case: ui-mockup
+### 129. Use case: ui-mockup
 
 ![Use case: ui-mockup](assets/images/072-use-case-ui-mockup.png)
 
@@ -3571,7 +3630,7 @@ Constraints: light theme only; elegant serif display feel mixed with clean sans-
 
 </details>
 
-### 128. Use case: ui-mockup
+### 130. Use case: ui-mockup
 
 ![Use case: ui-mockup](assets/images/073-use-case-ui-mockup.png)
 
@@ -3599,7 +3658,7 @@ Constraints: reference a warm editorial website theme rather than a generic dash
 
 </details>
 
-### 129. Use case: ui-mockup
+### 131. Use case: ui-mockup
 
 ![Use case: ui-mockup](assets/images/074-use-case-ui-mockup.png)
 
@@ -3627,7 +3686,7 @@ Constraints: light theme only; elegant serif display feel mixed with clean sans-
 
 </details>
 
-### 130. Use case: infographic-diagram
+### 132. Use case: infographic-diagram
 
 ![Use case: infographic-diagram](assets/images/075-use-case-infographic-diagram.png)
 
@@ -3654,7 +3713,7 @@ Constraints: no readable text, no logos, no watermark, no generic stock icons, n
 
 </details>
 
-### 131. Use case: photorealistic-natural
+### 133. Use case: photorealistic-natural
 
 ![Use case: photorealistic-natural](assets/images/076-use-case-photorealistic-natural.png)
 
@@ -3681,7 +3740,7 @@ Constraints: no readable UI text, no logos, no watermark, avoid stock-photo chee
 
 </details>
 
-### 132. Use case: stylized-concept
+### 134. Use case: stylized-concept
 
 ![Use case: stylized-concept](assets/images/077-use-case-stylized-concept.png)
 
