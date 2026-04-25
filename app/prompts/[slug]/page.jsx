@@ -2,6 +2,7 @@ import { notFound } from "next/navigation";
 import PromptDetailPageContent from "../../../components/pages/PromptDetailPage";
 import { galleryEntries, getEntryBySlug, imageUrl, promptExcerpt } from "../../../lib/gallery";
 import { tagLabel } from "../../../lib/i18n";
+import { openGraphBase } from "../../../lib/site-assets";
 
 export function generateStaticParams() {
   return galleryEntries.map((entry) => ({ slug: entry.slug }));
@@ -28,6 +29,7 @@ export async function generateMetadata({ params }) {
       },
     },
     openGraph: {
+      ...openGraphBase("en", "article"),
       title: `${entry.title} | GPT Image 2 Example`,
       description,
       url: `/${entry.pagePath}`,

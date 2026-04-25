@@ -1,7 +1,7 @@
 import TagsIndexPageContent from "../../components/pages/TagsIndexPage";
 import { tagEntries } from "../../lib/gallery";
 import { getCopy } from "../../lib/i18n";
-import { SITE_OG_IMAGE, SITE_OG_IMAGE_METADATA } from "../../lib/site-assets";
+import { SITE_OG_IMAGE, SITE_OG_IMAGE_METADATA, openGraphBase } from "../../lib/site-assets";
 
 const t = getCopy("en");
 const description = `Browse ${tagEntries.length} GPT Image 2 topic collections for UI mockups, product visuals, diagrams, games, storytelling, and evaluation workflows.`;
@@ -17,6 +17,7 @@ export const metadata = {
     },
   },
   openGraph: {
+    ...openGraphBase("en", "website"),
     title: t.tagsTitle,
     description,
     url: "/tags/",

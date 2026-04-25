@@ -1,7 +1,7 @@
 import "./globals.css";
 import { SITE_URL } from "../lib/gallery";
 import { getCopy } from "../lib/i18n";
-import { SITE_OG_IMAGE, SITE_OG_IMAGE_METADATA } from "../lib/site-assets";
+import { SITE_NAME, SITE_OG_IMAGE, SITE_OG_IMAGE_METADATA, openGraphBase } from "../lib/site-assets";
 
 const t = getCopy("en");
 
@@ -9,7 +9,7 @@ export const metadata = {
   metadataBase: new URL(SITE_URL),
   title: {
     default: t.homeTitle,
-    template: "%s | Awesome GPT Image 2",
+    template: `%s | ${SITE_NAME}`,
   },
   description: t.homeDescription,
   authors: [{ name: "pyth0nb3st" }],
@@ -21,8 +21,7 @@ export const metadata = {
     apple: [{ url: "/apple-icon.png", type: "image/png", sizes: "180x180" }],
   },
   openGraph: {
-    type: "website",
-    siteName: "Awesome GPT Image 2",
+    ...openGraphBase("en", "website"),
     title: t.homeTitle,
     description: t.homeDescription,
     url: SITE_URL,

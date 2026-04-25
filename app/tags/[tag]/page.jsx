@@ -2,7 +2,7 @@ import { notFound } from "next/navigation";
 import TagDetailPageContent from "../../../components/pages/TagDetailPage";
 import { getEntriesByTag, tagEntries, tagUrl } from "../../../lib/gallery";
 import { tagLabel } from "../../../lib/i18n";
-import { SITE_OG_IMAGE, SITE_OG_IMAGE_METADATA } from "../../../lib/site-assets";
+import { SITE_OG_IMAGE, SITE_OG_IMAGE_METADATA, openGraphBase } from "../../../lib/site-assets";
 
 export function generateStaticParams() {
   return tagEntries.map(([tag]) => ({ tag }));
@@ -27,6 +27,7 @@ export async function generateMetadata({ params }) {
       },
     },
     openGraph: {
+      ...openGraphBase("en", "website"),
       title: `${label} GPT Image 2 Examples`,
       description,
       url: tagUrl(tag),

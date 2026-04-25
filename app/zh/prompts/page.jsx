@@ -1,6 +1,6 @@
 import PromptsIndexPageContent from "../../../components/pages/PromptsIndexPage";
 import { getCopy } from "../../../lib/i18n";
-import { SITE_OG_IMAGE, SITE_OG_IMAGE_METADATA } from "../../../lib/site-assets";
+import { SITE_OG_IMAGE, SITE_OG_IMAGE_METADATA, openGraphBase } from "../../../lib/site-assets";
 
 const t = getCopy("zh");
 
@@ -15,6 +15,7 @@ export const metadata = {
     },
   },
   openGraph: {
+    ...openGraphBase("zh", "website"),
     title: t.promptsTitle,
     description: t.promptsDescription,
     url: "/zh/prompts/",

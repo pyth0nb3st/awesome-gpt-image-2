@@ -1,6 +1,7 @@
 import { notFound } from "next/navigation";
 import PromptDetailPageContent from "../../../../components/pages/PromptDetailPage";
 import { galleryEntries, getEntryBySlug, imageUrl, promptExcerpt } from "../../../../lib/gallery";
+import { openGraphBase } from "../../../../lib/site-assets";
 
 export function generateStaticParams() {
   return galleryEntries.map((entry) => ({ slug: entry.slug }));
@@ -24,6 +25,7 @@ export async function generateMetadata({ params }) {
       },
     },
     openGraph: {
+      ...openGraphBase("zh", "article"),
       title: `${entry.title} | GPT Image 2 示例`,
       description,
       url: `/zh/${entry.pagePath}`,
