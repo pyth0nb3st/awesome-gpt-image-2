@@ -7,7 +7,9 @@ import { getCopy } from "../lib/i18n";
 const SESSION_KEY = "gptimg2:lucky-session:v1";
 const SESSION_TTL_MS = 15 * 60 * 1000;
 const SESSION_TTL_MINUTES = Math.round(SESSION_TTL_MS / 60000);
-const IMAGE_SIZES = "(max-width: 760px) calc(100vw - 20px), (max-width: 1100px) calc(100vw - 64px), 720px";
+const DRAW_EXIT_MS = 140;
+const DRAW_ENTER_MS = 420;
+const IMAGE_SIZES = "(max-width: 760px) calc(100vw - 20px), (max-width: 1100px) calc(100vw - 52px), calc(100vw - 460px)";
 
 const randomIndex = (length) => {
   if (length <= 1) return 0;
@@ -74,9 +76,12 @@ const writeSession = (storage, history, lastId, now) => {
   }
 };
 
+const prefersReducedMotion = () => globalThis.matchMedia?.("(prefers-reduced-motion: reduce)")?.matches ?? false;
+
 export default function LuckyDraw({ entries, locale = "en" }) {
   const t = getCopy(locale);
   const [entry, setEntry] = useState(null);
+  const [motionPhase, setMotionPhase] = useState("idle");
   const [sessionInfo, setSessionInfo] = useState({
     reset: false,
     seen: 0,
@@ -85,6 +90,7 @@ export default function LuckyDraw({ entries, locale = "en" }) {
   });
   const currentIdRef = useRef(null);
   const drewInitialRef = useRef(false);
+  const timersRef = useRef([]);
 
   const entriesById = useMemo(() => new Map(entries.map((item) => [item.id, item])), [entries]);
   const validIds = useMemo(() => new Set(entries.map((item) => item.id)), [entries]);
@@ -121,15 +127,38 @@ export default function LuckyDraw({ entries, locale = "en" }) {
     const nextHistory = reset ? [selected.id] : [...session.history, selected.id];
     const expiresAt = writeSession(session.storage, nextHistory, selected.id, now);
 
-    currentIdRef.current = selected.id;
-    setEntry(selected);
-    setSessionInfo({
-      reset,
-      seen: nextHistory.length,
-      storageAvailable: session.storageAvailable && expiresAt !== null,
-      total: entries.length,
-    });
-  }, [entries, entriesById, validIds]);
+    const commitSelection = () => {
+      currentIdRef.current = selected.id;
+      setEntry(selected);
+      setSessionInfo({
+        reset,
+        seen: nextHistory.length,
+        storageAvailable: session.storageAvailable && expiresAt !== null,
+        total: entries.length,
+      });
+    };
+
+    for (const timer of timersRef.current) {
+      clearTimeout(timer);
+    }
+    timersRef.current = [];
+
+    if (entry && !prefersReducedMotion()) {
+      setMotionPhase("exiting");
+      timersRef.current.push(
+        setTimeout(() => {
+          commitSelection();
+          setMotionPhase("entering");
+          timersRef.current.push(setTimeout(() => setMotionPhase("idle"), DRAW_ENTER_MS));
+        }, DRAW_EXIT_MS),
+      );
+      return;
+    }
+
+    commitSelection();
+    setMotionPhase("entering");
+    timersRef.current.push(setTimeout(() => setMotionPhase("idle"), DRAW_ENTER_MS));
+  }, [entries, entriesById, entry, validIds]);
 
   const resetSession = useCallback(() => {
     getSessionStorage()?.removeItem(SESSION_KEY);
@@ -143,6 +172,15 @@ export default function LuckyDraw({ entries, locale = "en" }) {
     drawNext();
   }, [drawNext]);
 
+  useEffect(
+    () => () => {
+      for (const timer of timersRef.current) {
+        clearTimeout(timer);
+      }
+    },
+    [],
+  );
+
   if (entries.length === 0) {
     return <p className="panel">{t.luckyEmpty}</p>;
   }
@@ -152,28 +190,34 @@ export default function LuckyDraw({ entries, locale = "en" }) {
   }
 
   const progress = Math.max(0, Math.min(100, (sessionInfo.seen / sessionInfo.total) * 100));
+  const isDrawing = motionPhase !== "idle";
 
   return (
-    <section className="lucky-draw" aria-live="polite">
-      <article className="lucky-card">
-        <a
-          className="lucky-image-link"
-          href={entry.imageUrl}
-          data-modal-image
-          data-title={entry.title}
-          data-caption={entry.caption}
-          aria-label={t.openPreview(entry.title)}
-        >
-          <Image
-            src={entry.thumbnailUrl}
-            alt={t.cardAlt(entry.title, entry.tags.map((tag) => tag.label))}
-            width={entry.thumbnailWidth}
-            height={entry.thumbnailHeight}
-            sizes={IMAGE_SIZES}
-            priority
-          />
-        </a>
+    <section className={`lucky-draw is-${motionPhase}`} aria-live="polite" aria-busy={isDrawing ? "true" : undefined}>
+      <article className="lucky-stage">
+        <div className="lucky-screen" key={entry.id}>
+          <a
+            className="lucky-image-link"
+            href={entry.imageUrl}
+            data-modal-image
+            data-title={entry.title}
+            data-caption={entry.caption}
+            aria-label={t.openPreview(entry.title)}
+          >
+            <Image
+              src={entry.thumbnailUrl}
+              alt={t.cardAlt(entry.title, entry.tags.map((tag) => tag.label))}
+              width={entry.thumbnailWidth}
+              height={entry.thumbnailHeight}
+              sizes={IMAGE_SIZES}
+              priority
+            />
+          </a>
+        </div>
         <div className="lucky-card-body">
+          <button className="lucky-button lucky-button-primary lucky-inline-draw" type="button" onClick={drawNext} disabled={isDrawing}>
+            {t.luckyDraw}
+          </button>
           <p className="eyebrow">#{String(entry.index + 1).padStart(2, "0")}</p>
           <h2>{entry.title}</h2>
           <p>{entry.caption}</p>
@@ -188,7 +232,7 @@ export default function LuckyDraw({ entries, locale = "en" }) {
       <aside className="lucky-side panel">
         <p className="meta">{t.luckyMeta(entries.length)}</p>
         <div className="lucky-actions">
-          <button className="lucky-button" type="button" onClick={drawNext}>
+          <button className="lucky-button lucky-button-primary" type="button" onClick={drawNext} disabled={isDrawing}>
             {t.luckyDraw}
           </button>
           <button className="lucky-button lucky-button-secondary" type="button" onClick={resetSession}>
@@ -203,12 +247,11 @@ export default function LuckyDraw({ entries, locale = "en" }) {
         </div>
         {sessionInfo.reset ? <p className="lucky-note">{t.luckyReshuffled}</p> : null}
         {!sessionInfo.storageAvailable ? <p className="lucky-note">{t.luckyStorageFallback}</p> : null}
-        <p className="lucky-note">{t.luckyPreviewHint}</p>
         <div>
           <p className="meta">{t.luckyPromptPreview}</p>
           <p>{entry.promptPreview}</p>
         </div>
-        <a className="button-link" href={entry.detailUrl}>
+        <a className="button-link lucky-detail-button" href={entry.detailUrl}>
           {t.luckyOpenDetails}
         </a>
       </aside>

@@ -46,7 +46,7 @@ export default function LuckyPageContent({ locale = "en" }) {
 
   return (
     <>
-      <main className="site-shell">
+      <main className="site-shell lucky-shell">
         <SiteNav locale={locale} path="/lucky/" />
         <script
           type="application/ld+json"
