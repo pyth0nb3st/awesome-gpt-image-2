@@ -74,7 +74,7 @@ export default function PromptDetailPageContent({ entry, locale = "en" }) {
         </a>
         <div className="panel">
           <p className="meta">{t.reuseTitle}</p>
-          <p>{t.reuseBody(tags)}</p>
+          <p>{t.reuseBody(tagLabels)}</p>
           <p>
             <a className="button-link" href={DRILL_URL}>
               {t.exploreDrill}
