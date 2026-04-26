@@ -18,6 +18,143 @@
   },
   "images": [
     {
+      "title": "Derived Play: Glyph Ticket Hunt",
+      "caption": "从导视大厅派生出的手持票据打孔玩法：玩家抽 Locale Strip、打 Icon Notch、转 Arrow Edit、滑动 Occlusion Sleeve、查看 Distance Read、穿过 Crop Portal，只有星窗 glyph 和中英标签仍清楚一致时才能盖 Type Proof 章。",
+      "path": "assets/images/205-derived-play-glyph-ticket-hunt.png",
+      "alt": "Vertical macro product photograph of thick fictional transit tickets on a brass punch rail with acrylic station markers, icon notches, arrow edit tabs, occlusion sleeves, distance read windows, crop portal frame, type proof stamp, and repeated star-window glyph",
+      "width": 1024,
+      "height": 1536,
+      "createdAt": "2026-04-26 08:32:52",
+      "batch": "019dc72f-af4a-7f52-bb6f-71ff6e035e2e",
+      "tags": [
+        "glyph-ticket-hunt",
+        "locale-strip",
+        "icon-notch",
+        "arrow-edit",
+        "occlusion-sleeve",
+        "distance-read",
+        "crop-portal",
+        "type-proof",
+        "drift-audit",
+        "ticket-punch",
+        "batch-019dc72f"
+      ],
+      "prompt": "Create one polished public-gallery image titled \"Derived Play: Glyph Ticket Hunt\".\n\nIt is derived from Prompt Glyph Concourse but must become a different playable object: a handheld ticket-punch scavenger game, not the same concourse, not a grid, not a contact sheet, not a rectangular board, not cards-only, not a bakery deck, not a snowglobe rack, not a water basin, not a wardrobe carousel, not a fossil drawer, not a toy latch.\n\nOutput format: one vertical 2:3 macro product photograph of a fan of thick paper transit tickets clipped to a brass punch rail beside tiny acrylic station markers. No people, no hands, no logos, no real transit system, no real brands.\n\nPlay rules shown through objects: players draw one Locale Strip ticket, punch the matching Icon Grammar notch, rotate one Arrow Edit tab, slide an Occlusion Sleeve across part of the sign, inspect the Distance Read window, pass through one Crop Portal frame, then score a Type Proof stamp only if the same star-window glyph and exact bilingual labels remain readable.\n\nShort visible labels: Locale Strip, Icon Notch, Arrow Edit, Occlusion Sleeve, Distance Read, Crop Portal, Type Proof, Drift Audit. Visual language: tactile premium tabletop prototype, matte paper tickets, brass rail, translucent sleeves, teal and saffron ink, crisp tiny text, invented star-window glyph repeated exactly, playful but sophisticated, fictional, original, unbranded, non-political, harmless, non-adult, non-graphic, rights-safe.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original ticket-punch scavenger game derived locally from the Prompt Glyph Concourse concept. Official OpenAI documentation was used only for factual capability framing; no external prompt, image, artwork, visual style, brand, character, repository, source image, or case-study mechanic was reused."
+      },
+      "promptSources": [
+        {
+          "title": "GPT Image 2 Model",
+          "url": "https://developers.openai.com/api/docs/models/gpt-image-2",
+          "authorOrPublisher": "OpenAI",
+          "license": "OpenAI website terms; cited for factual capability context only",
+          "accessedAt": "2026-04-26",
+          "usedAs": "Confirmed high-quality generation/editing, flexible image sizes, and high-fidelity image input support; no prompt text, image, visual style, or case-study mechanism reused."
+        },
+        {
+          "title": "Image generation - OpenAI API",
+          "url": "https://platform.openai.com/docs/guides/image-generation",
+          "authorOrPublisher": "OpenAI",
+          "license": "OpenAI documentation terms; cited for factual capability context only",
+          "accessedAt": "2026-04-26",
+          "usedAs": "Confirmed generation/edit endpoints and multi-turn image workflows; no prompt text, image, visual style, or case-study mechanism reused."
+        },
+        {
+          "title": "Introducing our latest image generation model in the API",
+          "url": "https://openai.com/index/image-generation-api/",
+          "authorOrPublisher": "OpenAI",
+          "license": "OpenAI website terms; cited for factual capability context only",
+          "accessedAt": "2026-04-26",
+          "usedAs": "Confirmed broad practical use-case categories and text-rendering/instruction-following context; no prompt text, image, visual style, or case-study mechanism reused."
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Original fictional no-people ticket-punch tabletop game with invented labels, harmless paper tickets, and no real transit system; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc72f-af4a-7f52-bb6f-71ff6e035e2e/ig_07a0af4ebd1b33540169ed5cef00788196bc53ac2949466c4b.png"
+    },
+    {
+      "title": "Use Case Wayfinding: Prompt Glyph Concourse",
+      "caption": "把 GPT Image 2 的文字、方向和局部遮挡能力做成虚构导视大厅质检：Route Seed、Locale Strip、Icon Grammar、Arrow Edit、Occlusion Check、Distance Read、Crop Portal、Type Proof 和 Drift Audit 用中英短标识、箭头、遮挡片和裁切门检查同一个星窗 glyph 在不同距离与画幅里是否仍可读。",
+      "path": "assets/images/206-use-case-wayfinding-prompt-glyph-concourse.png",
+      "alt": "Ultra-wide miniature architectural photograph of a fictional transit concourse with teal and saffron bilingual wayfinding signs, floor arrows, star-window glyphs, occlusion tabs, crop portals, distance markers, and prompt QA inspection labels",
+      "width": 2172,
+      "height": 724,
+      "createdAt": "2026-04-26 08:31:43",
+      "batch": "019dc72f-af4a-7f52-bb6f-71ff6e035e2e",
+      "tags": [
+        "prompt-glyph-concourse",
+        "wayfinding",
+        "route-seed",
+        "locale-strip",
+        "icon-grammar",
+        "arrow-edit",
+        "occlusion-check",
+        "distance-read",
+        "crop-portal",
+        "type-proof",
+        "drift-audit",
+        "batch-019dc72f"
+      ],
+      "prompt": "Create one polished public-gallery concept image titled \"Use Case Wayfinding: Prompt Glyph Concourse\".\n\nOutput format: one ultra-wide 3:1 architectural interior photograph of a fictional miniature transit concourse built as a typographic stress-test diorama, not a grid, not a contact sheet, not a dashboard, not cards, not a board game, not a tray, not a cabinet, not a bakery deck, not a snowglobe, not a water basin, not a wardrobe, not a fossil drawer, not a toy latch, not a loom, not a proof press, not a planetarium, not an elevator.\n\nScene: a tiny unbranded indoor station with no train, no people, no real place, no logos. Suspended signs and floor arrows use invented route names only: \"GATE LUMA\", \"HALL N-7\", \"QUIET LIFT\", \"BLUE LOOP\", plus short Chinese labels \"蓝线\" and \"安静口\".\n\nMechanism: GPT Image 2 prompt control becomes wayfinding QA. Readable labels on small inspection tabs: Route Seed, Locale Strip, Icon Grammar, Arrow Edit, Occlusion Check, Distance Read, Crop Portal, Type Proof, Drift Audit. The same invented star-window glyph appears on every sign, ticket, and floor marker; arrows test spatial instruction following, bilingual signs test text rendering, occluders test partial visibility, crop portals test aspect changes, and distance markers test legibility.\n\nVisual language: premium miniature architectural photography, glass ceiling, brushed aluminum, enamel signs, teal and saffron wayfinding, sharp readable type, shallow depth of field, family-safe, fictional, original, unbranded, rights-safe. Avoid political content, public figures, real brands, celebrity likenesses, copyrighted characters, explicit material, harmful instructions, weapons, gore, and living-artist style imitation.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original fictional wayfinding QA prompt mechanism generated locally from existing-gallery gap analysis. Official OpenAI documentation was used only for factual capability framing around image generation, editing, text rendering, and multi-turn workflows; no external prompt, image, artwork, visual style, brand, character, repository, or case-study mechanic was reused."
+      },
+      "promptSources": [
+        {
+          "title": "GPT Image 2 Model",
+          "url": "https://developers.openai.com/api/docs/models/gpt-image-2",
+          "authorOrPublisher": "OpenAI",
+          "license": "OpenAI website terms; cited for factual capability context only",
+          "accessedAt": "2026-04-26",
+          "usedAs": "Confirmed high-quality generation/editing, flexible image sizes, and high-fidelity image input support; no prompt text, image, visual style, or case-study mechanism reused."
+        },
+        {
+          "title": "Image generation - OpenAI API",
+          "url": "https://platform.openai.com/docs/guides/image-generation",
+          "authorOrPublisher": "OpenAI",
+          "license": "OpenAI documentation terms; cited for factual capability context only",
+          "accessedAt": "2026-04-26",
+          "usedAs": "Confirmed generation/edit endpoints and multi-turn image workflows; no prompt text, image, visual style, or case-study mechanism reused."
+        },
+        {
+          "title": "Introducing our latest image generation model in the API",
+          "url": "https://openai.com/index/image-generation-api/",
+          "authorOrPublisher": "OpenAI",
+          "license": "OpenAI website terms; cited for factual capability context only",
+          "accessedAt": "2026-04-26",
+          "usedAs": "Confirmed broad practical use-case categories and text-rendering/instruction-following context; no prompt text, image, visual style, or case-study mechanism reused."
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Original fictional no-people miniature transit-concourse artifact with invented route names and bilingual labels only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc72f-af4a-7f52-bb6f-71ff6e035e2e/ig_07a0af4ebd1b33540169ed5caa63448196a5edca8d119f7ae6.png"
+    },
+    {
       "title": "Derived Play: Fold Rise Rally",
       "caption": "从层压提示台派生出的圆形冷却架接力玩法：玩家抽 Fold Tile、叠 Context Layer、花 Butter Token、放 Steam Edit、关 Crumb Mask、对 Pan Hoop、贴 Caption Score、选 Glaze Chip，只有所有琥珀月牙窗仍然匹配时才能敲响 Rise Check。",
       "path": "assets/images/203-derived-play-fold-rise-rally.png",

@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/205-derived-play-glyph-ticket-hunt.png": {
+      "path": "assets/thumbs/205-derived-play-glyph-ticket-hunt.jpg",
+      "width": 768,
+      "height": 1152
+    },
+    "assets/images/206-use-case-wayfinding-prompt-glyph-concourse.png": {
+      "path": "assets/thumbs/206-use-case-wayfinding-prompt-glyph-concourse.jpg",
+      "width": 768,
+      "height": 256
+    },
     "assets/images/203-derived-play-fold-rise-rally.png": {
       "path": "assets/thumbs/203-derived-play-fold-rise-rally.jpg",
       "width": 768,

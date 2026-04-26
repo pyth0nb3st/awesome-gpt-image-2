@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/205-derived-play-glyph-ticket-hunt.png</image:loc>
+      <image:title>Derived Play: Glyph Ticket Hunt</image:title>
+      <image:caption>Create one polished public-gallery image titled &quot;Derived Play: Glyph Ticket Hunt&quot;. It is derived from Prompt Glyph Concourse but must become a different playable object: a handheld ticket-punch scavenger game, not the same concourse, not a...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/206-use-case-wayfinding-prompt-glyph-concourse.png</image:loc>
+      <image:title>Use Case Wayfinding: Prompt Glyph Concourse</image:title>
+      <image:caption>Create one polished public-gallery concept image titled &quot;Use Case Wayfinding: Prompt Glyph Concourse&quot;. Output format: one ultra-wide 3:1 architectural interior photograph of a fictional miniature transit concourse built as a typographic st...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/203-derived-play-fold-rise-rally.png</image:loc>
       <image:title>Derived Play: Fold Rise Rally</image:title>
       <image:caption>Create one polished public-gallery image titled &quot;Derived Play: Fold Rise Rally&quot;. This is a derived playable mode from Prompt Lamination Deck, but it must look like a different rules object: a cooperative tabletop fold-and-check rally using...</image:caption>
@@ -997,6 +1007,28 @@
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/205-derived-play-glyph-ticket-hunt/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/205-derived-play-glyph-ticket-hunt.png</image:loc>
+      <image:title>Derived Play: Glyph Ticket Hunt</image:title>
+      <image:caption>Create one polished public-gallery image titled &quot;Derived Play: Glyph Ticket Hunt&quot;. It is derived from Prompt Glyph Concourse but must become a different playable object: a handheld ticket-punch scavenger game, not the same concourse, not a...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/206-use-case-wayfinding-prompt-glyph-concourse/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/206-use-case-wayfinding-prompt-glyph-concourse.png</image:loc>
+      <image:title>Use Case Wayfinding: Prompt Glyph Concourse</image:title>
+      <image:caption>Create one polished public-gallery concept image titled &quot;Use Case Wayfinding: Prompt Glyph Concourse&quot;. Output format: one ultra-wide 3:1 architectural interior photograph of a fictional miniature transit concourse built as a typographic st...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/203-derived-play-fold-rise-rally/</loc>
@@ -3287,6 +3319,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://gptimg2.best/tags/arrow-edit/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://gptimg2.best/tags/caption-tag/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -3311,7 +3349,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://gptimg2.best/tags/distance-read/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://gptimg2.best/tags/edit-flake/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/locale-strip/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
