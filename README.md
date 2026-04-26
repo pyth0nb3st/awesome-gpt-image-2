@@ -62,11 +62,22 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `prompt-game` (7)
 - `scientific-educational` (5)
 - `crop-gate` (3)
-- `silence-mask` (3)
 - `sound-to-scene` (3)
+- `arrow-edit` (2)
 
 ### Latest Play Tags
 
+- `prompt-resonance-shelf` - Use Case Acoustics: Prompt Resonance Shelf
+- `acoustics` - Use Case Acoustics: Prompt Resonance Shelf
+- `seed-note` - Use Case Acoustics: Prompt Resonance Shelf
+- `echo-shelf` - Use Case Acoustics: Prompt Resonance Shelf
+- `damping-felt` - Use Case Acoustics: Prompt Resonance Shelf
+- `rewrite-hoop` - Use Case Acoustics: Prompt Resonance Shelf
+- `quiet-slot` - Use Case Acoustics: Prompt Resonance Shelf
+- `tiny-text` - Use Case Acoustics: Prompt Resonance Shelf
+- `frame-clamp` - Use Case Acoustics: Prompt Resonance Shelf
+- `material-ring` - Use Case Acoustics: Prompt Resonance Shelf
+- `resonance-proof` - Use Case Acoustics: Prompt Resonance Shelf
 - `baffle-tile-duet` - Derived Play: Baffle Tile Duet
 - `acoustic-game` - Derived Play: Baffle Tile Duet
 - `baffle-tile` - Derived Play: Baffle Tile Duet
@@ -77,14 +88,6 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `listening-arc` - Derived Play: Baffle Tile Duet
 - `phase-proof` - Derived Play: Baffle Tile Duet
 - `duet-score` - Derived Play: Baffle Tile Duet
-- `prompt-echo-chamber` - Use Case Acoustics: Prompt Echo Chamber
-- `acoustics` - Use Case Acoustics: Prompt Echo Chamber
-- `seed-tone` - Use Case Acoustics: Prompt Echo Chamber
-- `room-context` - Use Case Acoustics: Prompt Echo Chamber
-- `reference-echo` - Use Case Acoustics: Prompt Echo Chamber
-- `edit-baffle` - Use Case Acoustics: Prompt Echo Chamber
-- `silence-mask` - Use Case Acoustics: Prompt Echo Chamber
-- `texture-foam` - Use Case Acoustics: Prompt Echo Chamber
 - `dew-trace-curling` - Derived Play: Dew Trace Curling
 - `vapor-game` - Derived Play: Dew Trace Curling
 - `dew-puck` - Derived Play: Dew Trace Curling
@@ -100,9 +103,6 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `vapor` - Use Case Vapor: Prompt Condensation Chamber
 - `kernel-puff` - Use Case Vapor: Prompt Condensation Chamber
 - `scene-humidity` - Use Case Vapor: Prompt Condensation Chamber
-- `memory-plume` - Use Case Vapor: Prompt Condensation Chamber
-- `steer-vane` - Use Case Vapor: Prompt Condensation Chamber
-- `erase-chill` - Use Case Vapor: Prompt Condensation Chamber
 
 <details>
 <summary>All generated tags</summary>
@@ -129,11 +129,9 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `prompt-game` (7)
 - `scientific-educational` (5)
 - `crop-gate` (3)
-- `silence-mask` (3)
 - `sound-to-scene` (3)
 - `arrow-edit` (2)
 - `burn-block` (2)
-- `caption-ping` (2)
 - `caption-tag` (2)
 - `caseback-seal` (2)
 - `crumb-mask` (2)
@@ -141,6 +139,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `edit-flake` (2)
 - `locale-strip` (2)
 - `photorealistic-natural` (2)
+- `silence-mask` (2)
 - `steam-edit` (2)
 - `style-sleeve` (2)
 - `ui-fiction-simulator` (2)
@@ -228,6 +227,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `caption-oath` (1)
 - `caption-pause` (1)
 - `caption-pennant` (1)
+- `caption-ping` (1)
 - `caption-plaque` (1)
 - `caption-plate` (1)
 - `caption-register-strip` (1)
@@ -317,6 +317,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `cushion-draft` (1)
 - `cushion-stack-trial` (1)
 - `damping-duel` (1)
+- `damping-felt` (1)
 - `darkroom` (1)
 - `darkroom-game` (1)
 - `dart-scale` (1)
@@ -344,9 +345,9 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `drift-ghost` (1)
 - `droplet-valve-maze` (1)
 - `echo-check` (1)
+- `echo-shelf` (1)
 - `echo-tip` (1)
 - `eclipse-token-lock` (1)
-- `edit-baffle` (1)
 - `edit-hatch` (1)
 - `edit-humidity-gauge` (1)
 - `edit-press` (1)
@@ -629,7 +630,6 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `prompt-cultivar-trials` (1)
 - `prompt-dispatch-shaft` (1)
 - `prompt-dot-proof` (1)
-- `prompt-echo-chamber` (1)
 - `prompt-escape-room` (1)
 - `prompt-escapement-watch` (1)
 - `prompt-evidence-hearing` (1)
@@ -650,6 +650,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `prompt-pin-cylinder` (1)
 - `prompt-pressure-altimeter` (1)
 - `prompt-refraction-bench` (1)
+- `prompt-resonance-shelf` (1)
 - `prompt-seed-vault` (1)
 - `prompt-settling-chamber` (1)
 - `prompt-tremor-lab` (1)
@@ -668,6 +669,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `punch-loop` (1)
 - `qa-spot-the-diff` (1)
 - `quake-draft` (1)
+- `quiet-slot` (1)
 - `rail-stop` (1)
 - `rake-budget` (1)
 - `rake-maze-league` (1)
@@ -685,7 +687,6 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `reference-dowel` (1)
 - `reference-drift` (1)
 - `reference-drift-windsock` (1)
-- `reference-echo` (1)
 - `reference-knight` (1)
 - `reference-knot` (1)
 - `reference-lining` (1)
@@ -717,13 +718,13 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `retake-slip` (1)
 - `return-pocket` (1)
 - `revision-click` (1)
+- `rewrite-hoop` (1)
 - `ridge-draft` (1)
 - `ridge-swap` (1)
 - `rights-safe-forme-lock` (1)
 - `rights-safe-starfield-swap` (1)
 - `ring-audit` (1)
 - `ring-ledger` (1)
-- `room-context` (1)
 - `root-memory-chain` (1)
 - `route-seed` (1)
 - `rubbing-reference` (1)
@@ -763,10 +764,10 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `seed-frame` (1)
 - `seed-harbor` (1)
 - `seed-light` (1)
+- `seed-note` (1)
 - `seed-pole` (1)
 - `seed-pull` (1)
 - `seed-tile` (1)
-- `seed-tone` (1)
 - `seed-tooth` (1)
 - `seed-trait-draft` (1)
 - `selvedge-consistency-check` (1)
@@ -869,6 +870,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `tidepool` (1)
 - `time-machine-before-after` (1)
 - `timer-notch` (1)
+- `tiny-text` (1)
 - `tone-switchboard` (1)
 - `tooth-trade` (1)
 - `toy-latch` (1)
@@ -949,7 +951,30 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 
 ## Prompt Gallery
 
-### 001. Derived Play: Baffle Tile Duet
+### 001. Use Case Acoustics: Prompt Resonance Shelf
+
+![Use Case Acoustics: Prompt Resonance Shelf](assets/images/218-use-case-acoustics-prompt-resonance-shelf.png)
+
+**Tags:** `acoustics` `damping-felt` `echo-shelf` `prompt-resonance-shelf` `quiet-slot` `rewrite-hoop` `seed-note` `tiny-text`
+
+**Prompt excerpt:** Use Case Acoustics: Prompt Resonance Shelf. Make one vertical 2:3 museum product photograph of a fictional acoustic resonance shelf: three staggered black walnut shelves hold nine suspended copper tuning hoops, tiny felt dampers, transluce...
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Use Case Acoustics: Prompt Resonance Shelf.
+
+Make one vertical 2:3 museum product photograph of a fictional acoustic resonance shelf: three staggered black walnut shelves hold nine suspended copper tuning hoops, tiny felt dampers, translucent zigzag sound strips, and a pearl-white opal echo seed with one turquoise notch. It should look like a sculptural wall instrument, not a chamber, not a snowglobe, not a basin, not a crate, not a ticket, not a darkroom bench, not a grid.
+
+The use case: testing GPT Image 2 consistency through visible resonance paths. Physical labels should be short and readable: Seed Note, Echo Shelf, Damping Felt, Rewrite Hoop, Quiet Slot, Tiny Text, Frame Clamp, Material Ring, Resonance Proof. Show the opal echo seed repeated in three tiny brass clamps at different shelf heights, with zigzag sound strips threaded through hoops and felt dampers. No people, no hands, no logos, no real audio brand.
+
+Style: premium tactile studio photograph, black walnut, brushed copper, charcoal felt, pearl ceramic bead, turquoise notch, translucent cyan sound strips, warm side light, shallow depth of field, crisp labels. Fictional, original, safe, unbranded, no public figures, no explicit content, no violence.
+```
+
+</details>
+
+### 002. Derived Play: Baffle Tile Duet
 
 ![Derived Play: Baffle Tile Duet](assets/images/216-derived-play-baffle-tile-duet.png)
 
@@ -970,31 +995,6 @@ Output format: one wide 7:4 overhead-oblique product photograph of an oval slate
 Play rules shown through objects: players alternately place one Baffle Tile, route a Wave Token, cover one segment with a Silence Sleeve, ring a Caption Ping bell, align a Crop Gate, and compare both Listening Arcs. The duet scores only if the cyan route and amber route reach the Phase Proof dial while the opal echo seed remains visually identical on both arcs.
 
 Short visible labels: Baffle Tile, Wave Token, Silence Sleeve, Caption Ping, Crop Gate, Listening Arc, Phase Proof, Duet Score. Visual language: premium tactile tabletop prototype, oval slate mat, soft charcoal foam pieces, copper hardware, turquoise notch, amber and cyan transparent wave tokens, crisp readable labels, playful but sophisticated. Entire concept is fictional, original, unbranded, harmless, non-political, non-adult, non-graphic, and rights-safe. Avoid public figures, real brands, celebrity likenesses, copyrighted characters, weapons, gore, dangerous instructions, and living-artist style imitation.
-```
-
-</details>
-
-### 002. Use Case Acoustics: Prompt Echo Chamber
-
-![Use Case Acoustics: Prompt Echo Chamber](assets/images/217-use-case-acoustics-prompt-echo-chamber.png)
-
-**Tags:** `acoustics` `caption-ping` `edit-baffle` `prompt-echo-chamber` `reference-echo` `room-context` `seed-tone` `silence-mask`
-
-**Prompt excerpt:** Create one polished public-gallery concept image titled "Use Case Acoustics: Prompt Echo Chamber". Output format: a single 5:4 cutaway macro product photograph of a fictional miniature anechoic listening chamber, not a grid, not a contact...
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-Create one polished public-gallery concept image titled "Use Case Acoustics: Prompt Echo Chamber".
-
-Output format: a single 5:4 cutaway macro product photograph of a fictional miniature anechoic listening chamber, not a grid, not a contact sheet, not a dashboard, not a board game, not a transit concourse, not a bakery deck, not a snowglobe, not a water basin, not a darkroom, not tactile dots, not packaging, not a loom, not a proof press, not a music box.
-
-Scene: a small matte charcoal chamber lined with soft triangular foam wedges, brass rails, translucent wave ribbons, tiny readable instrument labels, and one invented subject called the "opal echo seed": a pearl-white crescent bead with two copper pins and one turquoise notch. No people, no hands, no logos, no real studio brand, no real acoustic product.
-
-Mechanism: GPT Image 2 prompt control becomes an acoustic response test. Short readable labels on physical tabs: Seed Tone, Room Context, Reference Echo, Edit Baffle, Silence Mask, Caption Ping, Crop Gate, Texture Foam, Phase Proof. Show colored wave ribbons leaving the opal echo seed, bouncing off labeled foam wedges, passing through a rectangular crop gate, disappearing behind a silence mask, then reappearing unchanged inside a final brass proof ring. The same opal echo seed must be recognizable in the source alcove, reference echo window, and phase proof ring.
-
-Visual language: premium tactile studio photography, charcoal acoustic foam, pearl bead, copper pins, turquoise notch, translucent amber and cyan wave ribbons, crisp tiny labels, shallow depth of field, precise reflections, playful museum-quality prototype. Entire concept is fictional, original, unbranded, harmless, non-political, non-adult, non-graphic, and rights-safe. Avoid public figures, real brands, celebrity likenesses, copyrighted characters, weapons, gore, dangerous instructions, and living-artist style imitation.
 ```
 
 </details>

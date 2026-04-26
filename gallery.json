@@ -18,6 +18,50 @@
   },
   "images": [
     {
+      "title": "Use Case Acoustics: Prompt Resonance Shelf",
+      "caption": "把 GPT Image 2 的一致性、局部改写、短文字和材质约束做成壁挂式虚构共振架：Seed Note、Echo Shelf、Damping Felt、Rewrite Hoop、Quiet Slot、Tiny Text、Frame Clamp、Material Ring 和 Resonance Proof 让同一个 opal echo seed 穿过铜环、阻尼毡和声带仍保持一致。",
+      "path": "assets/images/218-use-case-acoustics-prompt-resonance-shelf.png",
+      "alt": "Vertical museum product photograph of a fictional wall-mounted acoustic resonance shelf with black walnut shelves, copper tuning hoops, charcoal felt dampers, translucent cyan sound strips, opal echo seed beads, frame clamps, material ring, tiny text tab, and resonance proof label",
+      "width": 1024,
+      "height": 1536,
+      "createdAt": "2026-04-26 22:42:48",
+      "batch": "019dca31-bbf6-7f71-8cf2-905b68a08292",
+      "tags": [
+        "prompt-resonance-shelf",
+        "acoustics",
+        "seed-note",
+        "echo-shelf",
+        "damping-felt",
+        "rewrite-hoop",
+        "quiet-slot",
+        "tiny-text",
+        "frame-clamp",
+        "material-ring",
+        "resonance-proof",
+        "batch-019dca31"
+      ],
+      "prompt": "Use Case Acoustics: Prompt Resonance Shelf.\n\nMake one vertical 2:3 museum product photograph of a fictional acoustic resonance shelf: three staggered black walnut shelves hold nine suspended copper tuning hoops, tiny felt dampers, translucent zigzag sound strips, and a pearl-white opal echo seed with one turquoise notch. It should look like a sculptural wall instrument, not a chamber, not a snowglobe, not a basin, not a crate, not a ticket, not a darkroom bench, not a grid.\n\nThe use case: testing GPT Image 2 consistency through visible resonance paths. Physical labels should be short and readable: Seed Note, Echo Shelf, Damping Felt, Rewrite Hoop, Quiet Slot, Tiny Text, Frame Clamp, Material Ring, Resonance Proof. Show the opal echo seed repeated in three tiny brass clamps at different shelf heights, with zigzag sound strips threaded through hoops and felt dampers. No people, no hands, no logos, no real audio brand.\n\nStyle: premium tactile studio photograph, black walnut, brushed copper, charcoal felt, pearl ceramic bead, turquoise notch, translucent cyan sound strips, warm side light, shallow depth of field, crisp labels. Fictional, original, safe, unbranded, no public figures, no explicit content, no violence.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original fictional acoustic resonance-shelf prompt mechanism generated locally from existing-gallery gap analysis. No external prompt, article, image, artwork, visual style, brand, character, repository, source image, or case-study mechanic was used. This replaced an earlier acoustic chamber draft after public validation warned about similarity to the existing snowglobe chamber."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Original fictional no-people wall-mounted acoustic artifact with copper hoops, felt dampers, visible sound strips, and an invented opal echo seed only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dca31-bbf6-7f71-8cf2-905b68a08292/ig_0c64aa9edf3f4a060169ee23f3d0a881979ad63bd7e1270420.png"
+    },
+    {
       "title": "Derived Play: Baffle Tile Duet",
       "caption": "从回声室派生出的双人声学拼图：玩家交替放 Baffle Tile、走 Wave Token、套 Silence Sleeve、敲 Caption Ping、对齐 Crop Gate，再比较两侧 Listening Arc；只有青色和琥珀两条路径都抵达 Phase Proof，且 opal echo seed 在两侧仍完全一致，才得到 Duet Score。",
       "path": "assets/images/216-derived-play-baffle-tile-duet.png",
@@ -59,50 +103,6 @@
         "reviewNote": "Original fictional no-people tabletop acoustic matching puzzle with soft foam tiles, harmless wave tokens, and an invented opal echo seed only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dca31-bbf6-7f71-8cf2-905b68a08292/ig_0c64aa9edf3f4a060169ee22232a448197a90795733ecfeb55.png"
-    },
-    {
-      "title": "Use Case Acoustics: Prompt Echo Chamber",
-      "caption": "把 GPT Image 2 的主体保持、局部编辑、文字、遮挡和裁切压力做成虚构消声室：Seed Tone、Room Context、Reference Echo、Edit Baffle、Silence Mask、Caption Ping、Crop Gate、Texture Foam 和 Phase Proof 让同一个 opal echo seed 沿着声波反射路径保持一致。",
-      "path": "assets/images/217-use-case-acoustics-prompt-echo-chamber.png",
-      "alt": "Cutaway macro product photograph of a fictional miniature anechoic prompt echo chamber with charcoal acoustic foam, brass rails, cyan and amber wave ribbons, opal echo seed, reference echo window, edit baffle, silence mask, crop gate, caption ping bell, texture foam control, and phase proof ring",
-      "width": 1402,
-      "height": 1122,
-      "createdAt": "2026-04-26 22:33:09",
-      "batch": "019dca31-bbf6-7f71-8cf2-905b68a08292",
-      "tags": [
-        "prompt-echo-chamber",
-        "acoustics",
-        "seed-tone",
-        "room-context",
-        "reference-echo",
-        "edit-baffle",
-        "silence-mask",
-        "caption-ping",
-        "crop-gate",
-        "texture-foam",
-        "phase-proof",
-        "batch-019dca31"
-      ],
-      "prompt": "Create one polished public-gallery concept image titled \"Use Case Acoustics: Prompt Echo Chamber\".\n\nOutput format: a single 5:4 cutaway macro product photograph of a fictional miniature anechoic listening chamber, not a grid, not a contact sheet, not a dashboard, not a board game, not a transit concourse, not a bakery deck, not a snowglobe, not a water basin, not a darkroom, not tactile dots, not packaging, not a loom, not a proof press, not a music box.\n\nScene: a small matte charcoal chamber lined with soft triangular foam wedges, brass rails, translucent wave ribbons, tiny readable instrument labels, and one invented subject called the \"opal echo seed\": a pearl-white crescent bead with two copper pins and one turquoise notch. No people, no hands, no logos, no real studio brand, no real acoustic product.\n\nMechanism: GPT Image 2 prompt control becomes an acoustic response test. Short readable labels on physical tabs: Seed Tone, Room Context, Reference Echo, Edit Baffle, Silence Mask, Caption Ping, Crop Gate, Texture Foam, Phase Proof. Show colored wave ribbons leaving the opal echo seed, bouncing off labeled foam wedges, passing through a rectangular crop gate, disappearing behind a silence mask, then reappearing unchanged inside a final brass proof ring. The same opal echo seed must be recognizable in the source alcove, reference echo window, and phase proof ring.\n\nVisual language: premium tactile studio photography, charcoal acoustic foam, pearl bead, copper pins, turquoise notch, translucent amber and cyan wave ribbons, crisp tiny labels, shallow depth of field, precise reflections, playful museum-quality prototype. Entire concept is fictional, original, unbranded, harmless, non-political, non-adult, non-graphic, and rights-safe. Avoid public figures, real brands, celebrity likenesses, copyrighted characters, weapons, gore, dangerous instructions, and living-artist style imitation.",
-      "provenance": {
-        "status": "original_generated",
-        "origin": "local_codex_revised_prompt",
-        "sourceNote": "Original fictional acoustic echo-chamber prompt mechanism generated locally from existing-gallery gap analysis. No external prompt, article, image, artwork, visual style, brand, character, repository, source image, or case-study mechanic was used."
-      },
-      "promptSources": [],
-      "contentSafety": {
-        "status": "screened",
-        "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
-        "reviewNote": "Original fictional no-people acoustic test artifact with soft foam wedges, visible wave ribbons, and an invented opal echo seed only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
-      },
-      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dca31-bbf6-7f71-8cf2-905b68a08292/ig_0c64aa9edf3f4a060169ee21c687688197b083104498be0374.png"
     },
     {
       "title": "Derived Play: Dew Trace Curling",

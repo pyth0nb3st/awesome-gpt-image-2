@@ -3,15 +3,15 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/218-use-case-acoustics-prompt-resonance-shelf.png": {
+      "path": "assets/thumbs/218-use-case-acoustics-prompt-resonance-shelf.jpg",
+      "width": 768,
+      "height": 1152
+    },
     "assets/images/216-derived-play-baffle-tile-duet.png": {
       "path": "assets/thumbs/216-derived-play-baffle-tile-duet.jpg",
       "width": 768,
       "height": 438
-    },
-    "assets/images/217-use-case-acoustics-prompt-echo-chamber.png": {
-      "path": "assets/thumbs/217-use-case-acoustics-prompt-echo-chamber.jpg",
-      "width": 768,
-      "height": 614
     },
     "assets/images/214-derived-play-dew-trace-curling.png": {
       "path": "assets/thumbs/214-derived-play-dew-trace-curling.jpg",
