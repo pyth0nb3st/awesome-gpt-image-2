@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/223-derived-play-grit-spiral-auction.png": {
+      "path": "assets/thumbs/223-derived-play-grit-spiral-auction.jpg",
+      "width": 768,
+      "height": 1024
+    },
+    "assets/images/224-use-case-lapidary-prompt-tumbler.png": {
+      "path": "assets/thumbs/224-use-case-lapidary-prompt-tumbler.jpg",
+      "width": 768,
+      "height": 460
+    },
     "assets/images/221-derived-play-blotter-chorus.png": {
       "path": "assets/thumbs/221-derived-play-blotter-chorus.jpg",
       "width": 768,

@@ -18,6 +18,93 @@
   },
   "images": [
     {
+      "title": "Derived Play: Grit Spiral Auction",
+      "caption": "从滚石抛光滚筒派生出的风险竞价螺旋筛玩法：玩家暗投 Grit Pouch、沿 Spiral Sieve 移动 Crescent Token、花 Wax Chip 保护标记、旋转 Loupe Gate、关闭 Quiet Shutter、写 Caption Cloth；只有同一枚 turquoise crescent seed 带着 ivory dots 和 graphite notch 到达 Proof Trough 才结算 Auction Score。",
+      "path": "assets/images/223-derived-play-grit-spiral-auction.png",
+      "alt": "Vertical overhead-oblique product photograph of a fictional grit spiral auction tabletop game with oval slate mat, brass spiral sieve track, turquoise crescent pebble tokens, felt grit pouches, amber wax chips, rotating loupe gate, quiet-sieve shutters, caption cloth banner, and proof trough",
+      "width": 1086,
+      "height": 1448,
+      "createdAt": "2026-04-26 23:13:56",
+      "batch": "019dca56-5b54-76d2-8319-0121c627b2b6",
+      "tags": [
+        "grit-spiral-auction",
+        "lapidary-game",
+        "grit-bid",
+        "spiral-sieve",
+        "wax-guard",
+        "loupe-gate",
+        "quiet-shutter",
+        "caption-cloth",
+        "proof-trough",
+        "auction-score",
+        "batch-019dca56"
+      ],
+      "prompt": "Create one polished public-gallery image titled \"Derived Play: Grit Spiral Auction\".\n\nIt is derived from Prompt Tumbler but becomes a different playable object: a risk-bidding spiral sieve game made from loose pebble tokens, cloth grit pouches, and rotating sieve arcs, not the same tumbler machine.\n\nOutput format: one vertical 3:4 overhead-oblique tabletop product photograph of an oval slate play mat with a raised brass spiral sieve track, eight turquoise crescent-seed pebble tokens, five felt grit pouches, two amber wax chips, a rotating loupe gate, three quiet-sieve shutters, a caption cloth banner, and a small score trough. No people, no hands, no logos, no real mineral brands, no real industrial procedure.\n\nPlay rules shown through objects: players secretly bid one Grit Pouch, move a Crescent Token through the Spiral Sieve, spend one Wax Chip to protect the marker, rotate the Loupe Gate to change the view, close a Quiet Shutter to remove decoys, write one two-word Caption Cloth, and score only if the same turquoise crescent seed with two ivory dots and one graphite notch reaches the Proof Trough without losing its mark.\n\nShort visible labels: Grit Bid, Spiral Sieve, Wax Guard, Loupe Gate, Quiet Shutter, Caption Cloth, Proof Trough, Auction Score. Visual language: premium tactile tabletop prototype, oval slate mat, brass spiral, amber wax chips, turquoise crescent seed, ivory dots, graphite notch, soft felt pouches, crisp readable labels, refined and playful. Fictional, original, unbranded, harmless, rights-safe, non-political, non-adult, and non-graphic. Avoid public figures, real brands, celebrity likenesses, copyrighted characters, dangerous instructions, weapons, gore, and living-artist style imitation.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original risk-bidding spiral sieve game derived locally from the Prompt Tumbler concept. No external prompt, image, artwork, visual style, brand, character, repository, source image, article, or case-study mechanic was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Original fictional no-people tabletop lapidary auction game with loose pebble tokens, cloth grit pouches, wax chips, shutters, loupe gate, proof trough, and an invented turquoise crescent-seed marker only; explicitly avoids real mineral brands and real industrial procedures, and was screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dca56-5b54-76d2-8319-0121c627b2b6/ig_0a428ebde7e1ec6f0169ee2b4911488197bb8bddd6410f433c.png"
+    },
+    {
+      "title": "Use Case Lapidary: Prompt Tumbler",
+      "caption": "把 GPT Image 2 的迭代细化、一致性、局部改写、短文字和画幅控制做成虚构滚石抛光滚筒：Core Stone、Context Grit、Memory Pebble、Edit Barrel、Quiet Sieve、Caption Cloth、Aspect Rail、Finish Wax 和 Loupe Proof 检查同一枚 turquoise crescent seed 在砂包、筛屉、布签和放大镜窗口中是否保持一致。",
+      "path": "assets/images/224-use-case-lapidary-prompt-tumbler.png",
+      "alt": "Horizontal cutaway macro product photograph of a fictional tabletop stone-polishing tumbler with clear barrel, amber liner, felt grit sachets, sieve drawer, timing rail, polish cloth tab, inspection loupe, and turquoise crescent seed marker",
+      "width": 1619,
+      "height": 971,
+      "createdAt": "2026-04-26 23:12:10",
+      "batch": "019dca56-5b54-76d2-8319-0121c627b2b6",
+      "tags": [
+        "prompt-tumbler",
+        "lapidary",
+        "core-stone",
+        "context-grit",
+        "memory-pebble",
+        "edit-barrel",
+        "quiet-sieve",
+        "caption-cloth",
+        "aspect-rail",
+        "finish-wax",
+        "loupe-proof",
+        "batch-019dca56"
+      ],
+      "prompt": "Create one polished public-gallery concept image titled \"Use Case Lapidary: Prompt Tumbler\".\n\nOutput format: one horizontal 5:3 cutaway macro product photograph of a fictional tabletop stone-polishing tumbler, photographed as a single object on a matte graphite bench. It is not a grid, not a contact sheet, not a research board, not a tray organ, not a chamber, not a snowglobe, not a water basin, not a crate, not a cabinet, not a loom, not a proof press, not a patchbay, not a stage, not a fossil drawer, not a toy latch.\n\nScene: a clear rounded tumbler barrel with a removable amber rubber liner, five invented pebble samples, felt grit sachets, a tiny sieve drawer, a curved timing rail, a polish cloth tab, and one inspection loupe. The invented subject marker is a small turquoise pebble shaped like a crescent seed with two ivory dots and one graphite notch, visible before tumbling, in the sieve drawer, on the polish cloth, and inside the final loupe window. No people, no hands, no logos, no real mineral brands, no real industrial procedure.\n\nUse case mechanism: GPT Image 2 prompt control becomes harmless iterative polishing. Short readable labels on physical tags: Core Stone, Context Grit, Memory Pebble, Edit Barrel, Quiet Sieve, Caption Cloth, Aspect Rail, Finish Wax, Loupe Proof. Show how the same crescent-seed marker survives different grit bags, a barrel edit window, a sieve that removes extra chips, a cloth tab with short text, a rail that changes framing, and the final loupe proof.\n\nVisual language: premium tactile studio photography, clear acrylic barrel, amber liner, graphite bench, turquoise crescent seed, ivory dots, soft felt sachets, brass screws, crisp tiny labels, realistic materials, shallow depth of field, refined and playful. Entire concept is fictional, original, unbranded, harmless, rights-safe, non-political, non-adult, and non-graphic. Avoid public figures, real brands, celebrity likenesses, copyrighted characters, dangerous instructions, weapons, gore, and living-artist style imitation.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original fictional lapidary tumbler prompt mechanism generated locally from existing-gallery gap analysis. Official OpenAI pages were checked only for high-level capability awareness; no external prompt, article, image, artwork, visual style, brand, character, repository, source image, or case-study mechanic was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Original fictional no-people tabletop stone-polishing artifact with clear barrel, felt grit sachets, sieve drawer, cloth tab, inspection loupe, and an invented turquoise crescent-seed marker only; explicitly avoids real mineral brands and real industrial procedures, and was screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dca56-5b54-76d2-8319-0121c627b2b6/ig_0a428ebde7e1ec6f0169ee2ae70aac8197ba02380e12ece847.png"
+    },
+    {
       "title": "Derived Play: Blotter Chorus",
       "caption": "从香氛试纸风琴派生的合作声部路径玩法：玩家选 Reed Strip、放 Memory Drop、关 Blank Nose、翻 Fold Vent、夹 Name Tab；只有三条气味路径都指向 Finish Bell 里的同一枚银色银杏香标，才得到 Chorus Score。",
       "path": "assets/images/221-derived-play-blotter-chorus.png",

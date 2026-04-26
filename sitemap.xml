@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/223-derived-play-grit-spiral-auction.png</image:loc>
+      <image:title>Derived Play: Grit Spiral Auction</image:title>
+      <image:caption>Create one polished public-gallery image titled &quot;Derived Play: Grit Spiral Auction&quot;. It is derived from Prompt Tumbler but becomes a different playable object: a risk-bidding spiral sieve game made from loose pebble tokens, cloth grit pouc...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/224-use-case-lapidary-prompt-tumbler.png</image:loc>
+      <image:title>Use Case Lapidary: Prompt Tumbler</image:title>
+      <image:caption>Create one polished public-gallery concept image titled &quot;Use Case Lapidary: Prompt Tumbler&quot;. Output format: one horizontal 5:3 cutaway macro product photograph of a fictional tabletop stone-polishing tumbler, photographed as a single objec...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/221-derived-play-blotter-chorus.png</image:loc>
       <image:title>Derived Play: Blotter Chorus</image:title>
       <image:caption>Create one polished public-gallery image titled &quot;Derived Play: Blotter Chorus&quot;. It is derived from Prompt Blotter Organ but becomes a different playable object: a cooperative scent-path chorus game made from loose paper reed strips and cer...</image:caption>
@@ -1067,6 +1077,28 @@
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/223-derived-play-grit-spiral-auction/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/223-derived-play-grit-spiral-auction.png</image:loc>
+      <image:title>Derived Play: Grit Spiral Auction</image:title>
+      <image:caption>Create one polished public-gallery image titled &quot;Derived Play: Grit Spiral Auction&quot;. It is derived from Prompt Tumbler but becomes a different playable object: a risk-bidding spiral sieve game made from loose pebble tokens, cloth grit pouc...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/224-use-case-lapidary-prompt-tumbler/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/224-use-case-lapidary-prompt-tumbler.png</image:loc>
+      <image:title>Use Case Lapidary: Prompt Tumbler</image:title>
+      <image:caption>Create one polished public-gallery concept image titled &quot;Use Case Lapidary: Prompt Tumbler&quot;. Output format: one horizontal 5:3 cutaway macro product photograph of a fictional tabletop stone-polishing tumbler, photographed as a single objec...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/221-derived-play-blotter-chorus/</loc>
@@ -3530,6 +3562,12 @@
   </url>
   <url>
     <loc>https://gptimg2.best/tags/burn-block/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/caption-cloth/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
