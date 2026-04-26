@@ -18,6 +18,188 @@
   },
   "images": [
     {
+      "title": "Derived Play: Motion Cue Karaoke",
+      "caption": "从 Motion Handoff Deck 派生出的竖屏提示游戏：玩家像唱卡拉 OK 一样在 Camera、Subject、World 三条轨道上接力加入 pan right、drift slowly、lantern ripples 等短 motion cue，用 playhead、Match 8/10 和 Conflict fixed 检查静帧到动态提示的连续性。",
+      "path": "assets/images/227-derived-play-motion-cue-karaoke.png",
+      "alt": "Vertical mobile challenge interface titled Motion Cue Karaoke with Moonlit Ferry preview, camera subject world cue lanes, timeline playhead, pan right, drift slowly, lantern ripples cue cards, match score, conflict fixed, and next cue button",
+      "width": 941,
+      "height": 1672,
+      "createdAt": "2026-04-27 01:32:19",
+      "batch": "019dcad3-d099-73b2-a491-e02c68f738fb",
+      "tags": [
+        "motion-cue-karaoke",
+        "derived-play",
+        "mobile-challenge",
+        "camera-lane",
+        "subject-lane",
+        "world-lane",
+        "timed-cues",
+        "continuity-score",
+        "conflict-repair",
+        "batch-019dcad3"
+      ],
+      "prompt": "Create one polished public-gallery concept image titled exactly \"Derived Play: Motion Cue Karaoke\".\n\nOutput format: one vertical 9:16 mobile challenge screen / playful workflow poster, not a physical board game, not a tabletop photograph, not a macro object, not a contact sheet. It should look like a usable fictional creative challenge interface where players sing/call out motion cues over a generated still.\n\nScene: a fictional mobile app screen for a group prompt game. The top shows an invented still frame named \"Moonlit Ferry\" with a tiny ferry silhouette on an imaginary lagoon. Below it, three stacked cue lanes act like karaoke lyric tracks: \"Camera\", \"Subject\", \"World\". A moving playhead crosses timestamps and players fill short cue cards to keep the scene consistent.\n\nExact short readable text to render: \"Derived Play: Motion Cue Karaoke\", \"Moonlit Ferry\", \"Camera\", \"Subject\", \"World\", \"pan right\", \"drift slowly\", \"lantern ripples\", \"00:01\", \"00:03\", \"00:05\", \"Match 8/10\", \"Conflict fixed\", \"Next cue\". Keep text short and legible; do not add long paragraphs or random text.\n\nMechanism: derived playful rules from the Motion Handoff Deck. Players take turns adding motion cues in the correct lane; the visual rewards consistent timing, visible camera direction, subject continuity, and conflict repair. Show a score meter, a small conflict chip, colored cue blocks, and a final preview thumbnail. Make it clearly about prompt mechanics, not about real video generation output.\n\nVisual style: vibrant but restrained mobile UI, crisp accessible typography, dark graphite interface, teal lagoon preview, amber cue highlights, coral accent for conflict chip, soft glow only where UI needs emphasis, polished product prototype quality. Use icons for playhead, camera, ferry, wave, and checkmark. No purple-dominant palette, no brand logos, no watermark.\n\nSafety and rights: all fictional, no real brands or trademarks, no public figures, no politics, no dangerous instructions, no adult or explicit content, no gore or violence, no copyrighted characters, no living-artist style imitation, no source image reuse.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt_with_external_pattern_research",
+        "sourceNote": "Derived locally from the Motion Handoff Deck after fresh external pattern research. External sources informed abstract patterns around gallery metadata, prompt iteration, camera/subject/world motion lanes, product workflow surfaces, and compositional evaluation chips only; no external prompt text, image, source image, brand, character, artwork, or protected style was reused."
+      },
+      "promptSources": [
+        {
+          "title": "AI Image Prompt Gallery - Browse AI Art Prompts with Examples",
+          "url": "https://www.spaceprompts.com/gallery",
+          "authorOrPublisher": "SpacePrompts",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "trend_scan / gallery_metadata_pattern"
+        },
+        {
+          "title": "AI Prompts Gallery",
+          "url": "https://promptimage.org/prompt",
+          "authorOrPublisher": "Prompt Image",
+          "license": "site says examples are free to copy, but treated as unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "visual_format_scan / category_taxonomy"
+        },
+        {
+          "title": "Writing effective text prompts",
+          "url": "https://helpx.adobe.com/firefly/web/generate-images-with-text-to-image/generate-images-using-text-prompts/writing-effective-text-prompts.html",
+          "authorOrPublisher": "Adobe",
+          "license": "Adobe Help Center terms; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "prompt_pattern_inspiration / failure_mode_scan"
+        },
+        {
+          "title": "Image to Video Prompting Guide",
+          "url": "https://help.runwayml.com/hc/en-us/articles/48324313115155-Image-to-Video-Prompting-Guide",
+          "authorOrPublisher": "Runway",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "workflow_inspiration / motion_prompt_structure"
+        },
+        {
+          "title": "Prompt2Infographic | Case Study",
+          "url": "https://www.neovise-tech.com/case-study/prompt2infographic",
+          "authorOrPublisher": "Neovise-Tech",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "product_workflow_inspiration / output_shape_reference"
+        },
+        {
+          "title": "T2I-CompBench: A Comprehensive Benchmark for Open-world Compositional Text-to-image Generation",
+          "url": "https://huggingface.co/papers/2307.06350",
+          "authorOrPublisher": "Hugging Face Papers / Kaiyi Huang, Kaiyue Sun, Enze Xie, Zhenguo Li, Xihui Liu",
+          "license": "paper metadata page; dataset/paper terms vary; no prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "benchmark_dataset / evaluation_pattern"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-27",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Fictional no-people mobile prompt game for invented Moonlit Ferry scene only, using camera/subject/world cue lanes and continuity scoring; screened to avoid political persuasion, public political figures, parties/elections, real brands/trademarks, real places, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dcad3-d099-73b2-a491-e02c68f738fb/ig_01e2c7657f3e762f0169ee4be5f3e88196a2174c5fdc3930ea.png"
+    },
+    {
+      "title": "Use Case: Motion Handoff Deck",
+      "caption": "把 GPT Image 2 的静帧生成、构图保持、时间码、镜头运动、动作提示和冲突检查做成一个虚构视频预演交付界面：First Frame、Motion Path、Camera Move、Timing、Last Frame 串成 Moonlit Ferry 的连续 motion handoff，让视频团队能看到 cue 是否一致。",
+      "path": "assets/images/228-use-case-motion-handoff-deck.png",
+      "alt": "Ultra-wide cinematic workflow UI titled Motion Handoff Deck with Moonlit Ferry first frame, motion path, camera move, timing ruler, last frame, pass chip, cue conflict fixed chip, and no brands no people note",
+      "width": 1915,
+      "height": 821,
+      "createdAt": "2026-04-27 01:31:19",
+      "batch": "019dcad3-d099-73b2-a491-e02c68f738fb",
+      "tags": [
+        "motion-handoff-deck",
+        "video-previsualization",
+        "storyboard-workflow",
+        "motion-path",
+        "camera-move",
+        "timing-ruler",
+        "cue-conflict",
+        "first-frame",
+        "last-frame",
+        "batch-019dcad3"
+      ],
+      "prompt": "Create one polished public-gallery concept image titled exactly \"Use Case: Motion Handoff Deck\".\n\nOutput format: one ultra-wide 21:9 cinematic workflow strip, a single continuous previsualization interface, not a contact sheet, not a grid poster, not a physical product photograph, not a tabletop game, not a macro object.\n\nScene: a fictional creative studio screen for GPT Image-style generation, showing how a still-image idea becomes a motion handoff for a video team. The project is fictional and called \"Moonlit Ferry\". The main canvas is a continuous horizontal timeline with five connected zones: \"First Frame\", \"Motion Path\", \"Camera Move\", \"Timing\", \"Last Frame\". Use flowing arrows, translucent motion trails, timestamp markers, and small pass/fail evaluation chips.\n\nExact short readable text to render: \"Use Case: Motion Handoff Deck\", \"Moonlit Ferry\", \"First Frame\", \"Motion Path\", \"Camera Move\", \"Timing\", \"Last Frame\", \"00:01\", \"00:03\", \"00:05\", \"PASS\", \"Cue conflict: fixed\", \"No brands, no people\". Keep text short and legible; do not add long paragraphs or random text.\n\nVisual content inside the deck: an invented quiet night ferry silhouette crossing an imaginary lagoon, abstract lantern reflections, a simple crescent moon icon, and a final frame thumbnail with the ferry slightly farther right. No real city, no real logo, no famous location. The deck should show a first-frame image, motion arrows over water ripples, a camera-pan diagram, a timing ruler, and a final-frame preview all connected as one workflow.\n\nMechanism: demonstrate that GPT Image can be used to make a static storyboard handoff: separate composition from motion instructions, preserve the same fictional subject across frames, expose camera/action/timing fields, catch contradictory cues, and create a clean artifact for a video prompt or animatic review.\n\nStyle: premium product-design interface mixed with cinematic storyboard art, crisp vector-like UI overlays on soft illustrated thumbnails, off-white and graphite UI, deep teal water, amber lantern accents, high contrast, exact alignment, sophisticated but not corporate-generic. No purple-dominant palette, no decorative orbs, no watermark.\n\nSafety and rights: fictional project and fictional place only, no real brands or trademarks, no public figures, no politics, no dangerous instructions, no adult or explicit content, no gore or violence, no copyrighted characters, no living-artist style imitation, no source image reuse.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt_with_external_pattern_research",
+        "sourceNote": "Prompt concept generated locally after a fresh source sweep. External sources informed only abstract patterns: community gallery metadata cards, direct prompt iteration, image-to-video motion/camera cue separation, prompt-to-infographic workflow surfaces, and compositional evaluation chips. No external prompt text, image, source image, brand, character, artwork, or protected style was reused."
+      },
+      "promptSources": [
+        {
+          "title": "AI Image Prompt Gallery - Browse AI Art Prompts with Examples",
+          "url": "https://www.spaceprompts.com/gallery",
+          "authorOrPublisher": "SpacePrompts",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "trend_scan / gallery_metadata_pattern"
+        },
+        {
+          "title": "AI Prompts Gallery",
+          "url": "https://promptimage.org/prompt",
+          "authorOrPublisher": "Prompt Image",
+          "license": "site says examples are free to copy, but treated as unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "visual_format_scan / category_taxonomy"
+        },
+        {
+          "title": "Writing effective text prompts",
+          "url": "https://helpx.adobe.com/firefly/web/generate-images-with-text-to-image/generate-images-using-text-prompts/writing-effective-text-prompts.html",
+          "authorOrPublisher": "Adobe",
+          "license": "Adobe Help Center terms; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "prompt_pattern_inspiration / failure_mode_scan"
+        },
+        {
+          "title": "Image to Video Prompting Guide",
+          "url": "https://help.runwayml.com/hc/en-us/articles/48324313115155-Image-to-Video-Prompting-Guide",
+          "authorOrPublisher": "Runway",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "workflow_inspiration / motion_prompt_structure"
+        },
+        {
+          "title": "Prompt2Infographic | Case Study",
+          "url": "https://www.neovise-tech.com/case-study/prompt2infographic",
+          "authorOrPublisher": "Neovise-Tech",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "product_workflow_inspiration / output_shape_reference"
+        },
+        {
+          "title": "T2I-CompBench: A Comprehensive Benchmark for Open-world Compositional Text-to-image Generation",
+          "url": "https://huggingface.co/papers/2307.06350",
+          "authorOrPublisher": "Hugging Face Papers / Kaiyi Huang, Kaiyue Sun, Enze Xie, Zhenguo Li, Xihui Liu",
+          "license": "paper metadata page; dataset/paper terms vary; no prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "benchmark_dataset / evaluation_pattern"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-27",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Fictional no-people motion handoff UI for invented Moonlit Ferry project and imaginary lagoon only; screened to avoid political persuasion, public political figures, parties/elections, real brands/trademarks, real places, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dcad3-d099-73b2-a491-e02c68f738fb/ig_01e2c7657f3e762f0169ee4b6c0b088196a0a41753d1827e6e.png"
+    },
+    {
       "title": "Derived Play: Label Swap Ladder",
       "caption": "从标签修复控制台派生出的课堂玩法：玩家沿 Label Swap Ladder 完成 Source、Spell、Translate、Contrast、Alt Text 五个检查台阶，交换短词卡、选择 EN/ES/ZH 标签、放置对比度 token，只有 River Clock No. 3 的名称和蓝绿色图标保持一致才得到 PASS 与 8/8 分。",
       "path": "assets/images/225-derived-play-label-swap-ladder.png",

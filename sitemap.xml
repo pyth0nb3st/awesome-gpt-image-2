@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/227-derived-play-motion-cue-karaoke.png</image:loc>
+      <image:title>Derived Play: Motion Cue Karaoke</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Derived Play: Motion Cue Karaoke&quot;. Output format: one vertical 9:16 mobile challenge screen / playful workflow poster, not a physical board game, not a tabletop photograph, n...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/228-use-case-motion-handoff-deck.png</image:loc>
+      <image:title>Use Case: Motion Handoff Deck</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Use Case: Motion Handoff Deck&quot;. Output format: one ultra-wide 21:9 cinematic workflow strip, a single continuous previsualization interface, not a contact sheet, not a grid p...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/225-derived-play-label-swap-ladder.png</image:loc>
       <image:title>Derived Play: Label Swap Ladder</image:title>
       <image:caption>Create one polished public-gallery image titled exactly &quot;Derived Play: Label Swap Ladder&quot;. This is derived from the Label Repair Console, but it becomes a different classroom/education gameplay artifact, not a software dashboard and not a...</image:caption>
@@ -1087,6 +1097,28 @@
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/227-derived-play-motion-cue-karaoke/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/227-derived-play-motion-cue-karaoke.png</image:loc>
+      <image:title>Derived Play: Motion Cue Karaoke</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Derived Play: Motion Cue Karaoke&quot;. Output format: one vertical 9:16 mobile challenge screen / playful workflow poster, not a physical board game, not a tabletop photograph, n...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/228-use-case-motion-handoff-deck/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/228-use-case-motion-handoff-deck.png</image:loc>
+      <image:title>Use Case: Motion Handoff Deck</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Use Case: Motion Handoff Deck&quot;. Output format: one ultra-wide 21:9 cinematic workflow strip, a single continuous previsualization interface, not a contact sheet, not a grid p...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/225-derived-play-label-swap-ladder/</loc>
@@ -3618,6 +3650,12 @@
   </url>
   <url>
     <loc>https://gptimg2.best/tags/crumb-mask/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/derived-play/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
