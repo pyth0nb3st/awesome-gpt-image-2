@@ -3,6 +3,51 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/225-derived-play-label-swap-ladder.png": {
+      "path": "assets/thumbs/225-derived-play-label-swap-ladder.jpg",
+      "width": 768,
+      "height": 1200
+    },
+    "assets/images/226-use-case-label-repair-console.png": {
+      "path": "assets/thumbs/226-use-case-label-repair-console.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/227-use-case-infographic-diagram.png": {
+      "path": "assets/thumbs/227-use-case-infographic-diagram.jpg",
+      "width": 768,
+      "height": 1152
+    },
+    "assets/images/228-use-case-infographic-diagram.png": {
+      "path": "assets/thumbs/228-use-case-infographic-diagram.jpg",
+      "width": 768,
+      "height": 1152
+    },
+    "assets/images/229-use-case-infographic-diagram.png": {
+      "path": "assets/thumbs/229-use-case-infographic-diagram.jpg",
+      "width": 768,
+      "height": 1152
+    },
+    "assets/images/230-use-case-infographic-diagram.png": {
+      "path": "assets/thumbs/230-use-case-infographic-diagram.jpg",
+      "width": 768,
+      "height": 1152
+    },
+    "assets/images/231-use-case-infographic-diagram.png": {
+      "path": "assets/thumbs/231-use-case-infographic-diagram.jpg",
+      "width": 768,
+      "height": 1214
+    },
+    "assets/images/232-use-case-infographic-diagram.png": {
+      "path": "assets/thumbs/232-use-case-infographic-diagram.jpg",
+      "width": 768,
+      "height": 1364
+    },
+    "assets/images/233-use-case-infographic-diagram.png": {
+      "path": "assets/thumbs/233-use-case-infographic-diagram.jpg",
+      "width": 768,
+      "height": 1618
+    },
     "assets/images/223-derived-play-grit-spiral-auction.png": {
       "path": "assets/thumbs/223-derived-play-grit-spiral-auction.jpg",
       "width": 768,

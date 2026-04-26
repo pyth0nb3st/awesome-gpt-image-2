@@ -6,6 +6,51 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/225-derived-play-label-swap-ladder.png</image:loc>
+      <image:title>Derived Play: Label Swap Ladder</image:title>
+      <image:caption>Create one polished public-gallery image titled exactly &quot;Derived Play: Label Swap Ladder&quot;. This is derived from the Label Repair Console, but it becomes a different classroom/education gameplay artifact, not a software dashboard and not a...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/226-use-case-label-repair-console.png</image:loc>
+      <image:title>Use Case: Label Repair Console</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Use Case: Label Repair Console&quot;. Output format: one 16:9 high-resolution desktop UI/workflow mockup, not a physical product photograph, not a macro object, not a tray, not a...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/227-use-case-infographic-diagram.png</image:loc>
+      <image:title>Use case: infographic-diagram</image:title>
+      <image:caption>Use case: infographic-diagram Asset type: Card 4 of 4, X/Twitter carousel infographic, generated with GPT Image 2 style Primary request: Generate a polished Chinese infographic card with takeaways and a ready-to-post short Chinese tweet. C...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/228-use-case-infographic-diagram.png</image:loc>
+      <image:title>Use case: infographic-diagram</image:title>
+      <image:caption>Use case: infographic-diagram Asset type: Card 3 of 4, X/Twitter carousel infographic, generated with GPT Image 2 style Primary request: Generate a polished Chinese infographic card ranking today's notable GitHub Trending projects with cle...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/229-use-case-infographic-diagram.png</image:loc>
+      <image:title>Use case: infographic-diagram</image:title>
+      <image:caption>Use case: infographic-diagram Asset type: Card 2 of 4, X/Twitter carousel infographic, generated with GPT Image 2 style Primary request: Generate a polished Chinese infographic card about the AI agent ecosystem signals in today's GitHub Tr...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/230-use-case-infographic-diagram.png</image:loc>
+      <image:title>Use case: infographic-diagram</image:title>
+      <image:caption>Use case: infographic-diagram Asset type: Card 1 of 4, X/Twitter carousel infographic, generated with GPT Image 2 style Primary request: Generate a polished Chinese infographic card about GitHub Trending. Make it visually rich and readable...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/231-use-case-infographic-diagram.png</image:loc>
+      <image:title>Use case: infographic-diagram</image:title>
+      <image:caption>Use case: infographic-diagram Asset type: one rich 4:5 social media infographic for X/Twitter Primary request: Generate a polished Chinese infographic about today's GitHub Trending, using GPT Image 2 style output. The infographic must be v...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/232-use-case-infographic-diagram.png</image:loc>
+      <image:title>Use case: infographic-diagram</image:title>
+      <image:caption>Use case: infographic-diagram Asset type: X/Twitter post visual, vertical smartphone sticky-note infographic Primary request: Create a second version of the GitHub Trending visualization with strong social-media copy included, suitable as...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/233-use-case-infographic-diagram.png</image:loc>
+      <image:title>Use case: infographic-diagram</image:title>
+      <image:caption>Use case: infographic-diagram Asset type: vertical smartphone wallpaper / shareable visual summary Primary request: Create a high-quality Chinese infographic visualizing today's GitHub Trending insights in the style of sticky notes on a mo...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/223-derived-play-grit-spiral-auction.png</image:loc>
       <image:title>Derived Play: Grit Spiral Auction</image:title>
       <image:caption>Create one polished public-gallery image titled &quot;Derived Play: Grit Spiral Auction&quot;. It is derived from Prompt Tumbler but becomes a different playable object: a risk-bidding spiral sieve game made from loose pebble tokens, cloth grit pouc...</image:caption>
@@ -1077,6 +1122,105 @@
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/225-derived-play-label-swap-ladder/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/225-derived-play-label-swap-ladder.png</image:loc>
+      <image:title>Derived Play: Label Swap Ladder</image:title>
+      <image:caption>Create one polished public-gallery image titled exactly &quot;Derived Play: Label Swap Ladder&quot;. This is derived from the Label Repair Console, but it becomes a different classroom/education gameplay artifact, not a software dashboard and not a...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/226-use-case-label-repair-console/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/226-use-case-label-repair-console.png</image:loc>
+      <image:title>Use Case: Label Repair Console</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Use Case: Label Repair Console&quot;. Output format: one 16:9 high-resolution desktop UI/workflow mockup, not a physical product photograph, not a macro object, not a tray, not a...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/227-use-case-infographic-diagram/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/227-use-case-infographic-diagram.png</image:loc>
+      <image:title>Use case: infographic-diagram</image:title>
+      <image:caption>Use case: infographic-diagram Asset type: Card 4 of 4, X/Twitter carousel infographic, generated with GPT Image 2 style Primary request: Generate a polished Chinese infographic card with takeaways and a ready-to-post short Chinese tweet. C...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/228-use-case-infographic-diagram/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/228-use-case-infographic-diagram.png</image:loc>
+      <image:title>Use case: infographic-diagram</image:title>
+      <image:caption>Use case: infographic-diagram Asset type: Card 3 of 4, X/Twitter carousel infographic, generated with GPT Image 2 style Primary request: Generate a polished Chinese infographic card ranking today's notable GitHub Trending projects with cle...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/229-use-case-infographic-diagram/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/229-use-case-infographic-diagram.png</image:loc>
+      <image:title>Use case: infographic-diagram</image:title>
+      <image:caption>Use case: infographic-diagram Asset type: Card 2 of 4, X/Twitter carousel infographic, generated with GPT Image 2 style Primary request: Generate a polished Chinese infographic card about the AI agent ecosystem signals in today's GitHub Tr...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/230-use-case-infographic-diagram/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/230-use-case-infographic-diagram.png</image:loc>
+      <image:title>Use case: infographic-diagram</image:title>
+      <image:caption>Use case: infographic-diagram Asset type: Card 1 of 4, X/Twitter carousel infographic, generated with GPT Image 2 style Primary request: Generate a polished Chinese infographic card about GitHub Trending. Make it visually rich and readable...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/231-use-case-infographic-diagram/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/231-use-case-infographic-diagram.png</image:loc>
+      <image:title>Use case: infographic-diagram</image:title>
+      <image:caption>Use case: infographic-diagram Asset type: one rich 4:5 social media infographic for X/Twitter Primary request: Generate a polished Chinese infographic about today's GitHub Trending, using GPT Image 2 style output. The infographic must be v...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/232-use-case-infographic-diagram/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/232-use-case-infographic-diagram.png</image:loc>
+      <image:title>Use case: infographic-diagram</image:title>
+      <image:caption>Use case: infographic-diagram Asset type: X/Twitter post visual, vertical smartphone sticky-note infographic Primary request: Create a second version of the GitHub Trending visualization with strong social-media copy included, suitable as...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/233-use-case-infographic-diagram/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/233-use-case-infographic-diagram.png</image:loc>
+      <image:title>Use case: infographic-diagram</image:title>
+      <image:caption>Use case: infographic-diagram Asset type: vertical smartphone wallpaper / shareable visual summary Primary request: Create a high-quality Chinese infographic visualizing today's GitHub Trending insights in the style of sticky notes on a mo...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/223-derived-play-grit-spiral-auction/</loc>
@@ -3411,13 +3555,13 @@
     </image:image>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/product-mockup/</loc>
+    <loc>https://gptimg2.best/tags/typography/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/typography/</loc>
+    <loc>https://gptimg2.best/tags/product-mockup/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3441,25 +3585,25 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/lighting-weather/</loc>
-    <lastmod>2026-04-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://gptimg2.best/tags/infographic/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/photoreal/</loc>
+    <loc>https://gptimg2.best/tags/lighting-weather/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/worldbuilding/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/photoreal/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3507,6 +3651,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://gptimg2.best/tags/infographic-diagram/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://gptimg2.best/tags/illustration-story/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -3514,12 +3664,6 @@
   </url>
   <url>
     <loc>https://gptimg2.best/tags/ads-marketing/</loc>
-    <lastmod>2026-04-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gptimg2.best/tags/infographic-diagram/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3621,6 +3765,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://gptimg2.best/tags/museum-education/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://gptimg2.best/tags/name-tab/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -3646,6 +3796,12 @@
   </url>
   <url>
     <loc>https://gptimg2.best/tags/style-sleeve/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/text-check/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
