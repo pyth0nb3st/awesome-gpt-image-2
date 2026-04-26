@@ -3,6 +3,11 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/213-derived-play-texture-cipher-duet.png": {
+      "path": "assets/thumbs/213-derived-play-texture-cipher-duet.jpg",
+      "width": 768,
+      "height": 768
+    },
     "assets/images/211-derived-play-dot-trail-relay.png": {
       "path": "assets/thumbs/211-derived-play-dot-trail-relay.jpg",
       "width": 768,

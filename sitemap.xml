@@ -6,9 +6,14 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/213-derived-play-texture-cipher-duet.png</image:loc>
+      <image:title>Derived Play: Texture Cipher Duet</image:title>
+      <image:caption>Derived Play: Texture Cipher Duet. Make one square 1:1 overhead product photograph of two concentric charcoal felt dials side by side, linked by a brass bridge. Each dial has twelve shallow velvet pockets, pearl raised-dot tiles, crescent...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/211-derived-play-dot-trail-relay.png</image:loc>
-      <image:title>Derived Play: Dot Trail Relay</image:title>
-      <image:caption>Derived Play: Dot Trail Relay. Make one horizontal 5:2 panoramic low-oblique tabletop product photograph of a long felt relay lane with three braided raised-dot cords crossing under translucent arch gates. Include opal comma tokens, brass...</image:caption>
+      <image:title>One polished public-gallery image titled &quot;Derived Play: Dot Trail Relay&quot;</image:title>
+      <image:caption>Create one polished public-gallery image titled &quot;Derived Play: Dot Trail Relay&quot;. It is derived from Prompt Dot Proof but must become a different playable object: a cooperative tactile path-building relay using raised-dot cords and sliding...</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://gptimg2.best/assets/images/212-use-case-tactile-prompt-dot-proof.png</image:loc>
@@ -1039,14 +1044,25 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://gptimg2.best/prompts/213-derived-play-texture-cipher-duet/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/213-derived-play-texture-cipher-duet.png</image:loc>
+      <image:title>Derived Play: Texture Cipher Duet</image:title>
+      <image:caption>Derived Play: Texture Cipher Duet. Make one square 1:1 overhead product photograph of two concentric charcoal felt dials side by side, linked by a brass bridge. Each dial has twelve shallow velvet pockets, pearl raised-dot tiles, crescent...</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://gptimg2.best/prompts/211-derived-play-dot-trail-relay/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
       <image:loc>https://gptimg2.best/assets/images/211-derived-play-dot-trail-relay.png</image:loc>
-      <image:title>Derived Play: Dot Trail Relay</image:title>
-      <image:caption>Derived Play: Dot Trail Relay. Make one horizontal 5:2 panoramic low-oblique tabletop product photograph of a long felt relay lane with three braided raised-dot cords crossing under translucent arch gates. Include opal comma tokens, brass...</image:caption>
+      <image:title>One polished public-gallery image titled &quot;Derived Play: Dot Trail Relay&quot;</image:title>
+      <image:caption>Create one polished public-gallery image titled &quot;Derived Play: Dot Trail Relay&quot;. It is derived from Prompt Dot Proof but must become a different playable object: a cooperative tactile path-building relay using raised-dot cords and sliding...</image:caption>
     </image:image>
   </url>
   <url>
@@ -3325,25 +3341,25 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/photoreal/</loc>
-    <lastmod>2026-04-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://gptimg2.best/tags/worldbuilding/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/education/</loc>
+    <loc>https://gptimg2.best/tags/photoreal/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/interior-design/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/education/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3500,6 +3516,12 @@
   </url>
   <url>
     <loc>https://gptimg2.best/tags/void-plug/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/weight-bead/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>

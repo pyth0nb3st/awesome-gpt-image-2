@@ -18,33 +18,33 @@
   },
   "images": [
     {
-      "title": "Derived Play: Dot Trail Relay",
-      "caption": "从触感凸点校样派生的盲测绳路接力：玩家沿三条凸点绳传递 opal seed comma，套 Texture Sleeve、夹 Context Knot、花 Pressure Coin、推 Edit Gate、用 Exclusion Mitt 遮住干扰，最终在 Blind Proof 暗舱里摸到同一个三点新月纹才得分。",
-      "path": "assets/images/211-derived-play-dot-trail-relay.png",
-      "alt": "Panoramic tactile path relay lane with braided raised-dot cords, translucent arch gates, opal comma tokens, brass clips, pressure coins, caption tabs, crop window, relay score card, and a hidden blind proof alcove",
-      "width": 1983,
-      "height": 793,
-      "createdAt": "2026-04-26 09:31:00",
+      "title": "Derived Play: Texture Cipher Duet",
+      "caption": "从触感凸点校样派生的双人触感密码盘：一名玩家把 Seed Tile 藏在左盘，另一名玩家旋转 Texture Dial、交换 Ridge Tile、花 Weight Bead、关 Decoy Shutter、命名 Caption Tab 并对齐 Aperture Pair；两个盘在 Feel Match 碗里露出同一个 opal seed comma 才得分。",
+      "path": "assets/images/213-derived-play-texture-cipher-duet.png",
+      "alt": "Square overhead tactile cipher duet with two concentric charcoal felt dials, velvet pockets, pearl raised-dot tiles, crescent ridge tiles, brass shutters, aperture pair, feel match bowl, and duet score coin",
+      "width": 1254,
+      "height": 1254,
+      "createdAt": "2026-04-26 09:35:00",
       "batch": "019dc766-9fa5-79b3-b1db-59628b615c5c",
       "tags": [
-        "dot-trail-relay",
+        "texture-cipher-duet",
         "tactile-game",
-        "texture-sleeve",
-        "context-knot",
-        "pressure-coin",
-        "edit-gate",
-        "exclusion-mitt",
+        "seed-tile",
+        "texture-dial",
+        "ridge-swap",
+        "weight-bead",
+        "decoy-shutter",
         "caption-tab",
-        "crop-window",
-        "blind-proof",
-        "relay-score",
+        "aperture-pair",
+        "feel-match",
+        "duet-score",
         "batch-019dc766"
       ],
-      "prompt": "Derived Play: Dot Trail Relay. Make one horizontal 5:2 panoramic low-oblique tabletop product photograph of a long felt relay lane with three braided raised-dot cords crossing under translucent arch gates. Include opal comma tokens, brass turn clips, pressure coins, caption tabs, crop windows, texture sleeves, and a final hidden proof alcove. Players pass the opal seed comma token along the cord lane, choose one Texture Sleeve, clip a Context Knot, spend a Pressure Coin, slide one Edit Gate, cover decoys with Exclusion Mitts, attach one Caption Tab, align a Crop Window, and score Blind Proof only if the same three raised pearl dots plus crescent ridge can be traced at the hidden alcove without breaking the path. Keep it fictional, no-people, unbranded, harmless, not a real tactile writing system, not a grid, not a contact sheet, not a music box cylinder, not an abacus, not a proof press, and not the same embossing workbench.",
+      "prompt": "Derived Play: Texture Cipher Duet. Make one square 1:1 overhead product photograph of two concentric charcoal felt dials side by side, linked by a brass bridge. Each dial has twelve shallow velvet pockets, pearl raised-dot tiles, crescent ridge tiles, texture swatches, brass privacy shutters, weight beads, label tabs, and a central matching aperture. One player secretly sets a Seed Tile under the left shutter; the other rotates the Texture Dial, swaps one Ridge Tile, spends one Weight Bead, closes a Decoy Shutter, names the Caption Tab, and aligns the Aperture Pair. A round scores at the Feel Match bowl only when both dials reveal the same invented opal seed comma: three raised pearl dots plus one crescent ridge. Keep it fictional, no-people, unbranded, harmless, not a real tactile writing system, not a relay, not a path lane, not a proof tunnel, not a grid, not a contact sheet, not a music box cylinder, not an abacus, and not a proof press.",
       "provenance": {
         "status": "original_generated",
         "generatedBy": "gpt-image-2-play automation",
-        "sourceNote": "Original tactile path-building relay derived locally from the Prompt Dot Proof concept. No external prompt, article, image, artwork, visual style, brand, character, repository, source image, or case-study mechanic was used."
+        "sourceNote": "Original two-player tactile cipher-wheel game derived locally from the Prompt Dot Proof concept after rejecting the first relay draft for similarity risk. No external prompt, article, image, artwork, visual style, brand, character, repository, source image, or case-study mechanic was used."
       },
       "promptSources": [],
       "contentSafety": {
@@ -57,7 +57,41 @@
           "no_external_references",
           "no_political_or_adult_or_graphic_or_harmful_content"
         ],
-        "reviewNote": "Original fictional no-people tactile relay artifact using abstract raised-dot cords, gates, tokens, and labels only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
+        "reviewNote": "Original fictional no-people tactile cipher-wheel artifact using abstract raised-dot tiles, dials, shutters, apertures, and labels only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc766-9fa5-79b3-b1db-59628b615c5c/ig_04204ae1686db4e10169ed6ba23d8481959af93de7c0f3768f.png"
+    },
+    {
+      "title": "one polished public-gallery image titled \"Derived Play: Dot Trail Relay\"",
+      "caption": "历史生成图，批次 019dc766-9fa5-79b3-b1db-59628b615c5c，生成时间 2026-04-26 09:31:22。",
+      "path": "assets/images/211-derived-play-dot-trail-relay.png",
+      "alt": "Generated image ig_04204ae1686db4e10169ed6aaed4908195b5ccb95b027060d7",
+      "width": 1983,
+      "height": 793,
+      "createdAt": "2026-04-26 09:31:22",
+      "batch": "019dc766-9fa5-79b3-b1db-59628b615c5c",
+      "tags": [
+        "historical-import",
+        "prompt-recovered",
+        "batch-019dc766"
+      ],
+      "prompt": "Create one polished public-gallery image titled \"Derived Play: Dot Trail Relay\".\n\nIt is derived from Prompt Dot Proof but must become a different playable object: a cooperative tactile path-building relay using raised-dot cords and sliding blind-test gates, not the same embossing workbench, not a grid, not a contact sheet, not a dashboard, not cards-only, not a music box cylinder, not an abacus, not a proof press, not a transit concourse, not a shipping crate, not a darkroom, not a snowglobe, not a toy latch.\n\nOutput format: one horizontal 5:2 panoramic low-oblique tabletop product photograph of a long felt relay lane with three braided raised-dot cords crossing under translucent arch gates. Include opal comma tokens, brass turn clips, small pressure coins, caption tabs, crop windows, texture sleeves, and a final hidden proof alcove. No people, no hands, no real accessibility standard, no real language code, no logos, no real brands.\n\nPlayable rules shown through objects: players pass the opal seed comma token along the braided cord lane, choose one Texture Sleeve, clip a Context Knot, spend a Pressure Coin, slide one Edit Gate, cover decoys with Exclusion Mitts, attach one Caption Tab, align a Crop Window, and score Blind Proof only if the same three raised pearl dots plus crescent ridge can be traced at the hidden alcove without breaking the path.\n\nShort visible labels: Texture Sleeve, Context Knot, Pressure Coin, Edit Gate, Exclusion Mitt, Caption Tab, Crop Window, Blind Proof, Relay Score. Visual language: premium tactile tabletop prototype, charcoal felt lane, braided ivory cords, pearl raised dots, opal crescent ridge tokens, brushed brass clips, translucent smoke acrylic gates, crisp readable labels, soft raking light, playful but sophisticated. Fictional, original, unbranded, harmless, family-safe, non-graphic, rights-safe, and not based on any real tactile writing system or external source.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Generated by the automation from local Codex session metadata. No external prompt/reference source was used unless promptSources is populated."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Automation is instructed to avoid political, harmful, sexual, explicit, and graphic-violence content before publishing."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc766-9fa5-79b3-b1db-59628b615c5c/ig_04204ae1686db4e10169ed6aaed4908195b5ccb95b027060d7.png"
     },
