@@ -18,6 +18,172 @@
   },
   "images": [
     {
+      "title": "Derived Play: Clause Transfer Rally",
+      "caption": "从 Prompt Clause Transit Map 派生出的玩法：玩家把 Subject、Setting、Relation、Format、Safety、Revision clause cards 放到对应线路，在 Relation Hub 换乘，修复 negation 与 count 警告，最后用 PASS 与 Score 12 检查一个虚构 Lantern Orchard prompt 是否能到达 Final Render。",
+      "path": "assets/images/229-derived-play-clause-transfer-rally.png",
+      "alt": "Vertical playable prompt debugging screen titled Clause Transfer Rally with Lantern Orchard route lines, clause cards, Relation Hub transfer, warning repair steps, PASS badge, and Score 12",
+      "width": 941,
+      "height": 1672,
+      "createdAt": "2026-04-27 02:35:42",
+      "batch": "019dcb0c-9442-7673-a7d5-97a0fc4c14b5",
+      "tags": [
+        "clause-transfer-rally",
+        "derived-play",
+        "prompt-debugging",
+        "transit-map-game",
+        "clause-cards",
+        "relation-hub",
+        "negation-repair",
+        "composition-check",
+        "information-design",
+        "batch-019dcb0c"
+      ],
+      "prompt": "Create one polished public-gallery concept image titled exactly \"Derived Play: Clause Transfer Rally\".\n\nOutput format: one vertical 9:16 playable rules poster / fictional creative challenge screen, not a physical board game photo, not a tabletop object, not a contact sheet, not a storyboard, not a real transit map. It should feel like a public gallery artifact that explains a playable prompt-debugging game.\n\nScene: a fictional challenge interface derived from the Prompt Clause Transit Map. Players move short prompt-clause cards through a transit-style route to build a valid image prompt for a fictional project called \"Lantern Orchard\". The screen has a large route diagram in the middle, a small prompt input area at top, a \"clause cards\" tray drawn as flat UI cards, and a scoring panel at bottom. Use abstract icons only: lantern, leaf, river curve, blank image frame, shield, and refresh arrow.\n\nExact short readable text to render: \"Derived Play: Clause Transfer Rally\", \"Lantern Orchard\", \"Round 3\", \"Subject\", \"Setting\", \"Relation\", \"Format\", \"Safety\", \"Revision\", \"Transfer at Relation Hub\", \"Fix negation\", \"Add count\", \"Aspect 21:9\", \"Source noted\", \"PASS\", \"Score 12\". Keep all text short and legible; do not add long paragraphs or random placeholder text.\n\nGameplay mechanism: players draft clause cards, place each card on the matching transit line, transfer at Relation Hub when two clauses interact, repair warning chips, then reach Final Render only when count, text, aspect, source, and safety checks pass. Show a few empty slots and a clear visual path from draft cards to final score.\n\nVisual style: sophisticated game-like product UI, crisp flat information design, warm off-white canvas, graphite typography, teal route lines, amber highlights, moss green success marks, coral warning chips, compact icon buttons. The design should be lively and playful without looking like a children\\u2019s worksheet. No purple-dominant gradient, no decorative orbs, no watermark.\n\nSafety and rights: fictional project and fictional game only, no real transit agency, no real city, no logos, no trademarks, no public figures, no politics, no dangerous instructions, no adult or explicit content, no gore or violence, no copyrighted characters, no living-artist style imitation, no source image reuse.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt_with_external_pattern_research",
+        "sourceNote": "Derived locally from Prompt Clause Transit Map after a fresh external source sweep. External sources informed only abstract patterns around prompt-gallery metadata, prompt field structure, workflow evaluation, compositional benchmark coverage, and positive constraint routing. No external prompt text, image, source image, brand, character, artwork, or protected style was reused."
+      },
+      "promptSources": [
+        {
+          "title": "GPT Image 2 Prompt Gallery - Browse, Click, Generate",
+          "url": "https://gptimg.co/gpt-image-2-prompt/",
+          "authorOrPublisher": "GPTIMG / EvoLinkAI-linked prompt gallery",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "trend_scan / gallery_metadata_pattern"
+        },
+        {
+          "title": "GPT Image 2 Review: Prompt Guide and Use Cases in 2026",
+          "url": "https://pixverse.ai/en/blog/gpt-image-2-review-and-prompt-guide",
+          "authorOrPublisher": "PixVerse",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "prompt_pattern_inspiration / capability_context / failure_mode_scan"
+        },
+        {
+          "title": "I've created thousands of AI images and these are the best AI image generators of 2026",
+          "url": "https://www.tomsguide.com/best-picks/best-ai-image-generators",
+          "authorOrPublisher": "Tom's Guide / Ryan Morrison and Amanda Caswell",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "trend_scan / evaluation_pattern / workflow_context"
+        },
+        {
+          "title": "Parti: Pathways Autoregressive Text-to-Image Model",
+          "url": "https://parti.research.google/",
+          "authorOrPublisher": "Google Research",
+          "license": "research page; no prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "benchmark_dataset / compositional_evaluation / failure_mode_scan"
+        },
+        {
+          "title": "Prompt Basics",
+          "url": "https://docs.midjourney.com/hc/en-us/articles/32023408776205-Prompt-Basics",
+          "authorOrPublisher": "Midjourney",
+          "license": "Midjourney documentation terms; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "prompt_pattern_inspiration / failure_mode_scan"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-27",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Fictional prompt-debugging game for invented Lantern Orchard project only; no real transit agency, city, brand, trademark, public figure, party/election, dangerous instruction, adult or explicit content, gore, graphic violence, celebrity likeness, copyrighted character, living-artist style imitation, copied prompt text, or source-image reuse."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dcb0c-9442-7673-a7d5-97a0fc4c14b5/ig_0eb9c781b8f19b310169ee5ab0ea9c819485196f1757041c87.png"
+    },
+    {
+      "title": "Use Case: Prompt Clause Transit Map",
+      "caption": "把 GPT Image 2 的复杂 prompt 拆成一张虚构地铁线路图：Subject、Setting、Relation、Style、Format、Safety、Revision 七条线在 Count Check、Text Check、Relation Hub、Aspect Gate、Source Credit 等站点换乘，用 missing relation、negation risk、fixed 和 PASS 9/10 做组合约束调试。",
+      "path": "assets/images/230-use-case-prompt-clause-transit-map.png",
+      "alt": "Ultra-wide information visualization titled Prompt Clause Transit Map with seven prompt clause transit lines, Count Check, Text Check, Relation Hub, Aspect Gate, Source Credit, Final Render, warning chips, and PASS 9/10",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-27 02:34:25",
+      "batch": "019dcb0c-9442-7673-a7d5-97a0fc4c14b5",
+      "tags": [
+        "prompt-clause-transit-map",
+        "use-case",
+        "information-visualization",
+        "prompt-debugging",
+        "composition-benchmark",
+        "relation-hub",
+        "negation-risk",
+        "source-credit",
+        "transit-map-metaphor",
+        "batch-019dcb0c"
+      ],
+      "prompt": "Create one polished public-gallery concept image titled exactly \"Use Case: Prompt Clause Transit Map\".\n\nOutput format: one ultra-wide 32:9 continuous information-visualization map, like a fictional subway system for prompt structure. It must be a single connected map, not a contact sheet, not a grid poster, not a physical object photo, not a tabletop game, not a storyboard, not a real transit map, not a city map.\n\nScene: a clean editorial prompt-debugging wall display that turns a complex GPT Image prompt into transit lines. Seven colored lines cross and transfer through stations: \"Subject Line\", \"Setting Line\", \"Relation Line\", \"Style Line\", \"Format Line\", \"Safety Line\", \"Revision Line\". Transfer hubs are labeled \"Count Check\", \"Text Check\", \"Relation Hub\", \"Aspect Gate\", \"Source Credit\", and \"Final Render\". Small service-alert chips show \"missing relation\", \"negation risk\", and \"fixed\". The whole map is for a fictional project called \"Lantern Orchard\" using abstract icons only: a lantern icon, an orchard leaf icon, a river curve icon, and a blank image frame icon.\n\nExact short readable text to render: \"Use Case: Prompt Clause Transit Map\", \"Lantern Orchard\", \"Subject Line\", \"Setting Line\", \"Relation Line\", \"Style Line\", \"Format Line\", \"Safety Line\", \"Revision Line\", \"Count Check\", \"Text Check\", \"Relation Hub\", \"Aspect Gate\", \"Source Credit\", \"Final Render\", \"missing relation\", \"negation risk\", \"fixed\", \"PASS 9/10\", \"fictional only\". Keep text short and legible; do not add long paragraphs or random placeholder text.\n\nMechanism: demonstrate a GPT Image use case where prompt clauses become a route map for testing composition coverage. Each line represents one clause family; transfer hubs show where constraints interact; service alerts show failure modes; the final station shows a clean generated-output frame. Make it clear this is about prompt debugging, compositional evaluation, source attribution, and iteration planning.\n\nVisual style: crisp information design, high-end editorial data visualization, matte off-white background, graphite labels, distinct but restrained line colors in teal, amber, coral, slate, moss, indigo, and warm gray. Use precise station dots, route curves, tiny icons, and subtle UI chips. Balanced whitespace, professional typography, no purple-dominant gradient, no decorative orbs, no watermark.\n\nSafety and rights: fictional map and fictional project only, no real transit agency, no real city, no logos, no trademarks, no public figures, no politics, no dangerous instructions, no adult or explicit content, no gore or violence, no copyrighted characters, no living-artist style imitation, no source image reuse.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt_with_external_pattern_research",
+        "sourceNote": "Prompt concept generated locally after a fresh external source sweep. External sources informed only abstract patterns around prompt-gallery metadata, prompt field structure, workflow evaluation, compositional benchmark coverage, and positive constraint routing. No external prompt text, image, source image, brand, character, artwork, or protected style was reused."
+      },
+      "promptSources": [
+        {
+          "title": "GPT Image 2 Prompt Gallery - Browse, Click, Generate",
+          "url": "https://gptimg.co/gpt-image-2-prompt/",
+          "authorOrPublisher": "GPTIMG / EvoLinkAI-linked prompt gallery",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "trend_scan / gallery_metadata_pattern"
+        },
+        {
+          "title": "GPT Image 2 Review: Prompt Guide and Use Cases in 2026",
+          "url": "https://pixverse.ai/en/blog/gpt-image-2-review-and-prompt-guide",
+          "authorOrPublisher": "PixVerse",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "prompt_pattern_inspiration / capability_context / failure_mode_scan"
+        },
+        {
+          "title": "I've created thousands of AI images and these are the best AI image generators of 2026",
+          "url": "https://www.tomsguide.com/best-picks/best-ai-image-generators",
+          "authorOrPublisher": "Tom's Guide / Ryan Morrison and Amanda Caswell",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "trend_scan / evaluation_pattern / workflow_context"
+        },
+        {
+          "title": "Parti: Pathways Autoregressive Text-to-Image Model",
+          "url": "https://parti.research.google/",
+          "authorOrPublisher": "Google Research",
+          "license": "research page; no prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "benchmark_dataset / compositional_evaluation / failure_mode_scan"
+        },
+        {
+          "title": "Prompt Basics",
+          "url": "https://docs.midjourney.com/hc/en-us/articles/32023408776205-Prompt-Basics",
+          "authorOrPublisher": "Midjourney",
+          "license": "Midjourney documentation terms; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "prompt_pattern_inspiration / failure_mode_scan"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-27",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Fictional prompt-structure information visualization for invented Lantern Orchard project only; no real transit agency, city, brand, trademark, public figure, party/election, dangerous instruction, adult or explicit content, gore, graphic violence, celebrity likeness, copyrighted character, living-artist style imitation, copied prompt text, or source-image reuse."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dcb0c-9442-7673-a7d5-97a0fc4c14b5/ig_0eb9c781b8f19b310169ee5a24f3b08194857a07523d1cf17e.png"
+    },
+    {
       "title": "Derived Play: Motion Cue Karaoke",
       "caption": "从 Motion Handoff Deck 派生出的竖屏提示游戏：玩家像唱卡拉 OK 一样在 Camera、Subject、World 三条轨道上接力加入 pan right、drift slowly、lantern ripples 等短 motion cue，用 playhead、Match 8/10 和 Conflict fixed 检查静帧到动态提示的连续性。",
       "path": "assets/images/227-derived-play-motion-cue-karaoke.png",

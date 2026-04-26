@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/229-derived-play-clause-transfer-rally.png</image:loc>
+      <image:title>Derived Play: Clause Transfer Rally</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Derived Play: Clause Transfer Rally&quot;. Output format: one vertical 9:16 playable rules poster / fictional creative challenge screen, not a physical board game photo, not a tab...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/230-use-case-prompt-clause-transit-map.png</image:loc>
+      <image:title>Use Case: Prompt Clause Transit Map</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Use Case: Prompt Clause Transit Map&quot;. Output format: one ultra-wide 32:9 continuous information-visualization map, like a fictional subway system for prompt structure. It mus...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/227-derived-play-motion-cue-karaoke.png</image:loc>
       <image:title>Derived Play: Motion Cue Karaoke</image:title>
       <image:caption>Create one polished public-gallery concept image titled exactly &quot;Derived Play: Motion Cue Karaoke&quot;. Output format: one vertical 9:16 mobile challenge screen / playful workflow poster, not a physical board game, not a tabletop photograph, n...</image:caption>
@@ -1097,6 +1107,28 @@
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/229-derived-play-clause-transfer-rally/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/229-derived-play-clause-transfer-rally.png</image:loc>
+      <image:title>Derived Play: Clause Transfer Rally</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Derived Play: Clause Transfer Rally&quot;. Output format: one vertical 9:16 playable rules poster / fictional creative challenge screen, not a physical board game photo, not a tab...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/230-use-case-prompt-clause-transit-map/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/230-use-case-prompt-clause-transit-map.png</image:loc>
+      <image:title>Use Case: Prompt Clause Transit Map</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Use Case: Prompt Clause Transit Map&quot;. Output format: one ultra-wide 32:9 continuous information-visualization map, like a fictional subway system for prompt structure. It mus...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/227-derived-play-motion-cue-karaoke/</loc>
@@ -3607,6 +3639,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://gptimg2.best/tags/derived-play/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://gptimg2.best/tags/sound-to-scene/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -3655,12 +3693,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/derived-play/</loc>
-    <lastmod>2026-04-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://gptimg2.best/tags/distance-read/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -3704,6 +3736,18 @@
   </url>
   <url>
     <loc>https://gptimg2.best/tags/photorealistic-natural/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/prompt-debugging/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/relation-hub/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>

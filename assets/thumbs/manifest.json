@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/229-derived-play-clause-transfer-rally.png": {
+      "path": "assets/thumbs/229-derived-play-clause-transfer-rally.jpg",
+      "width": 768,
+      "height": 1364
+    },
+    "assets/images/230-use-case-prompt-clause-transit-map.png": {
+      "path": "assets/thumbs/230-use-case-prompt-clause-transit-map.jpg",
+      "width": 768,
+      "height": 432
+    },
     "assets/images/227-derived-play-motion-cue-karaoke.png": {
       "path": "assets/thumbs/227-derived-play-motion-cue-karaoke.jpg",
       "width": 768,
