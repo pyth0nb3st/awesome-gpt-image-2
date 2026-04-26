@@ -18,6 +18,95 @@
   },
   "images": [
     {
+      "title": "Derived Play: Flat Swap Matinee",
+      "caption": "从纸箱景片提示台派生的静默换景玩法：玩家抽 Seed Flat、旋转 Proscenium Dial、插入 Context Wing、交换 Reference Mask、盖 Omit Scrim、花 Rewrite Clip、挂 Caption Flag、折 Aspect Gate；只有 Curtain Proof 光圈里仍是同一个 jade teardrop mask 才得到 Matinee Score。",
+      "path": "assets/images/219-derived-play-flat-swap-matinee.png",
+      "alt": "Horizontal low-oblique product photograph of a circular cream-card proscenium dial with radial slots, paper backdrop flats, acetate scrims, black hinge clips, brass brads, caption flags, aspect gate, curtain aperture, and jade teardrop mask tokens",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-26 22:54:48",
+      "batch": "019dca44-0bc8-7023-b909-bfa7a9b19837",
+      "tags": [
+        "flat-swap-matinee",
+        "carton-theater-game",
+        "seed-flat",
+        "proscenium-dial",
+        "context-wing",
+        "reference-mask",
+        "omit-scrim",
+        "rewrite-clip",
+        "caption-flag",
+        "aspect-gate",
+        "curtain-proof",
+        "matinee-score",
+        "batch-019dca44"
+      ],
+      "prompt": "Create one polished public-gallery image titled \"Derived Play: Flat Swap Matinee\".\n\nIt is derived from Prompt Puppet Flats but becomes a different playable object: a silent tabletop swap-and-reveal puzzle made from stacked paper scenery flats and a rotating proscenium dial. It is not the same fold-open suitcase, not a grid, not a contact sheet, not a research board, not a rectangular board game, not cards-only, not a marionette rig, not a music box, not a patchbay, not a ticket punch, not a snowglobe, not a water basin, not a crate, not a tactile cipher wheel.\n\nOutput format: one horizontal 16:9 low-oblique product photograph of a circular cream-card proscenium dial with eight radial slots, loose paper backdrop flats, translucent scrim strips, black hinge clips, brass brads, a tiny caption flag rack, and a final curtain aperture. The invented subject is the same jade teardrop mask with two pearl dots and one copper crescent, shown on three small tokens and inside the final aperture. No people, no hands, no faces, no logos, no real theater or real brand.\n\nPlay rules shown through objects: players draft one Seed Flat, rotate the Proscenium Dial, slide a Context Wing into a radial slot, trade one Reference Mask token, cover clutter with an Omit Scrim, spend one Rewrite Clip to swap a backdrop, attach a Caption Flag, fold one Aspect Gate, then score Curtain Proof only if the jade teardrop mask remains identical in the final aperture.\n\nShort visible labels: Seed Flat, Proscenium Dial, Context Wing, Reference Mask, Omit Scrim, Rewrite Clip, Caption Flag, Aspect Gate, Curtain Proof, Matinee Score. Visual language: premium tactile tabletop prototype, cream carton, black hinge tape, jade marbled paper, copper crescent, pearl dots, translucent acetate, brass hardware, crisp readable labels, playful but refined. Entire concept is fictional, original, unbranded, harmless, rights-safe, non-political, non-adult, and non-graphic. Avoid public figures, real brands, celebrity likenesses, copyrighted characters, dangerous instructions, weapons, gore, and living-artist style imitation.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original rotating carton-theater swap-and-reveal puzzle derived locally from the Prompt Puppet Flats concept. No external prompt, image, artwork, visual style, brand, character, repository, source image, article, or case-study mechanic was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Original fictional no-people tabletop paper-scenery puzzle with acetate scrims, soft paper flats, brass hardware, and an invented jade teardrop mask only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dca44-0bc8-7023-b909-bfa7a9b19837/ig_04bca9fae324885b0169ee26ef0c488196af5db3f07477e109.png"
+    },
+    {
+      "title": "Use Case Carton Theater: Prompt Puppet Flats",
+      "caption": "把 GPT Image 2 的主体一致性、局部改写、短文字和裁切控制做成可折叠纸箱小剧场：Seed Flat、Context Wing、Reference Mask、Rewrite Slot、Omit Scrim、Caption Flag、Aspect Fold、Texture Brads 和 Curtain Proof 用纸景片、透明遮片、侧翼槽和折叠画幅检查同一个 jade teardrop mask 是否保持一致。",
+      "path": "assets/images/220-use-case-carton-theater-prompt-puppet-flats.png",
+      "alt": "Vertical product photograph of a fold-open cream carton theater suitcase with black hinge tape, acetate slots, paper scenic flats, brass brads, labels, and a jade teardrop mask repeated in a curtain proof window",
+      "width": 948,
+      "height": 1659,
+      "createdAt": "2026-04-26 22:53:37",
+      "batch": "019dca44-0bc8-7023-b909-bfa7a9b19837",
+      "tags": [
+        "prompt-puppet-flats",
+        "carton-theater",
+        "seed-flat",
+        "context-wing",
+        "reference-mask",
+        "rewrite-slot",
+        "omit-scrim",
+        "caption-flag",
+        "aspect-fold",
+        "texture-brads",
+        "curtain-proof",
+        "batch-019dca44"
+      ],
+      "prompt": "Create one polished public-gallery concept image titled \"Use Case Carton Theater: Prompt Puppet Flats\".\n\nOutput format: one vertical 5:7 product photograph of a fictional fold-open paper theater suitcase, photographed half-open on a matte table. It is not a grid, not a contact sheet, not a research board, not a shelf, not a chamber, not a snowglobe, not a water basin, not a crate, not a cabinet, not a loom, not a proof press, not a patchbay, not an optical bench, not a wardrobe, not a fossil drawer, not a toy latch, not a stage with people, not a marionette rig.\n\nScene: the suitcase is made from thick cream carton, black paper hinges, transparent acetate slots, tiny brass brads, and four removable paper scenic flats. The invented subject is a tiny jade teardrop mask with two pearl dots and one copper crescent, repeated exactly on a front flat, a side slot, a tiny label flag, and a final verification window. No people, no hands, no faces, no logos, no real theater, no real brand.\n\nMechanism: GPT Image 2 prompt control becomes a fold-open scenic-flat rehearsal. Short readable labels on physical tabs: Seed Flat, Context Wing, Reference Mask, Rewrite Slot, Omit Scrim, Caption Flag, Aspect Fold, Texture Brads, Curtain Proof. Show how the same subject is preserved while carton flats slide into side wings, acetate scrims remove unwanted shapes, a rewrite slot swaps one background element, the caption flag tests short text, the aspect fold changes the crop, and the final curtain proof window repeats the jade teardrop mask.\n\nVisual language: premium tactile studio photography, cream carton, black hinge tape, jade and copper accent, pearl dots, translucent acetate, brass brads, crisp tiny labels, warm raking light, shallow depth of field, playful but sophisticated. Entire concept is fictional, original, unbranded, harmless, rights-safe, non-political, non-adult, and non-graphic. Avoid public figures, real brands, celebrity likenesses, copyrighted characters, dangerous instructions, weapons, gore, and living-artist style imitation.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original fictional carton-theater scenic-flat prompt mechanism generated locally from existing-gallery gap analysis. Official OpenAI pages were checked only for high-level capability awareness; no external prompt, article, image, artwork, visual style, brand, character, repository, source image, or case-study mechanic was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Original fictional no-people fold-open paper theater artifact with carton scenic flats, acetate scrims, brass brads, and an invented jade teardrop mask only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dca44-0bc8-7023-b909-bfa7a9b19837/ig_04bca9fae324885b0169ee265d827c8196a0a5c8578c8825db.png"
+    },
+    {
       "title": "Use Case Acoustics: Prompt Resonance Shelf",
       "caption": "把 GPT Image 2 的一致性、局部改写、短文字和材质约束做成壁挂式虚构共振架：Seed Note、Echo Shelf、Damping Felt、Rewrite Hoop、Quiet Slot、Tiny Text、Frame Clamp、Material Ring 和 Resonance Proof 让同一个 opal echo seed 穿过铜环、阻尼毡和声带仍保持一致。",
       "path": "assets/images/218-use-case-acoustics-prompt-resonance-shelf.png",

@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/219-derived-play-flat-swap-matinee.png": {
+      "path": "assets/thumbs/219-derived-play-flat-swap-matinee.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/220-use-case-carton-theater-prompt-puppet-flats.png": {
+      "path": "assets/thumbs/220-use-case-carton-theater-prompt-puppet-flats.jpg",
+      "width": 768,
+      "height": 1344
+    },
     "assets/images/218-use-case-acoustics-prompt-resonance-shelf.png": {
       "path": "assets/thumbs/218-use-case-acoustics-prompt-resonance-shelf.jpg",
       "width": 768,
