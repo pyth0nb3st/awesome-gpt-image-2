@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/216-derived-play-baffle-tile-duet.png": {
+      "path": "assets/thumbs/216-derived-play-baffle-tile-duet.jpg",
+      "width": 768,
+      "height": 438
+    },
+    "assets/images/217-use-case-acoustics-prompt-echo-chamber.png": {
+      "path": "assets/thumbs/217-use-case-acoustics-prompt-echo-chamber.jpg",
+      "width": 768,
+      "height": 614
+    },
     "assets/images/214-derived-play-dew-trace-curling.png": {
       "path": "assets/thumbs/214-derived-play-dew-trace-curling.jpg",
       "width": 768,

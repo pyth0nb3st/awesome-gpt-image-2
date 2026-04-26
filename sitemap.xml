@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/216-derived-play-baffle-tile-duet.png</image:loc>
+      <image:title>Derived Play: Baffle Tile Duet</image:title>
+      <image:caption>Create one polished public-gallery image titled &quot;Derived Play: Baffle Tile Duet&quot;. It is derived from Prompt Echo Chamber but must become a different playable object: a two-player tabletop acoustic matching puzzle made from loose foam wedge...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/217-use-case-acoustics-prompt-echo-chamber.png</image:loc>
+      <image:title>Use Case Acoustics: Prompt Echo Chamber</image:title>
+      <image:caption>Create one polished public-gallery concept image titled &quot;Use Case Acoustics: Prompt Echo Chamber&quot;. Output format: a single 5:4 cutaway macro product photograph of a fictional miniature anechoic listening chamber, not a grid, not a contact...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/214-derived-play-dew-trace-curling.png</image:loc>
       <image:title>Derived Play: Dew Trace Curling</image:title>
       <image:caption>Create one polished public-gallery image titled &quot;Derived Play: Dew Trace Curling&quot;. It is derived from Prompt Condensation Chamber but becomes a different playable object: a vertical 4:5 overhead-oblique product photograph of a circular mat...</image:caption>
@@ -1047,6 +1057,28 @@
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/216-derived-play-baffle-tile-duet/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/216-derived-play-baffle-tile-duet.png</image:loc>
+      <image:title>Derived Play: Baffle Tile Duet</image:title>
+      <image:caption>Create one polished public-gallery image titled &quot;Derived Play: Baffle Tile Duet&quot;. It is derived from Prompt Echo Chamber but must become a different playable object: a two-player tabletop acoustic matching puzzle made from loose foam wedge...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/217-use-case-acoustics-prompt-echo-chamber/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/217-use-case-acoustics-prompt-echo-chamber.png</image:loc>
+      <image:title>Use Case Acoustics: Prompt Echo Chamber</image:title>
+      <image:caption>Create one polished public-gallery concept image titled &quot;Use Case Acoustics: Prompt Echo Chamber&quot;. Output format: a single 5:4 cutaway macro product photograph of a fictional miniature anechoic listening chamber, not a grid, not a contact...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/214-derived-play-dew-trace-curling/</loc>
@@ -3441,6 +3473,18 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://gptimg2.best/tags/crop-gate/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/silence-mask/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://gptimg2.best/tags/sound-to-scene/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -3459,6 +3503,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://gptimg2.best/tags/caption-ping/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://gptimg2.best/tags/caption-tag/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -3466,12 +3516,6 @@
   </url>
   <url>
     <loc>https://gptimg2.best/tags/caseback-seal/</loc>
-    <lastmod>2026-04-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gptimg2.best/tags/crop-gate/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3502,12 +3546,6 @@
   </url>
   <url>
     <loc>https://gptimg2.best/tags/photorealistic-natural/</loc>
-    <lastmod>2026-04-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gptimg2.best/tags/silence-mask/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
