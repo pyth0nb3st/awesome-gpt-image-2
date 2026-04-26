@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/233-derived-play-wrap-seam-sweep.png": {
+      "path": "assets/thumbs/233-derived-play-wrap-seam-sweep.jpg",
+      "width": 768,
+      "height": 384
+    },
+    "assets/images/234-use-case-360-scene-planner.png": {
+      "path": "assets/thumbs/234-use-case-360-scene-planner.jpg",
+      "width": 768,
+      "height": 384
+    },
     "assets/images/231-derived-play-speech-bubble-domino.png": {
       "path": "assets/thumbs/231-derived-play-speech-bubble-domino.jpg",
       "width": 768,

@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/233-derived-play-wrap-seam-sweep.png</image:loc>
+      <image:title>Derived Play: Wrap Seam Sweep</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Derived Play: Wrap Seam Sweep&quot;. Output format: one ultra-wide 2:1 playable panorama QA overlay, full-bleed immersive 360 scene with game rules embedded as short labels. It mu...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/234-use-case-360-scene-planner.png</image:loc>
+      <image:title>Use Case: 360 Scene Planner</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Use Case: 360 Scene Planner&quot;. Output format: one ultra-wide 2:1 equirectangular panorama concept image, full-bleed immersive environment with a thin transparent QA overlay. I...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/231-derived-play-speech-bubble-domino.png</image:loc>
       <image:title>Derived Play: Speech Bubble Domino</image:title>
       <image:caption>Use case: scientific-educational / derived play mechanic: speech-bubble-domino Asset type: public gallery concept image, square printable classroom game mat Primary request: Create one polished concept image titled exactly &quot;Derived Play: S...</image:caption>
@@ -1117,6 +1127,28 @@
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/233-derived-play-wrap-seam-sweep/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/233-derived-play-wrap-seam-sweep.png</image:loc>
+      <image:title>Derived Play: Wrap Seam Sweep</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Derived Play: Wrap Seam Sweep&quot;. Output format: one ultra-wide 2:1 playable panorama QA overlay, full-bleed immersive 360 scene with game rules embedded as short labels. It mu...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/234-use-case-360-scene-planner/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/234-use-case-360-scene-planner.png</image:loc>
+      <image:title>Use Case: 360 Scene Planner</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Use Case: 360 Scene Planner&quot;. Output format: one ultra-wide 2:1 equirectangular panorama concept image, full-bleed immersive environment with a thin transparent QA overlay. I...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/231-derived-play-speech-bubble-domino/</loc>
@@ -3659,13 +3691,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/scientific-educational/</loc>
+    <loc>https://gptimg2.best/tags/derived-play/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/derived-play/</loc>
+    <loc>https://gptimg2.best/tags/scientific-educational/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3678,6 +3710,12 @@
   </url>
   <url>
     <loc>https://gptimg2.best/tags/sound-to-scene/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/use-case/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3743,6 +3781,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://gptimg2.best/tags/equirectangular/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://gptimg2.best/tags/fold-vent/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -3797,6 +3841,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://gptimg2.best/tags/seam-continuity/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://gptimg2.best/tags/silence-mask/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -3822,12 +3872,6 @@
   </url>
   <url>
     <loc>https://gptimg2.best/tags/ui-fiction-simulator/</loc>
-    <lastmod>2026-04-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gptimg2.best/tags/use-case/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>

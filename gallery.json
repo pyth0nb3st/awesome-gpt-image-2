@@ -18,6 +18,186 @@
   },
   "images": [
     {
+      "title": "Derived Play: Wrap Seam Sweep",
+      "caption": "从 360 Scene Planner 派生出的全景 QA 玩法：玩家沿着 Sweep 线检查 2:1 场景的左右接缝、灯光、五个 anchor、Wrap OK 和 PASS 8，把轻微 seam warning 用 Repair 标记修复。",
+      "path": "assets/images/233-derived-play-wrap-seam-sweep.png",
+      "alt": "Ultra-wide 2 to 1 panorama titled Derived Play Wrap Seam Sweep with Aurora Reading Court, sweep line, numbered anchors, seam windows, repair ribbon, Wrap OK, and PASS 8",
+      "width": 1774,
+      "height": 887,
+      "createdAt": "2026-04-27 07:44:32",
+      "batch": "019dcc24-c760-7823-9545-dc3a05426867",
+      "tags": [
+        "wrap-seam-sweep",
+        "derived-play",
+        "panorama-qa",
+        "equirectangular",
+        "seam-continuity",
+        "environment-design",
+        "anchor-counting",
+        "wraparound-scene",
+        "compositional-evaluation",
+        "batch-019dcc24"
+      ],
+      "prompt": "Create one polished public-gallery concept image titled exactly \"Derived Play: Wrap Seam Sweep\".\n\nOutput format: one ultra-wide 2:1 playable panorama QA overlay, full-bleed immersive 360 scene with game rules embedded as short labels. It must not be a physical tabletop object, not a board game photo, not a device, not a tray, not a lab bench, not a map, not a comic, not a worksheet, not a contact sheet, and not a dashboard-first UI. The environment should dominate, with translucent game overlays.\n\nScene: same fictional no-people Aurora Reading Court, but now shown as a wraparound seam-check challenge. Keep the circular reading courtyard, brass moon gate split across the far left and far right edges, glass ceiling ribs, paper lanterns, shallow reflecting channel, tiled floor compass motif, curved book alcoves, and plants. Make the left and right edges intentionally comparable: matching gate curve, matching lantern pair, matching floor tile line.\n\nDerived gameplay mechanism: players sweep a thin glowing path across the panorama and verify continuity. Add compact overlay labels only: \"Derived Play: Wrap Seam Sweep\", \"Start\", \"Sweep\", \"Match\", \"Light\", \"Count 5\", \"Repair\", \"Wrap OK\", \"PASS 8\". Show five small numbered anchor pips along the horizon and seam windows, but keep numbers tiny and readable: \"1\", \"2\", \"3\", \"4\", \"5\". Show one coral repair ribbon near a slight seam warning, then a green pass chip at the opposite edge.\n\nComposition: seamless 2:1 panorama feeling, horizon centered, full-bleed immersive environment, no people, no UI cards, no dense paragraphs. The game overlay should look like transparent acetate on a 360 preview: hairline guides, small chips, one continuous sweep path, edge comparison brackets, and anchor pips. Use warm amber lantern light, deep teal shadow, graphite guide lines, ivory text, small coral repair mark, green pass marks.\n\nSafety and rights: fictional location and fictional game only, no real brands, no trademarks, no public figures, no politics, no elections, no dangerous instructions, no adult or explicit content, no gore or violence, no copyrighted characters, no living-artist style imitation, no source image reuse, no watermark.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt_with_external_pattern_research",
+        "sourceNote": "Derived locally from 360 Scene Planner after a fresh external source sweep. External sources informed only abstract patterns around gallery metadata, production use-case taxonomy, perspective/composition prompting, compositional benchmark checks, creator workflows, and anti-homogeneity failure modes. No external prompt text, image, source image, brand, character, artwork, or protected style was reused."
+      },
+      "promptSources": [
+        {
+          "title": "Introducing ArtPrompt: Your Free Professional AI Image Prompt Library",
+          "url": "https://artprompt.org/blog/introducing-artprompt",
+          "authorOrPublisher": "ArtPrompt / Nick Jonson",
+          "license": "site says prompts are free to use, but treated as unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "gallery_metadata_pattern / community_workflow_scan"
+        },
+        {
+          "title": "AI Image Generation API: GPT Image 2 Review, Real-World Use Cases 2026",
+          "url": "https://blog.segmind.com/ai-image-generation-api-gpt-image-2-review-real-world-use-cases-2026/",
+          "authorOrPublisher": "Segmind / Rohit Rao",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "use_case_taxonomy / multilingual_text_failure_mode / production_context"
+        },
+        {
+          "title": "AI Image Generation Prompt Book",
+          "url": "https://getimg.ai/guides/ai-image-generation-prompt-book",
+          "authorOrPublisher": "getimg.ai",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "prompt_pattern_inspiration / composition_prompting"
+        },
+        {
+          "title": "GenAI-Bench: Evaluating and Improving Compositional Text-to-Visual Generation",
+          "url": "https://huggingface.co/datasets/BaiqiL/GenAI-Bench",
+          "authorOrPublisher": "Baiqi Li, Zhiqiu Lin, Deepak Pathak, Jiayao Li, Yixin Fei, Kewen Wu, Tiffany Ling, Xide Xia, Pengchuan Zhang, Graham Neubig, Deva Ramanan / Hugging Face",
+          "license": "dataset page terms vary; no prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "benchmark_dataset / compositional_evaluation / failure_mode_scan"
+        },
+        {
+          "title": "AI Art Generator: Free AI Image, Video & Audio Generator",
+          "url": "https://openart.dev/",
+          "authorOrPublisher": "OpenArt",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "workflow_inspiration / visual_story_pipeline_scan"
+        },
+        {
+          "title": "ChatGPT Images 2.0 has people declaring the death of graphic design... again",
+          "url": "https://www.creativebloq.com/design/graphic-design/chatgpt-images-2-0-has-people-declaring-the-death-of-graphic-design-again",
+          "authorOrPublisher": "Creative Bloq / Daniel John",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "trend_scan / visual_homogeneity_failure_mode"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Automation is instructed to avoid political, harmful, sexual, explicit, and graphic-violence content before publishing."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dcc24-c760-7823-9545-dc3a05426867/ig_01c4c42e752a344d0169eea2fb1a2881979cc606d4d94a95a7.png"
+    },
+    {
+      "title": "Use Case: 360 Scene Planner",
+      "caption": "一个 GPT Image 2 全景环境规划玩法：用虚构 Aurora Reading Court 测试 2:1 equirectangular 画幅、左右 seam 连续、Horizon、Anchor A/B/C、Wrap OK 和 PASS，让生成图不只是海报而是可验证的 360 场景草图。",
+      "path": "assets/images/234-use-case-360-scene-planner.png",
+      "alt": "Ultra-wide 2 to 1 equirectangular panorama titled Use Case 360 Scene Planner with Aurora Reading Court, left and right seam windows, horizon guide, anchor labels, Wrap OK, and PASS",
+      "width": 1774,
+      "height": 887,
+      "createdAt": "2026-04-27 07:42:51",
+      "batch": "019dcc24-c760-7823-9545-dc3a05426867",
+      "tags": [
+        "360-scene-planner",
+        "use-case",
+        "equirectangular",
+        "panorama-design",
+        "seam-continuity",
+        "environment-previsualization",
+        "horizon-lock",
+        "anchor-motifs",
+        "wraparound-qa",
+        "batch-019dcc24"
+      ],
+      "prompt": "Create one polished public-gallery concept image titled exactly \"Use Case: 360 Scene Planner\".\n\nOutput format: one ultra-wide 2:1 equirectangular panorama concept image, full-bleed immersive environment with a thin transparent QA overlay. It must not be a physical tabletop object, not a device, not a tray, not a lab bench, not a map, not a comic, not a worksheet, not a contact sheet, and not a dashboard-first UI. The scene itself should dominate.\n\nScene: a fictional no-people indoor/outdoor reading courtyard called \"Aurora Reading Court\". It is a calm circular courtyard at blue hour with curved book alcoves, glass ceiling ribs, paper lanterns, shallow reflecting channel, tiled floor compass motif, and soft plants. The left edge and right edge should visibly match as if the panorama can wrap around seamlessly: the same brass moon gate continues across both edges, with matching lantern height and matching tile pattern. No real architecture, no real brand, no logo.\n\nGPT Image play mechanism shown visually: small overlay chips and hairline guide marks prove the panorama is useful for 360 planning: \"Left seam\", \"Right seam\", \"Horizon\", \"Anchor A\", \"Anchor B\", \"Anchor C\", \"Wrap OK\", \"2:1\", \"PASS\". Add three subtle anchor motifs that repeat consistently: a teal crescent tile, an amber lantern pair, and a graphite floor star. Keep all in-image text short, readable, and exactly as listed; do not add random placeholder text.\n\nComposition: true panorama feeling, horizon centered, continuous perspective, gentle parallax cues, left/right seam windows lightly outlined at the far edges, central quiet reading court in the middle, no people. Use warm amber lantern light, deep teal shadows, graphite linework, ivory signs, restrained coral QA warning marks. Make it visually rich and distinct from AI sports posters or generic dramatic posters.\n\nSafety and rights: fictional location only, no real brands, no trademarks, no public figures, no politics, no elections, no dangerous instructions, no adult or explicit content, no gore or violence, no copyrighted characters, no living-artist style imitation, no source image reuse, no watermark.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt_with_external_pattern_research",
+        "sourceNote": "Created after a fresh external source sweep. External sources informed only abstract patterns around gallery metadata, production use-case taxonomy, perspective/composition prompting, compositional benchmark checks, creator workflows, and anti-homogeneity failure modes. No external prompt text, image, source image, brand, character, artwork, or protected style was reused."
+      },
+      "promptSources": [
+        {
+          "title": "Introducing ArtPrompt: Your Free Professional AI Image Prompt Library",
+          "url": "https://artprompt.org/blog/introducing-artprompt",
+          "authorOrPublisher": "ArtPrompt / Nick Jonson",
+          "license": "site says prompts are free to use, but treated as unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "gallery_metadata_pattern / community_workflow_scan"
+        },
+        {
+          "title": "AI Image Generation API: GPT Image 2 Review, Real-World Use Cases 2026",
+          "url": "https://blog.segmind.com/ai-image-generation-api-gpt-image-2-review-real-world-use-cases-2026/",
+          "authorOrPublisher": "Segmind / Rohit Rao",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "use_case_taxonomy / multilingual_text_failure_mode / production_context"
+        },
+        {
+          "title": "AI Image Generation Prompt Book",
+          "url": "https://getimg.ai/guides/ai-image-generation-prompt-book",
+          "authorOrPublisher": "getimg.ai",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "prompt_pattern_inspiration / composition_prompting"
+        },
+        {
+          "title": "GenAI-Bench: Evaluating and Improving Compositional Text-to-Visual Generation",
+          "url": "https://huggingface.co/datasets/BaiqiL/GenAI-Bench",
+          "authorOrPublisher": "Baiqi Li, Zhiqiu Lin, Deepak Pathak, Jiayao Li, Yixin Fei, Kewen Wu, Tiffany Ling, Xide Xia, Pengchuan Zhang, Graham Neubig, Deva Ramanan / Hugging Face",
+          "license": "dataset page terms vary; no prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "benchmark_dataset / compositional_evaluation / failure_mode_scan"
+        },
+        {
+          "title": "AI Art Generator: Free AI Image, Video & Audio Generator",
+          "url": "https://openart.dev/",
+          "authorOrPublisher": "OpenArt",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "workflow_inspiration / visual_story_pipeline_scan"
+        },
+        {
+          "title": "ChatGPT Images 2.0 has people declaring the death of graphic design... again",
+          "url": "https://www.creativebloq.com/design/graphic-design/chatgpt-images-2-0-has-people-declaring-the-death-of-graphic-design-again",
+          "authorOrPublisher": "Creative Bloq / Daniel John",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "trend_scan / visual_homogeneity_failure_mode"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Automation is instructed to avoid political, harmful, sexual, explicit, and graphic-violence content before publishing."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dcc24-c760-7823-9545-dc3a05426867/ig_01c4c42e752a344d0169eea24d7b6481978a2179dd95a63477.png"
+    },
+    {
       "title": "Derived Play: Speech Bubble Domino",
       "caption": "从 Dialogue Comic Tutor 派生出的平面课堂玩法：玩家连接 Tea?、Yes、谢谢、Thanks speech-bubble domino tiles，按 Match、Tone、Face、Panel 规则修复四格 cafe 漫画，并用 Swap 与 PASS 检查短文本、语气、角色一致性和 panel 顺序。",
       "path": "assets/images/231-derived-play-speech-bubble-domino.png",
