@@ -18,6 +18,186 @@
   },
   "images": [
     {
+      "title": "Derived Play: Speech Bubble Domino",
+      "caption": "从 Dialogue Comic Tutor 派生出的平面课堂玩法：玩家连接 Tea?、Yes、谢谢、Thanks speech-bubble domino tiles，按 Match、Tone、Face、Panel 规则修复四格 cafe 漫画，并用 Swap 与 PASS 检查短文本、语气、角色一致性和 panel 顺序。",
+      "path": "assets/images/231-derived-play-speech-bubble-domino.png",
+      "alt": "Square printable classroom game mat titled Derived Play: Speech Bubble Domino with cafe comic windows, speech bubble domino path, swap correction arrow, match tone face panel checks, and PASS badge",
+      "width": 1254,
+      "height": 1254,
+      "createdAt": "2026-04-27 06:39:04",
+      "batch": "019dcbed-5926-7502-a789-5804920cf44f",
+      "tags": [
+        "speech-bubble-domino",
+        "derived-play",
+        "language-learning",
+        "printable-game-mat",
+        "bilingual-text",
+        "comic-consistency",
+        "text-correction",
+        "classroom-worksheet",
+        "compositional-evaluation",
+        "batch-019dcbed"
+      ],
+      "prompt": "Use case: scientific-educational / derived play mechanic: speech-bubble-domino\nAsset type: public gallery concept image, square printable classroom game mat\nPrimary request: Create one polished concept image titled exactly \"Derived Play: Speech Bubble Domino\". Derive a playable language-learning prompt game from Dialogue Comic Tutor: players connect short dialogue domino tiles to repair a fictional four-panel cafe comic while preserving character identity and readable bilingual text.\n\nOutput format: one square 1:1 printable game mat / classroom activity sheet, not a physical tabletop product photo, not a device, not a tray, not a lab bench, not a 2x3 research board, not a contact sheet. The page should feel like a complete flat educational activity graphic.\n\nScene/backdrop: clean ivory paper game mat with a winding domino path around four small comic windows from an imaginary unbranded cafe. Use the same fictional adult characters from the tutor concept: Mara, a barista with short black hair and green apron, and Niko, a visitor with round glasses and yellow scarf. Keep the characters consistent but simplified in the small windows.\n\nGameplay mechanism: illustrated speech-bubble domino tiles sit along a path. Players must match intent, language, and panel order. A wrong tile is shown with a tiny coral \"swap\" arrow; the correct tile snaps into place. Include small rule icons for text accuracy, tone, face consistency, panel order, and pass scoring.\n\nExact readable text to render, keep short: title \"Derived Play: Speech Bubble Domino\"; tile text \"Tea?\", \"Yes\", \"谢谢\", \"Thanks\", \"Swap\", \"Match\", \"Tone\", \"Face\", \"Panel\", \"PASS\"; corner label \"Round 2\". Do not add random placeholder text.\n\nVisual style: crisp contemporary educational illustration, flat printable worksheet design with polished UI-like clarity, clean ink line, soft watercolor spot art, strong accessible contrast, graphite text, teal path, saffron success chips, coral swap mark, rounded speech bubbles. Use a more playful game layout than the tutor worksheet, but no real brands, no famous characters, no public figures, no politics, no adult content, no violence, no dangerous instructions, no copyrighted characters, no living-artist style imitation, no watermark.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt_with_external_pattern_research",
+        "sourceNote": "Derived locally from Dialogue Comic Tutor after a fresh external source sweep. External sources informed only abstract patterns around gallery task categories, reusable prompt fields, picture-book continuity, text-placement failure modes, compositional evaluation, and prompt specificity. No external prompt text, image, source image, brand, character, artwork, or protected style was reused."
+      },
+      "promptSources": [
+        {
+          "title": "GPT Image 2 Prompt Gallery: 2085 Copyable Image Prompts",
+          "url": "https://gptimg2.art/prompts/gpt-image-2",
+          "authorOrPublisher": "GPT Image 2 / gptimg2.art",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "trend_scan / gallery_category_pattern"
+        },
+        {
+          "title": "MY PROMPT STRUCTURE",
+          "url": "https://civitai.red/articles/11959/my-prompt-structure",
+          "authorOrPublisher": "Civitai community article",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "prompt_pattern_inspiration / workflow_inspiration"
+        },
+        {
+          "title": "Best Picture Books Ideas for Authors and Artists to Use with AI Image Generators",
+          "url": "https://nightcafe.studio/blogs/info/best-picture-books-ideas-for-authors-and-artists-to-use-with-ai-image-generators",
+          "authorOrPublisher": "NightCafe",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "story_format_reference / educational_output_inspiration"
+        },
+        {
+          "title": "ConceptMix: A Compositional Image Generation Benchmark with Controllable Difficulty",
+          "url": "https://openreview.net/forum?id=2UWnlxVNPz",
+          "authorOrPublisher": "Xindi Wu, Dingli Yu, Yangsibo Huang, Olga Russakovsky, Sanjeev Arora / OpenReview",
+          "license": "CC BY 4.0",
+          "accessedAt": "2026-04-27",
+          "usedAs": "benchmark_dataset / compositional_evaluation / failure_mode_scan"
+        },
+        {
+          "title": "Prompt Engineering for Text-in-Image: Complete Guide 2026",
+          "url": "https://glmimage.app/blog/text-in-image-prompts",
+          "authorOrPublisher": "GLM-Image Team / glmimage.app",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "typography_failure_mode / prompt_pattern_inspiration"
+        },
+        {
+          "title": "I upgraded my AI image prompts using Gemini's advice - specifying lighting, layouts, and even fonts changed everything",
+          "url": "https://www.techradar.com/ai-platforms-assistants/gemini/i-upgraded-my-ai-image-prompts-using-geminis-advice-specifying-lighting-layouts-and-even-fonts-changed-everything",
+          "authorOrPublisher": "TechRadar / Lance Ulanoff",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "trend_scan / prompt_specificity_pattern"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Automation is instructed to avoid political, harmful, sexual, explicit, and graphic-violence content before publishing."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dcbed-5926-7502-a789-5804920cf44f/ig_0e4bcd25d77344ab0169ee93b44fa881949909d87b2a45f0f7.png"
+    },
+    {
+      "title": "Use Case: Dialogue Comic Tutor",
+      "caption": "一个 GPT Image 2 语言学习玩法：把虚构 Blue Cup Room cafe 场景变成四格双语练习漫画，用 Tea?、Yes、谢谢、Thanks 和 Text、Tone、Face、Panel、PASS 检查短文本渲染、气泡修复、人物一致性和 panel 顺序。",
+      "path": "assets/images/232-use-case-dialogue-comic-tutor.png",
+      "alt": "Vertical printable educational worksheet titled Use Case Dialogue Comic Tutor with four cafe comic panels, bilingual speech bubbles, correction arrow, and Text Tone Face Panel PASS checklist",
+      "width": 1024,
+      "height": 1536,
+      "createdAt": "2026-04-27 06:37:40",
+      "batch": "019dcbed-5926-7502-a789-5804920cf44f",
+      "tags": [
+        "dialogue-comic-tutor",
+        "use-case",
+        "language-learning",
+        "educational-comic",
+        "bilingual-text",
+        "speech-bubble-repair",
+        "character-consistency",
+        "printable-worksheet",
+        "text-rendering",
+        "batch-019dcbed"
+      ],
+      "prompt": "Use case: scientific-educational\nAsset type: public gallery concept image, vertical 4:5 printable classroom worksheet\nPrimary request: Create one polished concept image titled exactly \"Use Case: Dialogue Comic Tutor\". Show GPT Image 2 as a safe language-learning workflow that turns a tiny fictional cafe scene into a clear four-panel bilingual practice comic with readable short text and correction checkpoints.\n\nOutput format: one vertical 4:5 printable worksheet page, not a physical tabletop object, not a device, not a tray, not a lab bench, not a contact sheet, not a 2x3 research board. It should look like a finished educational handout that could hang on a classroom wall.\n\nScene/backdrop: clean ivory paper worksheet with four comic panels arranged as a flowing page, plus a narrow right-side checklist column. The comic is set in an imaginary unbranded community cafe called \"Blue Cup Room\". Use only fictional adult characters: Mara, a barista with short black hair and a green apron, and Niko, a visitor with round glasses and a yellow scarf. Keep both characters consistent across panels.\n\nPanel story: Panel 1, Niko enters and points at the menu. Panel 2, Mara offers tea. Panel 3, a speech bubble is corrected with a small edit mark. Panel 4, both smile at a table with the final corrected dialogue visible.\n\nExact readable text to render, keep short: title \"Use Case: Dialogue Comic Tutor\"; panel labels \"1\", \"2\", \"3\", \"4\"; speech bubbles \"Tea?\", \"Yes\", \"谢谢\", \"Thanks\"; checklist labels \"Text\", \"Tone\", \"Face\", \"Panel\", \"PASS\"; cafe sign \"Blue Cup Room\". Do not add random placeholder text.\n\nGPT Image play mechanism shown visually: tiny colored check chips next to each panel mark text accuracy, tone consistency, face consistency, panel order, and final pass. Show a small before/after speech bubble in panel 3 where a garbled bubble becomes \"谢谢\" using a clean edit arrow. The worksheet should make the workflow understandable at a glance without long explanation.\n\nVisual style: contemporary educational comic illustration, warm but not childish, clean ink line, soft watercolor fills, clear white speech bubbles, accessible contrast, generous margins, graphite text, teal and saffron accents, small coral correction mark. Avoid purple-dominant gradients, decorative blobs, fake brand logos, real trademarks, famous characters, celebrity likenesses, political content, adult content, violence, medical/legal claims, dangerous instructions, living-artist style imitation, watermark.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt_with_external_pattern_research",
+        "sourceNote": "Created after a fresh external source sweep. External sources informed only abstract patterns around gallery task categories, reusable prompt fields, picture-book continuity, text-placement failure modes, compositional evaluation, and prompt specificity. No external prompt text, image, source image, brand, character, artwork, or protected style was reused."
+      },
+      "promptSources": [
+        {
+          "title": "GPT Image 2 Prompt Gallery: 2085 Copyable Image Prompts",
+          "url": "https://gptimg2.art/prompts/gpt-image-2",
+          "authorOrPublisher": "GPT Image 2 / gptimg2.art",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "trend_scan / gallery_category_pattern"
+        },
+        {
+          "title": "MY PROMPT STRUCTURE",
+          "url": "https://civitai.red/articles/11959/my-prompt-structure",
+          "authorOrPublisher": "Civitai community article",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "prompt_pattern_inspiration / workflow_inspiration"
+        },
+        {
+          "title": "Best Picture Books Ideas for Authors and Artists to Use with AI Image Generators",
+          "url": "https://nightcafe.studio/blogs/info/best-picture-books-ideas-for-authors-and-artists-to-use-with-ai-image-generators",
+          "authorOrPublisher": "NightCafe",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "story_format_reference / educational_output_inspiration"
+        },
+        {
+          "title": "ConceptMix: A Compositional Image Generation Benchmark with Controllable Difficulty",
+          "url": "https://openreview.net/forum?id=2UWnlxVNPz",
+          "authorOrPublisher": "Xindi Wu, Dingli Yu, Yangsibo Huang, Olga Russakovsky, Sanjeev Arora / OpenReview",
+          "license": "CC BY 4.0",
+          "accessedAt": "2026-04-27",
+          "usedAs": "benchmark_dataset / compositional_evaluation / failure_mode_scan"
+        },
+        {
+          "title": "Prompt Engineering for Text-in-Image: Complete Guide 2026",
+          "url": "https://glmimage.app/blog/text-in-image-prompts",
+          "authorOrPublisher": "GLM-Image Team / glmimage.app",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "typography_failure_mode / prompt_pattern_inspiration"
+        },
+        {
+          "title": "I upgraded my AI image prompts using Gemini's advice - specifying lighting, layouts, and even fonts changed everything",
+          "url": "https://www.techradar.com/ai-platforms-assistants/gemini/i-upgraded-my-ai-image-prompts-using-geminis-advice-specifying-lighting-layouts-and-even-fonts-changed-everything",
+          "authorOrPublisher": "TechRadar / Lance Ulanoff",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "trend_scan / prompt_specificity_pattern"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Automation is instructed to avoid political, harmful, sexual, explicit, and graphic-violence content before publishing."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dcbed-5926-7502-a789-5804920cf44f/ig_0e4bcd25d77344ab0169ee9371a1c88194941fe18af18cc879.png"
+    },
+    {
       "title": "Derived Play: Clause Transfer Rally",
       "caption": "从 Prompt Clause Transit Map 派生出的玩法：玩家把 Subject、Setting、Relation、Format、Safety、Revision clause cards 放到对应线路，在 Relation Hub 换乘，修复 negation 与 count 警告，最后用 PASS 与 Score 12 检查一个虚构 Lantern Orchard prompt 是否能到达 Final Render。",
       "path": "assets/images/229-derived-play-clause-transfer-rally.png",

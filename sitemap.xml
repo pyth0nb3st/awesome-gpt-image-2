@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/231-derived-play-speech-bubble-domino.png</image:loc>
+      <image:title>Derived Play: Speech Bubble Domino</image:title>
+      <image:caption>Use case: scientific-educational / derived play mechanic: speech-bubble-domino Asset type: public gallery concept image, square printable classroom game mat Primary request: Create one polished concept image titled exactly &quot;Derived Play: S...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/232-use-case-dialogue-comic-tutor.png</image:loc>
+      <image:title>Use Case: Dialogue Comic Tutor</image:title>
+      <image:caption>Use case: scientific-educational Asset type: public gallery concept image, vertical 4:5 printable classroom worksheet Primary request: Create one polished concept image titled exactly &quot;Use Case: Dialogue Comic Tutor&quot;. Show GPT Image 2 as a...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/229-derived-play-clause-transfer-rally.png</image:loc>
       <image:title>Derived Play: Clause Transfer Rally</image:title>
       <image:caption>Create one polished public-gallery concept image titled exactly &quot;Derived Play: Clause Transfer Rally&quot;. Output format: one vertical 9:16 playable rules poster / fictional creative challenge screen, not a physical board game photo, not a tab...</image:caption>
@@ -1107,6 +1117,28 @@
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/231-derived-play-speech-bubble-domino/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/231-derived-play-speech-bubble-domino.png</image:loc>
+      <image:title>Derived Play: Speech Bubble Domino</image:title>
+      <image:caption>Use case: scientific-educational / derived play mechanic: speech-bubble-domino Asset type: public gallery concept image, square printable classroom game mat Primary request: Create one polished concept image titled exactly &quot;Derived Play: S...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/232-use-case-dialogue-comic-tutor/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/232-use-case-dialogue-comic-tutor.png</image:loc>
+      <image:title>Use Case: Dialogue Comic Tutor</image:title>
+      <image:caption>Use case: scientific-educational Asset type: public gallery concept image, vertical 4:5 printable classroom worksheet Primary request: Create one polished concept image titled exactly &quot;Use Case: Dialogue Comic Tutor&quot;. Show GPT Image 2 as a...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/229-derived-play-clause-transfer-rally/</loc>
@@ -3633,13 +3665,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/crop-gate/</loc>
+    <loc>https://gptimg2.best/tags/derived-play/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/derived-play/</loc>
+    <loc>https://gptimg2.best/tags/crop-gate/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3652,6 +3684,12 @@
   </url>
   <url>
     <loc>https://gptimg2.best/tags/arrow-edit/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/bilingual-text/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3706,6 +3744,12 @@
   </url>
   <url>
     <loc>https://gptimg2.best/tags/fold-vent/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/language-learning/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3778,6 +3822,12 @@
   </url>
   <url>
     <loc>https://gptimg2.best/tags/ui-fiction-simulator/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/use-case/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>

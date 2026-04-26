@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/231-derived-play-speech-bubble-domino.png": {
+      "path": "assets/thumbs/231-derived-play-speech-bubble-domino.jpg",
+      "width": 768,
+      "height": 768
+    },
+    "assets/images/232-use-case-dialogue-comic-tutor.png": {
+      "path": "assets/thumbs/232-use-case-dialogue-comic-tutor.jpg",
+      "width": 768,
+      "height": 1152
+    },
     "assets/images/229-derived-play-clause-transfer-rally.png": {
       "path": "assets/thumbs/229-derived-play-clause-transfer-rally.jpg",
       "width": 768,
