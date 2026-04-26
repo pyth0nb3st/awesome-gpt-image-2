@@ -18,6 +18,93 @@
   },
   "images": [
     {
+      "title": "Derived Play: Fold Rise Rally",
+      "caption": "从层压提示台派生出的圆形冷却架接力玩法：玩家抽 Fold Tile、叠 Context Layer、花 Butter Token、放 Steam Edit、关 Crumb Mask、对 Pan Hoop、贴 Caption Score、选 Glaze Chip，只有所有琥珀月牙窗仍然匹配时才能敲响 Rise Check。",
+      "path": "assets/images/203-derived-play-fold-rise-rally.png",
+      "alt": "Square overhead product photograph of a round cooling-rack tabletop rally with crescent layer tiles, context layers, butter tokens, steam edit tabs, crumb mask gates, pan hoops, caption score strips, glaze chips, and rise check bell",
+      "width": 1254,
+      "height": 1254,
+      "createdAt": "2026-04-26 08:12:42",
+      "batch": "019dc71d-7216-7290-b58a-abdf3e5140ff",
+      "tags": [
+        "fold-rise-rally",
+        "fold-tile",
+        "context-layer",
+        "butter-token",
+        "steam-edit",
+        "crumb-mask",
+        "pan-hoop",
+        "caption-score",
+        "glaze-chip",
+        "rise-check",
+        "batch-019dc71d"
+      ],
+      "prompt": "Create one polished public-gallery image titled \"Derived Play: Fold Rise Rally\".\n\nThis is a derived playable mode from Prompt Lamination Deck, but it must look like a different rules object: a cooperative tabletop fold-and-check rally using soft pastry-layer tiles and a circular cooling rack score path, not the same cutaway lamination deck, not a recipe, not a tasting menu, not a grid, not cards, not a contact sheet, not a rectangular board, not a proof press, not a loom, not a fossil drawer, not a wardrobe carousel, not a water basin, not a snowglobe rack, not a toy latch.\n\nOutput format: one 1:1 square overhead product photograph of a round wire cooling-rack arena on a neutral table. Inside are twelve soft crescent layer tiles, three pan-ratio hoops, crumb mask gates, steam edit tabs, tiny caption scoring strips, glaze chips, butter-reference tokens, and a small rise-check bell. The only motif is the invented amber crescent-window repeated on safe felt tokens. No people, no hands, no logos, no real bakery, no real recipe.\n\nPlayable rules shown through objects: players draft one Fold Tile, tuck it under one Context Layer, spend a Butter Token, place one Steam Edit tab, close one Crumb Mask gate, align one Pan Hoop, attach one Caption Score strip, choose one Glaze Chip, then ring the Rise Check bell only if all visible crescent-window motifs still match.\n\nReadable short labels: Fold Tile, Context Layer, Butter Token, Steam Edit, Crumb Mask, Pan Hoop, Caption Score, Glaze Chip, Rise Check. Visual language: premium tactile tabletop prototype, round stainless cooling rack, ivory felt pastry layers, amber windows, teal tokens, graphite labels, warm studio shadows, playful but sophisticated. Everything is fictional, original, unbranded, rights-safe, non-political, harmless, non-adult, and non-graphic. Avoid public figures, real brands, celebrity likenesses, copyrighted characters, explicit material, harmful instructions, weapons, gore, and living-artist style imitation.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original cooperative fold-and-check cooling-rack relay generated locally from the Prompt Lamination Deck concept. No external prompt, image, artwork, visual style, brand, character, case-study mechanic, source image, article, or repository was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Original fictional no-people tabletop cooling-rack game with soft felt crescent-layer tokens and harmless props only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc71d-7216-7290-b58a-abdf3e5140ff/ig_06d8759784f7c6e80169ed582be0c08190af9e2b206d12aa33.png"
+    },
+    {
+      "title": "Use Case Bakery: Prompt Lamination Deck",
+      "caption": "把 GPT Image 2 的提示设计做成虚构烘焙层压台：Starter Subject、Fold Context、Butter Reference、Steam Edit、Crumb Mask、Score Caption、Pan Ratio、Glaze Style 和 Rise Check 用软毡层片、琥珀月牙窗、遮片、比例框和评分条检查主体一致性、局部编辑、文字、构图与风格。",
+      "path": "assets/images/204-use-case-bakery-prompt-lamination-deck.png",
+      "alt": "Close macro product photograph of a fictional bakery lamination deck with felt pastry layers, amber crescent windows, fold context cards, butter reference swatches, steam edit tab, crumb mask shutters, score caption strips, pan ratio frames, glaze style chips, and rise check tray",
+      "width": 1448,
+      "height": 1086,
+      "createdAt": "2026-04-26 08:11:24",
+      "batch": "019dc71d-7216-7290-b58a-abdf3e5140ff",
+      "tags": [
+        "prompt-lamination-deck",
+        "bakery",
+        "starter-subject",
+        "fold-context",
+        "butter-reference",
+        "steam-edit",
+        "crumb-mask",
+        "score-caption",
+        "pan-ratio",
+        "glaze-style",
+        "rise-check",
+        "batch-019dc71d"
+      ],
+      "prompt": "Create one polished public-gallery concept image titled \"Use Case Bakery: Prompt Lamination Deck\".\n\nOutput format: a single 4:3 close macro product photograph of a fictional tabletop bakery lamination deck, not a grid, not a contact sheet, not a recipe card, not a tasting menu, not a proof press, not a loom, not a fossil drawer, not an ice core rack, not a wardrobe, not a water basin, not a snowglobe, not a toy latch, not an optical bench, not a greenhouse, not a music box, not a flipbook, not a board game.\n\nScene: one oversized cutaway laminated pastry model made from soft non-edible felt and waxed paper layers on a matte ceramic slab. The invented subject is a tiny amber crescent-window motif repeated in three crumb windows. Around it are harmless props: fold rulers, butter-reference swatches, steam edit tabs, crumb mask shutters, caption score strips, pan-ratio frames, glaze style chips, and a final rise-check tray. No people, no hands, no logos, no real bakery, no real recipe.\n\nMechanism: GPT Image 2 prompt design becomes a lamination quality deck. Readable labels: Starter Subject, Fold Context, Butter Reference, Steam Edit, Crumb Mask, Score Caption, Pan Ratio, Glaze Style, Rise Check. The subject must stay recognizable across layers; context appears as alternating folds; reference is a swatch card; local edit is one steam tab; exclusions are crumb mask shutters; text is tested by score strips; aspect is tested by pan frames; style is constrained by glaze chips; consistency is checked by the rise-check tray.\n\nVisual language: premium tactile studio photography, ivory felt layers, amber translucent windows, graphite ceramic slab, brass mini rulers, marigold and teal labels, crisp readable type, soft bakery-window light. Entire concept is fictional, original, unbranded, family-safe, non-graphic, and rights-safe. Avoid political content, public figures, real brands, celebrity likenesses, copyrighted characters, explicit material, harmful instructions, weapons, gore, and living-artist style imitation.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original fictional bakery-lamination prompt mechanism generated locally from existing-gallery gap analysis. External research was limited to high-level official OpenAI capability context; no external prompt, article, image, artwork, repository, brand, character, or case-study mechanic was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Original fictional no-people tabletop lamination artifact made from non-edible felt/waxed-paper props with an invented amber crescent-window motif only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc71d-7216-7290-b58a-abdf3e5140ff/ig_06d8759784f7c6e80169ed57f52ba881908ff1475261432c01.png"
+    },
+    {
       "title": "Derived Play: Settling Globe Relay",
       "caption": "从雪景球沉降室派生的五球接力玩法：玩家沿弧形架传递小球，花 Shake Token，调 Edit Flake、Mask Sleeve、Style Bead、Caption Tag 和 Crop Ring，等 Settling Timer 停下后用 Proof Loupe 检查同一座三拱月港是否仍然可识别。",
       "path": "assets/images/201-derived-play-settling-globe-relay.png",

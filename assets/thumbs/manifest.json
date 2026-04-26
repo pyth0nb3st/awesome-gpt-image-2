@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/203-derived-play-fold-rise-rally.png": {
+      "path": "assets/thumbs/203-derived-play-fold-rise-rally.jpg",
+      "width": 768,
+      "height": 768
+    },
+    "assets/images/204-use-case-bakery-prompt-lamination-deck.png": {
+      "path": "assets/thumbs/204-use-case-bakery-prompt-lamination-deck.jpg",
+      "width": 768,
+      "height": 576
+    },
     "assets/images/201-derived-play-settling-globe-relay.png": {
       "path": "assets/thumbs/201-derived-play-settling-globe-relay.jpg",
       "width": 768,
