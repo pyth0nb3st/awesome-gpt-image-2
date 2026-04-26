@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/209-derived-play-safelight-dodge-relay.png": {
+      "path": "assets/thumbs/209-derived-play-safelight-dodge-relay.jpg",
+      "width": 768,
+      "height": 960
+    },
+    "assets/images/210-use-case-darkroom-prompt-exposure-strip.png": {
+      "path": "assets/thumbs/210-use-case-darkroom-prompt-exposure-strip.jpg",
+      "width": 768,
+      "height": 256
+    },
     "assets/images/207-derived-play-cushion-stack-trial.png": {
       "path": "assets/thumbs/207-derived-play-cushion-stack-trial.jpg",
       "width": 768,

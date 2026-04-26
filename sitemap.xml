@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/209-derived-play-safelight-dodge-relay.png</image:loc>
+      <image:title>Derived Play: Safelight Dodge Relay</image:title>
+      <image:caption>Derived Play: Safelight Dodge Relay. Make one vertical 4:5 overhead-oblique product photograph of a circular black enamel enlarger-timer arena. It uses amber light windows, crescent dodge paddles, matte burn blocks, pearl exposure tokens,...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/210-use-case-darkroom-prompt-exposure-strip.png</image:loc>
+      <image:title>Use Case Darkroom: Prompt Exposure Strip</image:title>
+      <image:caption>Use Case Darkroom: Prompt Exposure Strip. Make one 3:1 ultra-wide analog darkroom bench photograph under amber safelight. A single curled pearl photo-paper test strip crosses shallow developer trays and shows an abstract silver window moth...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/207-derived-play-cushion-stack-trial.png</image:loc>
       <image:title>Derived Play: Cushion Stack Trial</image:title>
       <image:caption>Create one polished public-gallery image titled &quot;Derived Play: Cushion Stack Trial&quot;. It is derived from Prompt Crate Test but must become a different playable object: a cooperative tabletop stacking-and-inspection challenge using modular c...</image:caption>
@@ -1017,6 +1027,28 @@
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/209-derived-play-safelight-dodge-relay/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/209-derived-play-safelight-dodge-relay.png</image:loc>
+      <image:title>Derived Play: Safelight Dodge Relay</image:title>
+      <image:caption>Derived Play: Safelight Dodge Relay. Make one vertical 4:5 overhead-oblique product photograph of a circular black enamel enlarger-timer arena. It uses amber light windows, crescent dodge paddles, matte burn blocks, pearl exposure tokens,...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/210-use-case-darkroom-prompt-exposure-strip/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/210-use-case-darkroom-prompt-exposure-strip.png</image:loc>
+      <image:title>Use Case Darkroom: Prompt Exposure Strip</image:title>
+      <image:caption>Use Case Darkroom: Prompt Exposure Strip. Make one 3:1 ultra-wide analog darkroom bench photograph under amber safelight. A single curled pearl photo-paper test strip crosses shallow developer trays and shows an abstract silver window moth...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/207-derived-play-cushion-stack-trial/</loc>
@@ -3352,6 +3384,12 @@
   </url>
   <url>
     <loc>https://gptimg2.best/tags/arrow-edit/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/burn-block/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>

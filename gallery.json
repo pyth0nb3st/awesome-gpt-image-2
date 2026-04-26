@@ -18,6 +18,94 @@
   },
   "images": [
     {
+      "title": "Derived Play: Safelight Dodge Relay",
+      "caption": "从暗房曝光试条派生的计时遮光接力：玩家转 Safelight Dial、推 Dodge Paddle、落 Burn Block、花 Exposure Token、夹 Fix Clip、穿 Aperture Gate、换 Tone Filter，三口 Proof Well 里银色窗蛾仍一致才得分。",
+      "path": "assets/images/209-derived-play-safelight-dodge-relay.png",
+      "alt": "Vertical overhead-oblique tabletop safelight timer game with circular black enamel arena, amber light windows, dodge paddles, burn blocks, exposure tokens, fix clips, aperture gate, tone filter chips, timer bead, three proof wells, and silver window moth tokens",
+      "width": 1122,
+      "height": 1402,
+      "createdAt": "2026-04-26 09:11:00",
+      "batch": "019dc754-62d4-7c61-ace5-5fdd771b5079",
+      "tags": [
+        "safelight-dodge-relay",
+        "darkroom-game",
+        "safelight-dial",
+        "dodge-paddle",
+        "burn-block",
+        "exposure-token",
+        "fix-clip",
+        "aperture-gate",
+        "tone-filter",
+        "timer-bead",
+        "proof-wells",
+        "batch-019dc754"
+      ],
+      "prompt": "Derived Play: Safelight Dodge Relay. Make one vertical 4:5 overhead-oblique product photograph of a circular black enamel enlarger-timer arena. It uses amber light windows, crescent dodge paddles, matte burn blocks, pearl exposure tokens, metal fix clips, an aperture gate, tone-filter chips, a falling timer bead, and three proof wells holding abstract silver window moth tokens. Visible labels: Safelight Dial, Dodge Paddle, Burn Block, Exposure Token, Fix Clip, Aperture Gate, Tone Filter, Timer Bead, Proof Wells. This is a playable tabletop light-and-mask timing challenge, not the earlier darkroom bench and not a grid, contact sheet, cards, crate, concourse, bakery deck, snowglobe rack, water basin, wardrobe carousel, fossil drawer, latch, loom, proof press, music box, optics bench, film stage, seismograph, or sand tray. No people, logos, real brands, or real animals.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original timed safelight dodge game derived locally from the Prompt Exposure Strip concept. External research was limited to general capability context and did not provide prompt text, image references, artwork, visual style, brand, character, repository, source image, or case-study mechanic."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Original fictional no-people tabletop darkroom timer game using abstract paper tokens, light windows, masks, and proof wells only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc754-62d4-7c61-ace5-5fdd771b5079/ig_07c25c2f55f158910169ed6618d95c8193ae3367e21e1683bd.png"
+    },
+    {
+      "title": "Use Case Darkroom: Prompt Exposure Strip",
+      "caption": "把 GPT Image 2 的一致性、局部编辑、文字和画幅控制转成暗房曝光校样：Seed Light、Context Bath、Reference Negative、Dodge Edit、Burn Block、Caption Fix、Crop Easel、Style Filter、Exposure Proof 沿一条卷曲相纸试条检查同一个虚构银色窗蛾图案。",
+      "path": "assets/images/210-use-case-darkroom-prompt-exposure-strip.png",
+      "alt": "Ultra-wide amber safelight darkroom bench with curled pearl photo-paper exposure strip, developer trays, acetate dodge masks, exposure dials, crop easel shutters, caption tabs, filter chips, wax seals, and repeated abstract silver window moth motif",
+      "width": 2172,
+      "height": 724,
+      "createdAt": "2026-04-26 09:10:00",
+      "batch": "019dc754-62d4-7c61-ace5-5fdd771b5079",
+      "tags": [
+        "prompt-exposure-strip",
+        "darkroom",
+        "seed-light",
+        "context-bath",
+        "reference-negative",
+        "dodge-edit",
+        "burn-block",
+        "caption-fix",
+        "crop-easel",
+        "style-filter",
+        "exposure-proof",
+        "batch-019dc754"
+      ],
+      "prompt": "Use Case Darkroom: Prompt Exposure Strip. Make one 3:1 ultra-wide analog darkroom bench photograph under amber safelight. A single curled pearl photo-paper test strip crosses shallow developer trays and shows an abstract silver window moth repeated across exposure zones. Surrounding props are acetate dodge masks, burn shutters, an easel gate, tone filters, tiny timing beads, caption fixer tabs, and wax source seals. Readable labels: Seed Light, Context Bath, Reference Negative, Dodge Edit, Burn Block, Caption Fix, Crop Easel, Style Filter, Exposure Proof. Keep it no-people, unbranded, fictional, tactile, and not a grid, board, card spread, contact sheet, crate, concourse, bakery deck, snowglobe, water basin, wardrobe, fossil drawer, latch, loom, proof press, music box, optics bench, film stage, seismograph, or sand tray.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original fictional darkroom exposure-strip prompt mechanism generated locally from existing-gallery gap analysis. External research was limited to general GPT Image 2 capability context and did not provide prompt text, image references, artwork, visual style, brand, character, repository, source image, or case-study mechanic."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Original fictional no-people analog darkroom calibration artifact using abstract paper imagery, trays, masks, and labels only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc754-62d4-7c61-ace5-5fdd771b5079/ig_07c25c2f55f158910169ed65e593208193a9b0ae730734a9cf.png"
+    },
+    {
       "title": "Derived Play: Cushion Stack Trial",
       "caption": "从包装验收箱派生出的合作堆叠玩法：玩家围绕蓝色缎带棱镜放置 Cushion Blocks、旋转 Context Corners、滑入 Edit Tile、使用 Void Plug、贴 Caption Ticket、穿过 Aspect Hoop、套 Style Sleeve，并移动 Tilt Token；只有到货放大镜里主体仍居中一致才得 Arrival Proof。",
       "path": "assets/images/207-derived-play-cushion-stack-trial.png",
