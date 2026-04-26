@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/211-derived-play-dot-trail-relay.png": {
+      "path": "assets/thumbs/211-derived-play-dot-trail-relay.jpg",
+      "width": 768,
+      "height": 308
+    },
+    "assets/images/212-use-case-tactile-prompt-dot-proof.png": {
+      "path": "assets/thumbs/212-use-case-tactile-prompt-dot-proof.jpg",
+      "width": 768,
+      "height": 1364
+    },
     "assets/images/209-derived-play-safelight-dodge-relay.png": {
       "path": "assets/thumbs/209-derived-play-safelight-dodge-relay.jpg",
       "width": 768,

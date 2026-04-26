@@ -18,6 +18,94 @@
   },
   "images": [
     {
+      "title": "Derived Play: Dot Trail Relay",
+      "caption": "从触感凸点校样派生的盲测绳路接力：玩家沿三条凸点绳传递 opal seed comma，套 Texture Sleeve、夹 Context Knot、花 Pressure Coin、推 Edit Gate、用 Exclusion Mitt 遮住干扰，最终在 Blind Proof 暗舱里摸到同一个三点新月纹才得分。",
+      "path": "assets/images/211-derived-play-dot-trail-relay.png",
+      "alt": "Panoramic tactile path relay lane with braided raised-dot cords, translucent arch gates, opal comma tokens, brass clips, pressure coins, caption tabs, crop window, relay score card, and a hidden blind proof alcove",
+      "width": 1983,
+      "height": 793,
+      "createdAt": "2026-04-26 09:31:00",
+      "batch": "019dc766-9fa5-79b3-b1db-59628b615c5c",
+      "tags": [
+        "dot-trail-relay",
+        "tactile-game",
+        "texture-sleeve",
+        "context-knot",
+        "pressure-coin",
+        "edit-gate",
+        "exclusion-mitt",
+        "caption-tab",
+        "crop-window",
+        "blind-proof",
+        "relay-score",
+        "batch-019dc766"
+      ],
+      "prompt": "Derived Play: Dot Trail Relay. Make one horizontal 5:2 panoramic low-oblique tabletop product photograph of a long felt relay lane with three braided raised-dot cords crossing under translucent arch gates. Include opal comma tokens, brass turn clips, pressure coins, caption tabs, crop windows, texture sleeves, and a final hidden proof alcove. Players pass the opal seed comma token along the cord lane, choose one Texture Sleeve, clip a Context Knot, spend a Pressure Coin, slide one Edit Gate, cover decoys with Exclusion Mitts, attach one Caption Tab, align a Crop Window, and score Blind Proof only if the same three raised pearl dots plus crescent ridge can be traced at the hidden alcove without breaking the path. Keep it fictional, no-people, unbranded, harmless, not a real tactile writing system, not a grid, not a contact sheet, not a music box cylinder, not an abacus, not a proof press, and not the same embossing workbench.",
+      "provenance": {
+        "status": "original_generated",
+        "generatedBy": "gpt-image-2-play automation",
+        "sourceNote": "Original tactile path-building relay derived locally from the Prompt Dot Proof concept. No external prompt, article, image, artwork, visual style, brand, character, repository, source image, or case-study mechanic was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "notes": [
+          "fictional_unbranded_artifact",
+          "no_real_tactile_writing_system",
+          "no_people_or_likenesses",
+          "no_external_references",
+          "no_political_or_adult_or_graphic_or_harmful_content"
+        ],
+        "reviewNote": "Original fictional no-people tactile relay artifact using abstract raised-dot cords, gates, tokens, and labels only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc766-9fa5-79b3-b1db-59628b615c5c/ig_04204ae1686db4e10169ed6aaed4908195b5ccb95b027060d7.png"
+    },
+    {
+      "title": "Use Case Tactile: Prompt Dot Proof",
+      "caption": "把 GPT Image 2 的一致性控制变成一台虚构触感凸点校样台：Seed Dot、Context Texture、Reference Pebble、Edit Press、Exclusion Sleeve、Caption Plate、Crop Frame、Pressure Gauge 和 Blind Proof 共同检查同一个 opal seed comma 是否在不同材质和压力下仍可辨认。",
+      "path": "assets/images/212-use-case-tactile-prompt-dot-proof.png",
+      "alt": "Vertical tactile proofing workbench with brass embossing table, curved raised-dot sample ribbons, reference pebble tokens, edit press, exclusion sleeve, pressure gauge, crop frame, blind proof tunnel, and repeated opal seed comma glyph",
+      "width": 941,
+      "height": 1672,
+      "createdAt": "2026-04-26 09:30:00",
+      "batch": "019dc766-9fa5-79b3-b1db-59628b615c5c",
+      "tags": [
+        "prompt-dot-proof",
+        "tactile-proof",
+        "seed-dot",
+        "context-texture",
+        "reference-pebble",
+        "edit-press",
+        "exclusion-sleeve",
+        "caption-plate",
+        "crop-frame",
+        "pressure-gauge",
+        "blind-proof",
+        "batch-019dc766"
+      ],
+      "prompt": "Use Case Tactile: Prompt Dot Proof. Make one vertical 9:16 tactile-proofing workbench photograph. A fictional brass-and-felt embossing table holds curved sample ribbons of raised dot patterns, silicone finger sleeves, one translucent blind-test tunnel, pressure beads, crop frames, caption plaques, reference pebble tokens, and a final matte-black proof window. The invented subject is an opal seed comma tactile glyph: three raised pearl dots with one crescent ridge, repeated consistently on each strip. Labels: Seed Dot, Context Texture, Reference Pebble, Edit Press, Exclusion Sleeve, Caption Plate, Crop Frame, Pressure Gauge, Blind Proof. The same tactile glyph must remain recognizable by sight and touch across texture changes, local press edits, covered marks, text plates, crop frames, relief-depth gauges, and blind proofing. Keep it fictional, no-people, unbranded, harmless, not a real tactile writing system, not a grid, not a contact sheet, not a music box cylinder, not an abacus, not a proof press, and not a library cabinet.",
+      "provenance": {
+        "status": "original_generated",
+        "generatedBy": "gpt-image-2-play automation",
+        "sourceNote": "Original fictional tactile proofing prompt mechanism generated locally from existing-gallery gap analysis. No external prompt, article, image, artwork, visual style, brand, character, repository, source image, or case-study mechanic was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "notes": [
+          "fictional_unbranded_artifact",
+          "no_real_tactile_writing_system",
+          "no_people_or_likenesses",
+          "no_external_references",
+          "no_political_or_adult_or_graphic_or_harmful_content"
+        ],
+        "reviewNote": "Original fictional no-people tactile proofing artifact using abstract raised-dot patterns, sleeves, gauges, and labels only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc766-9fa5-79b3-b1db-59628b615c5c/ig_04204ae1686db4e10169ed6a7e01a48195b0f2a4d1fbb93b49.png"
+    },
+    {
       "title": "Derived Play: Safelight Dodge Relay",
       "caption": "从暗房曝光试条派生的计时遮光接力：玩家转 Safelight Dial、推 Dodge Paddle、落 Burn Block、花 Exposure Token、夹 Fix Clip、穿 Aperture Gate、换 Tone Filter，三口 Proof Well 里银色窗蛾仍一致才得分。",
       "path": "assets/images/209-derived-play-safelight-dodge-relay.png",

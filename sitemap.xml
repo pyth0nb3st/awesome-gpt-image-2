@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/211-derived-play-dot-trail-relay.png</image:loc>
+      <image:title>Derived Play: Dot Trail Relay</image:title>
+      <image:caption>Derived Play: Dot Trail Relay. Make one horizontal 5:2 panoramic low-oblique tabletop product photograph of a long felt relay lane with three braided raised-dot cords crossing under translucent arch gates. Include opal comma tokens, brass...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/212-use-case-tactile-prompt-dot-proof.png</image:loc>
+      <image:title>Use Case Tactile: Prompt Dot Proof</image:title>
+      <image:caption>Use Case Tactile: Prompt Dot Proof. Make one vertical 9:16 tactile-proofing workbench photograph. A fictional brass-and-felt embossing table holds curved sample ribbons of raised dot patterns, silicone finger sleeves, one translucent blind...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/209-derived-play-safelight-dodge-relay.png</image:loc>
       <image:title>Derived Play: Safelight Dodge Relay</image:title>
       <image:caption>Derived Play: Safelight Dodge Relay. Make one vertical 4:5 overhead-oblique product photograph of a circular black enamel enlarger-timer arena. It uses amber light windows, crescent dodge paddles, matte burn blocks, pearl exposure tokens,...</image:caption>
@@ -1027,6 +1037,28 @@
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/211-derived-play-dot-trail-relay/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/211-derived-play-dot-trail-relay.png</image:loc>
+      <image:title>Derived Play: Dot Trail Relay</image:title>
+      <image:caption>Derived Play: Dot Trail Relay. Make one horizontal 5:2 panoramic low-oblique tabletop product photograph of a long felt relay lane with three braided raised-dot cords crossing under translucent arch gates. Include opal comma tokens, brass...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/212-use-case-tactile-prompt-dot-proof/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/212-use-case-tactile-prompt-dot-proof.png</image:loc>
+      <image:title>Use Case Tactile: Prompt Dot Proof</image:title>
+      <image:caption>Use Case Tactile: Prompt Dot Proof. Make one vertical 9:16 tactile-proofing workbench photograph. A fictional brass-and-felt embossing table holds curved sample ribbons of raised dot patterns, silicone finger sleeves, one translucent blind...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/209-derived-play-safelight-dodge-relay/</loc>
