@@ -6,14 +6,14 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://gptimg2.best/assets/images/219-derived-play-flat-swap-matinee.png</image:loc>
-      <image:title>Derived Play: Flat Swap Matinee</image:title>
-      <image:caption>Create one polished public-gallery image titled &quot;Derived Play: Flat Swap Matinee&quot;. It is derived from Prompt Puppet Flats but becomes a different playable object: a silent tabletop swap-and-reveal puzzle made from stacked paper scenery fla...</image:caption>
+      <image:loc>https://gptimg2.best/assets/images/221-derived-play-blotter-chorus.png</image:loc>
+      <image:title>Derived Play: Blotter Chorus</image:title>
+      <image:caption>Create one polished public-gallery image titled &quot;Derived Play: Blotter Chorus&quot;. It is derived from Prompt Blotter Organ but becomes a different playable object: a cooperative scent-path chorus game made from loose paper reed strips and cer...</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://gptimg2.best/assets/images/220-use-case-carton-theater-prompt-puppet-flats.png</image:loc>
-      <image:title>Use Case Carton Theater: Prompt Puppet Flats</image:title>
-      <image:caption>Create one polished public-gallery concept image titled &quot;Use Case Carton Theater: Prompt Puppet Flats&quot;. Output format: one vertical 5:7 product photograph of a fictional fold-open paper theater suitcase, photographed half-open on a matte t...</image:caption>
+      <image:loc>https://gptimg2.best/assets/images/222-use-case-scent-lab-prompt-blotter-organ.png</image:loc>
+      <image:title>Use Case Scent Lab: Prompt Blotter Organ</image:title>
+      <image:caption>Create one polished public-gallery concept image titled &quot;Use Case Scent Lab: Prompt Blotter Organ&quot;. Output format: one vertical 4:5 macro product photograph of a fictional perfume-blotter organ on a matte porcelain tray. The object is made...</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://gptimg2.best/assets/images/218-use-case-acoustics-prompt-resonance-shelf.png</image:loc>
@@ -1069,25 +1069,25 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/prompts/219-derived-play-flat-swap-matinee/</loc>
+    <loc>https://gptimg2.best/prompts/221-derived-play-blotter-chorus/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
-      <image:loc>https://gptimg2.best/assets/images/219-derived-play-flat-swap-matinee.png</image:loc>
-      <image:title>Derived Play: Flat Swap Matinee</image:title>
-      <image:caption>Create one polished public-gallery image titled &quot;Derived Play: Flat Swap Matinee&quot;. It is derived from Prompt Puppet Flats but becomes a different playable object: a silent tabletop swap-and-reveal puzzle made from stacked paper scenery fla...</image:caption>
+      <image:loc>https://gptimg2.best/assets/images/221-derived-play-blotter-chorus.png</image:loc>
+      <image:title>Derived Play: Blotter Chorus</image:title>
+      <image:caption>Create one polished public-gallery image titled &quot;Derived Play: Blotter Chorus&quot;. It is derived from Prompt Blotter Organ but becomes a different playable object: a cooperative scent-path chorus game made from loose paper reed strips and cer...</image:caption>
     </image:image>
   </url>
   <url>
-    <loc>https://gptimg2.best/prompts/220-use-case-carton-theater-prompt-puppet-flats/</loc>
+    <loc>https://gptimg2.best/prompts/222-use-case-scent-lab-prompt-blotter-organ/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
-      <image:loc>https://gptimg2.best/assets/images/220-use-case-carton-theater-prompt-puppet-flats.png</image:loc>
-      <image:title>Use Case Carton Theater: Prompt Puppet Flats</image:title>
-      <image:caption>Create one polished public-gallery concept image titled &quot;Use Case Carton Theater: Prompt Puppet Flats&quot;. Output format: one vertical 5:7 product photograph of a fictional fold-open paper theater suitcase, photographed half-open on a matte t...</image:caption>
+      <image:loc>https://gptimg2.best/assets/images/222-use-case-scent-lab-prompt-blotter-organ.png</image:loc>
+      <image:title>Use Case Scent Lab: Prompt Blotter Organ</image:title>
+      <image:caption>Create one polished public-gallery concept image titled &quot;Use Case Scent Lab: Prompt Blotter Organ&quot;. Output format: one vertical 4:5 macro product photograph of a fictional perfume-blotter organ on a matte porcelain tray. The object is made...</image:caption>
     </image:image>
   </url>
   <url>
@@ -3523,13 +3523,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/burn-block/</loc>
+    <loc>https://gptimg2.best/tags/blank-nose/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/caption-flag/</loc>
+    <loc>https://gptimg2.best/tags/burn-block/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3542,12 +3542,6 @@
   </url>
   <url>
     <loc>https://gptimg2.best/tags/caseback-seal/</loc>
-    <lastmod>2026-04-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gptimg2.best/tags/context-wing/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3571,31 +3565,31 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://gptimg2.best/tags/fold-vent/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://gptimg2.best/tags/locale-strip/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/omit-scrim/</loc>
+    <loc>https://gptimg2.best/tags/memory-drop/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/name-tab/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/photorealistic-natural/</loc>
-    <lastmod>2026-04-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gptimg2.best/tags/reference-mask/</loc>
-    <lastmod>2026-04-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gptimg2.best/tags/seed-flat/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>

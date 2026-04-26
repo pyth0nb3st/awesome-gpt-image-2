@@ -3,15 +3,15 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
-    "assets/images/219-derived-play-flat-swap-matinee.png": {
-      "path": "assets/thumbs/219-derived-play-flat-swap-matinee.jpg",
+    "assets/images/221-derived-play-blotter-chorus.png": {
+      "path": "assets/thumbs/221-derived-play-blotter-chorus.jpg",
       "width": 768,
-      "height": 432
+      "height": 768
     },
-    "assets/images/220-use-case-carton-theater-prompt-puppet-flats.png": {
-      "path": "assets/thumbs/220-use-case-carton-theater-prompt-puppet-flats.jpg",
+    "assets/images/222-use-case-scent-lab-prompt-blotter-organ.png": {
+      "path": "assets/thumbs/222-use-case-scent-lab-prompt-blotter-organ.jpg",
       "width": 768,
-      "height": 1344
+      "height": 960
     },
     "assets/images/218-use-case-acoustics-prompt-resonance-shelf.png": {
       "path": "assets/thumbs/218-use-case-acoustics-prompt-resonance-shelf.jpg",

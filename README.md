@@ -67,23 +67,19 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 
 ### Latest Play Tags
 
-- `flat-swap-matinee` - Derived Play: Flat Swap Matinee
-- `carton-theater-game` - Derived Play: Flat Swap Matinee
-- `seed-flat` - Derived Play: Flat Swap Matinee
-- `proscenium-dial` - Derived Play: Flat Swap Matinee
-- `context-wing` - Derived Play: Flat Swap Matinee
-- `reference-mask` - Derived Play: Flat Swap Matinee
-- `omit-scrim` - Derived Play: Flat Swap Matinee
-- `rewrite-clip` - Derived Play: Flat Swap Matinee
-- `caption-flag` - Derived Play: Flat Swap Matinee
-- `aspect-gate` - Derived Play: Flat Swap Matinee
-- `curtain-proof` - Derived Play: Flat Swap Matinee
-- `matinee-score` - Derived Play: Flat Swap Matinee
-- `prompt-puppet-flats` - Use Case Carton Theater: Prompt Puppet Flats
-- `carton-theater` - Use Case Carton Theater: Prompt Puppet Flats
-- `rewrite-slot` - Use Case Carton Theater: Prompt Puppet Flats
-- `aspect-fold` - Use Case Carton Theater: Prompt Puppet Flats
-- `texture-brads` - Use Case Carton Theater: Prompt Puppet Flats
+- `blotter-chorus` - Derived Play: Blotter Chorus
+- `scent-game` - Derived Play: Blotter Chorus
+- `reed-strip` - Derived Play: Blotter Chorus
+- `memory-drop` - Derived Play: Blotter Chorus
+- `blank-nose` - Derived Play: Blotter Chorus
+- `fold-vent` - Derived Play: Blotter Chorus
+- `name-tab` - Derived Play: Blotter Chorus
+- `finish-bell` - Derived Play: Blotter Chorus
+- `chorus-score` - Derived Play: Blotter Chorus
+- `prompt-blotter-organ` - Use Case Scent Lab: Prompt Blotter Organ
+- `scent-lab` - Use Case Scent Lab: Prompt Blotter Organ
+- `core-whiff` - Use Case Scent Lab: Prompt Blotter Organ
+- `mood-reed` - Use Case Scent Lab: Prompt Blotter Organ
 - `prompt-resonance-shelf` - Use Case Acoustics: Prompt Resonance Shelf
 - `acoustics` - Use Case Acoustics: Prompt Resonance Shelf
 - `seed-note` - Use Case Acoustics: Prompt Resonance Shelf
@@ -103,6 +99,10 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `caption-ping` - Derived Play: Baffle Tile Duet
 - `crop-gate` - Derived Play: Baffle Tile Duet
 - `listening-arc` - Derived Play: Baffle Tile Duet
+- `phase-proof` - Derived Play: Baffle Tile Duet
+- `duet-score` - Derived Play: Baffle Tile Duet
+- `dew-trace-curling` - Derived Play: Dew Trace Curling
+- `vapor-game` - Derived Play: Dew Trace Curling
 
 <details>
 <summary>All generated tags</summary>
@@ -131,19 +131,18 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `crop-gate` (3)
 - `sound-to-scene` (3)
 - `arrow-edit` (2)
+- `blank-nose` (2)
 - `burn-block` (2)
-- `caption-flag` (2)
 - `caption-tag` (2)
 - `caseback-seal` (2)
-- `context-wing` (2)
 - `crumb-mask` (2)
 - `distance-read` (2)
 - `edit-flake` (2)
+- `fold-vent` (2)
 - `locale-strip` (2)
-- `omit-scrim` (2)
+- `memory-drop` (2)
+- `name-tab` (2)
 - `photorealistic-natural` (2)
-- `reference-mask` (2)
-- `seed-flat` (2)
 - `silence-mask` (2)
 - `steam-edit` (2)
 - `style-sleeve` (2)
@@ -193,6 +192,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `blend-toll` (1)
 - `bloom-format-frame` (1)
 - `bloom-frame` (1)
+- `blotter-chorus` (1)
 - `border-context-locks` (1)
 - `boundary-edit` (1)
 - `brand-multiverse` (1)
@@ -223,6 +223,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `caption-compost-bin` (1)
 - `caption-embroidery` (1)
 - `caption-fix` (1)
+- `caption-flag` (1)
 - `caption-flutter-read` (1)
 - `caption-focus` (1)
 - `caption-furrow` (1)
@@ -250,8 +251,6 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `capture-detail` (1)
 - `cardboard-kit-forge` (1)
 - `carousel-turn` (1)
-- `carton-theater` (1)
-- `carton-theater-game` (1)
 - `cast-brush-rally` (1)
 - `cast-tray` (1)
 - `castle-context` (1)
@@ -295,6 +294,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `continuity-stack-check` (1)
 - `contour-brief` (1)
 - `core-memory` (1)
+- `core-whiff` (1)
 - `corner-rotate` (1)
 - `coupon-veto` (1)
 - `crank-pass` (1)
@@ -392,11 +392,11 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `field-notebook-plate` (1)
 - `field-spectrum` (1)
 - `filter-slide` (1)
+- `finish-bell` (1)
 - `finish-echo` (1)
 - `finish-swap` (1)
 - `fix-clip` (1)
 - `flap-block` (1)
-- `flat-swap-matinee` (1)
 - `flip-test` (1)
 - `floor-brief` (1)
 - `focus-card` (1)
@@ -547,6 +547,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `mood-acid` (1)
 - `mood-flip` (1)
 - `mood-mascot-mixer` (1)
+- `mood-reed` (1)
 - `mortise-lock` (1)
 - `mosaic-prompt-grammar` (1)
 - `motif-grain` (1)
@@ -627,6 +628,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `projection-score-window` (1)
 - `prompt-archaeology` (1)
 - `prompt-bead-ledger` (1)
+- `prompt-blotter-organ` (1)
 - `prompt-buoy-chain` (1)
 - `prompt-catalog-cabinet` (1)
 - `prompt-chess-composer` (1)
@@ -656,7 +658,6 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `prompt-origami-atlas` (1)
 - `prompt-pin-cylinder` (1)
 - `prompt-pressure-altimeter` (1)
-- `prompt-puppet-flats` (1)
 - `prompt-refraction-bench` (1)
 - `prompt-resonance-shelf` (1)
 - `prompt-seed-vault` (1)
@@ -666,7 +667,6 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `prompt-wardrobe-check` (1)
 - `proof-pull-critique` (1)
 - `prop-witness-check` (1)
-- `proscenium-dial` (1)
 - `prototype-punch-out-duel` (1)
 - `provenance-dye` (1)
 - `provenance-stamp` (1)
@@ -688,6 +688,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `recipe-reality-check` (1)
 - `recipe-to-comic` (1)
 - `red-pencil-auction` (1)
+- `reed-strip` (1)
 - `reef-blocker` (1)
 - `ref-weight` (1)
 - `reference-accession` (1)
@@ -727,9 +728,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `retake-slip` (1)
 - `return-pocket` (1)
 - `revision-click` (1)
-- `rewrite-clip` (1)
 - `rewrite-hoop` (1)
-- `rewrite-slot` (1)
 - `ridge-draft` (1)
 - `ridge-swap` (1)
 - `rights-safe-forme-lock` (1)
@@ -756,6 +755,8 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `scan-line-item` (1)
 - `scenario-switch` (1)
 - `scene-humidity` (1)
+- `scent-game` (1)
+- `scent-lab` (1)
 - `scent-palette-translator` (1)
 - `score-caption` (1)
 - `seal-cup` (1)
@@ -962,52 +963,50 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 
 ## Prompt Gallery
 
-### 001. Derived Play: Flat Swap Matinee
+### 001. Derived Play: Blotter Chorus
 
-![Derived Play: Flat Swap Matinee](assets/images/219-derived-play-flat-swap-matinee.png)
+![Derived Play: Blotter Chorus](assets/images/221-derived-play-blotter-chorus.png)
 
-**Tags:** `carton-theater-game` `context-wing` `flat-swap-matinee` `omit-scrim` `proscenium-dial` `reference-mask` `rewrite-clip` `seed-flat`
+**Tags:** `blank-nose` `blotter-chorus` `finish-bell` `fold-vent` `memory-drop` `name-tab` `reed-strip` `scent-game`
 
-**Prompt excerpt:** Create one polished public-gallery image titled "Derived Play: Flat Swap Matinee". It is derived from Prompt Puppet Flats but becomes a different playable object: a silent tabletop swap-and-reveal puzzle made from stacked paper scenery fla...
+**Prompt excerpt:** Create one polished public-gallery image titled "Derived Play: Blotter Chorus". It is derived from Prompt Blotter Organ but becomes a different playable object: a cooperative scent-path chorus game made from loose paper reed strips and cer...
 
 <details>
 <summary>Full prompt</summary>
 
 ```text
-Create one polished public-gallery image titled "Derived Play: Flat Swap Matinee".
+Create one polished public-gallery image titled "Derived Play: Blotter Chorus".
 
-It is derived from Prompt Puppet Flats but becomes a different playable object: a silent tabletop swap-and-reveal puzzle made from stacked paper scenery flats and a rotating proscenium dial. It is not the same fold-open suitcase, not a grid, not a contact sheet, not a research board, not a rectangular board game, not cards-only, not a marionette rig, not a music box, not a patchbay, not a ticket punch, not a snowglobe, not a water basin, not a crate, not a tactile cipher wheel.
+It is derived from Prompt Blotter Organ but becomes a different playable object: a cooperative scent-path chorus game made from loose paper reed strips and ceramic drops, not the same tray organ.
 
-Output format: one horizontal 16:9 low-oblique product photograph of a circular cream-card proscenium dial with eight radial slots, loose paper backdrop flats, translucent scrim strips, black hinge clips, brass brads, a tiny caption flag rack, and a final curtain aperture. The invented subject is the same jade teardrop mask with two pearl dots and one copper crescent, shown on three small tokens and inside the final aperture. No people, no hands, no faces, no logos, no real theater or real brand.
+Output format: one square 1:1 overhead product photograph of a circular pale porcelain play plate with twelve folded paper reed strips, three ceramic memory drops, six blank-nose shutters, hinged fold vents, name-tab clips, a finish bell cup, and one silver ginkgo leaf marker with a coral dot repeated on two score tokens. No people, no hands, no logos, no real perfume brand, no chemical procedure.
 
-Play rules shown through objects: players draft one Seed Flat, rotate the Proscenium Dial, slide a Context Wing into a radial slot, trade one Reference Mask token, cover clutter with an Omit Scrim, spend one Rewrite Clip to swap a backdrop, attach a Caption Flag, fold one Aspect Gate, then score Curtain Proof only if the jade teardrop mask remains identical in the final aperture.
+Play rules shown through objects: players choose one Reed Strip, place a Memory Drop, close one Blank Nose shutter, flip a Fold Vent, clip one Name Tab, and score Chorus only if all three scent paths point to the same silver ginkgo marker inside the Finish Bell.
 
-Short visible labels: Seed Flat, Proscenium Dial, Context Wing, Reference Mask, Omit Scrim, Rewrite Clip, Caption Flag, Aspect Gate, Curtain Proof, Matinee Score. Visual language: premium tactile tabletop prototype, cream carton, black hinge tape, jade marbled paper, copper crescent, pearl dots, translucent acetate, brass hardware, crisp readable labels, playful but refined. Entire concept is fictional, original, unbranded, harmless, rights-safe, non-political, non-adult, and non-graphic. Avoid public figures, real brands, celebrity likenesses, copyrighted characters, dangerous instructions, weapons, gore, and living-artist style imitation.
+Short visible labels: Reed Strip, Memory Drop, Blank Nose, Fold Vent, Name Tab, Finish Bell, Chorus Score. Visual language: premium tactile tabletop prototype, porcelain plate, ivory paper, celadon felt, silver ginkgo marker, coral dot, tiny brass pins, crisp readable labels, refined and playful. Fictional, original, unbranded, harmless.
 ```
 
 </details>
 
-### 002. Use Case Carton Theater: Prompt Puppet Flats
+### 002. Use Case Scent Lab: Prompt Blotter Organ
 
-![Use Case Carton Theater: Prompt Puppet Flats](assets/images/220-use-case-carton-theater-prompt-puppet-flats.png)
+![Use Case Scent Lab: Prompt Blotter Organ](assets/images/222-use-case-scent-lab-prompt-blotter-organ.png)
 
-**Tags:** `caption-flag` `carton-theater` `context-wing` `omit-scrim` `prompt-puppet-flats` `reference-mask` `rewrite-slot` `seed-flat`
+**Tags:** `blank-nose` `core-whiff` `fold-vent` `memory-drop` `mood-reed` `name-tab` `prompt-blotter-organ` `scent-lab`
 
-**Prompt excerpt:** Create one polished public-gallery concept image titled "Use Case Carton Theater: Prompt Puppet Flats". Output format: one vertical 5:7 product photograph of a fictional fold-open paper theater suitcase, photographed half-open on a matte t...
+**Prompt excerpt:** Create one polished public-gallery concept image titled "Use Case Scent Lab: Prompt Blotter Organ". Output format: one vertical 4:5 macro product photograph of a fictional perfume-blotter organ on a matte porcelain tray. The object is made...
 
 <details>
 <summary>Full prompt</summary>
 
 ```text
-Create one polished public-gallery concept image titled "Use Case Carton Theater: Prompt Puppet Flats".
+Create one polished public-gallery concept image titled "Use Case Scent Lab: Prompt Blotter Organ".
 
-Output format: one vertical 5:7 product photograph of a fictional fold-open paper theater suitcase, photographed half-open on a matte table. It is not a grid, not a contact sheet, not a research board, not a shelf, not a chamber, not a snowglobe, not a water basin, not a crate, not a cabinet, not a loom, not a proof press, not a patchbay, not an optical bench, not a wardrobe, not a fossil drawer, not a toy latch, not a stage with people, not a marionette rig.
+Output format: one vertical 4:5 macro product photograph of a fictional perfume-blotter organ on a matte porcelain tray. The object is made from folded ivory paper scent reeds, tiny ceramic memory drops, sliding blank-nose shutters, fold vents, name tabs, and a small finish bell. The invented marker is a silver ginkgo leaf with one coral dot, repeated on three paper reeds and inside the finish bell.
 
-Scene: the suitcase is made from thick cream carton, black paper hinges, transparent acetate slots, tiny brass brads, and four removable paper scenic flats. The invented subject is a tiny jade teardrop mask with two pearl dots and one copper crescent, repeated exactly on a front flat, a side slot, a tiny label flag, and a final verification window. No people, no hands, no faces, no logos, no real theater, no real brand.
+Use case mechanism: GPT Image 2 prompt control is translated into harmless scent-layer rehearsal. Short visible labels: Core Whiff, Mood Reed, Memory Drop, Blank Nose, Name Tab, Fold Vent, Finish Bell. The paper reeds show mood changes, ceramic drops preserve memory, shutters remove unwanted notes, name tabs test tiny text, fold vents change the view, and the finish bell verifies the same ginkgo marker.
 
-Mechanism: GPT Image 2 prompt control becomes a fold-open scenic-flat rehearsal. Short readable labels on physical tabs: Seed Flat, Context Wing, Reference Mask, Rewrite Slot, Omit Scrim, Caption Flag, Aspect Fold, Texture Brads, Curtain Proof. Show how the same subject is preserved while carton flats slide into side wings, acetate scrims remove unwanted shapes, a rewrite slot swaps one background element, the caption flag tests short text, the aspect fold changes the crop, and the final curtain proof window repeats the jade teardrop mask.
-
-Visual language: premium tactile studio photography, cream carton, black hinge tape, jade and copper accent, pearl dots, translucent acetate, brass brads, crisp tiny labels, warm raking light, shallow depth of field, playful but sophisticated. Entire concept is fictional, original, unbranded, harmless, rights-safe, non-political, non-adult, and non-graphic. Avoid public figures, real brands, celebrity likenesses, copyrighted characters, dangerous instructions, weapons, gore, and living-artist style imitation.
+Visual language: premium tactile studio photography, ivory paper, matte porcelain, silver leaf marker, coral dot, pale celadon shadows, tiny brass pins, crisp readable labels, shallow depth of field. Fictional, original, unbranded, no people, no hands, no logos, no real perfume brand, no chemical procedure.
 ```
 
 </details>
