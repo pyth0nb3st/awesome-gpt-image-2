@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/214-derived-play-dew-trace-curling.png</image:loc>
+      <image:title>Derived Play: Dew Trace Curling</image:title>
+      <image:caption>Create one polished public-gallery image titled &quot;Derived Play: Dew Trace Curling&quot;. It is derived from Prompt Condensation Chamber but becomes a different playable object: a vertical 4:5 overhead-oblique product photograph of a circular mat...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/215-use-case-vapor-prompt-condensation-chamber.png</image:loc>
+      <image:title>Use Case Vapor: Prompt Condensation Chamber</image:title>
+      <image:caption>Create one polished public-gallery concept image titled &quot;Use Case Vapor: Prompt Condensation Chamber&quot;. Output format: a single 2:1 panoramic macro product photograph of a fictional tabletop condensation chamber: a shallow black acrylic ova...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/213-derived-play-texture-cipher-duet.png</image:loc>
       <image:title>Derived Play: Texture Cipher Duet</image:title>
       <image:caption>Derived Play: Texture Cipher Duet. Make one square 1:1 overhead product photograph of two concentric charcoal felt dials side by side, linked by a brass bridge. Each dial has twelve shallow velvet pockets, pearl raised-dot tiles, crescent...</image:caption>
@@ -1037,6 +1047,28 @@
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/214-derived-play-dew-trace-curling/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/214-derived-play-dew-trace-curling.png</image:loc>
+      <image:title>Derived Play: Dew Trace Curling</image:title>
+      <image:caption>Create one polished public-gallery image titled &quot;Derived Play: Dew Trace Curling&quot;. It is derived from Prompt Condensation Chamber but becomes a different playable object: a vertical 4:5 overhead-oblique product photograph of a circular mat...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/215-use-case-vapor-prompt-condensation-chamber/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/215-use-case-vapor-prompt-condensation-chamber.png</image:loc>
+      <image:title>Use Case Vapor: Prompt Condensation Chamber</image:title>
+      <image:caption>Create one polished public-gallery concept image titled &quot;Use Case Vapor: Prompt Condensation Chamber&quot;. Output format: a single 2:1 panoramic macro product photograph of a fictional tabletop condensation chamber: a shallow black acrylic ova...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/213-derived-play-texture-cipher-duet/</loc>

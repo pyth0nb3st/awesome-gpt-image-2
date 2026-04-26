@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/214-derived-play-dew-trace-curling.png": {
+      "path": "assets/thumbs/214-derived-play-dew-trace-curling.jpg",
+      "width": 768,
+      "height": 1152
+    },
+    "assets/images/215-use-case-vapor-prompt-condensation-chamber.png": {
+      "path": "assets/thumbs/215-use-case-vapor-prompt-condensation-chamber.jpg",
+      "width": 768,
+      "height": 384
+    },
     "assets/images/213-derived-play-texture-cipher-duet.png": {
       "path": "assets/thumbs/213-derived-play-texture-cipher-duet.jpg",
       "width": 768,

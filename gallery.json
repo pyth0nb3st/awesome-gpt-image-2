@@ -18,6 +18,94 @@
   },
   "images": [
     {
+      "title": "Derived Play: Dew Trace Curling",
+      "caption": "从凝露室派生出的桌面冰壶式玩法：玩家滑动 Dew Puck、花 Fog Token 遮住轨迹、转动 Vane Turn、套 Erase Sleeve、写 Word Strip、夹 Frost Arc 改变计分窗；只有 Hold Bell 里仍是同一个紫色 comma comet 且露痕落入 Caliper Score 才得分。",
+      "path": "assets/images/214-derived-play-dew-trace-curling.png",
+      "alt": "Vertical overhead-oblique product photograph of a circular black dew-trace curling arena with spiral condensation lanes, glass pucks, fog tokens, steer vanes, eraser sleeves, word strip, frost arc, brass caliper score, and hold bell with violet comma comet",
+      "width": 1024,
+      "height": 1536,
+      "createdAt": "2026-04-26 22:13:22",
+      "batch": "019dca1f-6c5a-7910-a378-dbdac2a90a7b",
+      "tags": [
+        "dew-trace-curling",
+        "vapor-game",
+        "dew-puck",
+        "fog-token",
+        "vane-turn",
+        "erase-sleeve",
+        "word-strip",
+        "frost-arc",
+        "hold-bell",
+        "caliper-score",
+        "trace-hold",
+        "batch-019dca1f"
+      ],
+      "prompt": "Create one polished public-gallery image titled \"Derived Play: Dew Trace Curling\". It is derived from Prompt Condensation Chamber but becomes a different playable object: a vertical 4:5 overhead-oblique product photograph of a circular matte-black tabletop curling arena with three transparent dew lanes spiraling inward, six chilled glass pucks, brass score calipers, soft eraser sleeves, fog tokens, a mint-lit holding bell, and one pearlescent violet comma comet marker with two brass fins and one mint dot. Play rules shown through pieces: slide a Dew Puck through a spiral lane, spend a Fog Token to hide part of the trail, rotate one Vane Turn piece, place an Erase Sleeve to remove a wrong curl, write one tiny word on the Word Strip, clip a Frost Arc to change the scoring window, then score Trace Hold only if the holding bell still shows the same violet comma comet and the condensation trail lands inside the Caliper Score. Visible labels: Dew Puck, Fog Token, Vane Turn, Erase Sleeve, Word Strip, Frost Arc, Hold Bell, Caliper Score. No people, no hands, no logos, no real sports branding, no real lab equipment. Premium tactile tabletop prototype, cool mist, clear glass, brass hardware, mint accent light, crisp readable labels; fictional, original, unbranded, harmless, rights-safe.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original condensation-curling game derived locally from the Prompt Condensation Chamber concept. No external prompt, image, artwork, visual style, brand, character, repository, source image, article, or case-study mechanic was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Original fictional no-people tabletop dexterity game with chilled glass pucks, harmless fog tokens, and an invented comet marker only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dca1f-6c5a-7910-a378-dbdac2a90a7b/ig_039dbecb9b962b3e0169ee1d2b081481959f40460d07a3bd66.png"
+    },
+    {
+      "title": "Use Case Vapor: Prompt Condensation Chamber",
+      "caption": "把 GPT Image 2 的连续轨迹、微型文字和主体一致性测试做成虚构冷雾凝露室：Kernel Puff、Scene Humidity、Memory Plume、Steer Vane、Erase Chill、Word Dew、Frame Frost、Coherence Bell 和 Trace Hold 让同一个紫色 comma comet 在雾流、露字和冻结画幅中保持可识别。",
+      "path": "assets/images/215-use-case-vapor-prompt-condensation-chamber.png",
+      "alt": "Panoramic macro product photograph of a fictional black acrylic condensation chamber with cool mist, violet comma comet, chilled glass vanes, dew-writing strips, memory plume ring, erase chill paddles, frame frost arc, coherence beads, and trace hold bell",
+      "width": 1774,
+      "height": 887,
+      "createdAt": "2026-04-26 22:11:56",
+      "batch": "019dca1f-6c5a-7910-a378-dbdac2a90a7b",
+      "tags": [
+        "prompt-condensation-chamber",
+        "vapor",
+        "kernel-puff",
+        "scene-humidity",
+        "memory-plume",
+        "steer-vane",
+        "erase-chill",
+        "word-dew",
+        "frame-frost",
+        "coherence-bell",
+        "trace-hold",
+        "batch-019dca1f"
+      ],
+      "prompt": "Create one polished public-gallery concept image titled \"Use Case Vapor: Prompt Condensation Chamber\". Output format: a single 2:1 panoramic macro product photograph of a fictional tabletop condensation chamber: a shallow black acrylic oval with safe cool mist, illuminated dew trails, chilled glass vanes, dew-writing strips, memory plume rings, soft eraser paddles, frame frost arcs, coherence beads, and a clear holding bell. The invented subject is a pearlescent violet comma comet with two brass fins and one mint dot, repeated exactly inside the final bell. Mechanism labels: Kernel Puff, Scene Humidity, Memory Plume, Steer Vane, Erase Chill, Word Dew, Frame Frost, Coherence Bell, Trace Hold. Show prompt control as condensation behavior: humidity changes context, plume rings preserve memory, vanes steer instructions, eraser paddles remove stray curls, dew-writing tests short text, frost arcs change framing, beads test consistency, and the bell holds the same subject. No people, no hands, no logos, no real lab equipment, no real radiation, no dangerous procedure. Premium tactile studio photography, black acrylic, cool mist, pearlescent violet, mint accent, clear glass, brass hardware, crisp readable tiny labels; fictional, original, unbranded, harmless, rights-safe.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original fictional condensation-trace prompt mechanism generated locally from existing-gallery gap analysis. External research was limited to high-level GPT Image capability context; no external prompt, image, artwork, visual style, brand, character, repository, source image, article, or case-study mechanic was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Original fictional no-people condensation artifact with cool mist, glass props, and an invented comet marker only; explicitly avoids real lab/radiation procedures and was screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dca1f-6c5a-7910-a378-dbdac2a90a7b/ig_039dbecb9b962b3e0169ee1cec9a3481959d939f1ce548c1e9.png"
+    },
+    {
       "title": "Derived Play: Texture Cipher Duet",
       "caption": "从触感凸点校样派生的双人触感密码盘：一名玩家把 Seed Tile 藏在左盘，另一名玩家旋转 Texture Dial、交换 Ridge Tile、花 Weight Bead、关 Decoy Shutter、命名 Caption Tab 并对齐 Aperture Pair；两个盘在 Feel Match 碗里露出同一个 opal seed comma 才得分。",
       "path": "assets/images/213-derived-play-texture-cipher-duet.png",
