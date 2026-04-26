@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/207-derived-play-cushion-stack-trial.png": {
+      "path": "assets/thumbs/207-derived-play-cushion-stack-trial.jpg",
+      "width": 768,
+      "height": 768
+    },
+    "assets/images/208-use-case-shipping-prompt-crate-test.png": {
+      "path": "assets/thumbs/208-use-case-shipping-prompt-crate-test.jpg",
+      "width": 768,
+      "height": 512
+    },
     "assets/images/205-derived-play-glyph-ticket-hunt.png": {
       "path": "assets/thumbs/205-derived-play-glyph-ticket-hunt.jpg",
       "width": 768,

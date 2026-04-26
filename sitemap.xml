@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/207-derived-play-cushion-stack-trial.png</image:loc>
+      <image:title>Derived Play: Cushion Stack Trial</image:title>
+      <image:caption>Create one polished public-gallery image titled &quot;Derived Play: Cushion Stack Trial&quot;. It is derived from Prompt Crate Test but must become a different playable object: a cooperative tabletop stacking-and-inspection challenge using modular c...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/208-use-case-shipping-prompt-crate-test.png</image:loc>
+      <image:title>Use Case Shipping: Prompt Crate Test</image:title>
+      <image:caption>Create one polished public-gallery concept image titled &quot;Use Case Shipping: Prompt Crate Test&quot;. Output format: one 3:2 low-oblique product photograph of a fictional miniature shipping stress-test crate opened on a matte studio table. It is...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/205-derived-play-glyph-ticket-hunt.png</image:loc>
       <image:title>Derived Play: Glyph Ticket Hunt</image:title>
       <image:caption>Create one polished public-gallery image titled &quot;Derived Play: Glyph Ticket Hunt&quot;. It is derived from Prompt Glyph Concourse but must become a different playable object: a handheld ticket-punch scavenger game, not the same concourse, not a...</image:caption>
@@ -1007,6 +1017,28 @@
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/207-derived-play-cushion-stack-trial/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/207-derived-play-cushion-stack-trial.png</image:loc>
+      <image:title>Derived Play: Cushion Stack Trial</image:title>
+      <image:caption>Create one polished public-gallery image titled &quot;Derived Play: Cushion Stack Trial&quot;. It is derived from Prompt Crate Test but must become a different playable object: a cooperative tabletop stacking-and-inspection challenge using modular c...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/208-use-case-shipping-prompt-crate-test/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/208-use-case-shipping-prompt-crate-test.png</image:loc>
+      <image:title>Use Case Shipping: Prompt Crate Test</image:title>
+      <image:caption>Create one polished public-gallery concept image titled &quot;Use Case Shipping: Prompt Crate Test&quot;. Output format: one 3:2 low-oblique product photograph of a fictional miniature shipping stress-test crate opened on a matte studio table. It is...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/205-derived-play-glyph-ticket-hunt/</loc>
@@ -3385,7 +3417,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://gptimg2.best/tags/style-sleeve/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://gptimg2.best/tags/ui-fiction-simulator/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/void-plug/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>

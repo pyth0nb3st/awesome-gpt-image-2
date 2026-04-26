@@ -18,6 +18,95 @@
   },
   "images": [
     {
+      "title": "Derived Play: Cushion Stack Trial",
+      "caption": "从包装验收箱派生出的合作堆叠玩法：玩家围绕蓝色缎带棱镜放置 Cushion Blocks、旋转 Context Corners、滑入 Edit Tile、使用 Void Plug、贴 Caption Ticket、穿过 Aspect Hoop、套 Style Sleeve，并移动 Tilt Token；只有到货放大镜里主体仍居中一致才得 Arrival Proof。",
+      "path": "assets/images/207-derived-play-cushion-stack-trial.png",
+      "alt": "Square overhead tabletop product photograph of a circular cork test pad with foam cushion blocks, blue ribbon prism, tilt token, edit tile, void plugs, caption tickets, aspect hoop, style sleeve, source seal tabs, and arrival proof loupe",
+      "width": 1254,
+      "height": 1254,
+      "createdAt": "2026-04-26 08:52:23",
+      "batch": "019dc741-fe3c-7ce2-90a1-7be1b00163e9",
+      "tags": [
+        "cushion-stack-trial",
+        "cushion-draft",
+        "corner-rotate",
+        "edit-tile",
+        "void-plug",
+        "caption-ticket",
+        "aspect-hoop",
+        "style-sleeve",
+        "tilt-token",
+        "arrival-proof",
+        "packing-game",
+        "batch-019dc741"
+      ],
+      "prompt": "Create one polished public-gallery image titled \"Derived Play: Cushion Stack Trial\".\n\nIt is derived from Prompt Crate Test but must become a different playable object: a cooperative tabletop stacking-and-inspection challenge using modular cushion blocks, not the same open crate, not a grid, not a contact sheet, not cards-only, not a dashboard, not a transit concourse, not a bakery deck, not a snowglobe rack, not a water basin, not a wardrobe carousel, not a fossil drawer, not a toy latch.\n\nOutput format: one square 1:1 overhead product photograph of a circular cork test pad with a low central pedestal, a ring of soft foam cushion blocks, tiny tilt tokens, paper inspection tickets, source seal tabs, and a clear arrival loupe. No people, no hands, no logos, no real shipping labels, no real brands.\n\nPlay rules shown through objects: players place the blue ribbon prism on the pedestal, draft Cushion Blocks around it, rotate Context Corners, slide one Edit Hatch tile under the pedestal, spend Void Fill plugs to block extra shapes, attach one Caption Label ticket, pass the Aspect Hoop over the stack, wrap one Style Sleeve, then score Arrival Proof through the loupe only if the same three-finned blue ribbon prism with the amber dot remains visible and centered after the tilt token is moved.\n\nShort visible labels: Cushion Draft, Corner Rotate, Edit Tile, Void Plug, Caption Ticket, Aspect Hoop, Style Sleeve, Tilt Token, Arrival Proof. Visual language: premium tactile tabletop prototype, cork circle, recycled grey foam, porcelain blue prism, amber dot, teal paper seals, brass loupe, crisp readable labels, playful but sophisticated, fictional, original, unbranded, harmless, non-political, non-adult, non-graphic, rights-safe.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original stacking-and-inspection game derived locally from the Prompt Crate Test concept. No external prompt, article, image, artwork, visual style, brand, character, repository, source image, or case-study mechanic was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Original fictional no-people tabletop stacking game with soft foam blocks, invented prism, and harmless inspection tokens only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc741-fe3c-7ce2-90a1-7be1b00163e9/ig_0302c7a2d3b5b1820169ed617895888195a39f2f26e650aab4.png"
+    },
+    {
+      "title": "Use Case Shipping: Prompt Crate Test",
+      "caption": "把 GPT Image 2 的主体一致性和编辑抗扰做成虚构运输包装验收箱：Subject Nest、Context Corners、Reference Slip、Edit Hatch、Void Fill、Caption Label、Aspect Gauge、Style Wrap、Source Seal 和 Arrival Proof 用泡棉、封签、倾斜标记和到货窗口检查同一个蓝色缎带棱镜是否保持可识别。",
+      "path": "assets/images/208-use-case-shipping-prompt-crate-test.png",
+      "alt": "Low-oblique product photograph of an open fictional shipping stress-test crate with paper foam nest, blue ribbon prism, corner blocks, reference slip, edit hatch, void fill plugs, caption labels, aspect gauges, style wraps, source seals, and arrival proof window",
+      "width": 1536,
+      "height": 1024,
+      "createdAt": "2026-04-26 08:51:05",
+      "batch": "019dc741-fe3c-7ce2-90a1-7be1b00163e9",
+      "tags": [
+        "prompt-crate-test",
+        "shipping",
+        "subject-nest",
+        "context-corners",
+        "reference-slip",
+        "edit-hatch",
+        "void-fill",
+        "caption-label",
+        "aspect-gauge",
+        "style-wrap",
+        "source-seal",
+        "arrival-proof",
+        "batch-019dc741"
+      ],
+      "prompt": "Create one polished public-gallery concept image titled \"Use Case Shipping: Prompt Crate Test\".\n\nOutput format: one 3:2 low-oblique product photograph of a fictional miniature shipping stress-test crate opened on a matte studio table. It is not a grid, not a contact sheet, not a dashboard, not cards, not a board game, not a tray, not a cabinet, not a transit concourse, not a bakery deck, not a snowglobe, not a water basin, not a wardrobe, not a fossil drawer, not a toy latch, not a loom, not a proof press, not a patchbay, not an elevator shaft.\n\nScene: an unbranded open crate made from pale basswood and soft recycled paper foam. The invented subject is a tiny ceramic \"blue ribbon prism\" with three rounded fins and one amber dot, nested inside a custom foam cutout. Around it are harmless miniature props: corner blocks, a reference packing slip, one hinged edit hatch, removable void-fill plugs, caption label strips, aspect-ratio crate gauges, style tissue wraps, tamper-evident source seals, and an arrival inspection window. No people, no hands, no real shipping labels, no logos.\n\nMechanism: GPT Image 2 prompt control becomes a packaging robustness test. Short readable labels on physical pieces: Subject Nest, Context Corners, Reference Slip, Edit Hatch, Void Fill, Caption Label, Aspect Gauge, Style Wrap, Source Seal, Arrival Proof. The same blue ribbon prism must stay recognizable after every packaging stress: corner blocks test context changes, the slip tests reference identity, the hatch tests local edits, void fill blocks unwanted elements, caption labels test text, aspect gauges test framing, tissue wraps test style constraints, source seals mark provenance, and the inspection window repeats the object exactly.\n\nVisual language: premium tactile studio photography, pale wood crate, recycled grey paper foam, porcelain blue prism, amber dot, small brass gauges, teal inspection stickers, crisp readable labels, soft warehouse-window light, sophisticated playful artifact. Entire concept is fictional, original, unbranded, harmless, non-graphic, and rights-safe.",
+      "provenance": {
+        "status": "original_generated",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original fictional shipping-crate robustness prompt mechanism generated locally from existing-gallery gap analysis. External research was limited to high-level official OpenAI capability context; no external prompt, article, image, artwork, visual style, brand, character, repository, or case-study mechanic was used."
+      },
+      "promptSources": [],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-26",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Original fictional no-people packaging stress-test artifact with an invented blue ribbon prism, paper foam, and inspection labels only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc741-fe3c-7ce2-90a1-7be1b00163e9/ig_0302c7a2d3b5b1820169ed61415f10819596c0b8ee8f4ebc7e.png"
+    },
+    {
       "title": "Derived Play: Glyph Ticket Hunt",
       "caption": "从导视大厅派生出的手持票据打孔玩法：玩家抽 Locale Strip、打 Icon Notch、转 Arrow Edit、滑动 Occlusion Sleeve、查看 Distance Read、穿过 Crop Portal，只有星窗 glyph 和中英标签仍清楚一致时才能盖 Type Proof 章。",
       "path": "assets/images/205-derived-play-glyph-ticket-hunt.png",
