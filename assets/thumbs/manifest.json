@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/237-derived-play-drift-bingo-review.png": {
+      "path": "assets/thumbs/237-derived-play-drift-bingo-review.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/238-use-case-visual-sop-dry-run.png": {
+      "path": "assets/thumbs/238-use-case-visual-sop-dry-run.jpg",
+      "width": 768,
+      "height": 1200
+    },
     "assets/images/235-derived-play-drift-spotter-challenge.png": {
       "path": "assets/thumbs/235-derived-play-drift-spotter-challenge.jpg",
       "width": 768,

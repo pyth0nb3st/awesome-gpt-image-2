@@ -18,6 +18,172 @@
   },
   "images": [
     {
+      "title": "Derived Play: Drift Bingo Review",
+      "caption": "从 Visual SOP Dry Run 派生出的评审玩法：团队在虚构 Lumen Lane Book Swap SOP 上找出 Misspell、Step Gap、Role Drift、Access、Tiny Text 五类漂移，并把 Clutter 与 Tiny Text 两项修复后盖上 PASS AFTER REPAIR。",
+      "path": "assets/images/237-derived-play-drift-bingo-review.png",
+      "alt": "Landscape review board titled Drift Bingo Review with a central Lumen Lane Book Swap SOP, five coral drift findings, two repaired teal notes, review rounds, drift key, and pass after repair stamp",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-27 09:44:15",
+      "batch": "019dcc93-87f1-7322-bcbd-bbf934281ac8",
+      "tags": [
+        "drift-bingo-review",
+        "derived-play",
+        "visual-sop",
+        "human-review",
+        "text-qa",
+        "workflow-qa",
+        "accessibility-check",
+        "document-generation",
+        "failure-mode-game",
+        "batch-019dcc93"
+      ],
+      "prompt": "Create a polished landscape 16:9 concept image for a derived GPT Image 2 play mode.\n\nTitle visible in the artwork: \"DRIFT BINGO REVIEW\".\n\nScene: a full-screen collaborative review surface, like a design team critique wall, showing the generated \"Lumen Lane Book Swap\" SOP document as the large central artifact. Around it are playful but professional bingo-style review overlays, not physical cards: translucent squares and stickers labeled \"MISSPELL\", \"STEP GAP\", \"ROLE DRIFT\", \"TINY TEXT\", \"CLUTTER\", \"ACCESS\", \"PASS\". A left rail shows three review rounds: \"1 OCR\", \"2 ORDER\", \"3 HUMAN\". A bottom status bar says \"FIND 5 DRIFTS BEFORE APPROVAL\" and a green stamp reads \"PASS AFTER REPAIR\".\n\nMechanism to make visible: reviewers use the game to catch plausible-but-wrong visual generation failures: garbled words, sequence errors, mismatched roles, inaccessible contrast, and generic AI polish. Show exactly five marked drift findings with small arrows, and two repaired findings crossed off. Keep the SOP readable enough to understand it is a safe fictional community book-swap setup guide, but this image is about review gameplay rather than making another instruction sheet.\n\nVisual style: refined product-design critique board, warm off-white background, charcoal UI lines, muted teal, coral, yellow, and green badges, small human annotation marks for authenticity, clean hierarchy, no logos, no real brands, no real people, no copyrighted characters, no politics, no harmful instructions, no gore, no explicit content. Avoid tabletop game photography, avoid a simple 2x3 contact sheet, avoid maps, avoid comics, avoid lab apparatuses, avoid panorama seam QA.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt_with_external_pattern_research",
+        "sourceNote": "Derived locally from Visual SOP Dry Run after a fresh external source sweep. External sources informed only abstract patterns around community gallery categories, plausible-but-wrong failure modes, visual-text benchmarks, iterative creator workflows, and anti-slop human review signals. No external prompt text, image, source image, brand, character, artwork, or protected style was reused."
+      },
+      "promptSources": [
+        {
+          "title": "AI Image Prompts (Copy & Paste) - 50+ Examples for 2026",
+          "url": "https://fiddl.art/blog/en/ai-image-prompts",
+          "authorOrPublisher": "Fiddl.art Team",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "gallery_category_scan / prompt_pattern_inspiration"
+        },
+        {
+          "title": "How I Stopped Image Models From Making \"Pretty but Dumb\" Design Choices",
+          "url": "https://www.reddit.com/r/PromptEngineering/comments/1qaqew0/how_i_stopped_image_models_from_making_pretty_but/",
+          "authorOrPublisher": "Reddit r/PromptEngineering community",
+          "license": "user-generated public discussion; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "community_failure_mode / workflow_inspiration"
+        },
+        {
+          "title": "TextInVision: Text and Prompt Complexity Driven Visual Text Generation Benchmark",
+          "url": "https://mlanthology.org/cvprw/2025/fallah2025cvprw-textinvision/",
+          "authorOrPublisher": "Forouzan Fallah, Maitreya Patel, Agneet Chatterjee, Vlad I. Morariu, Chitta Baral, Yezhou Yang / ML Anthology",
+          "license": "unspecified; no prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "benchmark_dataset / typography_failure_mode / compositional_evaluation"
+        },
+        {
+          "title": "Image generation - Krea",
+          "url": "https://docs.krea.ai/user-guide/features/krea-image",
+          "authorOrPublisher": "Krea",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "creator_workflow_scan / iteration_pattern / settings_pattern"
+        },
+        {
+          "title": "The Anti-AI Slop Playbook",
+          "url": "https://www.vogue.com/article/the-anti-ai-slop-playbook",
+          "authorOrPublisher": "Vogue Business / Amy Francombe",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "trend_scan / visual_homogeneity_failure_mode / authenticity_signal"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Fictional community book-swap SOP review only; no real brands, trademarks, logos, real organizations, real people, public figures, politics/elections/parties, dangerous instructions, adult or explicit content, gore, graphic violence, celebrity likeness, copyrighted character, living-artist style imitation, copied prompt text, or source-image reuse.",
+        "checkedAt": "2026-04-27"
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dcc93-87f1-7322-bcbd-bbf934281ac8/ig_06664e62303e41f80169eebef81b988195b6a1679f42290b33.png"
+    },
+    {
+      "title": "Use Case: Visual SOP Dry Run",
+      "caption": "一个 GPT Image 2 文档工作流玩法：把虚构 Lumen Lane Book Swap 活动 brief 生成成一页 SOP，用 1-6 步骤、角色/时间标签、READY/PASS 双语短词、OCR/ORDER/ROLE/ACCESS/PASS 审核条和人工 repair 标注测试文本、顺序、角色与可访问性。",
+      "path": "assets/images/238-use-case-visual-sop-dry-run.png",
+      "alt": "Portrait printable SOP titled Visual SOP Dry Run for Lumen Lane Book Swap with six numbered steps, bilingual ready and pass labels, QA audit strip, checkmarks, text too small note, and role drift note",
+      "width": 1003,
+      "height": 1568,
+      "createdAt": "2026-04-27 09:42:16",
+      "batch": "019dcc93-87f1-7322-bcbd-bbf934281ac8",
+      "tags": [
+        "visual-sop-dry-run",
+        "use-case",
+        "document-generation",
+        "text-rendering",
+        "workflow-mockup",
+        "human-review",
+        "accessibility-check",
+        "instruction-design",
+        "visual-qa",
+        "batch-019dcc93"
+      ],
+      "prompt": "Create a polished portrait 4:5 concept image for a GPT Image 2 use-case gallery.\n\nTitle visible in the artwork: \"VISUAL SOP DRY RUN\".\n\nScene: a clean printable one-page operating guide for a fictional community event called \"LUMEN LANE BOOK SWAP\" shown as a realistic flat document preview on a neutral editor canvas, not a physical desk photo. The document has six illustrated numbered steps in a flowing vertical sequence, each step with one small icon, one short role label, one time chip, and one concise action line. Include only invented, non-branded labels such as \"SETUP\", \"SORT\", \"SIGN\", \"WELCOME\", \"CHECK\", \"CLOSE\" plus tiny bilingual support labels like \"READY / 准备\" and \"PASS / 通过\" where legible.\n\nMechanism to make visible: GPT Image 2 is being used to dry-run whether a generated instruction sheet has readable text, correct sequence, clear roles, and reviewable visual hierarchy. Add subtle human QA markup in a different ink color: checkmarks on steps 1, 2, 4, 6; small repair notes on step 3 reading \"TEXT TOO SMALL\" and on step 5 reading \"ROLE DRIFT\"; a bottom audit strip with five chips: \"OCR\", \"ORDER\", \"ROLE\", \"ACCESS\", \"PASS\". Make the artwork look like a production review artifact, not an ad poster and not a dashboard.\n\nVisual style: contemporary editorial document design, off-white paper, charcoal text, muted teal and coral accents, hand-drawn but precise icons, slight human imperfection in annotation strokes, crisp readable typography, generous margins, no logos, no real brands, no real people, no copyrighted characters, no politics, no harmful instructions, no gore, no explicit content. Avoid a 2x2 or 2x3 grid board, avoid tabletop game pieces, avoid lab instruments, avoid macro product photography.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt_with_external_pattern_research",
+        "sourceNote": "Created after a fresh external source sweep. External sources informed only abstract patterns around community gallery categories, plausible-but-wrong failure modes, visual-text benchmarks, iterative creator workflows, and anti-slop human review signals. No external prompt text, image, source image, brand, character, artwork, or protected style was reused."
+      },
+      "promptSources": [
+        {
+          "title": "AI Image Prompts (Copy & Paste) - 50+ Examples for 2026",
+          "url": "https://fiddl.art/blog/en/ai-image-prompts",
+          "authorOrPublisher": "Fiddl.art Team",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "gallery_category_scan / prompt_pattern_inspiration"
+        },
+        {
+          "title": "How I Stopped Image Models From Making \"Pretty but Dumb\" Design Choices",
+          "url": "https://www.reddit.com/r/PromptEngineering/comments/1qaqew0/how_i_stopped_image_models_from_making_pretty_but/",
+          "authorOrPublisher": "Reddit r/PromptEngineering community",
+          "license": "user-generated public discussion; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "community_failure_mode / workflow_inspiration"
+        },
+        {
+          "title": "TextInVision: Text and Prompt Complexity Driven Visual Text Generation Benchmark",
+          "url": "https://mlanthology.org/cvprw/2025/fallah2025cvprw-textinvision/",
+          "authorOrPublisher": "Forouzan Fallah, Maitreya Patel, Agneet Chatterjee, Vlad I. Morariu, Chitta Baral, Yezhou Yang / ML Anthology",
+          "license": "unspecified; no prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "benchmark_dataset / typography_failure_mode / compositional_evaluation"
+        },
+        {
+          "title": "Image generation - Krea",
+          "url": "https://docs.krea.ai/user-guide/features/krea-image",
+          "authorOrPublisher": "Krea",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "creator_workflow_scan / iteration_pattern / settings_pattern"
+        },
+        {
+          "title": "The Anti-AI Slop Playbook",
+          "url": "https://www.vogue.com/article/the-anti-ai-slop-playbook",
+          "authorOrPublisher": "Vogue Business / Amy Francombe",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "trend_scan / visual_homogeneity_failure_mode / authenticity_signal"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Fictional community book-swap SOP only; no real brands, trademarks, logos, real organizations, real people, public figures, politics/elections/parties, dangerous instructions, adult or explicit content, gore, graphic violence, celebrity likeness, copyrighted character, living-artist style imitation, copied prompt text, or source-image reuse.",
+        "checkedAt": "2026-04-27"
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dcc93-87f1-7322-bcbd-bbf934281ac8/ig_06664e62303e41f80169eebea12bb4819583ccae5adc830e62.png"
+    },
+    {
       "title": "Derived Play: Drift Spotter Challenge",
       "caption": "从 Style Drift Flight Recorder 派生出的公共挑战玩法：观众检查 Mosslight Festival 的 6 个匿名变体，依据 Palette、Lens、Anchor、Text 找出偏离风格契约的 Drift 04，并用 Vote、Reveal 与 PASS 5 完成一致性投票。",
       "path": "assets/images/235-derived-play-drift-spotter-challenge.png",

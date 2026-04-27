@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/237-derived-play-drift-bingo-review.png</image:loc>
+      <image:title>Derived Play: Drift Bingo Review</image:title>
+      <image:caption>Create a polished landscape 16:9 concept image for a derived GPT Image 2 play mode. Title visible in the artwork: &quot;DRIFT BINGO REVIEW&quot;. Scene: a full-screen collaborative review surface, like a design team critique wall, showing the genera...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/238-use-case-visual-sop-dry-run.png</image:loc>
+      <image:title>Use Case: Visual SOP Dry Run</image:title>
+      <image:caption>Create a polished portrait 4:5 concept image for a GPT Image 2 use-case gallery. Title visible in the artwork: &quot;VISUAL SOP DRY RUN&quot;. Scene: a clean printable one-page operating guide for a fictional community event called &quot;LUMEN LANE BOOK...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/235-derived-play-drift-spotter-challenge.png</image:loc>
       <image:title>Derived Play: Drift Spotter Challenge</image:title>
       <image:caption>Create one polished public-gallery concept image titled exactly &quot;Derived Play: Drift Spotter Challenge&quot;. Output format: one vertical 4:5 public challenge poster / voting wall for a GPT Image 2 consistency game. It must not be a physical ta...</image:caption>
@@ -1137,6 +1147,28 @@
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/237-derived-play-drift-bingo-review/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/237-derived-play-drift-bingo-review.png</image:loc>
+      <image:title>Derived Play: Drift Bingo Review</image:title>
+      <image:caption>Create a polished landscape 16:9 concept image for a derived GPT Image 2 play mode. Title visible in the artwork: &quot;DRIFT BINGO REVIEW&quot;. Scene: a full-screen collaborative review surface, like a design team critique wall, showing the genera...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/238-use-case-visual-sop-dry-run/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/238-use-case-visual-sop-dry-run.png</image:loc>
+      <image:title>Use Case: Visual SOP Dry Run</image:title>
+      <image:caption>Create a polished portrait 4:5 concept image for a GPT Image 2 use-case gallery. Title visible in the artwork: &quot;VISUAL SOP DRY RUN&quot;. Scene: a clean printable one-page operating guide for a fictional community event called &quot;LUMEN LANE BOOK...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/235-derived-play-drift-spotter-challenge/</loc>
@@ -3711,6 +3743,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://gptimg2.best/tags/derived-play/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://gptimg2.best/tags/infographic-diagram/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -3718,12 +3756,6 @@
   </url>
   <url>
     <loc>https://gptimg2.best/tags/prompt-game/</loc>
-    <lastmod>2026-04-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gptimg2.best/tags/derived-play/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3748,6 +3780,12 @@
   </url>
   <url>
     <loc>https://gptimg2.best/tags/sound-to-scene/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/accessibility-check/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3807,6 +3845,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://gptimg2.best/tags/document-generation/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://gptimg2.best/tags/edit-flake/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -3826,6 +3870,12 @@
   </url>
   <url>
     <loc>https://gptimg2.best/tags/fold-vent/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/human-review/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>

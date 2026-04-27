@@ -1,6 +1,6 @@
 # Awesome GPT Image 2
 
-Browse 224 GPT Image 2 prompt examples with generated images, reusable tags, image-generation use cases, and prompt text for product mockups, UI, games, diagrams, and storytelling.
+Browse 226 GPT Image 2 prompt examples with generated images, reusable tags, image-generation use cases, and prompt text for product mockups, UI, games, diagrams, and storytelling.
 
 Primary URL: https://gptimg2.best/
 Repository: https://github.com/pyth0nb3st/awesome-gpt-image-2
@@ -8,9 +8,9 @@ Creator tools: https://drillso.com/ and https://vibeart.app/
 Gallery JSON: https://gptimg2.best/gallery.json
 Sitemap: https://gptimg2.best/sitemap.xml
 
-The site contains 224 generated image examples. Each example includes a repository-local image, full prompt text, dimensions, creation time, and semantic tags for prompt discovery.
-Dedicated prompt pages: 224
-Dedicated tag pages: 57
+The site contains 226 generated image examples. Each example includes a repository-local image, full prompt text, dimensions, creation time, and semantic tags for prompt discovery.
+Dedicated prompt pages: 226
+Dedicated tag pages: 60
 
 Top tags:
 - product-mockup: 83
@@ -31,5 +31,5 @@ Top tags:
 - stylized-concept: 15
 - illustration-story: 9
 - ads-marketing: 7
+- derived-play: 7
 - infographic-diagram: 7
-- prompt-game: 7
