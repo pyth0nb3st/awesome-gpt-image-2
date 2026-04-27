@@ -18,6 +18,186 @@
   },
   "images": [
     {
+      "title": "Derived Play: Orbit Explain-Back Relay",
+      "caption": "从 Moon Misconception Clinic 派生出的课堂概念回讲玩法：学习者沿 Observe、Predict、Model、Explain 四张视觉卡说出、测试并修复自己的月相解释，把含糊 caption 改成更清楚的可回讲句子。",
+      "path": "assets/images/250-derived-play-orbit-explain-back-relay.png",
+      "alt": "Landscape printable classroom station mat titled Orbit Explain-Back Relay with Observe Predict Model Explain cards, moon phase thumbnails, say it test it fix it arrows, misread better word ready tokens, caption repair box, and explained pass stamp",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-27 16:51:48",
+      "batch": "019dce1c-4a0d-7e30-8d1e-6aa94273ed9e",
+      "tags": [
+        "orbit-explain-back-relay",
+        "derived-play",
+        "education",
+        "moon-phase",
+        "explain-back",
+        "caption-repair",
+        "misconception-check",
+        "classroom-station",
+        "batch-019dce1c"
+      ],
+      "prompt": "Create one polished public-gallery concept image titled exactly \"Derived Play: Orbit Explain-Back Relay\".\n\nUse case: derived play mechanic / classroom concept-check game / education visual QA.\nAsset type: landscape 16:9 printable classroom station mat for a GPT Image 2 gallery.\n\nPrimary request: Derive a playable classroom activity from Moon Misconception Clinic. Learners use generated astronomy visual cards to explain a concept in their own words, identify one likely misconception, and repair a caption. This must be a classroom station mat, not a dashboard, not a data chart, not a map, not a menu, not signage, not a comic strip, and not a tabletop product photograph.\n\nFictional lesson only: \"Moon phase explain-back\". Keep it low-stakes and simplified; the goal is visual reasoning and caption repair, not authoritative textbook instruction.\n\nComposition: a horizontal station mat with a flowing path of four large flat visual cards: \"Observe\", \"Predict\", \"Model\", \"Explain\". Each card has a simple icon-like astronomy thumbnail: night-sky moon sequence, prediction bubble, Earth-Moon-Sun circles, and a blank explanation note. Between cards, show arrow lanes labeled \"say it\", \"test it\", \"fix it\". Add a small challenge strip at the bottom with three tokens rendered as printed circles, not physical game pieces: \"misread\", \"better word\", \"ready\". Include a caption repair box with readable short text: \"Too vague: the Moon changes\" and \"Better: we see a lit side\". Include a final pass stamp: \"EXPLAINED\".\n\nVisual style: polished educational game mat, crisp flat print design with warm white paper, midnight blue line art, amber moon accents, teal path arrows, coral correction marks, and graphite text. Use subtle paper grain and exact spacing. It should be playful but professional, suitable for public gallery inspection and printable classroom use. Keep all text short and legible.\n\nShow the derived play clearly: image generation becomes a repeatable explain-back relay where students arrange, speak, test, and repair a visual explanation.\n\nSafety and originality constraints: fictional classroom material only; no real students, no real teachers, no faces, no real school names, no brands, no logos, no public figures, no politics/elections/parties, no medical/legal claims, no hazardous instructions, no adult or explicit content, no gore, no celebrity likeness, no copyrighted characters, no living-artist style imitation. Do not copy any external prompt, classroom image, article figure, product UI, source image, artwork, chart, or protected style.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original fictional classroom explain-back relay generated locally after external source sweep. Sources informed abstract education-gallery metadata, teacher workflow structure, differentiated visual support patterns, astronomy-visual evaluation, and motionboard sequencing only; no external prompt text, image, article figure, product UI, school material, brand, character, artwork, protected style, or source image was reused."
+      },
+      "promptSources": [
+        {
+          "title": "Education prompts",
+          "url": "https://prompthero.com/search?q=Education",
+          "authorOrPublisher": "PromptHero community",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "community_gallery_scan / education_visual_failure_mode"
+        },
+        {
+          "title": "Classroom Image Prompts",
+          "url": "https://promptden.com/inspiration/classroom%2Ball",
+          "authorOrPublisher": "PromptDen / Tiny Works LLC community",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "classroom_gallery_scan / prompt_metadata_pattern"
+        },
+        {
+          "title": "AI-Powered Educational Image Generator",
+          "url": "https://openeducat.org/ai-powered-image-generator/",
+          "authorOrPublisher": "OpenEduCat",
+          "license": "unspecified site terms; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "teacher_workflow_inspiration / differentiated_output_pattern"
+        },
+        {
+          "title": "Image Generator | Monsha · AI for Teachers · Teaching Resources & Course Planning",
+          "url": "https://monsha.ai/tools/image-generator",
+          "authorOrPublisher": "Monsha",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "curriculum_context_pattern / reliability_failure_mode"
+        },
+        {
+          "title": "Creating and evaluating instructional materials with generative artificial intelligence: visual representations in astronomy education",
+          "url": "https://link.springer.com/article/10.1007/s10639-025-13580-y",
+          "authorOrPublisher": "Hasan Zuhtu Okulu / Education and Information Technologies / Springer Nature",
+          "license": "CC BY 4.0 for article unless third-party credit line excludes material; no article image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "research_evaluation_pattern / astronomy_visual_misconception_scan"
+        },
+        {
+          "title": "AI Image Generation Is Redefining the Storyboard Process",
+          "url": "https://www.composite.global/news/ai-image-generation-is-redefining-the-storyboard-process",
+          "authorOrPublisher": "Composite",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "motionboard_workflow_inspiration / multi-frame_explainability_pattern"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-27",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Fictional no-people astronomy classroom station mat with invented low-stakes moon-phase explain-back activity only. Screened to avoid political persuasion, public political figures, parties/elections, real schools, real student/teacher likenesses, brands/trademarks/logos, medical/legal claims, celebrity likenesses, copyrighted characters, adult/explicit content, harmful or dangerous instructions, weapons, gore, graphic violence, living-artist style imitation, copied prompt text, copied classroom materials, copied article figures, and source-image reuse."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dce1c-4a0d-7e30-8d1e-6aa94273ed9e/ig_06cb9af5e5637a3b0169ef234f26388195a07514414254f867.png"
+    },
+    {
+      "title": "Use Case: Moon Misconception Clinic",
+      "caption": "把 GPT Image 2 用作教师视觉备课工具：同一个虚构月相课题被拆成 Hook、Common Guess、Model、Explain Back、Teacher Review 和低墨量/海报版本，让老师先检查误概念、文字清晰度和可打印性。",
+      "path": "assets/images/251-use-case-moon-misconception-clinic.png",
+      "alt": "Landscape teacher resource production sheet titled Moon Misconception Clinic with Hook Common Guess Model Explain Back Teacher Review zones, moon phase thumbnails, Earth Moon Sun model, QA chips, and version rail",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-27 16:50:23",
+      "batch": "019dce1c-4a0d-7e30-8d1e-6aa94273ed9e",
+      "tags": [
+        "moon-misconception-clinic",
+        "use-case",
+        "education",
+        "moon-phase",
+        "teacher-resource",
+        "misconception-repair",
+        "differentiated-visuals",
+        "science-lesson",
+        "batch-019dce1c"
+      ],
+      "prompt": "Create one polished public-gallery concept image titled exactly \"Use Case: Moon Misconception Clinic\".\n\nUse case: educational visual production workflow / teacher resource design / science misconception repair.\nAsset type: landscape 16:9 teacher resource production sheet for a GPT Image 2 use-case gallery.\n\nPrimary request: Show GPT Image 2 being used to transform one fictional middle-school astronomy lesson idea into a reviewable set of visual supports. The image must feel like a teacher-facing production artifact, not a classroom portrait, not a dashboard, not a map, not a menu, not public signage, not a chart-fact-checking board, not a comic strip, and not a tabletop object.\n\nFictional lesson only: \"Why the Moon looks different each week\". Keep the science simplified and non-authoritative; show the teacher review process, not a definitive textbook page.\n\nComposition: a clean horizontal production sheet with five connected zones arranged as a flowing lesson path, not a grid. Zone 1 is \"Hook\" with a simple night-sky thumbnail and the phrase \"Same Moon\". Zone 2 is \"Common Guess\" with a faded incorrect shadow idea marked \"CHECK\". Zone 3 is \"Model\" with a simple Earth-Moon-Sun relationship diagram using abstract circles and arrows. Zone 4 is \"Explain Back\" with two short caption cards: \"I notice\" and \"I think\". Zone 5 is \"Teacher Review\" with concise QA chips: \"clear model\", \"no magic shadow\", \"plain words\", \"print ready\". Add a small side rail labeled \"Versions\" with three compact chips: \"quick sketch\", \"poster\", \"low-ink\".\n\nVisual style: refined education-design studio artifact, warm white paper, graphite text, midnight blue sky accent, soft amber moon highlights, teal review chips, coral correction marks. Use crisp vector-like illustration mixed with subtle paper texture. Keep all readable text short, aligned, and professionally spaced. The image should demonstrate that image generation can produce differentiated lesson visuals plus a human misconception review layer.\n\nSafety and originality constraints: fictional school material only; no real students, no real teachers, no faces, no real school names, no brands, no logos, no public figures, no politics/elections/parties, no medical/legal claims, no hazardous instructions, no adult or explicit content, no gore, no celebrity likeness, no copyrighted characters, no living-artist style imitation. Do not copy any external prompt, classroom image, article figure, product UI, source image, artwork, chart, or protected style.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original fictional teacher-facing astronomy visual workflow generated locally after external source sweep. Sources informed abstract education-gallery metadata, teacher workflow structure, differentiated visual support patterns, astronomy-visual evaluation, and motionboard sequencing only; no external prompt text, image, article figure, product UI, school material, brand, character, artwork, protected style, or source image was reused."
+      },
+      "promptSources": [
+        {
+          "title": "Education prompts",
+          "url": "https://prompthero.com/search?q=Education",
+          "authorOrPublisher": "PromptHero community",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "community_gallery_scan / education_visual_failure_mode"
+        },
+        {
+          "title": "Classroom Image Prompts",
+          "url": "https://promptden.com/inspiration/classroom%2Ball",
+          "authorOrPublisher": "PromptDen / Tiny Works LLC community",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "classroom_gallery_scan / prompt_metadata_pattern"
+        },
+        {
+          "title": "AI-Powered Educational Image Generator",
+          "url": "https://openeducat.org/ai-powered-image-generator/",
+          "authorOrPublisher": "OpenEduCat",
+          "license": "unspecified site terms; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "teacher_workflow_inspiration / differentiated_output_pattern"
+        },
+        {
+          "title": "Image Generator | Monsha · AI for Teachers · Teaching Resources & Course Planning",
+          "url": "https://monsha.ai/tools/image-generator",
+          "authorOrPublisher": "Monsha",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "curriculum_context_pattern / reliability_failure_mode"
+        },
+        {
+          "title": "Creating and evaluating instructional materials with generative artificial intelligence: visual representations in astronomy education",
+          "url": "https://link.springer.com/article/10.1007/s10639-025-13580-y",
+          "authorOrPublisher": "Hasan Zuhtu Okulu / Education and Information Technologies / Springer Nature",
+          "license": "CC BY 4.0 for article unless third-party credit line excludes material; no article image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "research_evaluation_pattern / astronomy_visual_misconception_scan"
+        },
+        {
+          "title": "AI Image Generation Is Redefining the Storyboard Process",
+          "url": "https://www.composite.global/news/ai-image-generation-is-redefining-the-storyboard-process",
+          "authorOrPublisher": "Composite",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "motionboard_workflow_inspiration / multi-frame_explainability_pattern"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-27",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Fictional no-people astronomy teacher resource with invented low-stakes lesson visuals only. Screened to avoid political persuasion, public political figures, parties/elections, real schools, real student/teacher likenesses, brands/trademarks/logos, medical/legal claims, celebrity likenesses, copyrighted characters, adult/explicit content, harmful or dangerous instructions, weapons, gore, graphic violence, living-artist style imitation, copied prompt text, copied classroom materials, copied article figures, and source-image reuse."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dce1c-4a0d-7e30-8d1e-6aa94273ed9e/ig_06cb9af5e5637a3b0169ef22f20cd48195bd8f98bb17dafb3a.png"
+    },
+    {
       "title": "Derived Play: Alt-Text Relay",
       "caption": "从 Chart Narration Studio 派生出的无障碍玩法：玩家把图表描述卡匹配到 Title、Summary、Categories、Takeaway 的阅读顺序，并把 too vague 描述改写成 plain language。",
       "path": "assets/images/247-derived-play-alt-text-relay.png",

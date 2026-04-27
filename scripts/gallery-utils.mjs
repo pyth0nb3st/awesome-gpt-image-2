@@ -69,6 +69,45 @@ export const promptExcerpt = (prompt, length = 170) => {
   return compact.length > length ? `${compact.slice(0, length - 1).trim()}...` : compact;
 };
 
+const collectTextValues = (value, output = []) => {
+  if (value == null) {
+    return output;
+  }
+
+  if (typeof value === "string" || typeof value === "number" || typeof value === "boolean") {
+    output.push(String(value));
+    return output;
+  }
+
+  if (Array.isArray(value)) {
+    for (const item of value) {
+      collectTextValues(item, output);
+    }
+    return output;
+  }
+
+  if (typeof value === "object") {
+    for (const [key, item] of Object.entries(value)) {
+      output.push(key);
+      collectTextValues(item, output);
+    }
+  }
+
+  return output;
+};
+
+export const searchTextForImage = (image, index = 0) =>
+  [
+    cleanTitle(image, index),
+    ...displayTags(image),
+    ...displayTags(image).map(humanizeTag),
+    ...collectTextValues(image),
+  ]
+    .join(" ")
+    .replace(/\s+/g, " ")
+    .trim()
+    .toLowerCase();
+
 export const cleanTitle = (image, index) => {
   const raw = String(image.title || `GPT Image prompt example ${index + 1}`).trim();
   const sentence = raw.replace(/^a\s+/i, "").replace(/^an\s+/i, "");

@@ -13,6 +13,7 @@ import {
   escapeHtml,
   promptPagePath,
   promptExcerpt,
+  searchTextForImage,
   tagPagePath,
   tagCounts,
 } from "./gallery-utils.mjs";
@@ -47,7 +48,7 @@ const cards = data.images
           : `<li>${label}</li>`;
       })
       .join("\n                ");
-    const search = [title, image.caption, image.prompt, ...tags].join(" ").toLowerCase();
+    const search = searchTextForImage(image, index);
 
     const imageSource =
       index < INITIAL_IMAGE_COUNT

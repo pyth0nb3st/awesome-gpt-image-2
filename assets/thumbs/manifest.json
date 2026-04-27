@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/250-derived-play-orbit-explain-back-relay.png": {
+      "path": "assets/thumbs/250-derived-play-orbit-explain-back-relay.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/251-use-case-moon-misconception-clinic.png": {
+      "path": "assets/thumbs/251-use-case-moon-misconception-clinic.jpg",
+      "width": 768,
+      "height": 432
+    },
     "assets/images/247-derived-play-alt-text-relay.png": {
       "path": "assets/thumbs/247-derived-play-alt-text-relay.jpg",
       "width": 768,

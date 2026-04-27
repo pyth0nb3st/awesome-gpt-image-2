@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/250-derived-play-orbit-explain-back-relay.png</image:loc>
+      <image:title>Derived Play: Orbit Explain-Back Relay</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Derived Play: Orbit Explain-Back Relay&quot;. Use case: derived play mechanic / classroom concept-check game / education visual QA. Asset type: landscape 16:9 printable classroom...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/251-use-case-moon-misconception-clinic.png</image:loc>
+      <image:title>Use Case: Moon Misconception Clinic</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Use Case: Moon Misconception Clinic&quot;. Use case: educational visual production workflow / teacher resource design / science misconception repair. Asset type: landscape 16:9 te...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/247-derived-play-alt-text-relay.png</image:loc>
       <image:title>Derived Play: Alt-Text Relay</image:title>
       <image:caption>Create one polished public-gallery concept image titled exactly &quot;Derived Play: Alt-Text Relay&quot;. Use case: derived play mechanic / accessibility review game / data-literacy practice. Asset type: landscape 16:9 printable challenge proof for...</image:caption>
@@ -1197,6 +1207,28 @@
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/250-derived-play-orbit-explain-back-relay/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/250-derived-play-orbit-explain-back-relay.png</image:loc>
+      <image:title>Derived Play: Orbit Explain-Back Relay</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Derived Play: Orbit Explain-Back Relay&quot;. Use case: derived play mechanic / classroom concept-check game / education visual QA. Asset type: landscape 16:9 printable classroom...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/251-use-case-moon-misconception-clinic/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/251-use-case-moon-misconception-clinic.png</image:loc>
+      <image:title>Use Case: Moon Misconception Clinic</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Use Case: Moon Misconception Clinic&quot;. Use case: educational visual production workflow / teacher resource design / science misconception repair. Asset type: landscape 16:9 te...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/247-derived-play-alt-text-relay/</loc>
@@ -4108,6 +4140,12 @@
   </url>
   <url>
     <loc>https://gptimg2.best/tags/memory-drop/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/moon-phase/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
