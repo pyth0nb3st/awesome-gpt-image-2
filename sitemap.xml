@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/264-derived-play-bidi-glyph-rescue.png</image:loc>
+      <image:title>Derived Play: BiDi Glyph Rescue</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Derived Play: BiDi Glyph Rescue&quot;. Use case: derived play mechanic / localization QA game / mixed-script text-direction repair. Asset type: landscape 16:9 printable repair puz...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/265-use-case-multilingual-poster-preflight.png</image:loc>
+      <image:title>Use Case: Multilingual Poster Preflight</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Use Case: Multilingual Poster Preflight&quot;. Use case: localization QA / multiscript typography proof / GPT Image 2 text-layout workflow. Asset type: tall portrait folded poster...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/262-derived-play-stratigraphy-repair-relay.png</image:loc>
       <image:title>Derived Play: Stratigraphy Repair Relay</image:title>
       <image:caption>Create a single polished derived-play image for GPT Image 2 titled &quot;Stratigraphy Repair Relay&quot;. Primary scene: a landscape-format printable logic puzzle sheet for a completely fictional archaeology training record. It should not look like...</image:caption>
@@ -1267,6 +1277,28 @@
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/264-derived-play-bidi-glyph-rescue/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/264-derived-play-bidi-glyph-rescue.png</image:loc>
+      <image:title>Derived Play: BiDi Glyph Rescue</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Derived Play: BiDi Glyph Rescue&quot;. Use case: derived play mechanic / localization QA game / mixed-script text-direction repair. Asset type: landscape 16:9 printable repair puz...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/265-use-case-multilingual-poster-preflight/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/265-use-case-multilingual-poster-preflight.png</image:loc>
+      <image:title>Use Case: Multilingual Poster Preflight</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Use Case: Multilingual Poster Preflight&quot;. Use case: localization QA / multiscript typography proof / GPT Image 2 text-layout workflow. Asset type: tall portrait folded poster...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/262-derived-play-stratigraphy-repair-relay/</loc>
@@ -4091,13 +4123,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/material-study/</loc>
+    <loc>https://gptimg2.best/tags/use-case/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/use-case/</loc>
+    <loc>https://gptimg2.best/tags/material-study/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -4194,6 +4226,12 @@
   </url>
   <url>
     <loc>https://gptimg2.best/tags/arrow-edit/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/bidi-text/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -4343,6 +4381,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://gptimg2.best/tags/localization-qa/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://gptimg2.best/tags/low-ink/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -4356,6 +4400,12 @@
   </url>
   <url>
     <loc>https://gptimg2.best/tags/moon-phase/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/multiscript-typography/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>

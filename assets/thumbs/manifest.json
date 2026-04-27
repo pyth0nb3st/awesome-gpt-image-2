@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/264-derived-play-bidi-glyph-rescue.png": {
+      "path": "assets/thumbs/264-derived-play-bidi-glyph-rescue.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/265-use-case-multilingual-poster-preflight.png": {
+      "path": "assets/thumbs/265-use-case-multilingual-poster-preflight.jpg",
+      "width": 768,
+      "height": 1152
+    },
     "assets/images/262-derived-play-stratigraphy-repair-relay.png": {
       "path": "assets/thumbs/262-derived-play-stratigraphy-repair-relay.jpg",
       "width": 768,

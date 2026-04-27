@@ -18,6 +18,188 @@
   },
   "images": [
     {
+      "title": "Derived Play: BiDi Glyph Rescue",
+      "caption": "从 Multilingual Poster Preflight 派生出的双向文本 QA 玩法：玩家在 before/after 多语种版面中 spot、tag、mirror、pad、sign 五类问题，包括 order flip、number drift、arrow wrong、glyph clip 和 box tilt。",
+      "path": "assets/images/264-derived-play-bidi-glyph-rescue.png",
+      "alt": "Landscape localization QA game titled BiDi Glyph Rescue with before and after mixed-script lanes, red fault loops, action ladder, scoring key, and BIDI PASS stamp",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-28 01:02:58",
+      "batch": "019dcfdb-2601-74d3-89fa-f0c5bf1c9f35",
+      "tags": [
+        "bidi-glyph-rescue",
+        "derived-play",
+        "localization-qa",
+        "bidi-text",
+        "multiscript-typography",
+        "glyph-repair",
+        "text-direction",
+        "qa-game",
+        "batch-019dcfdb"
+      ],
+      "prompt": "Create one polished public-gallery concept image titled exactly \"Derived Play: BiDi Glyph Rescue\".\n\nUse case: derived play mechanic / localization QA game / mixed-script text-direction repair.\nAsset type: landscape 16:9 printable repair puzzle sheet for a GPT Image 2 gallery.\n\nPrimary request: Derive a playable review game from Multilingual Poster Preflight. Players inspect a fictional AI-generated multilingual layout and repair five problems before the poster can pass localization preflight. This must be a flat printable puzzle sheet, not a dashboard, not a menu, not a map, not a comic strip, not a physical tabletop game photo, and not a 2x3 contact sheet.\n\nGameplay concept: a generated poster snippet is split into \"before\" and \"after\" lanes. The player must find, label, repair, and pass mixed-script layout faults: reversed visual order, misplaced numerals, wrong arrow direction, clipped diacritic zone, and mismatched text-box orientation. The game is about visible QA mechanics, not real translation.\n\nComposition: landscape sheet with a large left panel titled \"BEFORE: find the breaks\" showing four fictional language lanes with short labels only: EN, RTL, CJK, DEV. Add five red numbered fault loops with readable labels: ORDER FLIP, NUMBER DRIFT, ARROW WRONG, GLYPH CLIP, BOX TILT. Use simple synthetic glyph clusters and placeholder-like text blocks, not real translated paragraphs. Include direction arrows, baseline guides, bounding boxes, and a small date/number strip that has one obvious misplacement.\n\nRight panel titled \"AFTER: rescue pass\" shows corrected versions of the same lanes with green check marks, aligned boxes, direction arrows, extra top padding for diacritics, and a compact final stamp \"BIDI PASS\". Between panels, add a vertical action ladder with five steps: \"spot\", \"tag\", \"mirror\", \"pad\", \"sign\". Bottom strip shows a scoring key with five chips: order, numbers, arrows, glyphs, boxes.\n\nVisual style: precise localization QA worksheet with editorial polish, warm white paper, graphite linework, teal guides, red fault marks, green pass marks, clean legible typography, purposeful empty space, sophisticated production-proof feel. Make the playful rule loop obvious: AI image outputs become inspectable, repairable artifacts.\n\nSafety and originality constraints: fictional localization material only; no real brands, no logos, no real event, no real organization, no real address, no QR code, no public figures, no politics/elections/parties/persuasion, no religious symbols, no medical/legal/financial claims, no hazardous instructions, no adult or explicit content, no gore, no celebrity likeness, no copyrighted characters, no living-artist style imitation. Do not copy any external prompt, poster, type specimen, dataset sample, article image, product UI, source image, artwork, creator style, or protected typeface specimen.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original fictional bidirectional-text repair game generated locally after external source sweep. Sources informed only abstract mixed-script typography review, BiDi UI failure modes, text-box/orientation evaluation, and native-review workflow patterns; no external prompt text, poster, type specimen, dataset sample, article image, product UI, brand, source image, creator style, or protected typeface specimen was reused."
+      },
+      "promptSources": [
+        {
+          "title": "Multiscript Typography Projects",
+          "url": "https://www.behance.net/search/projects/multiscript%20typography",
+          "authorOrPublisher": "Behance / Adobe community",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "community_gallery / multiscript_trend_scan / visual_format_reference"
+        },
+        {
+          "title": "Beginner's guide to multiscript typography",
+          "url": "https://www.type-together.com/multiscript-typography-guide",
+          "authorOrPublisher": "Pooja Saxena / TypeTogether",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "tutorial / prompt_pattern_inspiration / typography_failure_mode"
+        },
+        {
+          "title": "How-to: Multiscript projects",
+          "url": "https://type.today/en/journal/multiscript",
+          "authorOrPublisher": "Adelina Shaidullina, Dina Mingalieva / type.today",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "workflow_inspiration / native_review_pattern / failure_mode_scan"
+        },
+        {
+          "title": "Bidirectional Text and UI: A Tutorial",
+          "url": "https://www.unicode.org/events/utw/2025/talks/bidirectional-text-and-ui/",
+          "authorOrPublisher": "Adil Allawi / Unicode Technology Workshop 2025",
+          "license": "unspecified; no slide/recording reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "bidirectional_text_context / community_failure_mode / evaluation_pattern"
+        },
+        {
+          "title": "Exploring amBiDiguity: UI item direction interpretation by Arabic and Hebrew users",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S1071581924001666",
+          "authorOrPublisher": "International Journal of Human-Computer Studies / ScienceDirect",
+          "license": "research abstract page; no figure/data reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "research_context / bidi_ui_failure_mode / evaluation_context"
+        },
+        {
+          "title": "KSTRV1: A scene text recognition dataset for central Kurdish in (Arabic-Based) script",
+          "url": "https://www.sciencedirect.com/science/article/pii/S2352340925003786",
+          "authorOrPublisher": "Data in Brief / ScienceDirect",
+          "license": "research article page; no dataset sample/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "benchmark_dataset / low_resource_script_context / scene_text_evaluation"
+        },
+        {
+          "title": "Multiscriptual Typesetting",
+          "url": "https://www.alphabettes.org/multiscriptual-typesetting/",
+          "authorOrPublisher": "Beatriz Lozano / Alphabettes",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "design_case / event_graphics_workflow / multiscript_composition_pattern"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-28",
+        "reviewNote": "Fictional no-people localization QA game using generic language lane labels and synthetic layout faults. Screened to avoid real brands/logos, real events, real institutions, addresses, QR codes, public figures, politics/elections/parties/persuasion, religious symbols, medical/legal/financial claims, hazardous instructions, adult/explicit content, gore, graphic violence, celebrity likenesses, copyrighted characters, living-artist style imitation, copied prompt text, copied poster/type specimen/gallery image/dataset sample/source image, and claims of real translation correctness."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dcfdb-2601-74d3-89fa-f0c5bf1c9f35/ig_07fb4dffa954c59e0169ef960f77688195a669a3748c9c991b.png"
+    },
+    {
+      "title": "Use Case: Multilingual Poster Preflight",
+      "caption": "把 GPT Image 2 用作多语种海报本地化预检：从虚构活动 brief 生成带 language lanes、RTL/LTR 方向、baseline、bounding box、numeral/date、diacritic space 和 native-review handoff 的可审查 poster proof。",
+      "path": "assets/images/265-use-case-multilingual-poster-preflight.png",
+      "alt": "Portrait multilingual poster proof titled Multilingual Poster Preflight with EN RTL CJK and Devanagari lanes, bounding boxes, direction arrows, localization checks, reflow OK stamp, and fictional proof footer",
+      "width": 1024,
+      "height": 1536,
+      "createdAt": "2026-04-28 01:00:01",
+      "batch": "019dcfdb-2601-74d3-89fa-f0c5bf1c9f35",
+      "tags": [
+        "multilingual-poster-preflight",
+        "use-case",
+        "localization-qa",
+        "multiscript-typography",
+        "bidi-text",
+        "poster-proof",
+        "text-layout",
+        "native-review",
+        "batch-019dcfdb"
+      ],
+      "prompt": "Create one polished public-gallery concept image titled exactly \"Use Case: Multilingual Poster Preflight\".\n\nUse case: localization QA / multiscript typography proof / GPT Image 2 text-layout workflow.\nAsset type: tall portrait folded poster proof with annotation overlay, designed for a GPT Image 2 use-case gallery.\n\nPrimary request: Show GPT Image 2 being used to transform one fictional event brief into a multilingual poster preflight artifact. The image should demonstrate how generated poster layouts can be inspected for script fit, mixed text direction, clipped glyphs, numeral/date placement, and native-review handoff. This must be a flat print proof, not a dashboard, not a menu, not a route map, not a comic strip, not a product photo, not a physical controller, and not a 2x3 research board.\n\nFictional low-stakes event only: \"Lantern Archive Night\" at invented venue code \"Room L-18\". Do not include any real organization, logo, brand, city, country, address, QR code, phone number, URL, or ticket-like transactional details.\n\nComposition: one coherent portrait poster proof on warm white paper with subtle fold marks. The center shows a clean fictional event poster divided into four vertical language lanes. Use short, generic, legible placeholder-like copy blocks with script-safe labels rather than claiming real translations: \"EN title\", \"RTL title\", \"CJK title\", \"Devanagari title\". Include small sample glyph clusters that look typographic but do not need to be real translated text. Make the lanes visually distinct through layout rhythm, not flags or cultural stereotypes.\n\nAdd a translucent preflight overlay with five numbered callouts: 1 SCRIPT FIT, 2 RTL ORDER, 3 NUMERALS, 4 DIACRITIC SPACE, 5 REVIEW HANDOFF. Show thin bounding boxes around text blocks, baseline guides, direction arrows, and one small corrected label strip reading \"reflow OK\". Add a narrow side rail labeled \"localization checks\" with compact readable chips: \"fit\", \"order\", \"date\", \"glyphs\", \"review\". Footer stamp: \"fictional proof - no source image\".\n\nVisual style: refined international design-production proof, crisp editorial typography, precise annotation marks, muted ink palette with teal, graphite, saffron, and red correction accents, high legibility, generous margins, sophisticated but practical. The image should make the workflow clear: GPT Image output becomes a reviewable localization artifact with concrete QA criteria.\n\nSafety and originality constraints: no real brands, no logos, no real event, no real institution, no real address, no QR code, no public figures, no politics/elections/parties/persuasion, no religious symbols, no medical/legal/financial claims, no hazardous instructions, no adult or explicit content, no gore, no celebrity likeness, no copyrighted characters, no living-artist style imitation. Do not copy any external prompt, poster, type specimen, dataset sample, article image, product UI, source image, artwork, creator style, or protected typeface specimen.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original fictional multilingual poster preflight artifact generated locally after external source sweep. Sources informed only abstract multiscript typography workflow, bidirectional text failure modes, scene-text evaluation context, and localization review patterns; no external prompt text, poster, type specimen, dataset sample, article image, product UI, brand, source image, creator style, or protected typeface specimen was reused."
+      },
+      "promptSources": [
+        {
+          "title": "Multiscript Typography Projects",
+          "url": "https://www.behance.net/search/projects/multiscript%20typography",
+          "authorOrPublisher": "Behance / Adobe community",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "community_gallery / multiscript_trend_scan / visual_format_reference"
+        },
+        {
+          "title": "Beginner's guide to multiscript typography",
+          "url": "https://www.type-together.com/multiscript-typography-guide",
+          "authorOrPublisher": "Pooja Saxena / TypeTogether",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "tutorial / prompt_pattern_inspiration / typography_failure_mode"
+        },
+        {
+          "title": "How-to: Multiscript projects",
+          "url": "https://type.today/en/journal/multiscript",
+          "authorOrPublisher": "Adelina Shaidullina, Dina Mingalieva / type.today",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "workflow_inspiration / native_review_pattern / failure_mode_scan"
+        },
+        {
+          "title": "Bidirectional Text and UI: A Tutorial",
+          "url": "https://www.unicode.org/events/utw/2025/talks/bidirectional-text-and-ui/",
+          "authorOrPublisher": "Adil Allawi / Unicode Technology Workshop 2025",
+          "license": "unspecified; no slide/recording reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "bidirectional_text_context / community_failure_mode / evaluation_pattern"
+        },
+        {
+          "title": "Exploring amBiDiguity: UI item direction interpretation by Arabic and Hebrew users",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S1071581924001666",
+          "authorOrPublisher": "International Journal of Human-Computer Studies / ScienceDirect",
+          "license": "research abstract page; no figure/data reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "research_context / bidi_ui_failure_mode / evaluation_context"
+        },
+        {
+          "title": "KSTRV1: A scene text recognition dataset for central Kurdish in (Arabic-Based) script",
+          "url": "https://www.sciencedirect.com/science/article/pii/S2352340925003786",
+          "authorOrPublisher": "Data in Brief / ScienceDirect",
+          "license": "research article page; no dataset sample/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "benchmark_dataset / low_resource_script_context / scene_text_evaluation"
+        },
+        {
+          "title": "Multiscriptual Typesetting",
+          "url": "https://www.alphabettes.org/multiscriptual-typesetting/",
+          "authorOrPublisher": "Beatriz Lozano / Alphabettes",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "design_case / event_graphics_workflow / multiscript_composition_pattern"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-28",
+        "reviewNote": "Fictional no-people localization proof with invented event name and venue code. Screened to avoid real brands/logos, real events, real institutions, addresses, QR codes, public figures, politics/elections/parties/persuasion, religious symbols, medical/legal/financial claims, hazardous instructions, adult/explicit content, gore, graphic violence, celebrity likenesses, copyrighted characters, living-artist style imitation, copied prompt text, copied poster/type specimen/gallery image/dataset sample/source image, and claims of real translation correctness."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dcfdb-2601-74d3-89fa-f0c5bf1c9f35/ig_07fb4dffa954c59e0169ef958c2b5c8195b1e1400e876a114a.png"
+    },
+    {
       "title": "Derived Play: Stratigraphy Repair Relay",
       "caption": "从 Context Sheet Synthesizer 派生出的层位逻辑修复玩法：玩家在虚构 trench section 中 spot、name、repair、retest、pass 五类错误，包括 floating deposit、missing cut edge、sample mismatch、reversed arrow 和 key gap。",
       "path": "assets/images/262-derived-play-stratigraphy-repair-relay.png",
