@@ -18,6 +18,188 @@
   },
   "images": [
     {
+      "title": "Derived Play: Token Drift Hunt",
+      "caption": "从 Stateflow Mockup Gauntlet 派生出的 UI QA 玩法：评审者在虚构 Mosaic Pantry 四状态移动端流程里找出 radius、nav、empty、error、locale 五个 token drift，并用 fix nav / fix copy 两个补丁后得到 PASS 5/5。",
+      "path": "assets/images/241-derived-play-token-drift-hunt.png",
+      "alt": "Landscape digital review game titled Derived Play Token Drift Hunt with four Mosaic Pantry phone screens, five coral drift markers for radius nav empty error locale, two teal repair patches, and PASS 5/5 stamp",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-27 12:47:06",
+      "batch": "019dcd3b-89a6-7a21-bc04-b871281eeee7",
+      "tags": [
+        "token-drift-hunt",
+        "derived-play",
+        "ui-mockup",
+        "product-design-qa",
+        "stateflow-review",
+        "design-token-consistency",
+        "edge-case-testing",
+        "navigation-continuity",
+        "failure-mode-game",
+        "batch-019dcd3b"
+      ],
+      "prompt": "Create one polished public-gallery concept image titled exactly \"Derived Play: Token Drift Hunt\".\n\nUse case: ui-mockup / derived play mechanic / product-design QA game\nAsset type: public GPT Image 2 derived-play gallery image, landscape 16:9 digital review game surface\n\nPrimary request: Derive a playable QA game from Stateflow Mockup Gauntlet. Reviewers inspect a fictional multi-state mobile app flow and must find five subtle UI drift bugs, patch two of them, and approve the repaired flow. This must be a digital product-design review artifact, not a physical tabletop board, not a device photo, not a tray, not a map, not a comic, not a worksheet, not a data poster, not a panorama, and not a generic analytics dashboard.\n\nScene: the same fictional \"Mosaic Pantry\" mobile flow appears as four compact phone screens across a warm ivory review canvas. The screens are labeled \"Home\", \"Add Item\", \"Empty\", \"Error\". Add a playful transparent overlay layer with five numbered drift markers: \"1 radius\", \"2 nav\", \"3 empty\", \"4 error\", \"5 locale\". Show exactly two repair patches: a teal patch \"fix nav\" and a teal patch \"fix copy\". A small rule strip says \"Find 5 drifts\", \"Patch 2\", \"PASS\". Keep the phone UI readable but simplified.\n\nDerived gameplay mechanism: players compare the four screens and hunt for failures that AI mockups often introduce: one button corner radius changes, one tab bar icon disappears, one empty-state message is vague, one error action differs, and one longer localized label nearly overflows. Show the errors with small coral target rings and numbered tags. Show the two fixed items with teal check stickers. Finish with a moss green stamp \"PASS 5/5\".\n\nExact readable text to render only: \"Derived Play: Token Drift Hunt\", \"Mosaic Pantry\", \"Home\", \"Add Item\", \"Empty\", \"Error\", \"1 radius\", \"2 nav\", \"3 empty\", \"4 error\", \"5 locale\", \"Find 5 drifts\", \"Patch 2\", \"fix nav\", \"fix copy\", \"PASS 5/5\". Do not add random placeholder text.\n\nComposition: modern design critique canvas, full-screen digital review surface, four phone thumbnails, translucent QA overlay, numbered coral bug markers, teal repair stickers, graphite typography, muted teal app chrome, amber caution line, moss green pass stamp. The gameplay should be legible at a glance. Avoid stock-photo realism, decorative orbs, nested cards, real-brand UI, app store badges, and any copied UI.\n\nSafety and rights: fictional app, fictional data, fictional organization only. Use no real brands, no trademarks, no logos, no real people, no public figures, no politics, no elections, no financial/medical/legal advice, no dangerous instructions, no adult or explicit content, no gore or violence, no copyrighted characters, no living-artist style imitation, no source image reuse, no watermark.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt_with_external_pattern_research",
+        "sourceNote": "Derived locally from Stateflow Mockup Gauntlet after a fresh external source sweep. External sources informed only abstract patterns around community prompt metadata, structured UI prompting, variant review loops, layout/typography evaluation, story workflow framing, and UI mockup failure modes. No external prompt text, image, source image, real app, brand, character, artwork, or protected style was reused."
+      },
+      "promptSources": [
+        {
+          "title": "SceneForge - Your MidJourney Companion",
+          "url": "https://www.sceneforge.io/",
+          "authorOrPublisher": "SceneForge",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "community_gallery_pattern / prompt_metadata_scan"
+        },
+        {
+          "title": "A few GPT Image 2 prompt patterns that worked better than I expected",
+          "url": "https://www.reddit.com/r/PromptEngineering/comments/1sv32te/a_few_gpt_image_2_prompt_patterns_that_worked/",
+          "authorOrPublisher": "Reddit r/PromptEngineering / Unhappy-Ad7274",
+          "license": "user-generated public discussion; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "community_prompt_pattern / workflow_inspiration"
+        },
+        {
+          "title": "AI Ad Creative Generation Workflow (Step-by-Step 2026)",
+          "url": "https://adrow.ai/en/blog/ai-ad-creative-generation-workflow",
+          "authorOrPublisher": "AdRow",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "workflow_inspiration / variant_testing_pattern / failure_mode_scan"
+        },
+        {
+          "title": "PosterIQ: A Design Perspective Benchmark for Poster Understanding and Generation",
+          "url": "https://huggingface.co/papers/2603.24078",
+          "authorOrPublisher": "Yuheng Feng, Wen Zhang, Haodong Duan, Xingxing Zou / Hugging Face Papers",
+          "license": "research page; no prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "benchmark_dataset / layout_evaluation / typography_failure_mode"
+        },
+        {
+          "title": "How to Turn Book Ideas into AI Art (Step-by-Step Prompt Guide)",
+          "url": "https://nightcafe.studio/blogs/blog/turn-stories-into-ai-art-prompt-guide",
+          "authorOrPublisher": "NightCafe / Cassandra Hood",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "story_workflow_inspiration / prompt_pattern_inspiration"
+        },
+        {
+          "title": "Best Mockup Tools in 2026: Fast UI Mockups Without the Friction",
+          "url": "https://uxmagic.ai/blog/best-mockup-tools-2026-fast-ui-workflows",
+          "authorOrPublisher": "UXMagic / Surbhi Sinha",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "ui_workflow_inspiration / failure_mode_scan / verification_pattern"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Fictional app and fictional pantry data only; no real brands, trademarks, logos, real organizations, real people, public figures, politics/elections/parties, financial/medical/legal advice, dangerous instructions, adult or explicit content, gore, graphic violence, celebrity likeness, copyrighted character, living-artist style imitation, copied prompt text, or source-image reuse.",
+        "checkedAt": "2026-04-27"
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dcd3b-89a6-7a21-bc04-b871281eeee7/ig_0ded729e4062468d0169eeea03218c81969f2e0bb5fef2d847.png"
+    },
+    {
+      "title": "Use Case: Stateflow Mockup Gauntlet",
+      "caption": "一个 GPT Image 2 产品设计工作流玩法：把虚构 Mosaic Pantry PRD 生成四状态移动端 mockup，用 PRD、States、Nav、Tokens、Text、PASS 约束轨道检查导航、token、文本、empty/error 状态，并在 fix empty copy 后盖上 PASS AFTER FIX。",
+      "path": "assets/images/242-use-case-stateflow-mockup-gauntlet.png",
+      "alt": "Landscape product design review wall titled Use Case Stateflow Mockup Gauntlet with four Mosaic Pantry phone screens for Home Add Item Empty Error, QA chips for PRD States Nav Tokens Text PASS, repair note, and pass after fix stamp",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-27 12:45:55",
+      "batch": "019dcd3b-89a6-7a21-bc04-b871281eeee7",
+      "tags": [
+        "stateflow-mockup-gauntlet",
+        "use-case",
+        "ui-mockup",
+        "product-design-workflow",
+        "state-machine-qa",
+        "design-token-consistency",
+        "edge-case-testing",
+        "navigation-continuity",
+        "visual-qa",
+        "batch-019dcd3b"
+      ],
+      "prompt": "Create one polished public-gallery concept image titled exactly \"Use Case: Stateflow Mockup Gauntlet\".\n\nUse case: ui-mockup / product-design workflow / visual QA\nAsset type: public GPT Image 2 use-case gallery image, landscape 16:9 product-design review wall\n\nPrimary request: Show GPT Image 2 being used to turn a fictional product PRD into a multi-state UI mockup that can be reviewed for structure, edge cases, token consistency, navigation continuity, and readable text. This must feel like a real product-design workflow artifact, not a generic dashboard screenshot, not a marketing landing page, not a physical object, not a tabletop game, not a map, not a comic, not a worksheet, not a data poster, and not a panorama.\n\nScene: a clean digital review canvas for a fictional app called \"Mosaic Pantry\". The app helps a fictional community kitchen track donated pantry items; keep it generic and non-political. Show four mobile screens arranged left-to-right as one flow, each with a clear label: \"Home\", \"Add Item\", \"Empty\", \"Error\". The screens share the same top navigation, same tab bar, same 8px rounded components, same typography scale, and same teal/graphite/ivory design tokens. Use invented sample text only: \"Mosaic Pantry\", \"Add item\", \"3 items\", \"No items yet\", \"Try again\", \"Saved\".\n\nMechanism to make visible: a thin right-side constraint rail lists short QA chips: \"PRD\", \"States\", \"Nav\", \"Tokens\", \"Text\", \"PASS\". Small overlay marks should prove the mockup is being evaluated: green check marks on consistent nav and tokens, one amber note \"long text ok\", one coral note \"fix empty copy\", and a final green stamp \"PASS AFTER FIX\". Include a tiny state-machine line connecting Home -> Add Item -> Empty -> Error, but keep the phone screens dominant.\n\nComposition: modern Figma-like product design review surface, four crisp phone frames, compact annotations, generous spacing, no nested UI cards, no decorative orbs, no fake brand logos, no real app store badges. Make text short and readable. Keep all in-image text limited to the exact labels listed above plus the title. Use warm ivory background, graphite text, muted teal components, coral repair note, amber caution note, moss green pass marks.\n\nSafety and rights: fictional app, fictional data, fictional organization only. Use no real brands, no trademarks, no logos, no real people, no public figures, no politics, no elections, no financial/medical/legal advice, no dangerous instructions, no adult or explicit content, no gore or violence, no copyrighted characters, no living-artist style imitation, no source image reuse, no watermark.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt_with_external_pattern_research",
+        "sourceNote": "Created after a fresh external source sweep. External sources informed only abstract patterns around community prompt metadata, structured UI prompting, variant review loops, layout/typography evaluation, story workflow framing, and UI mockup failure modes. No external prompt text, image, source image, real app, brand, character, artwork, or protected style was reused."
+      },
+      "promptSources": [
+        {
+          "title": "SceneForge - Your MidJourney Companion",
+          "url": "https://www.sceneforge.io/",
+          "authorOrPublisher": "SceneForge",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "community_gallery_pattern / prompt_metadata_scan"
+        },
+        {
+          "title": "A few GPT Image 2 prompt patterns that worked better than I expected",
+          "url": "https://www.reddit.com/r/PromptEngineering/comments/1sv32te/a_few_gpt_image_2_prompt_patterns_that_worked/",
+          "authorOrPublisher": "Reddit r/PromptEngineering / Unhappy-Ad7274",
+          "license": "user-generated public discussion; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "community_prompt_pattern / workflow_inspiration"
+        },
+        {
+          "title": "AI Ad Creative Generation Workflow (Step-by-Step 2026)",
+          "url": "https://adrow.ai/en/blog/ai-ad-creative-generation-workflow",
+          "authorOrPublisher": "AdRow",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "workflow_inspiration / variant_testing_pattern / failure_mode_scan"
+        },
+        {
+          "title": "PosterIQ: A Design Perspective Benchmark for Poster Understanding and Generation",
+          "url": "https://huggingface.co/papers/2603.24078",
+          "authorOrPublisher": "Yuheng Feng, Wen Zhang, Haodong Duan, Xingxing Zou / Hugging Face Papers",
+          "license": "research page; no prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "benchmark_dataset / layout_evaluation / typography_failure_mode"
+        },
+        {
+          "title": "How to Turn Book Ideas into AI Art (Step-by-Step Prompt Guide)",
+          "url": "https://nightcafe.studio/blogs/blog/turn-stories-into-ai-art-prompt-guide",
+          "authorOrPublisher": "NightCafe / Cassandra Hood",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "story_workflow_inspiration / prompt_pattern_inspiration"
+        },
+        {
+          "title": "Best Mockup Tools in 2026: Fast UI Mockups Without the Friction",
+          "url": "https://uxmagic.ai/blog/best-mockup-tools-2026-fast-ui-workflows",
+          "authorOrPublisher": "UXMagic / Surbhi Sinha",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "ui_workflow_inspiration / failure_mode_scan / verification_pattern"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Fictional app and fictional pantry data only; no real brands, trademarks, logos, real organizations, real people, public figures, politics/elections/parties, financial/medical/legal advice, dangerous instructions, adult or explicit content, gore, graphic violence, celebrity likeness, copyrighted character, living-artist style imitation, copied prompt text, or source-image reuse.",
+        "checkedAt": "2026-04-27"
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dcd3b-89a6-7a21-bc04-b871281eeee7/ig_0ded729e4062468d0169eee9c51b2c819698e19738a514326e.png"
+    },
+    {
       "title": "Derived Play: Chart Lie Detector",
       "caption": "从 Data Poster Proof 派生出的数据 QA 玩法：观众对照 Lantern Library Week 的 toy data 表，找出 Wed 柱状图被画成 19 的一处 Lie，用 Fix 16 修复后得到 PASS 和 Score 4。",
       "path": "assets/images/239-derived-play-chart-lie-detector.png",

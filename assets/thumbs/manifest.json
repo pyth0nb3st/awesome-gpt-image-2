@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/241-derived-play-token-drift-hunt.png": {
+      "path": "assets/thumbs/241-derived-play-token-drift-hunt.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/242-use-case-stateflow-mockup-gauntlet.png": {
+      "path": "assets/thumbs/242-use-case-stateflow-mockup-gauntlet.jpg",
+      "width": 768,
+      "height": 432
+    },
     "assets/images/239-derived-play-chart-lie-detector.png": {
       "path": "assets/thumbs/239-derived-play-chart-lie-detector.jpg",
       "width": 768,

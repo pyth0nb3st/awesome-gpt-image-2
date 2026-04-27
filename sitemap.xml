@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/241-derived-play-token-drift-hunt.png</image:loc>
+      <image:title>Derived Play: Token Drift Hunt</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Derived Play: Token Drift Hunt&quot;. Use case: ui-mockup / derived play mechanic / product-design QA game Asset type: public GPT Image 2 derived-play gallery image, landscape 16:...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/242-use-case-stateflow-mockup-gauntlet.png</image:loc>
+      <image:title>Use Case: Stateflow Mockup Gauntlet</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Use Case: Stateflow Mockup Gauntlet&quot;. Use case: ui-mockup / product-design workflow / visual QA Asset type: public GPT Image 2 use-case gallery image, landscape 16:9 product-...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/239-derived-play-chart-lie-detector.png</image:loc>
       <image:title>Derived Play: Chart Lie Detector</image:title>
       <image:caption>Create one polished public-gallery concept image titled exactly &quot;Derived Play: Chart Lie Detector&quot;. Use case: infographic-diagram / derived play mechanic: chart-lie-detector Asset type: public GPT Image 2 derived-play gallery image, square...</image:caption>
@@ -1157,6 +1167,28 @@
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/241-derived-play-token-drift-hunt/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/241-derived-play-token-drift-hunt.png</image:loc>
+      <image:title>Derived Play: Token Drift Hunt</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Derived Play: Token Drift Hunt&quot;. Use case: ui-mockup / derived play mechanic / product-design QA game Asset type: public GPT Image 2 derived-play gallery image, landscape 16:...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/242-use-case-stateflow-mockup-gauntlet/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/242-use-case-stateflow-mockup-gauntlet.png</image:loc>
+      <image:title>Use Case: Stateflow Mockup Gauntlet</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Use Case: Stateflow Mockup Gauntlet&quot;. Use case: ui-mockup / product-design workflow / visual QA Asset type: public GPT Image 2 use-case gallery image, landscape 16:9 product-...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/239-derived-play-chart-lie-detector/</loc>
@@ -3763,13 +3795,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/illustration-story/</loc>
+    <loc>https://gptimg2.best/tags/derived-play/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/derived-play/</loc>
+    <loc>https://gptimg2.best/tags/illustration-story/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3871,6 +3903,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://gptimg2.best/tags/design-token-consistency/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://gptimg2.best/tags/distance-read/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -3878,6 +3916,12 @@
   </url>
   <url>
     <loc>https://gptimg2.best/tags/document-generation/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/edge-case-testing/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3944,6 +3988,12 @@
   </url>
   <url>
     <loc>https://gptimg2.best/tags/name-tab/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/navigation-continuity/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
