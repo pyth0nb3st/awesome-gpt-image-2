@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/252-derived-play-colorability-check.png</image:loc>
+      <image:title>Derived Play: Colorability Check</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Derived Play: Colorability Check&quot;. Use case: derived play mechanic / printable QA game / line-art review. Asset type: landscape 16:9 black-and-white printable challenge sheet...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/253-use-case-coloring-lesson-forge.png</image:loc>
+      <image:title>Use Case: Coloring Lesson Forge</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Use Case: Coloring Lesson Forge&quot;. Use case: printable education material / AI image workflow / low-ink line-art production. Asset type: portrait A4 black-and-white teacher pr...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/250-derived-play-orbit-explain-back-relay.png</image:loc>
       <image:title>Derived Play: Orbit Explain-Back Relay</image:title>
       <image:caption>Create one polished public-gallery concept image titled exactly &quot;Derived Play: Orbit Explain-Back Relay&quot;. Use case: derived play mechanic / classroom concept-check game / education visual QA. Asset type: landscape 16:9 printable classroom...</image:caption>
@@ -1207,6 +1217,28 @@
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/252-derived-play-colorability-check/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/252-derived-play-colorability-check.png</image:loc>
+      <image:title>Derived Play: Colorability Check</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Derived Play: Colorability Check&quot;. Use case: derived play mechanic / printable QA game / line-art review. Asset type: landscape 16:9 black-and-white printable challenge sheet...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/253-use-case-coloring-lesson-forge/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/253-use-case-coloring-lesson-forge.png</image:loc>
+      <image:title>Use Case: Coloring Lesson Forge</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Use Case: Coloring Lesson Forge&quot;. Use case: printable education material / AI image workflow / low-ink line-art production. Asset type: portrait A4 black-and-white teacher pr...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/250-derived-play-orbit-explain-back-relay/</loc>
@@ -4043,6 +4075,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://gptimg2.best/tags/coloring-page/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://gptimg2.best/tags/crumb-mask/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -4139,6 +4177,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://gptimg2.best/tags/low-ink/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://gptimg2.best/tags/memory-drop/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -4170,6 +4214,12 @@
   </url>
   <url>
     <loc>https://gptimg2.best/tags/photorealistic-natural/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/printable-game/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>

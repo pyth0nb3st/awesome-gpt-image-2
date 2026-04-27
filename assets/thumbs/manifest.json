@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/252-derived-play-colorability-check.png": {
+      "path": "assets/thumbs/252-derived-play-colorability-check.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/253-use-case-coloring-lesson-forge.png": {
+      "path": "assets/thumbs/253-use-case-coloring-lesson-forge.jpg",
+      "width": 768,
+      "height": 1086
+    },
     "assets/images/250-derived-play-orbit-explain-back-relay.png": {
       "path": "assets/thumbs/250-derived-play-orbit-explain-back-relay.jpg",
       "width": 768,

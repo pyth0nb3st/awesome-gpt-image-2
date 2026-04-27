@@ -18,6 +18,186 @@
   },
   "images": [
     {
+      "title": "Derived Play: Colorability Check",
+      "caption": "从 Coloring Lesson Forge 派生出的线稿 QA 玩法：玩家检查 AI 涂色页是否真的可涂，逐项圈出 closed contours、large regions、low ink、clear labels 和 safe subject，再把 open/busy 线条修成 color ready。",
+      "path": "assets/images/252-derived-play-colorability-check.png",
+      "alt": "Landscape printable black-and-white challenge sheet titled Colorability Check with Seed Path line art, five numbered inspection rings, find circle name repair pass rail, scoring ladder, and color ready badge",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-27 18:52:41",
+      "batch": "019dce8b-8c73-7a40-b979-602e1aae9e4f",
+      "tags": [
+        "colorability-check",
+        "derived-play",
+        "coloring-page",
+        "line-art-qa",
+        "printable-game",
+        "closed-contours",
+        "low-ink",
+        "education",
+        "batch-019dce8b"
+      ],
+      "prompt": "Create one polished public-gallery concept image titled exactly \"Derived Play: Colorability Check\".\n\nUse case: derived play mechanic / printable QA game / line-art review.\nAsset type: landscape 16:9 black-and-white printable challenge sheet for a GPT Image 2 gallery.\n\nPrimary request: Derive a playable review game from Coloring Lesson Forge. Players inspect an AI-generated coloring page and mark whether it is actually colorable: closed contours, large enough regions, clear labels, safe subject, and low ink. This must be a flat printable challenge sheet, not a tabletop game photo, not a dashboard, not a menu, not a map, not a comic strip, and not a 2x3 contact sheet.\n\nComposition: left two-thirds shows a simplified fictional coloring page excerpt titled \"Seed Path\" with four line-art areas: wind fluff, water pod, carry bag, sprout patch. Place five numbered inspection rings on the artwork. Each ring points to a different issue or pass condition: one open contour, one tiny color zone, one heavy ink patch, one unclear label, one clean pass region. Keep the line art original, simple, black ink on warm white paper.\n\nRight third shows a vertical game rail with five short steps: \"Find\", \"Circle\", \"Name\", \"Repair\", \"Pass\". Under it show a compact scoring ladder with readable labels: \"closed\", \"roomy\", \"low ink\", \"label\", \"safe\". Bottom strip shows two repair examples as tiny before/after contour snippets labeled \"open\" -> \"closed\" and \"busy\" -> \"simple\". Add a final badge \"COLOR READY\".\n\nVisual style: refined printable classroom design exercise, black-and-white line art with a few gray dotted guide marks, crisp typography, generous spacing, clean hierarchy, low-ink aesthetic, professional but playful. The game should clearly show a human evaluation loop for GPT Image 2 outputs: generated coloring pages become inspectable artifacts with concrete QA rules.\n\nSafety and originality constraints: fictional classroom material only; no real students, no real teachers, no faces, no real school names, no brands, no logos, no public figures, no politics/elections/parties, no medical/legal claims, no hazardous instructions, no adult or explicit content, no gore, no celebrity likeness, no copyrighted characters, no living-artist style imitation. Do not copy any external prompt, coloring page, article image, product UI, source image, artwork, character, or protected style.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original fictional coloring-page QA game generated locally after external source sweep. Sources informed abstract coloring-page workflow, clean line-art constraints, printable failure modes, sketch stroke evaluation, and vector stroke research context only; no external prompt text, image, coloring sheet, figure, product UI, brand, character, artwork, protected style, or source image was reused."
+      },
+      "promptSources": [
+        {
+          "title": "OpenArt - Coloring Pages Community Model",
+          "url": "https://openart.ai/gallery/community-models/yZJ0J7zvaettuSJevGi1",
+          "authorOrPublisher": "OpenArt community",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "community_gallery / line_art_prompt_pattern_inspiration"
+        },
+        {
+          "title": "AI Coloring Pages & Custom Books | Coloring.app",
+          "url": "https://coloring.app/",
+          "authorOrPublisher": "Coloring.app",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "product_case / coloring_book_workflow / print_export_pattern"
+        },
+        {
+          "title": "Free AI Coloring Page Generator - Adobe Firefly",
+          "url": "https://www.adobe.com/products/firefly/features/ai-drawing-generator/coloring-page.html",
+          "authorOrPublisher": "Adobe",
+          "license": "unspecified site terms; no prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "product_case / teacher_parent_user_scenario / clean_line_art_pattern"
+        },
+        {
+          "title": "AI Coloring Book Prompt | 25+ Copy-Paste Pages in Minutes",
+          "url": "https://www.media.io/ai-prompts/ai-coloring-book-prompts.html",
+          "authorOrPublisher": "Media.io",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "tutorial / prompt_constraint_pattern / printable_failure_mode"
+        },
+        {
+          "title": "google/quickdraw · Datasets at Hugging Face",
+          "url": "https://huggingface.co/datasets/google/quickdraw",
+          "authorOrPublisher": "Google / Hugging Face",
+          "license": "CC BY 4.0",
+          "accessedAt": "2026-04-27",
+          "usedAs": "benchmark_dataset / sketch_stroke_pattern / evaluation_context"
+        },
+        {
+          "title": "A Neural Representation of Sketch Drawings",
+          "url": "https://research.google/pubs/a-neural-representation-of-sketch-drawings/",
+          "authorOrPublisher": "David Ha, Douglas Eck / Google Research",
+          "license": "research publication page; no figure/prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "research_context / vector_stroke_generation_pattern / failure_mode_scan"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-27",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Fictional no-people printable classroom coloring QA game with invented seed-travel line art only. Screened to avoid political persuasion, public political figures, parties/elections, real schools, real student/teacher likenesses, brands/trademarks/logos, medical/legal claims, celebrity likenesses, copyrighted characters, adult/explicit content, harmful or dangerous instructions, weapons, gore, graphic violence, living-artist style imitation, copied prompt text, copied coloring pages, article figures, and source-image reuse."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dce8b-8c73-7a40-b979-602e1aae9e4f/ig_0d3a9d0e845b04e40169ef3fac61fc8194bf67ebc55c180f11.png"
+    },
+    {
+      "title": "Use Case: Coloring Lesson Forge",
+      "caption": "把 GPT Image 2 用作低墨量课堂涂色页工作流：同一个虚构 seed travel 课题生成黑白线稿、闭合色区、粗轮廓、大留白和教师审核边栏，先检查 open contour、tiny zone 与 print ready。",
+      "path": "assets/images/253-use-case-coloring-lesson-forge.png",
+      "alt": "Portrait A4 black-and-white teacher proof titled Coloring Lesson Forge with seed travel coloring path, wind water carry drop vignettes, prompt to page strip, teacher review rail, and open leaf edge fix note",
+      "width": 1055,
+      "height": 1491,
+      "createdAt": "2026-04-27 18:51:24",
+      "batch": "019dce8b-8c73-7a40-b979-602e1aae9e4f",
+      "tags": [
+        "coloring-lesson-forge",
+        "use-case",
+        "coloring-page",
+        "line-art",
+        "printable-education",
+        "teacher-proof",
+        "low-ink",
+        "closed-shapes",
+        "batch-019dce8b"
+      ],
+      "prompt": "Create one polished public-gallery concept image titled exactly \"Use Case: Coloring Lesson Forge\".\n\nUse case: printable education material / AI image workflow / low-ink line-art production.\nAsset type: portrait A4 black-and-white teacher proof sheet for a GPT Image 2 gallery.\n\nPrimary request: Show GPT Image 2 being used to transform one safe fictional classroom topic into a printable coloring lesson page with built-in teacher review. This must be a flat printable line-art proof, not a physical desk photo, not a dashboard, not a menu, not a map, not a comic strip, not a 2x3 board, and not a product mockup.\n\nFictional low-stakes lesson only: \"How seeds travel\". Keep it simplified and non-authoritative; the image is about printable visual production and review, not a definitive textbook page.\n\nComposition: one portrait A4 page preview in clean black ink on warm white paper. The center is a large coloring-page scene with four clearly separated seed-travel mini vignettes arranged along one winding path: \"Wind\", \"Water\", \"Carry\", \"Drop\". Use original simple icons only: dandelion-like fluff, floating seed pod, backpack with seed sticker, sprout patch. Each vignette must have thick clean outlines, no gray shading, many enclosed white regions large enough to color, and wide margins.\n\nAdd a narrow teacher review rail on the right with short readable checklist chips: \"closed shapes\", \"no tiny zones\", \"low ink\", \"big labels\", \"print ready\". Add a small top strip labeled \"Prompt to Page\" with three tiny process marks: \"idea\", \"line art\", \"review\". Add one small note box with readable text: \"Fix: open leaf edge\" and an arrow to one deliberately open contour. Keep all in-image text short and legible.\n\nVisual style: premium educational print design, crisp vector-like black line art, subtle paper grain, no color except tiny graphite/gray registration marks if needed, generous whitespace, strong hierarchy, professionally printable. The image should visibly demonstrate GPT Image 2 as a workflow for generating classroom coloring pages that can be reviewed for line quality and print usability.\n\nSafety and originality constraints: fictional classroom material only; no real students, no real teachers, no faces, no real school names, no brands, no logos, no public figures, no politics/elections/parties, no medical/legal claims, no hazardous instructions, no adult or explicit content, no gore, no celebrity likeness, no copyrighted characters, no living-artist style imitation. Do not copy any external prompt, coloring page, article image, product UI, source image, artwork, character, or protected style.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original fictional coloring-page lesson workflow generated locally after external source sweep. Sources informed abstract coloring-page workflow, clean line-art constraints, printable failure modes, sketch stroke evaluation, and vector stroke research context only; no external prompt text, image, coloring sheet, figure, product UI, brand, character, artwork, protected style, or source image was reused."
+      },
+      "promptSources": [
+        {
+          "title": "OpenArt - Coloring Pages Community Model",
+          "url": "https://openart.ai/gallery/community-models/yZJ0J7zvaettuSJevGi1",
+          "authorOrPublisher": "OpenArt community",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "community_gallery / line_art_prompt_pattern_inspiration"
+        },
+        {
+          "title": "AI Coloring Pages & Custom Books | Coloring.app",
+          "url": "https://coloring.app/",
+          "authorOrPublisher": "Coloring.app",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "product_case / coloring_book_workflow / print_export_pattern"
+        },
+        {
+          "title": "Free AI Coloring Page Generator - Adobe Firefly",
+          "url": "https://www.adobe.com/products/firefly/features/ai-drawing-generator/coloring-page.html",
+          "authorOrPublisher": "Adobe",
+          "license": "unspecified site terms; no prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "product_case / teacher_parent_user_scenario / clean_line_art_pattern"
+        },
+        {
+          "title": "AI Coloring Book Prompt | 25+ Copy-Paste Pages in Minutes",
+          "url": "https://www.media.io/ai-prompts/ai-coloring-book-prompts.html",
+          "authorOrPublisher": "Media.io",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "tutorial / prompt_constraint_pattern / printable_failure_mode"
+        },
+        {
+          "title": "google/quickdraw · Datasets at Hugging Face",
+          "url": "https://huggingface.co/datasets/google/quickdraw",
+          "authorOrPublisher": "Google / Hugging Face",
+          "license": "CC BY 4.0",
+          "accessedAt": "2026-04-27",
+          "usedAs": "benchmark_dataset / sketch_stroke_pattern / evaluation_context"
+        },
+        {
+          "title": "A Neural Representation of Sketch Drawings",
+          "url": "https://research.google/pubs/a-neural-representation-of-sketch-drawings/",
+          "authorOrPublisher": "David Ha, Douglas Eck / Google Research",
+          "license": "research publication page; no figure/prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "research_context / vector_stroke_generation_pattern / failure_mode_scan"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-27",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Fictional no-people printable classroom coloring proof with invented seed-travel line art only. Screened to avoid political persuasion, public political figures, parties/elections, real schools, real student/teacher likenesses, brands/trademarks/logos, medical/legal claims, celebrity likenesses, copyrighted characters, adult/explicit content, harmful or dangerous instructions, weapons, gore, graphic violence, living-artist style imitation, copied prompt text, copied coloring pages, article figures, and source-image reuse."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dce8b-8c73-7a40-b979-602e1aae9e4f/ig_0d3a9d0e845b04e40169ef3f616f588194b3dab4f47c925744.png"
+    },
+    {
       "title": "Derived Play: Orbit Explain-Back Relay",
       "caption": "从 Moon Misconception Clinic 派生出的课堂概念回讲玩法：学习者沿 Observe、Predict、Model、Explain 四张视觉卡说出、测试并修复自己的月相解释，把含糊 caption 改成更清楚的可回讲句子。",
       "path": "assets/images/250-derived-play-orbit-explain-back-relay.png",
