@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/245-derived-play-three-second-sign-test.png</image:loc>
+      <image:title>Derived Play: Three-Second Sign Test</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Derived Play: Three-Second Sign Test&quot;. Use case: productivity-visual / derived play mechanic / public-signage QA game. Asset type: vertical 9:16 fictional lobby-screen challe...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/246-use-case-daypart-signage-loop.png</image:loc>
+      <image:title>Use Case: Daypart Signage Loop</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Use Case: Daypart Signage Loop&quot;. Use case: productivity-visual / ads-marketing / digital signage workflow. Asset type: vertical 9:16 fictional public digital-signage deployme...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/243-derived-play-menu-misread-hunt.png</image:loc>
       <image:title>Derived Play: Menu Misread Hunt</image:title>
       <image:caption>Create a second finished derived-play image based on the same fictional menu workflow, portrait A4 ratio, titled in small crisp English text: &quot;Derived Play: Menu Misread Hunt&quot;. Show a printable classroom-safe game sheet for checking whethe...</image:caption>
@@ -1177,6 +1187,28 @@
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/245-derived-play-three-second-sign-test/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/245-derived-play-three-second-sign-test.png</image:loc>
+      <image:title>Derived Play: Three-Second Sign Test</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Derived Play: Three-Second Sign Test&quot;. Use case: productivity-visual / derived play mechanic / public-signage QA game. Asset type: vertical 9:16 fictional lobby-screen challe...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/246-use-case-daypart-signage-loop/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/246-use-case-daypart-signage-loop.png</image:loc>
+      <image:title>Use Case: Daypart Signage Loop</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Use Case: Daypart Signage Loop&quot;. Use case: productivity-visual / ads-marketing / digital signage workflow. Asset type: vertical 9:16 fictional public digital-signage deployme...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/243-derived-play-menu-misread-hunt/</loc>
@@ -3941,7 +3973,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://gptimg2.best/tags/dayparting/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://gptimg2.best/tags/design-token-consistency/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/digital-signage/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>

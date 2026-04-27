@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/245-derived-play-three-second-sign-test.png": {
+      "path": "assets/thumbs/245-derived-play-three-second-sign-test.jpg",
+      "width": 768,
+      "height": 1364
+    },
+    "assets/images/246-use-case-daypart-signage-loop.png": {
+      "path": "assets/thumbs/246-use-case-daypart-signage-loop.jpg",
+      "width": 768,
+      "height": 1364
+    },
     "assets/images/243-derived-play-menu-misread-hunt.png": {
       "path": "assets/thumbs/243-derived-play-menu-misread-hunt.jpg",
       "width": 768,

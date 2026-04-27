@@ -18,6 +18,172 @@
   },
   "images": [
     {
+      "title": "Derived Play: Three-Second Sign Test",
+      "caption": "从 dayparted 数字标牌工作流派生出的三秒扫读玩法：观众在虚构 Northstar Commons 屏幕上快速找出 too much text、icon confusing、wrong time 三类问题，再选择修复并发布。",
+      "path": "assets/images/245-derived-play-three-second-sign-test.png",
+      "alt": "Vertical lobby digital sign titled Three Second Sign Test with three fictional public screen cards, numbered flaws for too much text, unclear icon, and wrong time, plus look cover name fix game rail",
+      "width": 941,
+      "height": 1672,
+      "createdAt": "2026-04-27 14:49:19",
+      "batch": "019dcdab-3c40-78c1-b92f-cf3ec0e6e638",
+      "tags": [
+        "three-second-sign-test",
+        "derived-play",
+        "digital-signage",
+        "glance-test",
+        "public-display-qa",
+        "pictogram-check",
+        "dayparting",
+        "readability-game",
+        "batch-019dcdab"
+      ],
+      "prompt": "Create one polished public-gallery concept image titled exactly \"Derived Play: Three-Second Sign Test\".\n\nUse case: productivity-visual / derived play mechanic / public-signage QA game.\nAsset type: vertical 9:16 fictional lobby-screen challenge image for a GPT Image 2 gallery.\n\nPrimary request: Derive a playable QA challenge from Daypart Signage Loop. Viewers test whether AI-generated public-screen messages can be understood in three seconds. The image must be a single environmental screen challenge, not a dashboard, not a map, not a worksheet, not a tabletop game, not a menu, not a contact sheet.\n\nComposition: A tall digital sign in the same fictional \"Northstar Commons\" lobby. The top third shows a large countdown strip labeled \"3 SEC GLANCE\" and a simple progress bar. The center shows three mini screen cards stacked vertically for the same fictional venue: \"Morning Studio\", \"Repair Clinic\", and \"Quiet Reading\". Each mini card includes one deliberate flaw marked by a small numbered ring: one has too many words, one has an unclear icon, one has the wrong time slot. The cards should look related to the original signage identity but be new layouts.\n\nRight edge: a narrow game rail with four concise steps: \"Look\", \"Cover\", \"Name\", \"Fix\". Bottom: three answer buttons with readable labels: \"Too Much Text\", \"Icon Confusing\", \"Wrong Time\" plus a final pass chip \"Ready to Publish\". Add subtle translucent hand-drawn marker circles and arrows as overlay marks, but no visible people or hands.\n\nVisual style: high-end environmental graphic design mockup, matte display, accessible contrast, tactile paper-collage texture inside graphics, calm teal/coral/lemon/black palette, crisp legible typography, quiet fictional lobby background, no real brand cues.\n\nShow the derived play clearly: turn generated digital signage into a fast human comprehension test and repair loop for public display content. Keep all text short and readable.\n\nSafety and originality constraints: no real brands, no logos, no public figures, no politics/elections/parties, no emergency evacuation instructions, no medical/legal claims, no harmful instructions, no adult or explicit content, no gore, no celebrity likeness, no copyrighted characters, no living-artist style imitation. Do not copy any external prompt or image.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original fictional public-signage QA game generated locally after external source sweep. Sources informed abstract prompt-gallery structure, signage accessibility concerns, digital-signage readability, dayparting trends, and pictogram abstraction only; no external prompt text, image, brand, character, artwork, protected style, or source image was reused."
+      },
+      "promptSources": [
+        {
+          "title": "AI Image Prompts",
+          "url": "https://promptgalary.com/prompts/",
+          "authorOrPublisher": "PromptGalary",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "community_gallery / prompt_pattern_inspiration / trend_scan"
+        },
+        {
+          "title": "Accessibility Access: Resources: Signage and Wayfinding",
+          "url": "https://www.rgd.ca/resources/accessibility/accessibility-access/resources/signage-and-wayfinding",
+          "authorOrPublisher": "Association of Registered Graphic Designers",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "accessibility_pattern / signage_failure_mode_scan"
+        },
+        {
+          "title": "Digital Signage Design Tips and Best Practices",
+          "url": "https://lookdigitalsignage.com/blog/digital-signage-design-tips/",
+          "authorOrPublisher": "Look Digital Signage",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "tutorial / digital_signage_layout_pattern / readability_pattern"
+        },
+        {
+          "title": "8 Digital Signage Trends for 2026 and Beyond",
+          "url": "https://www.digitalapplied.com/blog/8-digital-signage-trends-for-2026-and-beyond",
+          "authorOrPublisher": "Digital Applied",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "trend_scan / workflow_inspiration / public_display_context"
+        },
+        {
+          "title": "Digital Signage Design: How to Design for Digital Signage",
+          "url": "https://www.posterbooking.com/blog/digital-signage-design",
+          "authorOrPublisher": "PosterBooking",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "blog_tutorial / glance_readability_pattern / layout_failure_mode"
+        },
+        {
+          "title": "Public Information Symbols Icons",
+          "url": "https://iconduck.com/sets/public-information-symbols",
+          "authorOrPublisher": "Iconduck",
+          "license": "CC0; no icon/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "open_icon_dataset / pictogram_abstraction / no_verbatim_reuse"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-27",
+        "reviewNote": "Fictional no-people public display with invented venue, messages, icons, and time slots. Screened to avoid political persuasion, public political figures, parties/elections, real brands/trademarks/logos, emergency instructions, medical/legal claims, celebrity likenesses, copyrighted characters, adult/explicit content, harmful or dangerous instructions, weapons, gore, graphic violence, living-artist style imitation, copied prompt text, and source-image reuse."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dcdab-3c40-78c1-b92f-cf3ec0e6e638/ig_0d44c674c95c8cf70169ef06815f6081949f33634fe66d09cf.png"
+    },
+    {
+      "title": "Use Case: Daypart Signage Loop",
+      "caption": "把 GPT Image 2 用在虚构社区空间数字标牌 dayparting：同一块竖屏按早、午、晚自动生成不同消息、图标和插画，并用 Readable、On Time、Icon Clear、Brand Safe 做发布前检查。",
+      "path": "assets/images/246-use-case-daypart-signage-loop.png",
+      "alt": "Vertical lobby digital signage mockup titled Daypart Signage Loop showing three time slots for Morning Studio, Repair Clinic, and Quiet Reading with deployment rail and QA chips",
+      "width": 941,
+      "height": 1672,
+      "createdAt": "2026-04-27 14:47:30",
+      "batch": "019dcdab-3c40-78c1-b92f-cf3ec0e6e638",
+      "tags": [
+        "daypart-signage-loop",
+        "use-case",
+        "digital-signage",
+        "public-display",
+        "dayparting",
+        "environmental-graphics",
+        "glance-readability",
+        "pictogram-system",
+        "batch-019dcdab"
+      ],
+      "prompt": "Create one polished public-gallery concept image titled exactly \"Use Case: Daypart Signage Loop\".\n\nUse case: productivity-visual / ads-marketing / digital signage workflow.\nAsset type: vertical 9:16 fictional public digital-signage deployment mockup, suitable for a GPT Image 2 use-case gallery.\n\nPrimary request: Show GPT Image 2 being used to generate a ready-to-deploy dayparted digital-signage loop for a fictional community arts center. The image must feel like a real operations preview for one lobby display that changes by time of day, not a dashboard, not a map, not a menu, not a contact sheet, not a tabletop object, and not a generic poster board.\n\nComposition: A single tall digital screen dominates the frame in a quiet fictional lobby called \"Northstar Commons\". The screen is split into three stacked time states with soft separators, like one animated playlist preview frozen in one frame: \"08:30 Morning Studio\", \"14:00 Repair Clinic\", \"19:30 Quiet Reading\". Each state has a different small original abstract illustration, a short readable headline, one icon, and a clear room cue such as \"Room A\", \"Workshop\", \"Reading Hall\". Add a thin deployment rail on the right edge with compact labels: \"9:16\", \"Palette\", \"Time Slot\", \"Glance Check\", \"Publish\".\n\nVisual style: refined environmental graphic design, matte display surface, tactile warm paper-like textures inside the screen graphics, accessible contrast, clean sans-serif type, calm but not monochrome palette with teal, coral, lemon, black, and soft white. The lobby background should be simple and fictional, with no real architecture or brand cues. No people.\n\nShow the use-case mechanism clearly: one prompt produces multiple time-aware public-screen messages that keep a coherent fictional identity while changing copy, icon, and illustration by time slot. Include tiny QA chips at the bottom of the screen: \"Readable\", \"On Time\", \"Icon Clear\", \"Brand Safe\".\n\nSafety and originality constraints: no real brands, no logos, no public figures, no politics/elections/parties, no emergency evacuation instructions, no medical/legal claims, no harmful instructions, no adult or explicit content, no gore, no celebrity likeness, no copyrighted characters, no living-artist style imitation. Do not copy any external prompt or image. Keep all visible text short and legible.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original fictional dayparted-signage workflow generated locally after external source sweep. Sources informed abstract prompt-gallery structure, signage accessibility concerns, digital-signage readability, dayparting trends, and pictogram abstraction only; no external prompt text, image, brand, character, artwork, protected style, or source image was reused."
+      },
+      "promptSources": [
+        {
+          "title": "AI Image Prompts",
+          "url": "https://promptgalary.com/prompts/",
+          "authorOrPublisher": "PromptGalary",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "community_gallery / prompt_pattern_inspiration / trend_scan"
+        },
+        {
+          "title": "Accessibility Access: Resources: Signage and Wayfinding",
+          "url": "https://www.rgd.ca/resources/accessibility/accessibility-access/resources/signage-and-wayfinding",
+          "authorOrPublisher": "Association of Registered Graphic Designers",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "accessibility_pattern / signage_failure_mode_scan"
+        },
+        {
+          "title": "Digital Signage Design Tips and Best Practices",
+          "url": "https://lookdigitalsignage.com/blog/digital-signage-design-tips/",
+          "authorOrPublisher": "Look Digital Signage",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "tutorial / digital_signage_layout_pattern / readability_pattern"
+        },
+        {
+          "title": "8 Digital Signage Trends for 2026 and Beyond",
+          "url": "https://www.digitalapplied.com/blog/8-digital-signage-trends-for-2026-and-beyond",
+          "authorOrPublisher": "Digital Applied",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "trend_scan / workflow_inspiration / public_display_context"
+        },
+        {
+          "title": "Digital Signage Design: How to Design for Digital Signage",
+          "url": "https://www.posterbooking.com/blog/digital-signage-design",
+          "authorOrPublisher": "PosterBooking",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "blog_tutorial / glance_readability_pattern / layout_failure_mode"
+        },
+        {
+          "title": "Public Information Symbols Icons",
+          "url": "https://iconduck.com/sets/public-information-symbols",
+          "authorOrPublisher": "Iconduck",
+          "license": "CC0; no icon/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "open_icon_dataset / pictogram_abstraction / no_verbatim_reuse"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-27",
+        "reviewNote": "Fictional no-people public display with invented venue, messages, icons, and time slots. Screened to avoid political persuasion, public political figures, parties/elections, real brands/trademarks/logos, emergency instructions, medical/legal claims, celebrity likenesses, copyrighted characters, adult/explicit content, harmful or dangerous instructions, weapons, gore, graphic violence, living-artist style imitation, copied prompt text, and source-image reuse."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dcdab-3c40-78c1-b92f-cf3ec0e6e638/ig_0d44c674c95c8cf70169ef064335608194bd2e71a624f41713.png"
+    },
+    {
       "title": "Derived Play: Menu Misread Hunt",
       "caption": "从菜单重排工作流派生出的可打印找茬玩法：玩家在虚构菜单里找 duplicate price、allergy icon mismatch、overcrowded section、low contrast item 和 missing divider，再写修复说明。",
       "path": "assets/images/243-derived-play-menu-misread-hunt.png",
