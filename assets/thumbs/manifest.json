@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/235-derived-play-drift-spotter-challenge.png": {
+      "path": "assets/thumbs/235-derived-play-drift-spotter-challenge.jpg",
+      "width": 768,
+      "height": 1152
+    },
+    "assets/images/236-use-case-style-drift-flight-recorder.png": {
+      "path": "assets/thumbs/236-use-case-style-drift-flight-recorder.jpg",
+      "width": 768,
+      "height": 330
+    },
     "assets/images/233-derived-play-wrap-seam-sweep.png": {
       "path": "assets/thumbs/233-derived-play-wrap-seam-sweep.jpg",
       "width": 768,

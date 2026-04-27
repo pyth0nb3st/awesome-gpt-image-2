@@ -2,9 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://gptimg2.best/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/235-derived-play-drift-spotter-challenge.png</image:loc>
+      <image:title>Derived Play: Drift Spotter Challenge</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Derived Play: Drift Spotter Challenge&quot;. Output format: one vertical 4:5 public challenge poster / voting wall for a GPT Image 2 consistency game. It must not be a physical ta...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/236-use-case-style-drift-flight-recorder.png</image:loc>
+      <image:title>Use Case: Style Drift Flight Recorder</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Use Case: Style Drift Flight Recorder&quot;. Output format: one ultra-wide 21:9 creative-operations flight-recorder strip, a continuous trace artifact for GPT Image 2 visual consi...</image:caption>
+    </image:image>
     <image:image>
       <image:loc>https://gptimg2.best/assets/images/233-derived-play-wrap-seam-sweep.png</image:loc>
       <image:title>Derived Play: Wrap Seam Sweep</image:title>
@@ -1118,19 +1128,41 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://gptimg2.best/prompts/235-derived-play-drift-spotter-challenge/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/235-derived-play-drift-spotter-challenge.png</image:loc>
+      <image:title>Derived Play: Drift Spotter Challenge</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Derived Play: Drift Spotter Challenge&quot;. Output format: one vertical 4:5 public challenge poster / voting wall for a GPT Image 2 consistency game. It must not be a physical ta...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/236-use-case-style-drift-flight-recorder/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/236-use-case-style-drift-flight-recorder.png</image:loc>
+      <image:title>Use Case: Style Drift Flight Recorder</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Use Case: Style Drift Flight Recorder&quot;. Output format: one ultra-wide 21:9 creative-operations flight-recorder strip, a continuous trace artifact for GPT Image 2 visual consi...</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://gptimg2.best/prompts/233-derived-play-wrap-seam-sweep/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1141,7 +1173,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/234-use-case-360-scene-planner/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1152,7 +1184,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/231-derived-play-speech-bubble-domino/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1163,7 +1195,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/232-use-case-dialogue-comic-tutor/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1174,7 +1206,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/229-derived-play-clause-transfer-rally/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1185,7 +1217,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/230-use-case-prompt-clause-transit-map/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1196,7 +1228,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/227-derived-play-motion-cue-karaoke/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1207,7 +1239,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/228-use-case-motion-handoff-deck/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1218,7 +1250,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/225-derived-play-label-swap-ladder/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1229,7 +1261,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/226-use-case-label-repair-console/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1240,7 +1272,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/223-derived-play-grit-spiral-auction/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1251,7 +1283,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/224-use-case-lapidary-prompt-tumbler/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1262,7 +1294,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/221-derived-play-blotter-chorus/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1273,7 +1305,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/222-use-case-scent-lab-prompt-blotter-organ/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1284,7 +1316,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/218-use-case-acoustics-prompt-resonance-shelf/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1295,7 +1327,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/216-derived-play-baffle-tile-duet/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1306,7 +1338,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/214-derived-play-dew-trace-curling/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1317,7 +1349,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/215-use-case-vapor-prompt-condensation-chamber/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1328,7 +1360,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/213-derived-play-texture-cipher-duet/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1339,7 +1371,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/212-use-case-tactile-prompt-dot-proof/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1350,7 +1382,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/209-derived-play-safelight-dodge-relay/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1361,7 +1393,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/210-use-case-darkroom-prompt-exposure-strip/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1372,7 +1404,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/207-derived-play-cushion-stack-trial/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1383,7 +1415,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/208-use-case-shipping-prompt-crate-test/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1394,7 +1426,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/205-derived-play-glyph-ticket-hunt/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1405,7 +1437,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/206-use-case-wayfinding-prompt-glyph-concourse/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1416,7 +1448,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/203-derived-play-fold-rise-rally/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1427,7 +1459,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/204-use-case-bakery-prompt-lamination-deck/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1438,7 +1470,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/201-derived-play-settling-globe-relay/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1449,7 +1481,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/202-use-case-snowglobe-prompt-settling-chamber/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1460,7 +1492,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/199-derived-play-buoy-chain-regatta/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1471,7 +1503,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/200-use-case-tidepool-prompt-buoy-chain/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1482,7 +1514,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/197-derived-play-wardrobe-continuity-relay/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1493,7 +1525,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/198-use-case-costume-prompt-wardrobe-check/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1504,7 +1536,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/195-derived-play-cast-brush-rally/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1515,7 +1547,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/196-use-case-fossil-prompt-excavation-block/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1526,7 +1558,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/193-derived-play-charm-latch-relay/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1537,7 +1569,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/194-use-case-toy-latch-prompt-key-fitting/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1548,7 +1580,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/191-derived-play-notch-fitting-swap/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1559,7 +1591,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/192-use-case-textile-prompt-fitting-toile/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1570,7 +1602,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/190-derived-play-index-hunt-zine/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1581,7 +1613,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/189-use-case-library-prompt-catalog-cabinet/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1592,7 +1624,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/186-derived-play-prism-split-draft/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1603,7 +1635,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/187-use-case-optics-prompt-refraction-bench/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1614,7 +1646,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/184-derived-play-objection-draft/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1625,7 +1657,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/185-use-case-courtroom-prompt-evidence-hearing/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1636,7 +1668,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/182-derived-play-lift-queue-draft/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1647,7 +1679,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/183-use-case-elevator-prompt-dispatch-shaft/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1658,7 +1690,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/180-derived-play-pin-roll-canon/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1669,7 +1701,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/181-use-case-music-box-prompt-pin-cylinder/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1680,7 +1712,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/178-derived-play-onion-skin-relay/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1691,7 +1723,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/179-use-case-flipbook-continuity-animator/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1702,7 +1734,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/176-derived-play-checkmate-prompt-relay/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1713,7 +1745,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/177-use-case-prompt-chess-composer/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1724,7 +1756,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/174-derived-play-dovetail-prompt-fit/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1735,7 +1767,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/175-use-case-joinery-prompt-fit-bench/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1746,7 +1778,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/172-derived-play-footwork-prompt-rally/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1757,7 +1789,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/173-use-case-score-prompt-choreography/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1768,7 +1800,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/170-use-case-magnet-field-spectrum/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1779,7 +1811,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/171-derived-play-polarity-arena/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1790,7 +1822,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/168-derived-play-glow-circuit-rodeo/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1801,7 +1833,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/169-use-case-neon-prompt-tube-bending/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1812,7 +1844,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/166-derived-play-gear-drift-derby/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1823,7 +1855,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/167-use-case-watch-prompt-escapement/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1834,7 +1866,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/164-derived-play-crease-court-rally/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1845,7 +1877,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/165-use-case-fold-prompt-origami-atlas/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1856,7 +1888,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/162-derived-play-string-tangle-trials/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1867,7 +1899,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/163-use-case-rig-prompt-marionettes/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1878,7 +1910,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/160-derived-play-bead-balance-bazaar/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1889,7 +1921,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/161-use-case-abacus-prompt-bead-ledger/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1900,7 +1932,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/158-derived-play-droplet-valve-maze/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1911,7 +1943,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/159-use-case-chip-prompt-microfluidics/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1922,7 +1954,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/156-derived-play-kite-line-league/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1933,7 +1965,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/157-use-case-wind-tunnel-prompt-kite-flights/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1944,7 +1976,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/154-visible-title-derived-play-bellhop-key-relay/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1955,7 +1987,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/155-visible-title-use-case-hotel-prompt-concierge/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1966,7 +1998,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/152-derived-play-trellis-tournament/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1977,7 +2009,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/153-use-case-greenhouse-prompt-cultivar-trials/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1988,7 +2020,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/150-a-second-polished-public-gallery-image-that-derives-a-playable-o/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1999,7 +2031,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/151-one-polished-public-gallery-image-for-an-original-gpt-image-2-us/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2010,7 +2042,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/146-a-second-polished-gallery-image-that-derives-a-playable-original/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2021,7 +2053,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/147-a-single-polished-gallery-image-for-an-original-gpt-image-2-use/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2032,7 +2064,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/145-use-case-sand-scroll-prompt-raking/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2043,7 +2075,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/143-a-second-polished-gallery-image-that-derives-a-playable-original/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2054,7 +2086,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/141-make-a-single-public-gallery-image-an-original-derived-play-chal/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2065,7 +2097,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/142-make-a-single-public-gallery-image-a-cold-storage-cabinet-of-tra/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2076,7 +2108,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/137-derived-play-grout-route-mosaic-league/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2087,7 +2119,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/138-use-case-kiln-mosaic-prompt-grammar/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2098,7 +2130,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/133-derived-play-receipt-run-league/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2109,7 +2141,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/134-use-case-receipt-prompt-accounting/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2120,7 +2152,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/131-derived-play-contour-sandbox-league/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2131,7 +2163,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/132-use-case-sandbox-contour-image-rehearsal/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2142,7 +2174,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/129-derived-play-patch-cable-league/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2153,7 +2185,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/130-use-case-patchbay-prompt-signal-debugging/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2164,7 +2196,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/127-use-case-illustration-story-derived-play-mechanic-translucent-sl/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2175,7 +2207,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/128-use-case-productivity-visual-infographic-diagram/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2186,7 +2218,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/125-derived-play-orbit-mobile-league/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2197,7 +2229,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/126-use-case-planetarium-image-navigation/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2208,7 +2240,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/123-derived-play-proof-press-league/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2219,7 +2251,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/124-use-case-bureau-proof-press-workflows/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2230,7 +2262,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/121-one-original-gpt-image-2-derived-play-concept-image-as-a-16-9-la/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2241,7 +2273,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/122-one-original-gpt-image-2-use-case-concept-image-as-a-16-9-landsc/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2252,7 +2284,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/119-derived-play-forecast-rally/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2263,7 +2295,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/120-use-case-station-visual-weather-signals/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2274,7 +2306,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/117-one-original-gpt-image-2-derived-play-concept-image-as-a-16-9-la/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2285,7 +2317,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/118-one-original-gpt-image-2-use-case-concept-image-as-a-16-9-landsc/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2296,7 +2328,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/115-use-case-conservatory-prompt-ecosystems/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2307,7 +2339,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/116-derived-play-prompt-orchard-league/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2318,7 +2350,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/113-derived-play-constraint-pinball/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2329,7 +2361,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/114-use-case-foundry-constraint-engines/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2340,7 +2372,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/111-an-original-gpt-image-2-derived-play-scene-as-one-3-2-landscape/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2351,7 +2383,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/112-an-original-gpt-image-2-use-case-scene-as-one-3-2-landscape-imag/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2362,7 +2394,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/109-a-second-polished-original-gpt-image-2-derived-play-mechanics-bo/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2373,7 +2405,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/110-a-polished-original-gpt-image-2-use-case-research-board-as-a-sin/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2384,7 +2416,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/107-a-second-polished-gpt-image-2-derived-play-board-as-a-single-3-2/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2395,7 +2427,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/108-a-polished-gpt-image-2-use-case-research-board-as-a-single-3-2-l/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2406,7 +2438,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/105-derived-play-modes-context-loop-arcade/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2417,7 +2449,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/106-use-case-lab-live-context-loops/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2428,7 +2460,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/104-derived-play-modes-evidence-to-systems/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2439,7 +2471,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/101-operations-arcade/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2450,7 +2482,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/102-system-stress-tests/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2461,7 +2493,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/103-a-polished-gpt-image-2-use-case-research-board-as-a-single-3-2-l/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2472,7 +2504,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/099-derived-play-modes-batch-b/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2483,7 +2515,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/100-use-case-lab-batch-a/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2494,7 +2526,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/097-use-case-stylized-concept/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2505,7 +2537,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/098-use-case-productivity-visual/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2516,7 +2548,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/095-use-case-stylized-concept/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2527,7 +2559,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/096-use-case-stylized-concept/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2538,7 +2570,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/087-use-case-productivity-visual/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2549,7 +2581,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/088-use-case-lighting-weather/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2560,7 +2592,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/089-use-case-infographic-diagram/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2571,7 +2603,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/090-use-case-stylized-concept/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2582,7 +2614,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/091-use-case-ui-mockup/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2593,7 +2625,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/092-use-case-photorealistic-natural/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2604,7 +2636,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/093-use-case-product-mockup/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2615,7 +2647,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/094-use-case-infographic-diagram/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2626,7 +2658,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/085-use-case-stylized-concept/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2637,7 +2669,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/086-use-case-stylized-concept/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2648,7 +2680,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/083-use-case-stylized-concept/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2659,7 +2691,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/084-use-case-stylized-concept/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2670,7 +2702,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/079-gpt-image-2-play-formats-evaluation-games/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2681,7 +2713,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/078-gpt-image-2-use-cases-continuity-and-operations-labs/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2692,7 +2724,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/080-a-single-high-quality-2k-landscape-concept-board-showing-six-new/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2703,7 +2735,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/081-a-single-high-quality-2k-landscape-concept-board-showing-six-new/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2714,7 +2746,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/082-a-second-single-high-quality-2k-landscape-concept-board-showing/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2725,7 +2757,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/001-a-single-high-quality-2k-landscape-concept-board-showing-six-pla/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2736,7 +2768,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/002-a-second-polished-2x2-contact-sheet-of-derived-gpt-image-generat/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2747,7 +2779,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/003-a-polished-2x2-contact-sheet-titled-visually-by-panel-compositio/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2758,7 +2790,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/004-derived-play-modes/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2769,7 +2801,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/005-use-case-board/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2780,7 +2812,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/006-use-case-stylized-concept/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2791,7 +2823,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/007-use-case-productivity-visual/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2802,7 +2834,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/008-use-case-productivity-visual/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2813,7 +2845,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/009-use-case-stylized-concept/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2824,7 +2856,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/010-use-case-illustration-story/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2835,7 +2867,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/011-use-case-illustration-story/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2846,7 +2878,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/012-use-case-scientific-educational/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2857,7 +2889,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/013-use-case-ui-mockup/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2868,7 +2900,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/014-use-case-product-mockup/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2879,7 +2911,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/015-use-case-ads-marketing/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2890,7 +2922,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/016-use-case-infographic-diagram/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2901,7 +2933,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/017-use-case-product-mockup/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2912,7 +2944,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/018-use-case-illustration-story/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2923,7 +2955,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/019-use-case-productivity-visual/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2934,7 +2966,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/020-use-case-ui-mockup/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2945,7 +2977,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/021-use-case-scientific-educational/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2956,7 +2988,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/022-use-case-illustration-story/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2967,7 +2999,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/023-use-case-ads-marketing/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2978,7 +3010,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/024-use-case-ads-marketing/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2989,7 +3021,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/025-use-case-scientific-educational/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3000,7 +3032,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/026-use-case-product-mockup/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3011,7 +3043,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/027-use-case-stylized-concept/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3022,7 +3054,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/028-use-case-ui-mockup/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3033,7 +3065,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/029-use-case-illustration-story/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3044,7 +3076,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/030-use-case-ads-marketing/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3055,7 +3087,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/031-use-case-productivity-visual/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3066,7 +3098,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/032-a-polished-2k-visual-board-of-six-derived-play-modes-based-on-th/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3077,7 +3109,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/033-a-polished-2k-visual-research-board-showing-four-new-non-repeate/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3088,7 +3120,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/034-a-second-polished-2k-visual-research-board-of-six-derived-playfu/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3099,7 +3131,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/035-a-polished-2k-visual-research-board-showing-six-fun-gpt-image-2/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3110,7 +3142,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/036-a-second-polished-2x2-contact-sheet-of-derived-play-modes-from-t/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3121,7 +3153,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/037-a-polished-2x2-contact-sheet-of-new-non-repeated-gpt-image-2-pla/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3132,7 +3164,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/038-a-second-polished-2x2-contact-sheet-derived-from-the-first-group/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3143,7 +3175,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/039-a-polished-2x2-contact-sheet-titled-only-with-small-unobtrusive/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3154,7 +3186,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/040-a-polished-2x2-contact-sheet-titled-gpt-image-2-derived-play-mec/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3165,7 +3197,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/041-a-polished-2x2-contact-sheet-titled-gpt-image-2-system-play-use/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3176,7 +3208,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/042-a-second-polished-2x3-visual-research-contact-sheet-titled-deriv/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3187,7 +3219,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/043-a-polished-2x3-visual-research-contact-sheet-showcasing-six-play/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3198,7 +3230,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/044-use-case-productivity-visual-image-evals/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3209,7 +3241,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/045-use-case-productivity-visual-infographic-diagram/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3220,7 +3252,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/046-use-case-infographic-diagram-image-evals/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3231,7 +3263,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/047-use-case-illustration-story-compositing-concept/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3242,7 +3274,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/048-use-case-scientific-educational-illustration-story/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3253,7 +3285,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/049-use-case-product-mockup-ads-marketing/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3264,7 +3296,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/050-use-case-infographic-diagram/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3275,7 +3307,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/051-use-case-productivity-visual-ui-mockup/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3286,7 +3318,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/052-a-polished-2x3-contact-sheet-of-six-new-derived-playful-gpt-imag/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3297,7 +3329,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/053-a-polished-2x3-contact-sheet-of-six-new-gpt-image-2-use-case-con/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3308,7 +3340,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/054-a-polished-2x3-contact-sheet-of-six-playful-derived-gpt-image-2/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3319,7 +3351,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/055-a-polished-2x3-contact-sheet-of-six-distinct-gpt-image-2-use-cas/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3330,7 +3362,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/056-a-single-high-resolution-3-panel-derived-play-concept-board/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3341,7 +3373,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/057-a-single-high-resolution-3-panel-concept-board-titled-visually-b/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3352,7 +3384,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/058-use-case-style-transfer/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3363,7 +3395,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/059-use-case-ui-mockup/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3374,7 +3406,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/060-use-case-illustration-story/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3385,7 +3417,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/061-use-case-product-mockup/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3396,7 +3428,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/062-use-case-scientific-educational/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3407,7 +3439,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/063-use-case-ads-marketing/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3418,7 +3450,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/064-use-case-ads-marketing-derived-play-mechanic-product-to-flavor-l/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3429,7 +3461,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/065-use-case-ui-mockup-derived-play-mechanic-app-to-board-game/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3440,7 +3472,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/066-use-case-illustration-story-derived-play-mechanic-poster-to-mini/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3451,7 +3483,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/067-use-case-product-mockup-imaginary-packaging-system/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3462,7 +3494,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/068-use-case-ui-mockup-layout-aware-screenshot/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3473,7 +3505,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/069-use-case-ads-marketing-typography-stress-test/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3484,7 +3516,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/070-use-case-ui-mockup/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3495,7 +3527,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/071-use-case-ui-mockup/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3506,7 +3538,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/072-use-case-ui-mockup/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3517,7 +3549,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/073-use-case-ui-mockup/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3528,7 +3560,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/074-use-case-ui-mockup/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3539,7 +3571,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/075-use-case-infographic-diagram/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3550,7 +3582,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/076-use-case-photorealistic-natural/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3561,7 +3593,7 @@
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/077-use-case-stylized-concept/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -3572,319 +3604,343 @@
   </url>
   <url>
     <loc>https://gptimg2.best/tags/product-mockup/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/typography/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/game-design/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/ui-mockup/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/storytelling/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/lighting-weather/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/infographic/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/photoreal/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/worldbuilding/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/education/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/interior-design/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/material-study/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/evaluation/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/operations/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/productivity-visual/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/stylized-concept/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/illustration-story/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/ads-marketing/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/infographic-diagram/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/prompt-game/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/derived-play/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/scientific-educational/</loc>
-    <lastmod>2026-04-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gptimg2.best/tags/crop-gate/</loc>
-    <lastmod>2026-04-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gptimg2.best/tags/sound-to-scene/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/use-case/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/crop-gate/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/sound-to-scene/</loc>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/arrow-edit/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/bilingual-text/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/blank-nose/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/burn-block/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/caption-cloth/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/caption-tag/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/caseback-seal/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/crumb-mask/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/distance-read/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/edit-flake/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/equirectangular/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/fictional-campaign/</loc>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/fold-vent/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/language-learning/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/locale-strip/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/memory-drop/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/museum-education/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/name-tab/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/photorealistic-natural/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/prompt-debugging/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/relation-hub/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/seam-continuity/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/silence-mask/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/steam-edit/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/style-consistency/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/style-drift/</loc>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/style-sleeve/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/text-check/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/ui-fiction-simulator/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/visual-qa/</loc>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/void-plug/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gptimg2.best/tags/weight-bead/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
