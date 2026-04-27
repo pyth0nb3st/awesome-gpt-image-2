@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/254-derived-play-audit-heatmap-arcade.png</image:loc>
+      <image:title>Derived Play: Audit Heatmap Arcade</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Derived Play: Audit Heatmap Arcade&quot;. Use case: derived play mechanic / document QA game / OCR review. Asset type: landscape 16:9 fictional audit challenge board for a GPT Ima...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/255-use-case-synthetic-receipt-sandbox.png</image:loc>
+      <image:title>Use Case: Synthetic Receipt Sandbox</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Use Case: Synthetic Receipt Sandbox&quot;. Use case: productivity-visual / document-intelligence / OCR training workflow. Asset type: portrait A4 document QA proof sheet for a GPT...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/252-derived-play-colorability-check.png</image:loc>
       <image:title>Derived Play: Colorability Check</image:title>
       <image:caption>Create one polished public-gallery concept image titled exactly &quot;Derived Play: Colorability Check&quot;. Use case: derived play mechanic / printable QA game / line-art review. Asset type: landscape 16:9 black-and-white printable challenge sheet...</image:caption>
@@ -1217,6 +1227,28 @@
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/254-derived-play-audit-heatmap-arcade/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/254-derived-play-audit-heatmap-arcade.png</image:loc>
+      <image:title>Derived Play: Audit Heatmap Arcade</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Derived Play: Audit Heatmap Arcade&quot;. Use case: derived play mechanic / document QA game / OCR review. Asset type: landscape 16:9 fictional audit challenge board for a GPT Ima...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/255-use-case-synthetic-receipt-sandbox/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/255-use-case-synthetic-receipt-sandbox.png</image:loc>
+      <image:title>Use Case: Synthetic Receipt Sandbox</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Use Case: Synthetic Receipt Sandbox&quot;. Use case: productivity-visual / document-intelligence / OCR training workflow. Asset type: portrait A4 document QA proof sheet for a GPT...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/252-derived-play-colorability-check/</loc>
@@ -3931,6 +3963,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://gptimg2.best/tags/derived-play/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://gptimg2.best/tags/evaluation/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -3950,12 +3988,6 @@
   </url>
   <url>
     <loc>https://gptimg2.best/tags/stylized-concept/</loc>
-    <lastmod>2026-04-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gptimg2.best/tags/derived-play/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>

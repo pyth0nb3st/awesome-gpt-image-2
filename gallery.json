@@ -18,6 +18,186 @@
   },
   "images": [
     {
+      "title": "Derived Play: Audit Heatmap Arcade",
+      "caption": "从 Synthetic Receipt Sandbox 派生出的审核训练玩法：玩家在带 VOID/TRAINING SAMPLE 的虚构票据上标出 blurred date、line total mismatch、cropped edge、low confidence word 和 watermark present，再选择 clear、needs review 或 regenerate safer。",
+      "path": "assets/images/254-derived-play-audit-heatmap-arcade.png",
+      "alt": "Landscape audit training board titled Audit Heatmap Arcade with a fictional void receipt, five colored heatmap rings, review rail steps scan match flag note clear, scoreboard, case note, and training only stamp",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-27 19:53:15",
+      "batch": "019dcec3-6b8e-7373-a1c3-d38f461fc794",
+      "tags": [
+        "audit-heatmap-arcade",
+        "derived-play",
+        "document-qa",
+        "ocr-review",
+        "heatmap",
+        "human-in-the-loop",
+        "receipt-audit",
+        "training-only",
+        "batch-019dcec3"
+      ],
+      "prompt": "Create one polished public-gallery concept image titled exactly \"Derived Play: Audit Heatmap Arcade\".\n\nUse case: derived play mechanic / document QA game / OCR review.\nAsset type: landscape 16:9 fictional audit challenge board for a GPT Image 2 gallery.\n\nPrimary request: Derive a safe playable review game from Synthetic Receipt Sandbox. Players inspect a clearly fictional, watermarked receipt sample and decide which regions need human review. This must be a game-like audit sheet for training reviewers, not a real fraud tutorial, not a dashboard, not a menu, not a chart, not a physical tabletop game, and not a 2x3 contact sheet.\n\nComposition: left half shows a tilted but flat fictional receipt excerpt with huge diagonal \"VOID\" and \"TRAINING SAMPLE\". Receipt text is invented and non-operational: \"North Pier Test Shop\", \"Desk Plant Tag\", \"Blue Folder\", toy total. Overlay five numbered heatmap rings in translucent colors, each tied to a safe review cue: \"blurred date\", \"line total mismatch\", \"cropped edge\", \"low confidence word\", \"watermark present\". Do not show any method for evading detection.\n\nRight half shows a vertical arcade-style review rail with steps: \"Scan\", \"Match\", \"Flag\", \"Note\", \"Clear\". Include a compact scoreboard with readable labels: \"OCR\", \"math\", \"crop\", \"provenance\", \"review note\". Bottom strip has three answer tiles: \"Clear\", \"Needs Review\", \"Regenerate Safer\" and a final stamp \"TRAINING ONLY\". Add one tiny case-note box: \"Reason: total check fails\".\n\nVisual style: polished training-game graphic, warm paper background, dark navy text, blue extraction boxes, magenta/orange heatmap highlights, red VOID watermark, subtle scanner grain, clean spacing, legible short labels. The image should make the derived play obvious: GPT Image samples become a human-in-the-loop anomaly-marking exercise with evidence and rationale.\n\nSafety and originality constraints: fictional sample only; no real brands, no logos, no real merchant/address/payment details, no barcode or QR code, no instructions for fraud, no legal/tax claims, no public figures, no politics/elections/parties, no harmful instructions, no adult/explicit content, no gore, no celebrity likeness, no copyrighted characters, no living-artist style imitation. Do not copy any external prompt, receipt image, dataset sample, product UI, article image, source image, artwork, layout, or protected style.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original fictional receipt-audit QA game generated locally after external source sweep. Sources informed abstract receipt prompt trends, OCR field extraction, pixel-level review framing, synthetic document variation, and human-review evidence patterns only; no external prompt text, image, receipt, dataset sample, product UI, brand, layout, artwork, protected style, fraud technique, or source image was reused."
+      },
+      "promptSources": [
+        {
+          "title": "Authentic Receipt Makers",
+          "url": "https://promptbase.com/prompt/authentic-receipt-makers",
+          "authorOrPublisher": "PromptBase / @shawshank2",
+          "license": "commercial prompt marketplace; no prompt purchased; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "community_gallery / receipt_prompt_trend_scan / fraud_risk_scan"
+        },
+        {
+          "title": "Free AI Receipt Generator",
+          "url": "https://www.pixelcut.ai/create/receipt-generator",
+          "authorOrPublisher": "Pixa / Pixelcut",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "product_case / document_generation_workflow / text_field_pattern"
+        },
+        {
+          "title": "AI-Powered Receipt Scanning: The Complete Guide for 2026",
+          "url": "https://receiptsync.net/blog/ai-powered-receipt-scanning-complete-guide",
+          "authorOrPublisher": "ReceiptSync Team",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "tutorial / OCR_pipeline_pattern / field_extraction_pattern"
+        },
+        {
+          "title": "Exposing AI Generated Fake Receipts in Finance With Pixel Level Evidence",
+          "url": "https://www.vaarhaft.com/blog/detect-ai-generated-fake-receipts",
+          "authorOrPublisher": "Team VAARHAFT",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "fraud_risk_context / pixel_forensics_pattern / human_review_pattern"
+        },
+        {
+          "title": "ICDAR2019's Scanned Receipts OCR and Information Extraction (SROIE)",
+          "url": "https://huggingface.co/datasets/jsdnrs/ICDAR2019-SROIE",
+          "authorOrPublisher": "jsdnrs / Hugging Face; original ICDAR2019 SROIE authors cited on page",
+          "license": "CC BY 4.0",
+          "accessedAt": "2026-04-27",
+          "usedAs": "benchmark_dataset / receipt_ocr_field_pattern / evaluation_context"
+        },
+        {
+          "title": "Nano Receipts Dataset",
+          "url": "https://huggingface.co/datasets/34data/nano-receipts",
+          "authorOrPublisher": "34data / Hugging Face",
+          "license": "MIT",
+          "accessedAt": "2026-04-27",
+          "usedAs": "synthetic_dataset / document_variation_pattern / safety_contrast"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-27",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Fictional no-people audit game with obvious VOID, TRAINING SAMPLE, TRAINING ONLY, invented merchant/items/totals, no barcode/QR code, and high-level review cues only. Screened to avoid political persuasion, public political figures, parties/elections, real brands/trademarks/logos, real merchants, real addresses, real payment details, legal/tax claims, fraud instructions or evasion details, celebrity likenesses, copyrighted characters, adult/explicit content, harmful or dangerous instructions, weapons, gore, graphic violence, living-artist style imitation, copied prompt text, copied receipt/dataset images, and source-image reuse."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dcec3-6b8e-7373-a1c3-d38f461fc794/ig_03ccb37b1d805d630169ef4dd7fe24819790544930ca49798a.png"
+    },
+    {
+      "title": "Use Case: Synthetic Receipt Sandbox",
+      "caption": "把 GPT Image 2 用作安全的合成票据 OCR 训练沙盒：样张被强制打上 VOID、TRAINING SAMPLE 和 NOT FOR REIMBURSEMENT，并展示 merchant/date/items/tax/total/crop edge 的字段框与审核流程。",
+      "path": "assets/images/255-use-case-synthetic-receipt-sandbox.png",
+      "alt": "Portrait document intelligence proof titled Synthetic Receipt Sandbox with a fictional void training receipt, OCR field boxes, safe workflow ladder, and QA checkpoints for fictional data no barcode field boxes low confidence review ready",
+      "width": 1024,
+      "height": 1536,
+      "createdAt": "2026-04-27 19:51:52",
+      "batch": "019dcec3-6b8e-7373-a1c3-d38f461fc794",
+      "tags": [
+        "synthetic-receipt-sandbox",
+        "use-case",
+        "ocr-training",
+        "document-intelligence",
+        "synthetic-data",
+        "field-extraction",
+        "void-watermark",
+        "receipt-qa",
+        "batch-019dcec3"
+      ],
+      "prompt": "Create one polished public-gallery concept image titled exactly \"Use Case: Synthetic Receipt Sandbox\".\n\nUse case: productivity-visual / document-intelligence / OCR training workflow.\nAsset type: portrait A4 document QA proof sheet for a GPT Image 2 gallery.\n\nPrimary request: Show GPT Image 2 being used safely to generate fictional synthetic receipt samples for OCR and field-extraction testing. The artifact must be obviously non-operational and training-only: the receipt preview must carry large diagonal text \"VOID\" and \"TRAINING SAMPLE\" plus a footer \"NOT FOR REIMBURSEMENT\". Do not create a usable receipt. Do not show a real merchant, real address, real card number, barcode, QR code, logo, or tax/legal validity language.\n\nComposition: one portrait proof sheet on warm white background. Center-left shows a single fictional receipt mock sample named \"North Pier Test Shop\" with simple fake items such as \"Paper Clip Set\", \"Desk Plant Tag\", \"Blue Folder\", and toy totals. Over the receipt, place transparent red diagonal \"VOID\" and top stamp \"TRAINING SAMPLE\". Around it, show OCR field boxes with clear labels: \"merchant\", \"date\", \"line items\", \"tax\", \"total\", \"crop edge\". Right rail shows a safe workflow ladder: \"Generate\", \"Watermark\", \"Extract\", \"Compare\", \"Archive\". Bottom strip shows QA chips: \"fictional data\", \"no barcode\", \"field boxes\", \"low confidence\", \"review ready\".\n\nVisual style: refined document-intelligence lab graphic, flat scanner-proof aesthetic, crisp typography, subtle paper grain, blue OCR boxes, red safety watermark, graphite notes, compact but legible text. It should look like an internal QA artifact for testing extraction, not a real financial document, not a menu, not a chart dashboard, not a physical desk photo, not a 2x3 board.\n\nSafety and originality constraints: fictional sample only; no real brands, no logos, no real merchant/address/payment details, no barcode or QR code, no instructions for fraud, no legal/tax claims, no public figures, no politics/elections/parties, no harmful instructions, no adult/explicit content, no gore, no celebrity likeness, no copyrighted characters, no living-artist style imitation. Do not copy any external prompt, receipt image, dataset sample, product UI, article image, source image, artwork, layout, or protected style.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original fictional synthetic-receipt OCR workflow generated locally after external source sweep. Sources informed abstract receipt prompt trends, safe document-generation controls, OCR pipeline fields, fraud-risk review patterns, and receipt OCR/synthetic-data evaluation context only; no external prompt text, image, receipt, dataset sample, product UI, brand, layout, artwork, protected style, or source image was reused."
+      },
+      "promptSources": [
+        {
+          "title": "Authentic Receipt Makers",
+          "url": "https://promptbase.com/prompt/authentic-receipt-makers",
+          "authorOrPublisher": "PromptBase / @shawshank2",
+          "license": "commercial prompt marketplace; no prompt purchased; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "community_gallery / receipt_prompt_trend_scan / fraud_risk_scan"
+        },
+        {
+          "title": "Free AI Receipt Generator",
+          "url": "https://www.pixelcut.ai/create/receipt-generator",
+          "authorOrPublisher": "Pixa / Pixelcut",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "product_case / document_generation_workflow / text_field_pattern"
+        },
+        {
+          "title": "AI-Powered Receipt Scanning: The Complete Guide for 2026",
+          "url": "https://receiptsync.net/blog/ai-powered-receipt-scanning-complete-guide",
+          "authorOrPublisher": "ReceiptSync Team",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "tutorial / OCR_pipeline_pattern / field_extraction_pattern"
+        },
+        {
+          "title": "Exposing AI Generated Fake Receipts in Finance With Pixel Level Evidence",
+          "url": "https://www.vaarhaft.com/blog/detect-ai-generated-fake-receipts",
+          "authorOrPublisher": "Team VAARHAFT",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "fraud_risk_context / pixel_forensics_pattern / human_review_pattern"
+        },
+        {
+          "title": "ICDAR2019's Scanned Receipts OCR and Information Extraction (SROIE)",
+          "url": "https://huggingface.co/datasets/jsdnrs/ICDAR2019-SROIE",
+          "authorOrPublisher": "jsdnrs / Hugging Face; original ICDAR2019 SROIE authors cited on page",
+          "license": "CC BY 4.0",
+          "accessedAt": "2026-04-27",
+          "usedAs": "benchmark_dataset / receipt_ocr_field_pattern / evaluation_context"
+        },
+        {
+          "title": "Nano Receipts Dataset",
+          "url": "https://huggingface.co/datasets/34data/nano-receipts",
+          "authorOrPublisher": "34data / Hugging Face",
+          "license": "MIT",
+          "accessedAt": "2026-04-27",
+          "usedAs": "synthetic_dataset / document_variation_pattern / safety_contrast"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-27",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Fictional no-people OCR training proof with obvious VOID, TRAINING SAMPLE, NOT FOR REIMBURSEMENT, fictional merchant/items/totals, no barcode/QR code, and no real-world use wording. Screened to avoid political persuasion, public political figures, parties/elections, real brands/trademarks/logos, real merchants, real addresses, real payment details, legal/tax claims, fraud instructions, celebrity likenesses, copyrighted characters, adult/explicit content, harmful or dangerous instructions, weapons, gore, graphic violence, living-artist style imitation, copied prompt text, copied receipt/dataset images, and source-image reuse."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dcec3-6b8e-7373-a1c3-d38f461fc794/ig_03ccb37b1d805d630169ef4d846de88197acaa9a81d6f4ee6f.png"
+    },
+    {
       "title": "Derived Play: Colorability Check",
       "caption": "从 Coloring Lesson Forge 派生出的线稿 QA 玩法：玩家检查 AI 涂色页是否真的可涂，逐项圈出 closed contours、large regions、low ink、clear labels 和 safe subject，再把 open/busy 线条修成 color ready。",
       "path": "assets/images/252-derived-play-colorability-check.png",

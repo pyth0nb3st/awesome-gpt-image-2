@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/254-derived-play-audit-heatmap-arcade.png": {
+      "path": "assets/thumbs/254-derived-play-audit-heatmap-arcade.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/255-use-case-synthetic-receipt-sandbox.png": {
+      "path": "assets/thumbs/255-use-case-synthetic-receipt-sandbox.jpg",
+      "width": 768,
+      "height": 1152
+    },
     "assets/images/252-derived-play-colorability-check.png": {
       "path": "assets/thumbs/252-derived-play-colorability-check.jpg",
       "width": 768,
