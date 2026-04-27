@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/268-derived-play-blocking-bug-hunt.png": {
+      "path": "assets/thumbs/268-derived-play-blocking-bug-hunt.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/269-use-case-rehearsal-blocking-atlas.png": {
+      "path": "assets/thumbs/269-use-case-rehearsal-blocking-atlas.jpg",
+      "width": 768,
+      "height": 432
+    },
     "assets/images/266-derived-play-loci-swap-relay.png": {
       "path": "assets/thumbs/266-derived-play-loci-swap-relay.jpg",
       "width": 768,

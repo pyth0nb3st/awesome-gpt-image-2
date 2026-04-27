@@ -18,6 +18,188 @@
   },
   "images": [
     {
+      "title": "Derived Play: Blocking Bug Hunt",
+      "caption": "从 Rehearsal Blocking Atlas 派生出的走位一致性 QA 游戏：玩家检查虚构 stage map 并修复 late entrance、path collision、wrong facing、missed hold 和 off-count exit。",
+      "path": "assets/images/268-derived-play-blocking-bug-hunt.png",
+      "alt": "Wide puzzle sheet titled Blocking Bug Hunt with overhead stage map, abstract performer tokens, colored path ribbons, five warning badges, repair loop steps, and before-after correction cards",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-28 07:08:14",
+      "batch": "019dd12b-963a-7881-9faf-350613dd3ac2",
+      "tags": [
+        "blocking-bug-hunt",
+        "derived-play",
+        "choreography-workflow",
+        "stage-blocking",
+        "spatial-reasoning",
+        "beat-alignment",
+        "consistency-qa",
+        "visual-repair-game",
+        "batch-019dd12b"
+      ],
+      "prompt": "Create a wide 16:9 playable puzzle sheet titled in small text \"Derived Play: Blocking Bug Hunt\". It is derived from the Rehearsal Blocking Atlas: players inspect a fictional stage-floor plan generated from a count sheet and repair movement-continuity errors.\n\nScene/backdrop: flat printed puzzle poster on a neutral rehearsal-room wall, crisp and legible. No product photo, no tabletop game pieces, no physical apparatus.\n\nMain layout: one large overhead stage map on the left with abstract performer tokens A, B, C, D and colored path ribbons. Intentionally mark five safe fictional errors with numbered warning badges: 1 LATE ENTRANCE, 2 PATH COLLISION, 3 WRONG FACING, 4 MISSED HOLD, 5 OFF-COUNT EXIT. On the right, a vertical repair loop with five steps: SPOT, NAME, PATCH, RECOUNT, PASS. Along the bottom, correction cards showing tiny before/after mini-maps for each error, with checkboxes and count numbers.\n\nVisual details: use clean stage notation language: upstage/downstage/stage left/stage right, count ticks 1-8, dashed original paths, solid repaired paths, facing triangles, hold pause marks, spacing halos. Make it clear this is a game about checking visual generation consistency, not a real dance instruction.\n\nStyle: polished editorial diagram, playful but professional, varied palette, high contrast, readable labels, compact layout that does not resemble a 2x2/2x3 contact sheet.\n\nPrompt mechanism shown: consistency QA, spatial reasoning, beat alignment, rule-based visual repair, before/after edits.\n\nSafety and originality constraints: no real dancers, no human faces or bodies, no celebrity likeness, no minors, no cultural dance traditions, no real songs, no real venues/troupes, no brands/logos, no copyrighted choreography, no copied notation symbols, no politics, no explicit content, no violence, no medical/legal claims, no macro object photography, no board game table, no route/transit map metaphor.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original fictional stage-blocking repair game generated locally after external source sweep. Sources informed only abstract spatial rehearsal documentation, movement channel checks, beat alignment, prompt taxonomy risk filtering, and continuity failure modes; no external prompt text, image, performer, choreography, notation symbols, product UI, venue, troupe, song, cultural dance form, artwork, or source image was reused."
+      },
+      "promptSources": [
+        {
+          "title": "Choreography Image Prompts",
+          "url": "https://promptden.com/inspiration/choreography%2Ball",
+          "authorOrPublisher": "PromptDen / Tiny Works LLC community",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "community_gallery / trend_scan / prompt_pattern_inspiration"
+        },
+        {
+          "title": "The Best Text to Dance AI Generator (for Free)",
+          "url": "https://openart.ai/generator/dance",
+          "authorOrPublisher": "OpenArt",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "product_case / workflow_inspiration / trend_scan"
+        },
+        {
+          "title": "50 AI Dancing Prompts for Viral Content",
+          "url": "https://www.imagine.art/blogs/ai-dancing-prompts",
+          "authorOrPublisher": "Tooba Siddiqui / ImagineArt",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "tutorial / prompt_structure_scan / failure_mode_scan"
+        },
+        {
+          "title": "DanceScript - About the Product",
+          "url": "https://dancescript.dance/About/Product/",
+          "authorOrPublisher": "DanceScript / Tim Glenn",
+          "license": "site copyright; no diagram/image/work reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "workflow_inspiration / visual_format_reference / spatial_documentation_pattern"
+        },
+        {
+          "title": "Labanotation Fundamentals",
+          "url": "https://www.dancenotation.org/labanotation-fundamentals/",
+          "authorOrPublisher": "Dance Notation Bureau",
+          "license": "site terms; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "notation_context / evaluation_pattern / prompt_pattern_inspiration"
+        },
+        {
+          "title": "AI Choreographer: Music Conditioned 3D Dance Generation with AIST++",
+          "url": "https://huggingface.co/papers/2101.08779",
+          "authorOrPublisher": "Ruilong Li, Shan Yang, David A. Ross, Angjoo Kanazawa / Hugging Face Papers",
+          "license": "paper page terms; no dataset/media reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "research_context / benchmark_dataset / motion_alignment_pattern"
+        },
+        {
+          "title": "AI Artwork Prompts for Dances",
+          "url": "https://promptcache.com/ai-artwork-prompts/people/dance",
+          "authorOrPublisher": "PROMPTCACHE",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "prompt_taxonomy_scan / risk_filter_scan / trend_scan"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-28",
+        "reviewNote": "Fictional no-people stage-blocking QA game with invented path errors, abstract performer tokens, and generic count labels only. Screened to avoid real dancers/faces/bodies, real troupes/venues/songs, celebrity likenesses, minors, cultural dance traditions, protected choreography, brands/logos, public figures, political persuasion, parties/elections, medical/legal/financial claims, adult/explicit content, harmful or dangerous instructions, weapons, gore, graphic violence, living-artist style imitation, copied prompt text, copied notation symbols/diagrams/images, and source-image reuse."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dd12b-963a-7881-9faf-350613dd3ac2/ig_09c42438ed43715f0169efec0384148193908e1f26cb31b91b.png"
+    },
+    {
+      "title": "Use Case: Rehearsal Blocking Atlas",
+      "caption": "把 GPT Image 2 用作排练走位结构化工具：从虚构 eight-count note 生成 stage-floor atlas、entrance/exit gates、path ribbons、hold markers、facing triangles 和 COUNT/PATH/HOLD/FACING/EXIT 复核栏。",
+      "path": "assets/images/269-use-case-rehearsal-blocking-atlas.png",
+      "alt": "Wide fictional rehearsal planning wall titled Rehearsal Blocking Atlas with overhead stage map, performer tokens A to D, colored path ribbons, count bars, entrance and exit gates, hold markers, facing triangles, and review checks",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-28 07:06:44",
+      "batch": "019dd12b-963a-7881-9faf-350613dd3ac2",
+      "tags": [
+        "rehearsal-blocking-atlas",
+        "use-case",
+        "choreography-workflow",
+        "stage-blocking",
+        "text-to-spatial-plan",
+        "count-alignment",
+        "path-continuity",
+        "rehearsal-reference",
+        "batch-019dd12b"
+      ],
+      "prompt": "Create a wide 16:9 fictional rehearsal planning artifact titled visually only in small text as \"Use Case: Rehearsal Blocking Atlas\". Show how GPT Image 2 can turn a plain-text eight-count rehearsal note into a precise stage-floor blocking atlas.\n\nScene/backdrop: a clean black-box theater planning wall, not a product photo and not a tabletop apparatus. The image should feel like a finished rehearsal reference pinned flat to a wall: matte paper, crisp vector-like floor maps, colored path ribbons, small count bars, and side notes.\n\nMain visual structure: one large overhead stage-floor map dominating the center, with upstage/downstage and stage-left/stage-right labels; four abstract performer tokens named A, B, C, D; translucent path ribbons with arrows across counts 1-8; entrance/exit gates; hold markers; facing triangles; spacing-safe zones. Along the left edge, a small input note strip with invented shorthand: \"A enters USL on 1, B crosses CS on 3, C holds DSL 4-5, D exits USR on 8\". Along the right edge, a review rail with check chips: COUNT LOCK, PATH CLEAR, HOLD VISIBLE, FACING SET, EXIT CLEAN.\n\nStyle: sophisticated rehearsal-document design, crisp editorial diagram, restrained but varied colors, high legibility, no photoreal dancers. Use abstract tokens and arrows only, no bodies or faces.\n\nPrompt mechanism shown: text-to-spatial-plan, count alignment, path continuity, collision check, reusable rehearsal reference.\n\nSafety and originality constraints: no real dancers, no realistic faces, no celebrity likeness, no minors, no real troupe or venue names, no real songs, no cultural dance costumes or named dance traditions, no brands/logos, no copyrighted choreography, no Labanotation symbols, no copied notation diagrams, no politics, no explicit content, no violence, no macro object photography, no tray/controller/lab device, no 2x2 or 2x3 research board.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original fictional rehearsal-blocking atlas generated locally after external source sweep. Sources informed only abstract dance prompt structure, spatial rehearsal documentation, movement notation channel separation, and temporal alignment evaluation; no external prompt text, image, performer, choreography, notation symbols, product UI, venue, troupe, song, cultural dance form, artwork, or source image was reused."
+      },
+      "promptSources": [
+        {
+          "title": "Choreography Image Prompts",
+          "url": "https://promptden.com/inspiration/choreography%2Ball",
+          "authorOrPublisher": "PromptDen / Tiny Works LLC community",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "community_gallery / trend_scan / prompt_pattern_inspiration"
+        },
+        {
+          "title": "The Best Text to Dance AI Generator (for Free)",
+          "url": "https://openart.ai/generator/dance",
+          "authorOrPublisher": "OpenArt",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "product_case / workflow_inspiration / trend_scan"
+        },
+        {
+          "title": "50 AI Dancing Prompts for Viral Content",
+          "url": "https://www.imagine.art/blogs/ai-dancing-prompts",
+          "authorOrPublisher": "Tooba Siddiqui / ImagineArt",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "tutorial / prompt_structure_scan / failure_mode_scan"
+        },
+        {
+          "title": "DanceScript - About the Product",
+          "url": "https://dancescript.dance/About/Product/",
+          "authorOrPublisher": "DanceScript / Tim Glenn",
+          "license": "site copyright; no diagram/image/work reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "workflow_inspiration / visual_format_reference / spatial_documentation_pattern"
+        },
+        {
+          "title": "Labanotation Fundamentals",
+          "url": "https://www.dancenotation.org/labanotation-fundamentals/",
+          "authorOrPublisher": "Dance Notation Bureau",
+          "license": "site terms; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "notation_context / evaluation_pattern / prompt_pattern_inspiration"
+        },
+        {
+          "title": "AI Choreographer: Music Conditioned 3D Dance Generation with AIST++",
+          "url": "https://huggingface.co/papers/2101.08779",
+          "authorOrPublisher": "Ruilong Li, Shan Yang, David A. Ross, Angjoo Kanazawa / Hugging Face Papers",
+          "license": "paper page terms; no dataset/media reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "research_context / benchmark_dataset / motion_alignment_pattern"
+        },
+        {
+          "title": "AI Artwork Prompts for Dances",
+          "url": "https://promptcache.com/ai-artwork-prompts/people/dance",
+          "authorOrPublisher": "PROMPTCACHE",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "prompt_taxonomy_scan / risk_filter_scan / trend_scan"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-28",
+        "reviewNote": "Fictional no-people rehearsal planning artifact with invented count notes, abstract performer tokens, and generic stage labels only. Screened to avoid real dancers/faces, real troupes/venues/songs, celebrity likenesses, minors, cultural dance traditions, protected choreography, brands/logos, public figures, political persuasion, parties/elections, medical/legal/financial claims, adult/explicit content, harmful or dangerous instructions, weapons, gore, graphic violence, living-artist style imitation, copied prompt text, copied notation symbols/diagrams/images, and source-image reuse."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dd12b-963a-7881-9faf-350613dd3ac2/ig_09c42438ed43715f0169efeba9b8c481938e95cb7f1fed7580.png"
+    },
+    {
       "title": "Derived Play: Loci Swap Relay",
       "caption": "从 Memory Palace Mapper 派生出的 recall-path QA 游戏：玩家沿 6 个 room route 找出并修复 swapped stop、vague cue、duplicate icon、missing source、broken arrow 和 overloaded room。",
       "path": "assets/images/266-derived-play-loci-swap-relay.png",

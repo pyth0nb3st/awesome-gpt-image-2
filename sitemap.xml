@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/268-derived-play-blocking-bug-hunt.png</image:loc>
+      <image:title>Derived Play: Blocking Bug Hunt</image:title>
+      <image:caption>Create a wide 16:9 playable puzzle sheet titled in small text &quot;Derived Play: Blocking Bug Hunt&quot;. It is derived from the Rehearsal Blocking Atlas: players inspect a fictional stage-floor plan generated from a count sheet and repair movement...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/269-use-case-rehearsal-blocking-atlas.png</image:loc>
+      <image:title>Use Case: Rehearsal Blocking Atlas</image:title>
+      <image:caption>Create a wide 16:9 fictional rehearsal planning artifact titled visually only in small text as &quot;Use Case: Rehearsal Blocking Atlas&quot;. Show how GPT Image 2 can turn a plain-text eight-count rehearsal note into a precise stage-floor blocking...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/266-derived-play-loci-swap-relay.png</image:loc>
       <image:title>Derived Play: Loci Swap Relay</image:title>
       <image:caption>Create a polished, public-gallery image for a derived GPT Image 2 play mechanic. Use case: scientific-educational / derived play mechanic Asset type: landscape recall-path puzzle sheet, 16:9. Title text on the image: &quot;Loci Swap Relay&quot;. Pri...</image:caption>
@@ -1287,6 +1297,28 @@
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/268-derived-play-blocking-bug-hunt/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/268-derived-play-blocking-bug-hunt.png</image:loc>
+      <image:title>Derived Play: Blocking Bug Hunt</image:title>
+      <image:caption>Create a wide 16:9 playable puzzle sheet titled in small text &quot;Derived Play: Blocking Bug Hunt&quot;. It is derived from the Rehearsal Blocking Atlas: players inspect a fictional stage-floor plan generated from a count sheet and repair movement...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/269-use-case-rehearsal-blocking-atlas/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/269-use-case-rehearsal-blocking-atlas.png</image:loc>
+      <image:title>Use Case: Rehearsal Blocking Atlas</image:title>
+      <image:caption>Create a wide 16:9 fictional rehearsal planning artifact titled visually only in small text as &quot;Use Case: Rehearsal Blocking Atlas&quot;. Show how GPT Image 2 can turn a plain-text eight-count rehearsal note into a precise stage-floor blocking...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/266-derived-play-loci-swap-relay/</loc>
@@ -4311,6 +4343,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://gptimg2.best/tags/choreography-workflow/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://gptimg2.best/tags/coloring-page/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -4510,6 +4548,12 @@
   </url>
   <url>
     <loc>https://gptimg2.best/tags/silence-mask/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/stage-blocking/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
