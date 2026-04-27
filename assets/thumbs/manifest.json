@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/256-derived-play-pattern-proof-bingo.png": {
+      "path": "assets/thumbs/256-derived-play-pattern-proof-bingo.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/257-use-case-tech-pack-translator.png": {
+      "path": "assets/thumbs/257-use-case-tech-pack-translator.jpg",
+      "width": 768,
+      "height": 1280
+    },
     "assets/images/254-derived-play-audit-heatmap-arcade.png": {
       "path": "assets/thumbs/254-derived-play-audit-heatmap-arcade.jpg",
       "width": 768,

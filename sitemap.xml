@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/256-derived-play-pattern-proof-bingo.png</image:loc>
+      <image:title>Derived Play: Pattern Proof Bingo</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Derived Play: Pattern Proof Bingo&quot;. Use case: derived play mechanic / garment production QA game / sewing-pattern review. Asset type: landscape 16:9 printable paper-pattern c...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/257-use-case-tech-pack-translator.png</image:loc>
+      <image:title>Use Case: Tech Pack Translator</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Use Case: Tech Pack Translator&quot;. Use case: productivity-visual / fashion production handoff / technical drawing workflow. Asset type: portrait A3 fashion tech-pack proof shee...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/254-derived-play-audit-heatmap-arcade.png</image:loc>
       <image:title>Derived Play: Audit Heatmap Arcade</image:title>
       <image:caption>Create one polished public-gallery concept image titled exactly &quot;Derived Play: Audit Heatmap Arcade&quot;. Use case: derived play mechanic / document QA game / OCR review. Asset type: landscape 16:9 fictional audit challenge board for a GPT Ima...</image:caption>
@@ -1227,6 +1237,28 @@
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/256-derived-play-pattern-proof-bingo/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/256-derived-play-pattern-proof-bingo.png</image:loc>
+      <image:title>Derived Play: Pattern Proof Bingo</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Derived Play: Pattern Proof Bingo&quot;. Use case: derived play mechanic / garment production QA game / sewing-pattern review. Asset type: landscape 16:9 printable paper-pattern c...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/257-use-case-tech-pack-translator/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/257-use-case-tech-pack-translator.png</image:loc>
+      <image:title>Use Case: Tech Pack Translator</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Use Case: Tech Pack Translator&quot;. Use case: productivity-visual / fashion production handoff / technical drawing workflow. Asset type: portrait A3 fashion tech-pack proof shee...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/254-derived-play-audit-heatmap-arcade/</loc>
@@ -4251,6 +4283,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://gptimg2.best/tags/print-proof/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://gptimg2.best/tags/printable-game/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -4300,6 +4338,12 @@
   </url>
   <url>
     <loc>https://gptimg2.best/tags/style-sleeve/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/technical-flat/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>

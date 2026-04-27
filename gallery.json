@@ -18,6 +18,202 @@
   },
   "images": [
     {
+      "title": "Derived Play: Pattern Proof Bingo",
+      "caption": "从 Tech Pack Translator 派生出的纸样审核玩法：玩家在虚构 overshirt pattern 上找 missing notch、mirrored pocket、seam allowance gap、bad grainline 和 scale-square 问题，再写 repair note 后通过。",
+      "path": "assets/images/256-derived-play-pattern-proof-bingo.png",
+      "alt": "Landscape paper pattern QA game titled Pattern Proof Bingo with overshirt sewing pattern pieces, five issue zones, red pencil circles, blue grainline arrows, green pass stamp, scale square, repair notes, and checkbox rail",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-27 20:57:31",
+      "batch": "019dcefb-3b29-7f63-b69d-da9d75b6b709",
+      "tags": [
+        "pattern-proof-bingo",
+        "derived-play",
+        "sewing-pattern-qa",
+        "pattern-making",
+        "technical-flat",
+        "print-proof",
+        "assembly-logic",
+        "garment-review",
+        "batch-019dcefb"
+      ],
+      "prompt": "Create one polished public-gallery concept image titled exactly \"Derived Play: Pattern Proof Bingo\".\n\nUse case: derived play mechanic / garment production QA game / sewing-pattern review.\nAsset type: landscape 16:9 printable paper-pattern challenge sheet for a GPT Image 2 gallery.\n\nPrimary request: Derive a playable inspection game from Tech Pack Translator. Players inspect a fictional overshirt sewing pattern and mark assembly or print-readiness defects before the pattern can be printed. This must be a no-people, no-brand paper-pattern QA game, not a tabletop board game, not a fashion ad, not a marketplace listing, not a dashboard, not a menu, not a chart, not a map, and not a 2x3 contact sheet.\n\nComposition: a large central spread of invented overshirt pattern pieces in black technical line art: front left, front right, back, sleeve, yoke, collar, collar stand, cuff, placket, pocket, pocket bag, and flap. Show blue grainline arrows, dashed seam allowance lines, black notches, match points, and a 5 cm scale square. Around the spread, include five inspection zones with short labels: \"MISSING NOTCH\", \"MIRRORED POCKET\", \"SEAM ALLOWANCE\", \"GRAINLINE\", \"SCALE SQUARE\". Some defects are circled in red pencil. Include a green \"PASS\" stamp only on one corrected piece. Add a right-side repair note rail and blank checkbox squares.\n\nVisual style: practical print-proof game sheet, off-white paper, crisp black pattern lines, blue arrows, red pencil correction circles, green pass stamp, subtle scanner grain, clean margins, short legible text. The derived play should be obvious: GPT Image pattern outputs become a human inspection game for assembly logic and print readiness.\n\nSafety and originality constraints: fictional garment only; no real apparel brand, no logo, no marketplace listing, no celebrity/model/person, no face, no mannequin, no protected costume, no cosplay, no real designer name, no real body measurements, no medical/legal/safety claim, no public figures, no politics/elections/parties, no harmful instructions, no adult/explicit content, no gore, no copyrighted characters, no living-artist style imitation. Do not copy any external prompt, sewing pattern, dataset sample, article image, product UI, source image, artwork, garment design, layout, or protected style.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original fictional paper-pattern QA game generated locally after external source sweep. Sources informed abstract technical-flat prompt patterns, sewing-pattern export checkpoints, flat-sketch construction constraints, pattern dataset context, community AI-pattern failure modes, and inclusive technical prompt constraints only; no external prompt text, image, pattern, dataset file, product UI, brand, garment design, layout, artwork, protected style, or source image was reused."
+      },
+      "promptSources": [
+        {
+          "title": "Fashion Technical Flat Garment Sketches",
+          "url": "https://promptbase.com/prompt/fashion-technical-flat-garment-sketches",
+          "authorOrPublisher": "PromptBase / cajun",
+          "license": "unspecified commercial prompt listing; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "community_gallery / technical_flat_prompt_pattern_inspiration"
+        },
+        {
+          "title": "Free AI Sewing Pattern Generator Online | Create Custom PDF Patterns",
+          "url": "https://www.myaiart.io/features/ai-sewing-pattern-generator/",
+          "authorOrPublisher": "Myaiart",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "product_case / sewing_pattern_workflow / print_export_pattern"
+        },
+        {
+          "title": "AI Fashion Tools - Best AI Tools for Fashion Design 2026",
+          "url": "https://www.skema3d.com/ai-fashion-tools",
+          "authorOrPublisher": "Skema3D",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "production_workflow_inspiration / tech_pack_pipeline"
+        },
+        {
+          "title": "How to Create Flat Sketches for Fashion Design",
+          "url": "https://www.skema3d.com/blogs/how-to-create-flat-sketches-for-fashion",
+          "authorOrPublisher": "Skema3D",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "tutorial / technical_drawing_constraints / failure_mode_scan"
+        },
+        {
+          "title": "GarmentCodeData (v2): A Dataset of 3D Made-to-Measure Garments With Sewing Patterns",
+          "url": "https://www.research-collection.ethz.ch/handle/20.500.11850/690432",
+          "authorOrPublisher": "Maria Korosteleva, Fabian Kemper, Stephan Wenninger et al. / ETH Zurich Research Collection",
+          "license": "Creative Commons Attribution 4.0 International",
+          "accessedAt": "2026-04-27",
+          "usedAs": "benchmark_dataset / sewing_pattern_structure / evaluation_context"
+        },
+        {
+          "title": "How can you tell if an Etsy pattern is AI?",
+          "url": "https://www.reddit.com/r/sewingpatterns/comments/1str0ui/how_can_you_tell_if_an_etsy_pattern_is_ai/",
+          "authorOrPublisher": "Reddit r/sewingpatterns community",
+          "license": "user-generated Reddit content; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "community_failure_mode / pattern_quality_risk_scan"
+        },
+        {
+          "title": "How To Prompt AI To Generate Inclusive Size-inclusive Fashion Flat Sketches Without Defaulting To Mannequin Norms",
+          "url": "https://www.alibaba.com/product-insights/how-to-prompt-ai-to-generate-inclusive-size-inclusive-fashion-flat-sketches-without-defaulting-to-mannequin-norms.html",
+          "authorOrPublisher": "Alibaba.com Product Insights / Jordan Ellis",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "prompt_pattern_inspiration / inclusive_fit_failure_mode"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-27",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Fictional no-people sewing-pattern QA game with invented overshirt pattern pieces and non-operational repair notes only. Screened to avoid political persuasion, public political figures, parties/elections, real brands/trademarks/logos, marketplace listings, celebrity likenesses, real people, mannequins, copyrighted/protected costumes, real designer names, sensitive body-measurement claims, adult/explicit content, harmful or dangerous instructions, weapons, gore, graphic violence, living-artist style imitation, copied prompt text, copied sewing patterns, dataset images, article figures, product UI, and source-image reuse."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dcefb-3b29-7f63-b69d-da9d75b6b709/ig_0b8bad8dc043bdb90169ef5ccebac08194b501dfefb2b8271b.png"
+    },
+    {
+      "title": "Use Case: Tech Pack Translator",
+      "caption": "把 GPT Image 2 用作服装生产交接翻译器：从虚构 overshirt brief 生成 front/back technical flats、纸样件、grainline、notch、seam allowance、stitch callout、BOM swatch 和 print-scale 审核栏。",
+      "path": "assets/images/257-use-case-tech-pack-translator.png",
+      "alt": "Portrait A3 fashion tech pack proof titled Tech Pack Translator with front and back overshirt technical flats, exploded sewing pattern pieces, grainline arrows, notches, stitch diagrams, fabric swatches, scale square, and reviewer rail",
+      "width": 972,
+      "height": 1619,
+      "createdAt": "2026-04-27 20:55:44",
+      "batch": "019dcefb-3b29-7f63-b69d-da9d75b6b709",
+      "tags": [
+        "tech-pack-translator",
+        "use-case",
+        "fashion-tech-pack",
+        "technical-flat",
+        "sewing-pattern",
+        "production-handoff",
+        "pattern-pieces",
+        "garment-qa",
+        "batch-019dcefb"
+      ],
+      "prompt": "Create one polished public-gallery concept image titled exactly \"Use Case: Tech Pack Translator\".\n\nUse case: productivity-visual / fashion production handoff / technical drawing workflow.\nAsset type: portrait A3 fashion tech-pack proof sheet for a GPT Image 2 gallery.\n\nPrimary request: Show GPT Image 2 turning a fictional garment brief into a production handoff sheet. The artifact must be a no-people, no-brand technical document, not a product ad, not runway/editorial fashion, not a marketplace listing, not a dashboard, not a menu, not a map, not a comic, and not a 2x3 research board.\n\nComposition: one tall A3 tech pack proof on a muted drafting table. The fictional garment is \"Northline Field Overshirt\", with no logo and no real brand. Show crisp front and back technical flats in black line art. Below them show exploded paper pattern pieces with labels, grainline arrows, notches, dashed seam allowance lines, pocket pieces, yoke, sleeve, collar, collar stand, cuff, placket, and a 5 cm print scale square. Add construction callouts for topstitch, bar tack, button placement, sleeve placket, hem, and pocket flap. Add a small bill-of-materials zone with generic fabric swatches and trims. Add a right-side reviewer rail with short labels: \"FIT\", \"GRAIN\", \"NOTCH\", \"STITCH\", \"SCALE\".\n\nVisual style: production-document clarity, crisp vector-like linework, subtle paper texture, cream paper, thin red review marks, blue construction callouts, graphite typography, practical workshop proofing mood. The document should feel inspectable and useful as a manufacturer-facing handoff preview.\n\nSafety and originality constraints: fictional garment only; no real apparel brand, no logo, no marketplace listing, no celebrity/model/person, no face, no mannequin, no protected costume, no cosplay, no real designer name, no real body measurements, no medical/legal/safety claim, no public figures, no politics/elections/parties, no harmful instructions, no adult/explicit content, no gore, no copyrighted characters, no living-artist style imitation. Do not copy any external prompt, sewing pattern, dataset sample, article image, product UI, source image, artwork, garment design, layout, or protected style.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original fictional garment tech-pack workflow generated locally after external source sweep. Sources informed abstract technical-flat marketplace patterns, sewing-pattern export workflows, fashion tech-pack pipeline structure, flat-sketch failure modes, pattern dataset context, community quality risks, and inclusive technical prompt constraints only; no external prompt text, image, pattern, dataset file, product UI, brand, garment design, layout, artwork, protected style, or source image was reused."
+      },
+      "promptSources": [
+        {
+          "title": "Fashion Technical Flat Garment Sketches",
+          "url": "https://promptbase.com/prompt/fashion-technical-flat-garment-sketches",
+          "authorOrPublisher": "PromptBase / cajun",
+          "license": "unspecified commercial prompt listing; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "community_gallery / technical_flat_prompt_pattern_inspiration"
+        },
+        {
+          "title": "Free AI Sewing Pattern Generator Online | Create Custom PDF Patterns",
+          "url": "https://www.myaiart.io/features/ai-sewing-pattern-generator/",
+          "authorOrPublisher": "Myaiart",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "product_case / sewing_pattern_workflow / print_export_pattern"
+        },
+        {
+          "title": "AI Fashion Tools - Best AI Tools for Fashion Design 2026",
+          "url": "https://www.skema3d.com/ai-fashion-tools",
+          "authorOrPublisher": "Skema3D",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "production_workflow_inspiration / tech_pack_pipeline"
+        },
+        {
+          "title": "How to Create Flat Sketches for Fashion Design",
+          "url": "https://www.skema3d.com/blogs/how-to-create-flat-sketches-for-fashion",
+          "authorOrPublisher": "Skema3D",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "tutorial / technical_drawing_constraints / failure_mode_scan"
+        },
+        {
+          "title": "GarmentCodeData (v2): A Dataset of 3D Made-to-Measure Garments With Sewing Patterns",
+          "url": "https://www.research-collection.ethz.ch/handle/20.500.11850/690432",
+          "authorOrPublisher": "Maria Korosteleva, Fabian Kemper, Stephan Wenninger et al. / ETH Zurich Research Collection",
+          "license": "Creative Commons Attribution 4.0 International",
+          "accessedAt": "2026-04-27",
+          "usedAs": "benchmark_dataset / sewing_pattern_structure / evaluation_context"
+        },
+        {
+          "title": "How can you tell if an Etsy pattern is AI?",
+          "url": "https://www.reddit.com/r/sewingpatterns/comments/1str0ui/how_can_you_tell_if_an_etsy_pattern_is_ai/",
+          "authorOrPublisher": "Reddit r/sewingpatterns community",
+          "license": "user-generated Reddit content; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "community_failure_mode / pattern_quality_risk_scan"
+        },
+        {
+          "title": "How To Prompt AI To Generate Inclusive Size-inclusive Fashion Flat Sketches Without Defaulting To Mannequin Norms",
+          "url": "https://www.alibaba.com/product-insights/how-to-prompt-ai-to-generate-inclusive-size-inclusive-fashion-flat-sketches-without-defaulting-to-mannequin-norms.html",
+          "authorOrPublisher": "Alibaba.com Product Insights / Jordan Ellis",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "prompt_pattern_inspiration / inclusive_fit_failure_mode"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-27",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Fictional no-people apparel production proof with invented overshirt, generic pattern pieces, and generic materials only. Screened to avoid political persuasion, public political figures, parties/elections, real brands/trademarks/logos, marketplace listings, celebrity likenesses, real people, mannequins, copyrighted/protected costumes, real designer names, sensitive body-measurement claims, adult/explicit content, harmful or dangerous instructions, weapons, gore, graphic violence, living-artist style imitation, copied prompt text, copied sewing patterns, dataset images, article figures, product UI, and source-image reuse."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dcefb-3b29-7f63-b69d-da9d75b6b709/ig_0b8bad8dc043bdb90169ef5c2a86548194a25ce6009a065686.png"
+    },
+    {
       "title": "Derived Play: Audit Heatmap Arcade",
       "caption": "从 Synthetic Receipt Sandbox 派生出的审核训练玩法：玩家在带 VOID/TRAINING SAMPLE 的虚构票据上标出 blurred date、line total mismatch、cropped edge、low confidence word 和 watermark present，再选择 clear、needs review 或 regenerate safer。",
       "path": "assets/images/254-derived-play-audit-heatmap-arcade.png",
