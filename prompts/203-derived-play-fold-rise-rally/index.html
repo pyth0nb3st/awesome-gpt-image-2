@@ -140,6 +140,45 @@
         word-break: break-word;
         font: 13px/1.55 ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
       }
+      .prompt-panel-header {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px 14px;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 10px;
+      }
+      .copy-prompt {
+        min-inline-size: 124px;
+        min-height: 36px;
+        border: 1px solid var(--ink);
+        background: #fdf7ea;
+        color: var(--ink);
+        cursor: pointer;
+        padding: 8px 10px;
+        text-align: center;
+        font: 900 12px ui-sans-serif, system-ui, sans-serif;
+        letter-spacing: 0;
+        text-transform: uppercase;
+      }
+      .copy-prompt:hover, .copy-prompt:focus-visible {
+        background: var(--ink);
+        color: var(--panel);
+      }
+      .copy-prompt:focus-visible {
+        outline: 3px solid color-mix(in srgb, var(--accent) 50%, transparent);
+        outline-offset: 2px;
+      }
+      .copy-prompt.is-copied {
+        border-color: var(--accent);
+        background: var(--accent);
+        color: var(--panel);
+      }
+      .copy-prompt.is-failed {
+        border-color: var(--accent-2);
+        background: var(--accent-2);
+        color: var(--panel);
+      }
       .grid {
         display: grid;
         grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -187,7 +226,7 @@
         <a href="https://github.com/pyth0nb3st/awesome-gpt-image-2">GitHub</a>
       </nav>
       <header>
-        <p class="meta">Prompt example #49 · 2026-04-26 08:12:42</p>
+        <p class="meta">Prompt example #51 · 2026-04-26 08:12:42</p>
         <h1>Derived Play: Fold Rise Rally</h1>
         <p class="lead">从层压提示台派生出的圆形冷却架接力玩法：玩家抽 Fold Tile、叠 Context Layer、花 Butter Token、放 Steam Edit、关 Crumb Mask、对 Pan Hoop、贴 Caption Score、选 Glaze Chip，只有所有琥珀月牙窗仍然匹配时才能敲响 Rise Check。</p>
         <ul class="tags">
@@ -212,9 +251,12 @@
           </p>
         </div>
       </section>
-      <section class="panel">
-        <h2>Full Prompt</h2>
-        <pre>Create one polished public-gallery image titled &quot;Derived Play: Fold Rise Rally&quot;.
+      <section class="panel prompt-panel">
+        <div class="prompt-panel-header">
+          <h2>Full Prompt</h2>
+          <button class="copy-prompt" type="button" data-copy-prompt="full-prompt" data-copy-label="Copy prompt" data-copied-label="Copied" data-failed-label="Copy failed" aria-live="polite">Copy prompt</button>
+        </div>
+        <pre id="full-prompt">Create one polished public-gallery image titled &quot;Derived Play: Fold Rise Rally&quot;.
 
 This is a derived playable mode from Prompt Lamination Deck, but it must look like a different rules object: a cooperative tabletop fold-and-check rally using soft pastry-layer tiles and a circular cooling rack score path, not the same cutaway lamination deck, not a recipe, not a tasting menu, not a grid, not cards, not a contact sheet, not a rectangular board, not a proof press, not a loom, not a fossil drawer, not a wardrobe carousel, not a water basin, not a snowglobe rack, not a toy latch.
 
@@ -233,6 +275,24 @@ Readable short labels: Fold Tile, Context Layer, Butter Token, Steam Edit, Crumb
             <div>
               <h2>Use Case Bakery: Prompt Lamination Deck</h2>
               <p>Create one polished public-gallery concept image titled &quot;Use Case Bakery: Prompt Lamination Deck&quot;. Output format: a single 4:3 cl...</p>
+            </div>
+          </a>
+        </article>
+        <article class="card">
+          <a href="https://gptimg2.best/prompts/258-derived-play-confetti-cleanup-hunt/">
+            <img src="https://gptimg2.best/assets/images/258-derived-play-confetti-cleanup-hunt.png" alt="Derived Play: Confetti Cleanup Hunt. GPT Image 2 prompt example." loading="lazy" width="1672" height="941" />
+            <div>
+              <h2>Derived Play: Confetti Cleanup Hunt</h2>
+              <p>Create one polished public-gallery image titled &quot;Derived Play: Confetti Cleanup Hunt&quot;. Use case: productivity-visual / craft-prod...</p>
+            </div>
+          </a>
+        </article>
+        <article class="card">
+          <a href="https://gptimg2.best/prompts/259-use-case-stitchable-chart-triage/">
+            <img src="https://gptimg2.best/assets/images/259-use-case-stitchable-chart-triage.png" alt="Use Case: Stitchable Chart Triage. GPT Image 2 prompt example." loading="lazy" width="1008" height="1561" />
+            <div>
+              <h2>Use Case: Stitchable Chart Triage</h2>
+              <p>Create one polished public-gallery image titled &quot;Use Case: Stitchable Chart Triage&quot;. Use case: productivity-visual / craft-produc...</p>
             </div>
           </a>
         </article>
@@ -263,24 +323,6 @@ Readable short labels: Fold Tile, Context Layer, Butter Token, Steam Edit, Crumb
             </div>
           </a>
         </article>
-        <article class="card">
-          <a href="https://gptimg2.best/prompts/255-use-case-synthetic-receipt-sandbox/">
-            <img src="https://gptimg2.best/assets/images/255-use-case-synthetic-receipt-sandbox.png" alt="Use Case: Synthetic Receipt Sandbox. GPT Image 2 prompt example." loading="lazy" width="1024" height="1536" />
-            <div>
-              <h2>Use Case: Synthetic Receipt Sandbox</h2>
-              <p>Create one polished public-gallery concept image titled exactly &quot;Use Case: Synthetic Receipt Sandbox&quot;. Use case: productivity-vis...</p>
-            </div>
-          </a>
-        </article>
-        <article class="card">
-          <a href="https://gptimg2.best/prompts/252-derived-play-colorability-check/">
-            <img src="https://gptimg2.best/assets/images/252-derived-play-colorability-check.png" alt="Derived Play: Colorability Check. GPT Image 2 prompt example." loading="lazy" width="1672" height="941" />
-            <div>
-              <h2>Derived Play: Colorability Check</h2>
-              <p>Create one polished public-gallery concept image titled exactly &quot;Derived Play: Colorability Check&quot;. Use case: derived play mechan...</p>
-            </div>
-          </a>
-        </article>
       </div>
       </section>
       <footer>
@@ -288,5 +330,65 @@ Readable short labels: Fold Tile, Context Layer, Butter Token, Steam Edit, Crumb
         <span>Creator tools: <a href="https://drillso.com/">Drill</a> and <a href="https://vibeart.app/">VibeArt</a>.</span>
       </footer>
     </main>
+    <script>
+(() => {
+  const resetDelay = 1800;
+
+  const copyWithFallback = (text) => {
+    const textarea = document.createElement("textarea");
+    textarea.value = text;
+    textarea.setAttribute("readonly", "");
+    textarea.style.position = "fixed";
+    textarea.style.top = "0";
+    textarea.style.left = "-9999px";
+    document.body.appendChild(textarea);
+    textarea.select();
+    textarea.setSelectionRange(0, textarea.value.length);
+
+    try {
+      return document.execCommand("copy");
+    } finally {
+      textarea.remove();
+    }
+  };
+
+  const resetButton = (button) => {
+    window.clearTimeout(Number(button.dataset.resetTimer || 0));
+    button.dataset.resetTimer = String(
+      window.setTimeout(() => {
+        button.textContent = button.dataset.copyLabel || "Copy prompt";
+        button.classList.remove("is-copied", "is-failed");
+      }, resetDelay),
+    );
+  };
+
+  document.addEventListener("click", async (event) => {
+    const target = event.target instanceof Element ? event.target : null;
+    const button = target?.closest("[data-copy-prompt]");
+    if (!button) return;
+
+    const prompt = document.getElementById(button.dataset.copyPrompt);
+    const text = prompt?.textContent || "";
+
+    try {
+      if (navigator.clipboard?.writeText && window.isSecureContext) {
+        await navigator.clipboard.writeText(text);
+      } else if (!copyWithFallback(text)) {
+        throw new Error("Clipboard copy failed");
+      }
+
+      button.textContent = button.dataset.copiedLabel || "Copied";
+      button.classList.add("is-copied");
+      button.classList.remove("is-failed");
+    } catch {
+      button.textContent = button.dataset.failedLabel || "Copy failed";
+      button.classList.add("is-failed");
+      button.classList.remove("is-copied");
+    } finally {
+      resetButton(button);
+    }
+  });
+})();
+</script>
   </body>
 </html>

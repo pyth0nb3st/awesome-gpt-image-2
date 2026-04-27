@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/258-derived-play-confetti-cleanup-hunt.png</image:loc>
+      <image:title>Derived Play: Confetti Cleanup Hunt</image:title>
+      <image:caption>Create one polished public-gallery image titled &quot;Derived Play: Confetti Cleanup Hunt&quot;. Use case: productivity-visual / craft-production QA game Asset type: GPT Image derived-play demo, single finished image for a public gallery Output form...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/259-use-case-stitchable-chart-triage.png</image:loc>
+      <image:title>Use Case: Stitchable Chart Triage</image:title>
+      <image:caption>Create one polished public-gallery image titled &quot;Use Case: Stitchable Chart Triage&quot;. Use case: productivity-visual / craft-production QA Asset type: GPT Image use-case demo, single finished image for a public gallery Output format: portrai...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/256-derived-play-pattern-proof-bingo.png</image:loc>
       <image:title>Derived Play: Pattern Proof Bingo</image:title>
       <image:caption>Create one polished public-gallery concept image titled exactly &quot;Derived Play: Pattern Proof Bingo&quot;. Use case: derived play mechanic / garment production QA game / sewing-pattern review. Asset type: landscape 16:9 printable paper-pattern c...</image:caption>
@@ -1237,6 +1247,28 @@
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/258-derived-play-confetti-cleanup-hunt/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/258-derived-play-confetti-cleanup-hunt.png</image:loc>
+      <image:title>Derived Play: Confetti Cleanup Hunt</image:title>
+      <image:caption>Create one polished public-gallery image titled &quot;Derived Play: Confetti Cleanup Hunt&quot;. Use case: productivity-visual / craft-production QA game Asset type: GPT Image derived-play demo, single finished image for a public gallery Output form...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/259-use-case-stitchable-chart-triage/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/259-use-case-stitchable-chart-triage.png</image:loc>
+      <image:title>Use Case: Stitchable Chart Triage</image:title>
+      <image:caption>Create one polished public-gallery image titled &quot;Use Case: Stitchable Chart Triage&quot;. Use case: productivity-visual / craft-production QA Asset type: GPT Image use-case demo, single finished image for a public gallery Output format: portrai...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/256-derived-play-pattern-proof-bingo/</loc>
@@ -3989,13 +4021,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/material-study/</loc>
+    <loc>https://gptimg2.best/tags/derived-play/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/derived-play/</loc>
+    <loc>https://gptimg2.best/tags/material-study/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>

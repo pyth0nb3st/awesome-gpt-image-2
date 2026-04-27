@@ -140,6 +140,45 @@
         word-break: break-word;
         font: 13px/1.55 ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
       }
+      .prompt-panel-header {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px 14px;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 10px;
+      }
+      .copy-prompt {
+        min-inline-size: 124px;
+        min-height: 36px;
+        border: 1px solid var(--ink);
+        background: #fdf7ea;
+        color: var(--ink);
+        cursor: pointer;
+        padding: 8px 10px;
+        text-align: center;
+        font: 900 12px ui-sans-serif, system-ui, sans-serif;
+        letter-spacing: 0;
+        text-transform: uppercase;
+      }
+      .copy-prompt:hover, .copy-prompt:focus-visible {
+        background: var(--ink);
+        color: var(--panel);
+      }
+      .copy-prompt:focus-visible {
+        outline: 3px solid color-mix(in srgb, var(--accent) 50%, transparent);
+        outline-offset: 2px;
+      }
+      .copy-prompt.is-copied {
+        border-color: var(--accent);
+        background: var(--accent);
+        color: var(--panel);
+      }
+      .copy-prompt.is-failed {
+        border-color: var(--accent-2);
+        background: var(--accent-2);
+        color: var(--panel);
+      }
       .grid {
         display: grid;
         grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -187,7 +226,7 @@
         <a href="https://github.com/pyth0nb3st/awesome-gpt-image-2">GitHub</a>
       </nav>
       <header>
-        <p class="meta">Prompt example #136 · 2026-04-25 15:50:51</p>
+        <p class="meta">Prompt example #138 · 2026-04-25 15:50:51</p>
         <h1>Use Case Lab: Material and Accessibility Play</h1>
         <p class="lead">一组新的原创 GPT Image 2 用例：触觉图草稿、抽屉阴影规划、季节磨损模拟、纸板套件生成、吉祥物心情笔记和虚构展品迷你导览。</p>
         <ul class="tags">
@@ -212,9 +251,12 @@
           </p>
         </div>
       </section>
-      <section class="panel">
-        <h2>Full Prompt</h2>
-        <pre>Create a polished original GPT Image 2 use-case research board as a single 3:2 landscape image, clean 2x3 contact-sheet layout with six clearly separated panels. No logos, no real brands, no celebrity likenesses, no public figures, no copyrighted characters, no politics, no sexual content, no violence, no watermarks. Overall tiny header: &quot;GPT-IMAGE-2 USE CASE LAB: MATERIAL + ACCESSIBILITY PLAY&quot;. Each panel has a short readable English label and shows a fictional, practical image-generation workflow:
+      <section class="panel prompt-panel">
+        <div class="prompt-panel-header">
+          <h2>Full Prompt</h2>
+          <button class="copy-prompt" type="button" data-copy-prompt="full-prompt" data-copy-label="Copy prompt" data-copied-label="Copied" data-failed-label="Copy failed" aria-live="polite">Copy prompt</button>
+        </div>
+        <pre id="full-prompt">Create a polished original GPT Image 2 use-case research board as a single 3:2 landscape image, clean 2x3 contact-sheet layout with six clearly separated panels. No logos, no real brands, no celebrity likenesses, no public figures, no copyrighted characters, no politics, no sexual content, no violence, no watermarks. Overall tiny header: &quot;GPT-IMAGE-2 USE CASE LAB: MATERIAL + ACCESSIBILITY PLAY&quot;. Each panel has a short readable English label and shows a fictional, practical image-generation workflow:
 1 &quot;Tactile Diagram Draft&quot; - a fictional kitchen timer and plant pot transformed into high-contrast raised-line style diagrams with braille-like dotted texture placeholders, accessibility education concept.
 2 &quot;Drawer Shadow Planner&quot; - a messy set of fictional craft tools converted into a neat foam-insert drawer layout with silhouettes and tiny labels.
 3 &quot;Season Wear Simulator&quot; - one generic outdoor stool shown across sun, rain, frost, and dust aging previews, material planning concept.
@@ -287,5 +329,65 @@ Style: premium design lab documentation wall, crisp typography, realistic paper 
         <span>Creator tools: <a href="https://drillso.com/">Drill</a> and <a href="https://vibeart.app/">VibeArt</a>.</span>
       </footer>
     </main>
+    <script>
+(() => {
+  const resetDelay = 1800;
+
+  const copyWithFallback = (text) => {
+    const textarea = document.createElement("textarea");
+    textarea.value = text;
+    textarea.setAttribute("readonly", "");
+    textarea.style.position = "fixed";
+    textarea.style.top = "0";
+    textarea.style.left = "-9999px";
+    document.body.appendChild(textarea);
+    textarea.select();
+    textarea.setSelectionRange(0, textarea.value.length);
+
+    try {
+      return document.execCommand("copy");
+    } finally {
+      textarea.remove();
+    }
+  };
+
+  const resetButton = (button) => {
+    window.clearTimeout(Number(button.dataset.resetTimer || 0));
+    button.dataset.resetTimer = String(
+      window.setTimeout(() => {
+        button.textContent = button.dataset.copyLabel || "Copy prompt";
+        button.classList.remove("is-copied", "is-failed");
+      }, resetDelay),
+    );
+  };
+
+  document.addEventListener("click", async (event) => {
+    const target = event.target instanceof Element ? event.target : null;
+    const button = target?.closest("[data-copy-prompt]");
+    if (!button) return;
+
+    const prompt = document.getElementById(button.dataset.copyPrompt);
+    const text = prompt?.textContent || "";
+
+    try {
+      if (navigator.clipboard?.writeText && window.isSecureContext) {
+        await navigator.clipboard.writeText(text);
+      } else if (!copyWithFallback(text)) {
+        throw new Error("Clipboard copy failed");
+      }
+
+      button.textContent = button.dataset.copiedLabel || "Copied";
+      button.classList.add("is-copied");
+      button.classList.remove("is-failed");
+    } catch {
+      button.textContent = button.dataset.failedLabel || "Copy failed";
+      button.classList.add("is-failed");
+      button.classList.remove("is-copied");
+    } finally {
+      resetButton(button);
+    }
+  });
+})();
+</script>
   </body>
 </html>

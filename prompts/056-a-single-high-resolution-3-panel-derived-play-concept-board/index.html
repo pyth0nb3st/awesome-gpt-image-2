@@ -140,6 +140,45 @@
         word-break: break-word;
         font: 13px/1.55 ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
       }
+      .prompt-panel-header {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px 14px;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 10px;
+      }
+      .copy-prompt {
+        min-inline-size: 124px;
+        min-height: 36px;
+        border: 1px solid var(--ink);
+        background: #fdf7ea;
+        color: var(--ink);
+        cursor: pointer;
+        padding: 8px 10px;
+        text-align: center;
+        font: 900 12px ui-sans-serif, system-ui, sans-serif;
+        letter-spacing: 0;
+        text-transform: uppercase;
+      }
+      .copy-prompt:hover, .copy-prompt:focus-visible {
+        background: var(--ink);
+        color: var(--panel);
+      }
+      .copy-prompt:focus-visible {
+        outline: 3px solid color-mix(in srgb, var(--accent) 50%, transparent);
+        outline-offset: 2px;
+      }
+      .copy-prompt.is-copied {
+        border-color: var(--accent);
+        background: var(--accent);
+        color: var(--panel);
+      }
+      .copy-prompt.is-failed {
+        border-color: var(--accent-2);
+        background: var(--accent-2);
+        color: var(--panel);
+      }
       .grid {
         display: grid;
         grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -187,7 +226,7 @@
         <a href="https://github.com/pyth0nb3st/awesome-gpt-image-2">GitHub</a>
       </nav>
       <header>
-        <p class="meta">Prompt example #223 · 2026-04-25 01:20:42</p>
+        <p class="meta">Prompt example #225 · 2026-04-25 01:20:42</p>
         <h1>Single high-resolution 3-panel derived-play concept board</h1>
         <p class="lead">历史生成图，批次 019dc07c-29f4-7b31-adb1-c2f24a43a2c8，生成时间 2026-04-25 01:20:42。</p>
         <ul class="tags">
@@ -211,9 +250,12 @@
           </p>
         </div>
       </section>
-      <section class="panel">
-        <h2>Full Prompt</h2>
-        <pre>Create a single high-resolution 3-panel derived-play concept board. Three vertical panels side by side, separated by thin grid lines. These are playful derivations from the previous three concepts, not the same images.
+      <section class="panel prompt-panel">
+        <div class="prompt-panel-header">
+          <h2>Full Prompt</h2>
+          <button class="copy-prompt" type="button" data-copy-prompt="full-prompt" data-copy-label="Copy prompt" data-copied-label="Copied" data-failed-label="Copy failed" aria-live="polite">Copy prompt</button>
+        </div>
+        <pre id="full-prompt">Create a single high-resolution 3-panel derived-play concept board. Three vertical panels side by side, separated by thin grid lines. These are playful derivations from the previous three concepts, not the same images.
 
 Panel 1: Poster-to-AR installation. The &quot;月光档案馆 / MOONLIGHT ARCHIVE&quot; event poster has become an immersive street AR wayfinding scene. A person holds a phone in front of the poster, and the phone screen shows glowing moonlit archive shelves extending into the real street with elegant arrows and tiny floating labels. Keep the bilingual event identity visible but not dominant. Cinematic night photography, plausible UI overlay, legible key words only.
 
@@ -287,5 +329,65 @@ Overall: polished concept research board, high detail, no watermark, no clutter,
         <span>Creator tools: <a href="https://drillso.com/">Drill</a> and <a href="https://vibeart.app/">VibeArt</a>.</span>
       </footer>
     </main>
+    <script>
+(() => {
+  const resetDelay = 1800;
+
+  const copyWithFallback = (text) => {
+    const textarea = document.createElement("textarea");
+    textarea.value = text;
+    textarea.setAttribute("readonly", "");
+    textarea.style.position = "fixed";
+    textarea.style.top = "0";
+    textarea.style.left = "-9999px";
+    document.body.appendChild(textarea);
+    textarea.select();
+    textarea.setSelectionRange(0, textarea.value.length);
+
+    try {
+      return document.execCommand("copy");
+    } finally {
+      textarea.remove();
+    }
+  };
+
+  const resetButton = (button) => {
+    window.clearTimeout(Number(button.dataset.resetTimer || 0));
+    button.dataset.resetTimer = String(
+      window.setTimeout(() => {
+        button.textContent = button.dataset.copyLabel || "Copy prompt";
+        button.classList.remove("is-copied", "is-failed");
+      }, resetDelay),
+    );
+  };
+
+  document.addEventListener("click", async (event) => {
+    const target = event.target instanceof Element ? event.target : null;
+    const button = target?.closest("[data-copy-prompt]");
+    if (!button) return;
+
+    const prompt = document.getElementById(button.dataset.copyPrompt);
+    const text = prompt?.textContent || "";
+
+    try {
+      if (navigator.clipboard?.writeText && window.isSecureContext) {
+        await navigator.clipboard.writeText(text);
+      } else if (!copyWithFallback(text)) {
+        throw new Error("Clipboard copy failed");
+      }
+
+      button.textContent = button.dataset.copiedLabel || "Copied";
+      button.classList.add("is-copied");
+      button.classList.remove("is-failed");
+    } catch {
+      button.textContent = button.dataset.failedLabel || "Copy failed";
+      button.classList.add("is-failed");
+      button.classList.remove("is-copied");
+    } finally {
+      resetButton(button);
+    }
+  });
+})();
+</script>
   </body>
 </html>

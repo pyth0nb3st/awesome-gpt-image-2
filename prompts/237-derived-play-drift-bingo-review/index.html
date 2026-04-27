@@ -140,6 +140,45 @@
         word-break: break-word;
         font: 13px/1.55 ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
       }
+      .prompt-panel-header {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px 14px;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 10px;
+      }
+      .copy-prompt {
+        min-inline-size: 124px;
+        min-height: 36px;
+        border: 1px solid var(--ink);
+        background: #fdf7ea;
+        color: var(--ink);
+        cursor: pointer;
+        padding: 8px 10px;
+        text-align: center;
+        font: 900 12px ui-sans-serif, system-ui, sans-serif;
+        letter-spacing: 0;
+        text-transform: uppercase;
+      }
+      .copy-prompt:hover, .copy-prompt:focus-visible {
+        background: var(--ink);
+        color: var(--panel);
+      }
+      .copy-prompt:focus-visible {
+        outline: 3px solid color-mix(in srgb, var(--accent) 50%, transparent);
+        outline-offset: 2px;
+      }
+      .copy-prompt.is-copied {
+        border-color: var(--accent);
+        background: var(--accent);
+        color: var(--panel);
+      }
+      .copy-prompt.is-failed {
+        border-color: var(--accent-2);
+        background: var(--accent-2);
+        color: var(--panel);
+      }
       .grid {
         display: grid;
         grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -187,7 +226,7 @@
         <a href="https://github.com/pyth0nb3st/awesome-gpt-image-2">GitHub</a>
       </nav>
       <header>
-        <p class="meta">Prompt example #19 · 2026-04-27 09:44:15</p>
+        <p class="meta">Prompt example #21 · 2026-04-27 09:44:15</p>
         <h1>Derived Play: Drift Bingo Review</h1>
         <p class="lead">从 Visual SOP Dry Run 派生出的评审玩法：团队在虚构 Lumen Lane Book Swap SOP 上找出 Misspell、Step Gap、Role Drift、Access、Tiny Text 五类漂移，并把 Clutter 与 Tiny Text 两项修复后盖上 PASS AFTER REPAIR。</p>
         <ul class="tags">
@@ -212,9 +251,12 @@
           </p>
         </div>
       </section>
-      <section class="panel">
-        <h2>Full Prompt</h2>
-        <pre>Create a polished landscape 16:9 concept image for a derived GPT Image 2 play mode.
+      <section class="panel prompt-panel">
+        <div class="prompt-panel-header">
+          <h2>Full Prompt</h2>
+          <button class="copy-prompt" type="button" data-copy-prompt="full-prompt" data-copy-label="Copy prompt" data-copied-label="Copied" data-failed-label="Copy failed" aria-live="polite">Copy prompt</button>
+        </div>
+        <pre id="full-prompt">Create a polished landscape 16:9 concept image for a derived GPT Image 2 play mode.
 
 Title visible in the artwork: &quot;DRIFT BINGO REVIEW&quot;.
 
@@ -233,6 +275,15 @@ Visual style: refined product-design critique board, warm off-white background, 
             <div>
               <h2>Use Case: Visual SOP Dry Run</h2>
               <p>Create a polished portrait 4:5 concept image for a GPT Image 2 use-case gallery. Title visible in the artwork: &quot;VISUAL SOP DRY RU...</p>
+            </div>
+          </a>
+        </article>
+        <article class="card">
+          <a href="https://gptimg2.best/prompts/258-derived-play-confetti-cleanup-hunt/">
+            <img src="https://gptimg2.best/assets/images/258-derived-play-confetti-cleanup-hunt.png" alt="Derived Play: Confetti Cleanup Hunt. GPT Image 2 prompt example." loading="lazy" width="1672" height="941" />
+            <div>
+              <h2>Derived Play: Confetti Cleanup Hunt</h2>
+              <p>Create one polished public-gallery image titled &quot;Derived Play: Confetti Cleanup Hunt&quot;. Use case: productivity-visual / craft-prod...</p>
             </div>
           </a>
         </article>
@@ -272,15 +323,6 @@ Visual style: refined product-design critique board, warm off-white background, 
             </div>
           </a>
         </article>
-        <article class="card">
-          <a href="https://gptimg2.best/prompts/247-derived-play-alt-text-relay/">
-            <img src="https://gptimg2.best/assets/images/247-derived-play-alt-text-relay.png" alt="Derived Play: Alt-Text Relay. GPT Image 2 prompt example." loading="lazy" width="1672" height="941" />
-            <div>
-              <h2>Derived Play: Alt-Text Relay</h2>
-              <p>Create one polished public-gallery concept image titled exactly &quot;Derived Play: Alt-Text Relay&quot;. Use case: derived play mechanic /...</p>
-            </div>
-          </a>
-        </article>
       </div>
       </section>
       <footer>
@@ -288,5 +330,65 @@ Visual style: refined product-design critique board, warm off-white background, 
         <span>Creator tools: <a href="https://drillso.com/">Drill</a> and <a href="https://vibeart.app/">VibeArt</a>.</span>
       </footer>
     </main>
+    <script>
+(() => {
+  const resetDelay = 1800;
+
+  const copyWithFallback = (text) => {
+    const textarea = document.createElement("textarea");
+    textarea.value = text;
+    textarea.setAttribute("readonly", "");
+    textarea.style.position = "fixed";
+    textarea.style.top = "0";
+    textarea.style.left = "-9999px";
+    document.body.appendChild(textarea);
+    textarea.select();
+    textarea.setSelectionRange(0, textarea.value.length);
+
+    try {
+      return document.execCommand("copy");
+    } finally {
+      textarea.remove();
+    }
+  };
+
+  const resetButton = (button) => {
+    window.clearTimeout(Number(button.dataset.resetTimer || 0));
+    button.dataset.resetTimer = String(
+      window.setTimeout(() => {
+        button.textContent = button.dataset.copyLabel || "Copy prompt";
+        button.classList.remove("is-copied", "is-failed");
+      }, resetDelay),
+    );
+  };
+
+  document.addEventListener("click", async (event) => {
+    const target = event.target instanceof Element ? event.target : null;
+    const button = target?.closest("[data-copy-prompt]");
+    if (!button) return;
+
+    const prompt = document.getElementById(button.dataset.copyPrompt);
+    const text = prompt?.textContent || "";
+
+    try {
+      if (navigator.clipboard?.writeText && window.isSecureContext) {
+        await navigator.clipboard.writeText(text);
+      } else if (!copyWithFallback(text)) {
+        throw new Error("Clipboard copy failed");
+      }
+
+      button.textContent = button.dataset.copiedLabel || "Copied";
+      button.classList.add("is-copied");
+      button.classList.remove("is-failed");
+    } catch {
+      button.textContent = button.dataset.failedLabel || "Copy failed";
+      button.classList.add("is-failed");
+      button.classList.remove("is-copied");
+    } finally {
+      resetButton(button);
+    }
+  });
+})();
+</script>
   </body>
 </html>

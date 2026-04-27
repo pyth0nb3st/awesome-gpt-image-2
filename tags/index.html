@@ -12,11 +12,11 @@
     <meta property="og:title" content="GPT Image 2 Prompt Tags | Awesome GPT Image 2" />
     <meta property="og:description" content="Browse 78 GPT Image 2 prompt tag collections for UI mockups, product visuals, diagrams, games, storytelling, and evaluation workflows." />
     <meta property="og:url" content="https://gptimg2.best/tags/" />
-    <meta property="og:image" content="https://gptimg2.best/assets/images/256-derived-play-pattern-proof-bingo.png" />
+    <meta property="og:image" content="https://gptimg2.best/assets/images/258-derived-play-confetti-cleanup-hunt.png" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="GPT Image 2 Prompt Tags | Awesome GPT Image 2" />
     <meta name="twitter:description" content="Browse 78 GPT Image 2 prompt tag collections for UI mockups, product visuals, diagrams, games, storytelling, and evaluation workflows." />
-    <meta name="twitter:image" content="https://gptimg2.best/assets/images/256-derived-play-pattern-proof-bingo.png" />
+    <meta name="twitter:image" content="https://gptimg2.best/assets/images/258-derived-play-confetti-cleanup-hunt.png" />
     <script type="application/ld+json">{"@context":"https://schema.org","@type":"CollectionPage","name":"GPT Image 2 prompt tags","url":"https://gptimg2.best/tags/","numberOfItems":78}</script>
     <style>
       :root {
@@ -140,6 +140,45 @@
         word-break: break-word;
         font: 13px/1.55 ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
       }
+      .prompt-panel-header {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px 14px;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 10px;
+      }
+      .copy-prompt {
+        min-inline-size: 124px;
+        min-height: 36px;
+        border: 1px solid var(--ink);
+        background: #fdf7ea;
+        color: var(--ink);
+        cursor: pointer;
+        padding: 8px 10px;
+        text-align: center;
+        font: 900 12px ui-sans-serif, system-ui, sans-serif;
+        letter-spacing: 0;
+        text-transform: uppercase;
+      }
+      .copy-prompt:hover, .copy-prompt:focus-visible {
+        background: var(--ink);
+        color: var(--panel);
+      }
+      .copy-prompt:focus-visible {
+        outline: 3px solid color-mix(in srgb, var(--accent) 50%, transparent);
+        outline-offset: 2px;
+      }
+      .copy-prompt.is-copied {
+        border-color: var(--accent);
+        background: var(--accent);
+        color: var(--panel);
+      }
+      .copy-prompt.is-failed {
+        border-color: var(--accent-2);
+        background: var(--accent-2);
+        color: var(--panel);
+      }
       .grid {
         display: grid;
         grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -204,13 +243,13 @@
 <li><a href="https://gptimg2.best/tags/worldbuilding/">Worldbuilding (33)</a></li>
 <li><a href="https://gptimg2.best/tags/education/">Education (26)</a></li>
 <li><a href="https://gptimg2.best/tags/interior-design/">Interior Design (23)</a></li>
+<li><a href="https://gptimg2.best/tags/derived-play/">Derived Play (17)</a></li>
 <li><a href="https://gptimg2.best/tags/material-study/">Material Study (17)</a></li>
-<li><a href="https://gptimg2.best/tags/derived-play/">Derived Play (16)</a></li>
 <li><a href="https://gptimg2.best/tags/evaluation/">Evaluation (15)</a></li>
 <li><a href="https://gptimg2.best/tags/operations/">Operations (15)</a></li>
 <li><a href="https://gptimg2.best/tags/productivity-visual/">Productivity Visual (15)</a></li>
 <li><a href="https://gptimg2.best/tags/stylized-concept/">Stylized Concept (15)</a></li>
-<li><a href="https://gptimg2.best/tags/use-case/">Use Case (14)</a></li>
+<li><a href="https://gptimg2.best/tags/use-case/">Use Case (15)</a></li>
 <li><a href="https://gptimg2.best/tags/illustration-story/">Illustration Story (9)</a></li>
 <li><a href="https://gptimg2.best/tags/ads-marketing/">Ads Marketing (7)</a></li>
 <li><a href="https://gptimg2.best/tags/infographic-diagram/">Infographic Diagram (7)</a></li>
@@ -278,5 +317,65 @@
         <span>Creator tools: <a href="https://drillso.com/">Drill</a> and <a href="https://vibeart.app/">VibeArt</a>.</span>
       </footer>
     </main>
+    <script>
+(() => {
+  const resetDelay = 1800;
+
+  const copyWithFallback = (text) => {
+    const textarea = document.createElement("textarea");
+    textarea.value = text;
+    textarea.setAttribute("readonly", "");
+    textarea.style.position = "fixed";
+    textarea.style.top = "0";
+    textarea.style.left = "-9999px";
+    document.body.appendChild(textarea);
+    textarea.select();
+    textarea.setSelectionRange(0, textarea.value.length);
+
+    try {
+      return document.execCommand("copy");
+    } finally {
+      textarea.remove();
+    }
+  };
+
+  const resetButton = (button) => {
+    window.clearTimeout(Number(button.dataset.resetTimer || 0));
+    button.dataset.resetTimer = String(
+      window.setTimeout(() => {
+        button.textContent = button.dataset.copyLabel || "Copy prompt";
+        button.classList.remove("is-copied", "is-failed");
+      }, resetDelay),
+    );
+  };
+
+  document.addEventListener("click", async (event) => {
+    const target = event.target instanceof Element ? event.target : null;
+    const button = target?.closest("[data-copy-prompt]");
+    if (!button) return;
+
+    const prompt = document.getElementById(button.dataset.copyPrompt);
+    const text = prompt?.textContent || "";
+
+    try {
+      if (navigator.clipboard?.writeText && window.isSecureContext) {
+        await navigator.clipboard.writeText(text);
+      } else if (!copyWithFallback(text)) {
+        throw new Error("Clipboard copy failed");
+      }
+
+      button.textContent = button.dataset.copiedLabel || "Copied";
+      button.classList.add("is-copied");
+      button.classList.remove("is-failed");
+    } catch {
+      button.textContent = button.dataset.failedLabel || "Copy failed";
+      button.classList.add("is-failed");
+      button.classList.remove("is-copied");
+    } finally {
+      resetButton(button);
+    }
+  });
+})();
+</script>
   </body>
 </html>

@@ -18,6 +18,172 @@
   },
   "images": [
     {
+      "title": "Derived Play: Confetti Cleanup Hunt",
+      "caption": "从 Stitchable Chart Triage 派生出的可玩审稿机制：玩家按 Find、Mark、Fix、Pass 找出 confetti、fake symbols、shade merge、broken outline 和 tiny print，再确认需要人工 chart editor。",
+      "path": "assets/images/258-derived-play-confetti-cleanup-hunt.png",
+      "alt": "Landscape printable cross-stitch QA game sheet with a fictional Moon Sprout Draft grid, five red-circled issues, issue tokens, cleaned preview, fix rules, score strip, and chart-editor-required stamp",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-27 22:02:52",
+      "batch": "019dcf32-a039-7f50-9872-412eb8e64522",
+      "tags": [
+        "confetti-cleanup-hunt",
+        "derived-play",
+        "cross-stitch-audit",
+        "chart-editor-required",
+        "fake-symbols",
+        "shade-merge",
+        "broken-outline",
+        "tiny-print",
+        "batch-019dcf32"
+      ],
+      "prompt": "Create one polished public-gallery image titled \"Derived Play: Confetti Cleanup Hunt\".\n\nUse case: productivity-visual / craft-production QA game\nAsset type: GPT Image derived-play demo, single finished image for a public gallery\nOutput format: landscape 16:9 printable audit game sheet, not a contact sheet, not a 2x3 board, not a tabletop game, not a product ad, not a classroom worksheet.\n\nPrimary request: derive a playable review mechanic from Stitchable Chart Triage. The sheet should teach that AI-generated cross-stitch-looking art needs human cleanup before it becomes a real pattern.\n\nScene/backdrop: clean off-white printable audit sheet with practical craft-paper texture, flat scan aesthetic, no hands, no people, no real brand marks.\n\nSubject: a fictional chart called \"Moon Sprout Draft\" showing a discrete square stitch grid of an original crescent moon sprout motif inside a rounded arch. The draft intentionally contains five visible QA issues, each marked by a numbered red circle: isolated confetti stitches, duplicate-looking symbols, too many near-identical teal shades, broken arch outline, and tiny one-stitch sparkles that are hard to print.\n\nReadable labels to include exactly: \"Find\", \"Mark\", \"Fix\", \"Pass\", \"confetti\", \"fake symbols\", \"shade merge\", \"broken outline\", \"tiny print\". Keep text sparse, large, and legible.\n\nGameplay mechanics visible: four-step rail across the top: Find, Mark, Fix, Pass. A left column has five issue tokens with exact labels: confetti, fake symbols, shade merge, broken outline, tiny print. The center is the flawed stitch grid. The right side is a small corrected mini-grid preview with fewer colors and cleaner contour. Bottom row has a simple score strip with check boxes and a final stamp reading \"chart editor required\".\n\nVisual language: practical editorial craft documentation, black grid lines, muted teal, marigold, coral red annotations, graphite text, clean margins, high-resolution readable layout. Make it look like a useful QA game for craft designers, not decorative slop.\n\nSafety and rights: fictional unbranded craft materials only. Do not use real thread-code systems, shop names, logos, people, public figures, protected characters, copied embroidery patterns, copied folk motifs, source-image reuse, imitated living-artist style, or watermarks. Standard public-gallery safety exclusions apply.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original fictional mark-and-fix chart-audit game and prompt generated locally after source sweep. Sources informed only abstract community failure modes, craft workflow, chart vocabulary, and pattern-complexity evaluation; no external prompt text, image, motif, chart, product UI, brand, character, artwork, or protected style was reused."
+      },
+      "promptSources": [
+        {
+          "title": "30,000+ Free Cross Stitch Pattern & Embroidery Images",
+          "url": "https://pixabay.com/images/search/cross%20stitch%20pattern/",
+          "authorOrPublisher": "Pixabay community",
+          "license": "Pixabay License for hosted media; no image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "community_gallery / trend_scan / visual_format_reference"
+        },
+        {
+          "title": "StitchLark - Cross Stitch Pattern Maker",
+          "url": "https://www.stitchlark.com/",
+          "authorOrPublisher": "StitchLark",
+          "license": "site copyright; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "product_case / workflow_inspiration / chart_export_pattern"
+        },
+        {
+          "title": "Can AI Make Cross Stitch Patterns? An Honest Look",
+          "url": "https://xstitchify.com/can-ai-make-cross-stitch-patterns/",
+          "authorOrPublisher": "Xstitchify",
+          "license": "site copyright; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "tutorial / failure_mode_scan / workflow_inspiration"
+        },
+        {
+          "title": "[CHAT] AI Patterns",
+          "url": "https://www.reddit.com/r/CrossStitch/comments/1qhm98o/chat_ai_patterns/",
+          "authorOrPublisher": "Reddit r/CrossStitch community",
+          "license": "reddit public discussion; no image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "community_failure_mode / trend_scan / evaluation_pattern"
+        },
+        {
+          "title": "yuezhengrong/patterns_1K",
+          "url": "https://huggingface.co/datasets/yuezhengrong/patterns_1K",
+          "authorOrPublisher": "yuezhengrong / Hugging Face",
+          "license": "MIT",
+          "accessedAt": "2026-04-27",
+          "usedAs": "benchmark_dataset / pattern_taxonomy_context"
+        },
+        {
+          "title": "Category:Cross-stitched patterns",
+          "url": "https://commons.wikimedia.org/wiki/Category%3ACross-stitched_patterns",
+          "authorOrPublisher": "Wikimedia Commons contributors",
+          "license": "files have per-file licenses; category text CC BY-SA / structured data CC0; no image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "historical_format_scan / pattern-index_context"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-27",
+        "reviewNote": "Fictional unbranded craft audit sheet with no people, real shops, real accusations, real thread codes, logos, public figures, protected characters, copied patterns, copied gallery images, source-image reuse, or imitated living-artist style. Standard public-gallery safety exclusions applied."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dcf32-a039-7f50-9872-412eb8e64522/ig_097bfe43962abf350169ef6c04d610819780c8815bcfc3f3c1.png"
+    },
+    {
+      "title": "Use Case: Stitchable Chart Triage",
+      "caption": "把 GPT Image 草稿接入十字绣图表审稿流程：Seed sketch、Stitch grid、Symbol key、Color cap、Confetti cleanup、Print check 和 20 x 20 test 明确区分灵感图与可缝制图表。",
+      "path": "assets/images/259-use-case-stitchable-chart-triage.png",
+      "alt": "Printable cross-stitch chart triage dossier for a fictional Moon Sprout motif with seed sketch, stitch grid, symbol key, color cap, confetti cleanup, print check, and review-before-stitching stamp",
+      "width": 1008,
+      "height": 1561,
+      "createdAt": "2026-04-27 22:00:38",
+      "batch": "019dcf32-a039-7f50-9872-412eb8e64522",
+      "tags": [
+        "stitchable-chart-triage",
+        "use-case",
+        "cross-stitch-qa",
+        "craft-production",
+        "symbol-key",
+        "confetti-cleanup",
+        "print-check",
+        "twenty-by-twenty-test",
+        "batch-019dcf32"
+      ],
+      "prompt": "Create one polished public-gallery image titled \"Use Case: Stitchable Chart Triage\".\n\nUse case: productivity-visual / craft-production QA\nAsset type: GPT Image use-case demo, single finished image for a public gallery\nOutput format: portrait 4:5 craft QA dossier page, not a contact sheet, not a 2x3 board, not a tabletop apparatus, not a product ad, not a classroom worksheet.\n\nPrimary request: visualize GPT Image as an ideation-to-review step for a fictional cross-stitch chart workflow. The image must make clear that the AI image is only a starting sketch and that human chart cleanup is required before stitching.\n\nScene/backdrop: a clean off-white printable dossier page with subtle craft-paper texture, flat lay scan aesthetic, no hands, no people, no real brand marks.\n\nSubject: a fictional simple motif called \"Moon Sprout\" shown as a small seed sketch thumbnail, then a discrete square stitch grid preview, then a black-and-white symbol key panel, then a short review rail. The motif is original: a small crescent moon sprouting two leaves inside a simple rounded arch. Do not copy any existing embroidery pattern, folk motif, character, logo, or historical plate.\n\nReadable labels to include exactly: \"Seed sketch\", \"Stitch grid\", \"Symbol key\", \"Color cap\", \"Confetti cleanup\", \"Edge blockiness\", \"Print check\", \"20 x 20 test\". Keep text large, sparse, and legible.\n\nWorkflow mechanics visible: the seed sketch is converted into a grid of whole square stitches; the symbol key uses simple invented symbols, not real thread codes; color count is capped at 12; red review circles mark isolated one-off stitches; a tiny print-check strip shows the chart at small size; a final pass stamp says \"review before stitching\".\n\nVisual language: crisp editorial craft documentation, black grid lines, muted teal, warm marigold, soft coral, graphite annotations, practical print margins, high-resolution readable layout. The page should look useful to a craft designer, not decorative slop.\n\nSafety and rights: fictional unbranded craft materials only. No real thread-code systems, shop names, logos, people, public figures, protected characters, copied patterns, source-image reuse, imitated living-artist style, or watermark. Standard public-gallery safety exclusions apply.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original fictional Moon Sprout chart-review artifact and prompt generated locally after source sweep. Sources informed only abstract workflow, chart vocabulary, failure modes, and pattern-complexity evaluation; no external prompt text, image, motif, chart, product UI, brand, character, artwork, or protected style was reused."
+      },
+      "promptSources": [
+        {
+          "title": "30,000+ Free Cross Stitch Pattern & Embroidery Images",
+          "url": "https://pixabay.com/images/search/cross%20stitch%20pattern/",
+          "authorOrPublisher": "Pixabay community",
+          "license": "Pixabay License for hosted media; no image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "community_gallery / trend_scan / visual_format_reference"
+        },
+        {
+          "title": "StitchLark - Cross Stitch Pattern Maker",
+          "url": "https://www.stitchlark.com/",
+          "authorOrPublisher": "StitchLark",
+          "license": "site copyright; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "product_case / workflow_inspiration / chart_export_pattern"
+        },
+        {
+          "title": "Can AI Make Cross Stitch Patterns? An Honest Look",
+          "url": "https://xstitchify.com/can-ai-make-cross-stitch-patterns/",
+          "authorOrPublisher": "Xstitchify",
+          "license": "site copyright; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "tutorial / failure_mode_scan / workflow_inspiration"
+        },
+        {
+          "title": "[CHAT] AI Patterns",
+          "url": "https://www.reddit.com/r/CrossStitch/comments/1qhm98o/chat_ai_patterns/",
+          "authorOrPublisher": "Reddit r/CrossStitch community",
+          "license": "reddit public discussion; no image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "community_failure_mode / trend_scan / evaluation_pattern"
+        },
+        {
+          "title": "yuezhengrong/patterns_1K",
+          "url": "https://huggingface.co/datasets/yuezhengrong/patterns_1K",
+          "authorOrPublisher": "yuezhengrong / Hugging Face",
+          "license": "MIT",
+          "accessedAt": "2026-04-27",
+          "usedAs": "benchmark_dataset / pattern_taxonomy_context"
+        },
+        {
+          "title": "Category:Cross-stitched patterns",
+          "url": "https://commons.wikimedia.org/wiki/Category%3ACross-stitched_patterns",
+          "authorOrPublisher": "Wikimedia Commons contributors",
+          "license": "files have per-file licenses; category text CC BY-SA / structured data CC0; no image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "historical_format_scan / pattern-index_context"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-27",
+        "reviewNote": "Fictional unbranded craft QA page with no people, real designers, real shops, real thread codes, logos, public figures, protected characters, copied patterns, copied gallery images, source-image reuse, or imitated living-artist style. Standard public-gallery safety exclusions applied."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dcf32-a039-7f50-9872-412eb8e64522/ig_097bfe43962abf350169ef6b5be9d4819797a7db5636de2bec.png"
+    },
+    {
       "title": "Derived Play: Pattern Proof Bingo",
       "caption": "从 Tech Pack Translator 派生出的纸样审核玩法：玩家在虚构 overshirt pattern 上找 missing notch、mirrored pocket、seam allowance gap、bad grainline 和 scale-square 问题，再写 repair note 后通过。",
       "path": "assets/images/256-derived-play-pattern-proof-bingo.png",
@@ -104,13 +270,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-27",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Fictional no-people sewing-pattern QA game with invented overshirt pattern pieces and non-operational repair notes only. Screened to avoid political persuasion, public political figures, parties/elections, real brands/trademarks/logos, marketplace listings, celebrity likenesses, real people, mannequins, copyrighted/protected costumes, real designer names, sensitive body-measurement claims, adult/explicit content, harmful or dangerous instructions, weapons, gore, graphic violence, living-artist style imitation, copied prompt text, copied sewing patterns, dataset images, article figures, product UI, and source-image reuse."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dcefb-3b29-7f63-b69d-da9d75b6b709/ig_0b8bad8dc043bdb90169ef5ccebac08194b501dfefb2b8271b.png"
@@ -202,13 +361,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-27",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Fictional no-people apparel production proof with invented overshirt, generic pattern pieces, and generic materials only. Screened to avoid political persuasion, public political figures, parties/elections, real brands/trademarks/logos, marketplace listings, celebrity likenesses, real people, mannequins, copyrighted/protected costumes, real designer names, sensitive body-measurement claims, adult/explicit content, harmful or dangerous instructions, weapons, gore, graphic violence, living-artist style imitation, copied prompt text, copied sewing patterns, dataset images, article figures, product UI, and source-image reuse."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dcefb-3b29-7f63-b69d-da9d75b6b709/ig_0b8bad8dc043bdb90169ef5c2a86548194a25ce6009a065686.png"
@@ -292,13 +444,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-27",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Fictional no-people audit game with obvious VOID, TRAINING SAMPLE, TRAINING ONLY, invented merchant/items/totals, no barcode/QR code, and high-level review cues only. Screened to avoid political persuasion, public political figures, parties/elections, real brands/trademarks/logos, real merchants, real addresses, real payment details, legal/tax claims, fraud instructions or evasion details, celebrity likenesses, copyrighted characters, adult/explicit content, harmful or dangerous instructions, weapons, gore, graphic violence, living-artist style imitation, copied prompt text, copied receipt/dataset images, and source-image reuse."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dcec3-6b8e-7373-a1c3-d38f461fc794/ig_03ccb37b1d805d630169ef4dd7fe24819790544930ca49798a.png"
@@ -382,13 +527,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-27",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Fictional no-people OCR training proof with obvious VOID, TRAINING SAMPLE, NOT FOR REIMBURSEMENT, fictional merchant/items/totals, no barcode/QR code, and no real-world use wording. Screened to avoid political persuasion, public political figures, parties/elections, real brands/trademarks/logos, real merchants, real addresses, real payment details, legal/tax claims, fraud instructions, celebrity likenesses, copyrighted characters, adult/explicit content, harmful or dangerous instructions, weapons, gore, graphic violence, living-artist style imitation, copied prompt text, copied receipt/dataset images, and source-image reuse."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dcec3-6b8e-7373-a1c3-d38f461fc794/ig_03ccb37b1d805d630169ef4d846de88197acaa9a81d6f4ee6f.png"
@@ -472,13 +610,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-27",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Fictional no-people printable classroom coloring QA game with invented seed-travel line art only. Screened to avoid political persuasion, public political figures, parties/elections, real schools, real student/teacher likenesses, brands/trademarks/logos, medical/legal claims, celebrity likenesses, copyrighted characters, adult/explicit content, harmful or dangerous instructions, weapons, gore, graphic violence, living-artist style imitation, copied prompt text, copied coloring pages, article figures, and source-image reuse."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dce8b-8c73-7a40-b979-602e1aae9e4f/ig_0d3a9d0e845b04e40169ef3fac61fc8194bf67ebc55c180f11.png"
@@ -562,13 +693,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-27",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Fictional no-people printable classroom coloring proof with invented seed-travel line art only. Screened to avoid political persuasion, public political figures, parties/elections, real schools, real student/teacher likenesses, brands/trademarks/logos, medical/legal claims, celebrity likenesses, copyrighted characters, adult/explicit content, harmful or dangerous instructions, weapons, gore, graphic violence, living-artist style imitation, copied prompt text, copied coloring pages, article figures, and source-image reuse."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dce8b-8c73-7a40-b979-602e1aae9e4f/ig_0d3a9d0e845b04e40169ef3f616f588194b3dab4f47c925744.png"
@@ -652,13 +776,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-27",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Fictional no-people astronomy classroom station mat with invented low-stakes moon-phase explain-back activity only. Screened to avoid political persuasion, public political figures, parties/elections, real schools, real student/teacher likenesses, brands/trademarks/logos, medical/legal claims, celebrity likenesses, copyrighted characters, adult/explicit content, harmful or dangerous instructions, weapons, gore, graphic violence, living-artist style imitation, copied prompt text, copied classroom materials, copied article figures, and source-image reuse."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dce1c-4a0d-7e30-8d1e-6aa94273ed9e/ig_06cb9af5e5637a3b0169ef234f26388195a07514414254f867.png"
@@ -742,13 +859,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-27",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Fictional no-people astronomy teacher resource with invented low-stakes lesson visuals only. Screened to avoid political persuasion, public political figures, parties/elections, real schools, real student/teacher likenesses, brands/trademarks/logos, medical/legal claims, celebrity likenesses, copyrighted characters, adult/explicit content, harmful or dangerous instructions, weapons, gore, graphic violence, living-artist style imitation, copied prompt text, copied classroom materials, copied article figures, and source-image reuse."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dce1c-4a0d-7e30-8d1e-6aa94273ed9e/ig_06cb9af5e5637a3b0169ef22f20cd48195bd8f98bb17dafb3a.png"
@@ -1330,13 +1440,6 @@
       ],
       "contentSafety": {
         "status": "screened",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Fictional app and fictional pantry data only; no real brands, trademarks, logos, real organizations, real people, public figures, politics/elections/parties, financial/medical/legal advice, dangerous instructions, adult or explicit content, gore, graphic violence, celebrity likeness, copyrighted character, living-artist style imitation, copied prompt text, or source-image reuse.",
         "checkedAt": "2026-04-27"
       },
@@ -1421,13 +1524,6 @@
       ],
       "contentSafety": {
         "status": "screened",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Fictional app and fictional pantry data only; no real brands, trademarks, logos, real organizations, real people, public figures, politics/elections/parties, financial/medical/legal advice, dangerous instructions, adult or explicit content, gore, graphic violence, celebrity likeness, copyrighted character, living-artist style imitation, copied prompt text, or source-image reuse.",
         "checkedAt": "2026-04-27"
       },
@@ -1512,13 +1608,6 @@
       ],
       "contentSafety": {
         "status": "screened",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Fictional toy dataset and chart QA game only; no real statistics, real brands, trademarks, logos, real organizations, people, public figures, politics/elections/parties, medical/legal/financial advice, dangerous instructions, adult or explicit content, gore, graphic violence, celebrity likeness, copyrighted character, living-artist style imitation, copied prompt text, or source-image reuse.",
         "checkedAt": "2026-04-27"
       },
@@ -1603,13 +1692,6 @@
       ],
       "contentSafety": {
         "status": "screened",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Fictional toy dataset and community reading program only; no real statistics, real brands, trademarks, logos, real organizations, people, public figures, politics/elections/parties, medical/legal/financial advice, dangerous instructions, adult or explicit content, gore, graphic violence, celebrity likeness, copyrighted character, living-artist style imitation, copied prompt text, or source-image reuse.",
         "checkedAt": "2026-04-27"
       },
@@ -1686,13 +1768,6 @@
       ],
       "contentSafety": {
         "status": "screened",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Fictional community book-swap SOP review only; no real brands, trademarks, logos, real organizations, real people, public figures, politics/elections/parties, dangerous instructions, adult or explicit content, gore, graphic violence, celebrity likeness, copyrighted character, living-artist style imitation, copied prompt text, or source-image reuse.",
         "checkedAt": "2026-04-27"
       },
@@ -1769,13 +1844,6 @@
       ],
       "contentSafety": {
         "status": "screened",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Fictional community book-swap SOP only; no real brands, trademarks, logos, real organizations, real people, public figures, politics/elections/parties, dangerous instructions, adult or explicit content, gore, graphic violence, celebrity likeness, copyrighted character, living-artist style imitation, copied prompt text, or source-image reuse.",
         "checkedAt": "2026-04-27"
       },
@@ -1860,13 +1928,6 @@
       ],
       "contentSafety": {
         "status": "screened",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Fictional public challenge for invented Mosslight Festival only; no real brands, trademarks, logos, real campaign, platform UI, public figures, politics/elections/parties, dangerous instructions, adult or explicit content, gore, graphic violence, celebrity likeness, copyrighted character, living-artist style imitation, copied prompt text, or source-image reuse.",
         "checkedAt": "2026-04-27"
       },
@@ -1951,13 +2012,6 @@
       ],
       "contentSafety": {
         "status": "screened",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Fictional consistency trace for invented Mosslight Festival only; no real brands, trademarks, logos, real campaign, real event, public figures, politics/elections/parties, dangerous instructions, adult or explicit content, gore, graphic violence, celebrity likeness, copyrighted character, living-artist style imitation, copied prompt text, or source-image reuse.",
         "checkedAt": "2026-04-27"
       },
@@ -2042,13 +2096,6 @@
       ],
       "contentSafety": {
         "status": "screened",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Automation is instructed to avoid political, harmful, sexual, explicit, and graphic-violence content before publishing."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dcc24-c760-7823-9545-dc3a05426867/ig_01c4c42e752a344d0169eea2fb1a2881979cc606d4d94a95a7.png"
@@ -2132,13 +2179,6 @@
       ],
       "contentSafety": {
         "status": "screened",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Automation is instructed to avoid political, harmful, sexual, explicit, and graphic-violence content before publishing."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dcc24-c760-7823-9545-dc3a05426867/ig_01c4c42e752a344d0169eea24d7b6481978a2179dd95a63477.png"
@@ -2222,13 +2262,6 @@
       ],
       "contentSafety": {
         "status": "screened",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Automation is instructed to avoid political, harmful, sexual, explicit, and graphic-violence content before publishing."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dcbed-5926-7502-a789-5804920cf44f/ig_0e4bcd25d77344ab0169ee93b44fa881949909d87b2a45f0f7.png"
@@ -2312,13 +2345,6 @@
       ],
       "contentSafety": {
         "status": "screened",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Automation is instructed to avoid political, harmful, sexual, explicit, and graphic-violence content before publishing."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dcbed-5926-7502-a789-5804920cf44f/ig_0e4bcd25d77344ab0169ee9371a1c88194941fe18af18cc879.png"
@@ -2395,13 +2421,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-27",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Fictional prompt-debugging game for invented Lantern Orchard project only; no real transit agency, city, brand, trademark, public figure, party/election, dangerous instruction, adult or explicit content, gore, graphic violence, celebrity likeness, copyrighted character, living-artist style imitation, copied prompt text, or source-image reuse."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dcb0c-9442-7673-a7d5-97a0fc4c14b5/ig_0eb9c781b8f19b310169ee5ab0ea9c819485196f1757041c87.png"
@@ -2478,13 +2497,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-27",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Fictional prompt-structure information visualization for invented Lantern Orchard project only; no real transit agency, city, brand, trademark, public figure, party/election, dangerous instruction, adult or explicit content, gore, graphic violence, celebrity likeness, copyrighted character, living-artist style imitation, copied prompt text, or source-image reuse."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dcb0c-9442-7673-a7d5-97a0fc4c14b5/ig_0eb9c781b8f19b310169ee5a24f3b08194857a07523d1cf17e.png"
@@ -2569,13 +2581,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-27",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Fictional no-people mobile prompt game for invented Moonlit Ferry scene only, using camera/subject/world cue lanes and continuity scoring; screened to avoid political persuasion, public political figures, parties/elections, real brands/trademarks, real places, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dcad3-d099-73b2-a491-e02c68f738fb/ig_01e2c7657f3e762f0169ee4be5f3e88196a2174c5fdc3930ea.png"
@@ -2660,13 +2665,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-27",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Fictional no-people motion handoff UI for invented Moonlit Ferry project and imaginary lagoon only; screened to avoid political persuasion, public political figures, parties/elections, real brands/trademarks, real places, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dcad3-d099-73b2-a491-e02c68f738fb/ig_01e2c7657f3e762f0169ee4b6c0b088196a0a41753d1827e6e.png"
@@ -2751,13 +2749,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-27",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Fictional no-people museum-education worksheet with invented River Clock No. 3 label, abstract river icon, word-swap pool, language tabs, contrast tokens, alt-text ideas, and safe-risk reminders only; screened to avoid political persuasion, public political figures, parties/elections, real brands/trademarks, real museum names, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dca9b-06c1-71b0-88c5-a6ee60da9d8b/ig_02db75e708f8ef790169ee3e2e5a148193a97ac9d3559cdf03.png"
@@ -2842,13 +2833,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-27",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Fictional museum-label UI with invented River Clock No. 3 exhibit, abstract icon, accessibility checks, and short safe UI text only; screened to avoid political persuasion, public political figures, parties/elections, real brands/trademarks, real museum names, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dca9b-06c1-71b0-88c5-a6ee60da9d8b/ig_02db75e708f8ef790169ee3ded48108193972c44fda25b1149.png"
@@ -2885,13 +2869,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional no-people tabletop lapidary auction game with loose pebble tokens, cloth grit pouches, wax chips, shutters, loupe gate, proof trough, and an invented turquoise crescent-seed marker only; explicitly avoids real mineral brands and real industrial procedures, and was screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dca56-5b54-76d2-8319-0121c627b2b6/ig_0a428ebde7e1ec6f0169ee2b4911488197bb8bddd6410f433c.png"
@@ -2929,13 +2906,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional no-people tabletop stone-polishing artifact with clear barrel, felt grit sachets, sieve drawer, cloth tab, inspection loupe, and an invented turquoise crescent-seed marker only; explicitly avoids real mineral brands and real industrial procedures, and was screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dca56-5b54-76d2-8319-0121c627b2b6/ig_0a428ebde7e1ec6f0169ee2ae70aac8197ba02380e12ece847.png"
@@ -2971,13 +2941,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional no-people tabletop scent-path game with folded paper reeds, ceramic drops, shutters, and an invented silver ginkgo marker only; explicitly avoids real perfume brands and chemical procedures, and was screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dca44-0bc8-7023-b909-bfa7a9b19837/ig_04bca9fae324885b0169ee285b0a58819699bd96c1e49d4431.png"
@@ -3013,13 +2976,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional no-people scent-blotter artifact with folded paper reeds, ceramic drops, shutters, and an invented silver ginkgo marker only; explicitly avoids real perfume brands and chemical procedures, and was screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dca44-0bc8-7023-b909-bfa7a9b19837/ig_04bca9fae324885b0169ee28160c7081968d432d02acd5a789.png"
@@ -3057,13 +3013,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional no-people wall-mounted acoustic artifact with copper hoops, felt dampers, visible sound strips, and an invented opal echo seed only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dca31-bbf6-7f71-8cf2-905b68a08292/ig_0c64aa9edf3f4a060169ee23f3d0a881979ad63bd7e1270420.png"
@@ -3100,13 +3049,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional no-people tabletop acoustic matching puzzle with soft foam tiles, harmless wave tokens, and an invented opal echo seed only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dca31-bbf6-7f71-8cf2-905b68a08292/ig_0c64aa9edf3f4a060169ee22232a448197a90795733ecfeb55.png"
@@ -3144,13 +3086,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional no-people tabletop dexterity game with chilled glass pucks, harmless fog tokens, and an invented comet marker only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dca1f-6c5a-7910-a378-dbdac2a90a7b/ig_039dbecb9b962b3e0169ee1d2b081481959f40460d07a3bd66.png"
@@ -3188,13 +3123,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional no-people condensation artifact with cool mist, glass props, and an invented comet marker only; explicitly avoids real lab/radiation procedures and was screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dca1f-6c5a-7910-a378-dbdac2a90a7b/ig_039dbecb9b962b3e0169ee1cec9a3481959d939f1ce548c1e9.png"
@@ -3408,13 +3336,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional no-people tabletop stacking game with soft foam blocks, invented prism, and harmless inspection tokens only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc741-fe3c-7ce2-90a1-7be1b00163e9/ig_0302c7a2d3b5b1820169ed617895888195a39f2f26e650aab4.png"
@@ -3453,13 +3374,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional no-people packaging stress-test artifact with an invented blue ribbon prism, paper foam, and inspection labels only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc741-fe3c-7ce2-90a1-7be1b00163e9/ig_0302c7a2d3b5b1820169ed61415f10819596c0b8ee8f4ebc7e.png"
@@ -3521,13 +3435,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional no-people ticket-punch tabletop game with invented labels, harmless paper tickets, and no real transit system; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc72f-af4a-7f52-bb6f-71ff6e035e2e/ig_07a0af4ebd1b33540169ed5cef00788196bc53ac2949466c4b.png"
@@ -3590,13 +3497,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional no-people miniature transit-concourse artifact with invented route names and bilingual labels only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc72f-af4a-7f52-bb6f-71ff6e035e2e/ig_07a0af4ebd1b33540169ed5caa63448196a5edca8d119f7ae6.png"
@@ -3633,13 +3533,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional no-people tabletop cooling-rack game with soft felt crescent-layer tokens and harmless props only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc71d-7216-7290-b58a-abdf3e5140ff/ig_06d8759784f7c6e80169ed582be0c08190af9e2b206d12aa33.png"
@@ -3677,13 +3570,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional no-people tabletop lamination artifact made from non-edible felt/waxed-paper props with an invented amber crescent-window motif only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc71d-7216-7290-b58a-abdf3e5140ff/ig_06d8759784f7c6e80169ed57f52ba881908ff1475261432c01.png"
@@ -3720,13 +3606,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional tabletop snowglobe relay with invented ceramic moon-harbor tokens and harmless transparent props only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc70b-0f07-7a41-b926-d44b40b93a6e/ig_0388b265b4235bc80169ed535599ec81958a4115a67ac71e59.png"
@@ -3764,13 +3643,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional tabletop snowglobe artifact with invented ceramic moon-harbor and harmless floating props only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc70b-0f07-7a41-b926-d44b40b93a6e/ig_0388b265b4235bc80169ed5321fff4819587ed3e3359475361.png"
@@ -3807,13 +3679,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional tabletop water-basin game with invented notched spiral shell tokens and harmless floating props only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc6f8-c23b-7713-bd34-65bfa4768dd8/ig_0d3d7ed4927e10250169ed4e81299c819390a923aeb8e045fc.png"
@@ -3851,13 +3716,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional tabletop water-diorama with invented notched spiral shell and harmless foam reef/buoy props only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc6f8-c23b-7713-bd34-65bfa4768dd8/ig_0d3d7ed4927e10250169ed4e4e5f348193b480e30ddf6af43e.png"
@@ -3894,13 +3752,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional tabletop wardrobe-carousel relay with faceless mannequin pegs and invented costume pieces only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc6e6-6fcd-7912-862a-40d7d49c72c6/ig_0df388c446a827910169ed49e06fdc81909e534aab47c7520c.png"
@@ -3937,13 +3788,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional stage-costume fitting alcove with an empty mannequin and invented explorer outfit only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc6e6-6fcd-7912-862a-40d7d49c72c6/ig_0df388c446a827910169ed499f06348190b2fc44fac6abdf01.png"
@@ -4005,13 +3849,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional tabletop plaster-casting game with invented leaf-sprocket mold only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc6d4-332f-7352-9228-7f31d7e025c5/ig_0f1c27468dac4c690169ed455068fc819484a7847f786db187.png"
@@ -4073,13 +3910,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional museum-prep fossil metaphor with invented leaf-sprocket specimen only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc6d4-332f-7352-9228-7f31d7e025c5/ig_0f1c27468dac4c690169ed4514dd848194aaf18e66fdb08f4a.png"
@@ -4116,13 +3946,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional tabletop toy-latch game; explicitly framed as harmless toy latches and not a real lock, with no bypass tools or operational instructions. Screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc6af-9351-71a0-82c6-fd9d1f65eef6/ig_0265d38e882441a50169ed3be02d248190929f865e875df8bc.png"
@@ -4160,13 +3983,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional transparent toy diary-latch scene; explicitly marked not a real security lock and not lockpicking, with no bypass tools or operational instructions. Screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc6af-9351-71a0-82c6-fd9d1f65eef6/ig_0265d38e882441a50169ed3ba9b9b08190894b9a29f4de43b7.png"
@@ -4203,13 +4019,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional no-person tailor-studio fitting game with invented amber compass fit proof tickets only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc69d-2ca7-75a2-901a-4d6326a7361c/ig_0b9d2281822506f50169ed375e7cc88196b930707ff6c6658a.png"
@@ -4246,13 +4055,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional no-person tailor-studio prompt fitting toile with invented amber compass applique only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc69d-2ca7-75a2-901a-4d6326a7361c/ig_0b9d2281822506f50169ed37294a9081969cb467971de34382.png"
@@ -4289,13 +4091,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional harmless no-people fold-out library zine game with invented silver acorn key index proof only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc68a-e1cf-7ca0-b11e-072f35e17a20/ig_0507aaa337c0531b0169ed338665c8819788705389ebc4816b.png"
@@ -4333,13 +4128,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional harmless no-people library catalog cabinet with invented silver acorn key retrieval drawers only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc68a-e1cf-7ca0-b11e-072f35e17a20/ig_0507aaa337c0531b0169ed32476ee48197b556982109ff4a02.png"
@@ -4377,13 +4165,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional harmless no-people optics drafting game with invented cloudstone lantern focal plaques only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc678-9271-7642-b2c5-cf94709d7050/ig_0e519f1584ae117f0169ed2e5995088197929ab27772bcdbef.png"
@@ -4421,13 +4202,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional harmless no-people optics apparatus with invented cloudstone lantern focal plaques only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc678-9271-7642-b2c5-cf94709d7050/ig_0e519f1584ae117f0169ed2dc2f7e481978d901c392d41d2d5.png"
@@ -4463,13 +4237,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional harmless no-people tabletop drafting game with invented glass pear compass result cards only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc666-40db-70e3-82f3-536a08c04124/ig_072228c33ed99f050169ed29b007d08197af01595ffe1380c9.png"
@@ -4506,13 +4273,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional harmless no-people evidence-hearing diorama with invented glass pear compass result windows only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc666-40db-70e3-82f3-536a08c04124/ig_072228c33ed99f050169ed291af814819780ca82ac1be39540.png"
@@ -4549,13 +4309,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional harmless vertical elevator-queue puzzle with invented glass seed kiosk tickets only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc654-0585-76e2-be08-c8d8d536d2fe/ig_0b733e39b59137f00169ed2498069c81938e92a3e2e69cc5c9.png"
@@ -4592,13 +4345,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional harmless miniature elevator-control sculpture with invented glass seed kiosk tickets only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc654-0585-76e2-be08-c8d8d536d2fe/ig_0b733e39b59137f00169ed24630d408193ac47839396755450.png"
@@ -4635,13 +4381,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional harmless mechanical tabletop game with invented moon-lantern motif tokens only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc641-a4e8-72b1-a0ce-9cd4b3b2f74e/ig_0a7c574c255122fe0169ed1fd06f188195ac5b717e31709a50.png"
@@ -4678,13 +4417,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional harmless mechanical music-box prompt instrument with invented moon-lantern thumbnails only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc641-a4e8-72b1-a0ce-9cd4b3b2f74e/ig_0a7c574c255122fe0169ed1f9b86fc8195995bc62f45977804.png"
@@ -4720,13 +4452,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional harmless animation-continuity game apparatus with invented frame art only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc62f-4e29-7920-a698-7089137d82ac/ig_0efd647fce098b7c0169ed1b79b3b88195b78487b30c04b9cb.png"
@@ -4762,13 +4487,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional harmless animation flipbook with invented character frames only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc62f-4e29-7920-a698-7089137d82ac/ig_0efd647fce098b7c0169ed1ae4af308195a4f3ece19c52e173.png"
@@ -4806,13 +4524,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional harmless timed chess prompt relay with invented image-result cards only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc61d-02e1-7513-b025-9b9b69a9463a/ig_0a2e19b44cab91b20169ed17cd764c81958248e2dee5695eb1.png"
@@ -4849,13 +4560,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional harmless chess-problem prompt workstation with invented image solution cards only; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, harmful or dangerous operational instructions, weapons, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc61d-02e1-7513-b025-9b9b69a9463a/ig_0a2e19b44cab91b20169ed17879af08195b75fd1a279a3c57d.png"
@@ -4892,13 +4596,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional harmless tabletop joinery-fit prompt game with no real people, brands, public figures, copyrighted characters, sexual content, dangerous operational instructions, active cutting tools, weapons, gore, graphic violence, or political persuasion."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc60a-b286-7093-9702-c2d96a41136e/ig_0f089bbb8cce4cfa0169ed129cc3d88197a57de66fff2afc23.png"
@@ -4935,13 +4632,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional harmless miniature joinery sample case; screened to avoid political persuasion, public political figures, parties/elections, real brands, celebrity likenesses, copyrighted characters, sexual/nude/explicit content, dangerous operational instructions, weapons, active cutting tools, gore, graphic violence, and living-artist style imitation."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc60a-b286-7093-9702-c2d96a41136e/ig_0f089bbb8cce4cfa0169ed1253076481979516205527388154.png"
@@ -4977,13 +4667,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional tabletop-floor prompt game with no real people, brands, public figures, copyrighted characters, sexual content, dangerous instructions, weapons, gore, graphic violence, or political persuasion."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc5f8-6281-7d10-bee0-11c126d2ee18/ig_02162f9b25fc85840169ed0d7e642c8193a038ac4c44960525.png"
@@ -5019,13 +4702,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional prompt-notation artifact with no real people, brands, public figures, copyrighted characters, sexual content, dangerous instructions, weapons, gore, graphic violence, or political persuasion."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc5f8-6281-7d10-bee0-11c126d2ee18/ig_02162f9b25fc85840169ed0ce3a600819395c1bae714552d2f.png"
@@ -5061,13 +4737,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional sealed field-spectrum visualization with no people, brands, public figures, copyrighted characters, sexual content, dangerous instructions, gore, graphic violence, or political persuasion."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc5e6-0eef-7202-b85a-1958ed872f51/ig_035692792d2b842f0169ed09af40208197b81b071e8b010964.png"
@@ -5103,13 +4772,6 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-04-26",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
         "reviewNote": "Original fictional sealed magnetic toy metaphor with no people, brands, public figures, copyrighted characters, sexual content, dangerous instructions, gore, graphic violence, or political persuasion."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dc5e6-0eef-7202-b85a-1958ed872f51/ig_035692792d2b842f0169ed084def3c8197acd4583247dc960a.png"

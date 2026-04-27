@@ -393,6 +393,56 @@ pre {
   font: 12px/1.5 ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
 }
 
+.prompt-panel-header {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 14px;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.prompt-panel pre {
+  margin: 0;
+}
+
+.copy-prompt {
+  min-inline-size: 124px;
+  min-height: 36px;
+  border: 1px solid var(--ink);
+  background: var(--paper);
+  color: var(--ink);
+  cursor: pointer;
+  padding: 8px 10px;
+  text-align: center;
+  font: 900 12px ui-sans-serif, system-ui, sans-serif;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+.copy-prompt:hover,
+.copy-prompt:focus-visible {
+  background: var(--ink);
+  color: var(--panel);
+}
+
+.copy-prompt:focus-visible {
+  outline: 3px solid color-mix(in srgb, var(--accent) 50%, transparent);
+  outline-offset: 2px;
+}
+
+.copy-prompt.is-copied {
+  border-color: var(--accent);
+  background: var(--accent);
+  color: var(--panel);
+}
+
+.copy-prompt.is-failed {
+  border-color: var(--accent-2);
+  background: var(--accent-2);
+  color: var(--panel);
+}
+
 .image-modal[hidden] {
   display: none;
 }

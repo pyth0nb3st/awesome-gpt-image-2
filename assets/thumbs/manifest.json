@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/258-derived-play-confetti-cleanup-hunt.png": {
+      "path": "assets/thumbs/258-derived-play-confetti-cleanup-hunt.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/259-use-case-stitchable-chart-triage.png": {
+      "path": "assets/thumbs/259-use-case-stitchable-chart-triage.jpg",
+      "width": 768,
+      "height": 1190
+    },
     "assets/images/256-derived-play-pattern-proof-bingo.png": {
       "path": "assets/thumbs/256-derived-play-pattern-proof-bingo.jpg",
       "width": 768,

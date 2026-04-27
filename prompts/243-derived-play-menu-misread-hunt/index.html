@@ -140,6 +140,45 @@
         word-break: break-word;
         font: 13px/1.55 ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
       }
+      .prompt-panel-header {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px 14px;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 10px;
+      }
+      .copy-prompt {
+        min-inline-size: 124px;
+        min-height: 36px;
+        border: 1px solid var(--ink);
+        background: #fdf7ea;
+        color: var(--ink);
+        cursor: pointer;
+        padding: 8px 10px;
+        text-align: center;
+        font: 900 12px ui-sans-serif, system-ui, sans-serif;
+        letter-spacing: 0;
+        text-transform: uppercase;
+      }
+      .copy-prompt:hover, .copy-prompt:focus-visible {
+        background: var(--ink);
+        color: var(--panel);
+      }
+      .copy-prompt:focus-visible {
+        outline: 3px solid color-mix(in srgb, var(--accent) 50%, transparent);
+        outline-offset: 2px;
+      }
+      .copy-prompt.is-copied {
+        border-color: var(--accent);
+        background: var(--accent);
+        color: var(--panel);
+      }
+      .copy-prompt.is-failed {
+        border-color: var(--accent-2);
+        background: var(--accent-2);
+        color: var(--panel);
+      }
       .grid {
         display: grid;
         grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -187,7 +226,7 @@
         <a href="https://github.com/pyth0nb3st/awesome-gpt-image-2">GitHub</a>
       </nav>
       <header>
-        <p class="meta">Prompt example #13 · 2026-04-27 13:45:07</p>
+        <p class="meta">Prompt example #15 · 2026-04-27 13:45:07</p>
         <h1>Derived Play: Menu Misread Hunt</h1>
         <p class="lead">从菜单重排工作流派生出的可打印找茬玩法：玩家在虚构菜单里找 duplicate price、allergy icon mismatch、overcrowded section、low contrast item 和 missing divider，再写修复说明。</p>
         <ul class="tags">
@@ -212,13 +251,25 @@
           </p>
         </div>
       </section>
-      <section class="panel">
-        <h2>Full Prompt</h2>
-        <pre>Create a second finished derived-play image based on the same fictional menu workflow, portrait A4 ratio, titled in small crisp English text: &quot;Derived Play: Menu Misread Hunt&quot;. Show a printable classroom-safe game sheet for checking whether an AI-generated menu is actually usable. It should look like a clean restaurant-service training game, not a tabletop object photo and not a dashboard. Main surface: one fictional cafe menu page with five deliberate visual puzzles highlighted by colored callout rings: a hidden duplicate price, one allergy icon mismatch, one overcrowded section, one low-contrast item, and one missing category divider. Right side: a narrow score rail with simple steps: &quot;Spot&quot;, &quot;Mark&quot;, &quot;Explain&quot;, &quot;Repair&quot;, &quot;Pass&quot;. Bottom: a compact answer card with blank checkboxes and readable labels: &quot;price&quot;, &quot;icon&quot;, &quot;contrast&quot;, &quot;grouping&quot;, &quot;divider&quot;. Use abstract food icons only, invented dish names only, no real brand, no real logo, no people. Visual style: polished printable design exercise, high-contrast typography, calm colors with green, amber, blue, and charcoal, realistic paper scan edges, crisp legible short text. It should clearly demonstrate a derived play mechanic from GPT Image 2: turn a generated menu into a usability scavenger hunt and repair loop. Avoid political content, adult content, dangerous instructions, celebrity likeness, copyrighted characters, living-artist style imitation, and copied external prompts/images.</pre>
+      <section class="panel prompt-panel">
+        <div class="prompt-panel-header">
+          <h2>Full Prompt</h2>
+          <button class="copy-prompt" type="button" data-copy-prompt="full-prompt" data-copy-label="Copy prompt" data-copied-label="Copied" data-failed-label="Copy failed" aria-live="polite">Copy prompt</button>
+        </div>
+        <pre id="full-prompt">Create a second finished derived-play image based on the same fictional menu workflow, portrait A4 ratio, titled in small crisp English text: &quot;Derived Play: Menu Misread Hunt&quot;. Show a printable classroom-safe game sheet for checking whether an AI-generated menu is actually usable. It should look like a clean restaurant-service training game, not a tabletop object photo and not a dashboard. Main surface: one fictional cafe menu page with five deliberate visual puzzles highlighted by colored callout rings: a hidden duplicate price, one allergy icon mismatch, one overcrowded section, one low-contrast item, and one missing category divider. Right side: a narrow score rail with simple steps: &quot;Spot&quot;, &quot;Mark&quot;, &quot;Explain&quot;, &quot;Repair&quot;, &quot;Pass&quot;. Bottom: a compact answer card with blank checkboxes and readable labels: &quot;price&quot;, &quot;icon&quot;, &quot;contrast&quot;, &quot;grouping&quot;, &quot;divider&quot;. Use abstract food icons only, invented dish names only, no real brand, no real logo, no people. Visual style: polished printable design exercise, high-contrast typography, calm colors with green, amber, blue, and charcoal, realistic paper scan edges, crisp legible short text. It should clearly demonstrate a derived play mechanic from GPT Image 2: turn a generated menu into a usability scavenger hunt and repair loop. Avoid political content, adult content, dangerous instructions, celebrity likeness, copyrighted characters, living-artist style imitation, and copied external prompts/images.</pre>
       </section>
       <section>
         <h2>Related GPT Image 2 Prompt Examples</h2>
         <div class="grid">
+        <article class="card">
+          <a href="https://gptimg2.best/prompts/258-derived-play-confetti-cleanup-hunt/">
+            <img src="https://gptimg2.best/assets/images/258-derived-play-confetti-cleanup-hunt.png" alt="Derived Play: Confetti Cleanup Hunt. GPT Image 2 prompt example." loading="lazy" width="1672" height="941" />
+            <div>
+              <h2>Derived Play: Confetti Cleanup Hunt</h2>
+              <p>Create one polished public-gallery image titled &quot;Derived Play: Confetti Cleanup Hunt&quot;. Use case: productivity-visual / craft-prod...</p>
+            </div>
+          </a>
+        </article>
         <article class="card">
           <a href="https://gptimg2.best/prompts/256-derived-play-pattern-proof-bingo/">
             <img src="https://gptimg2.best/assets/images/256-derived-play-pattern-proof-bingo.png" alt="Derived Play: Pattern Proof Bingo. GPT Image 2 prompt example." loading="lazy" width="1672" height="941" />
@@ -264,15 +315,6 @@
             </div>
           </a>
         </article>
-        <article class="card">
-          <a href="https://gptimg2.best/prompts/245-derived-play-three-second-sign-test/">
-            <img src="https://gptimg2.best/assets/images/245-derived-play-three-second-sign-test.png" alt="Derived Play: Three-Second Sign Test. GPT Image 2 prompt example." loading="lazy" width="941" height="1672" />
-            <div>
-              <h2>Derived Play: Three-Second Sign Test</h2>
-              <p>Create one polished public-gallery concept image titled exactly &quot;Derived Play: Three-Second Sign Test&quot;. Use case: productivity-vi...</p>
-            </div>
-          </a>
-        </article>
       </div>
       </section>
       <footer>
@@ -280,5 +322,65 @@
         <span>Creator tools: <a href="https://drillso.com/">Drill</a> and <a href="https://vibeart.app/">VibeArt</a>.</span>
       </footer>
     </main>
+    <script>
+(() => {
+  const resetDelay = 1800;
+
+  const copyWithFallback = (text) => {
+    const textarea = document.createElement("textarea");
+    textarea.value = text;
+    textarea.setAttribute("readonly", "");
+    textarea.style.position = "fixed";
+    textarea.style.top = "0";
+    textarea.style.left = "-9999px";
+    document.body.appendChild(textarea);
+    textarea.select();
+    textarea.setSelectionRange(0, textarea.value.length);
+
+    try {
+      return document.execCommand("copy");
+    } finally {
+      textarea.remove();
+    }
+  };
+
+  const resetButton = (button) => {
+    window.clearTimeout(Number(button.dataset.resetTimer || 0));
+    button.dataset.resetTimer = String(
+      window.setTimeout(() => {
+        button.textContent = button.dataset.copyLabel || "Copy prompt";
+        button.classList.remove("is-copied", "is-failed");
+      }, resetDelay),
+    );
+  };
+
+  document.addEventListener("click", async (event) => {
+    const target = event.target instanceof Element ? event.target : null;
+    const button = target?.closest("[data-copy-prompt]");
+    if (!button) return;
+
+    const prompt = document.getElementById(button.dataset.copyPrompt);
+    const text = prompt?.textContent || "";
+
+    try {
+      if (navigator.clipboard?.writeText && window.isSecureContext) {
+        await navigator.clipboard.writeText(text);
+      } else if (!copyWithFallback(text)) {
+        throw new Error("Clipboard copy failed");
+      }
+
+      button.textContent = button.dataset.copiedLabel || "Copied";
+      button.classList.add("is-copied");
+      button.classList.remove("is-failed");
+    } catch {
+      button.textContent = button.dataset.failedLabel || "Copy failed";
+      button.classList.add("is-failed");
+      button.classList.remove("is-copied");
+    } finally {
+      resetButton(button);
+    }
+  });
+})();
+</script>
   </body>
 </html>

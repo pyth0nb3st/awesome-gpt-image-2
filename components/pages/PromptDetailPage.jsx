@@ -1,4 +1,5 @@
 import Footer from "../Footer";
+import CopyPromptButton from "../CopyPromptButton";
 import { CardGrid } from "../GalleryCards";
 import ImageModal from "../ImageModal";
 import SiteNav from "../SiteNav";
@@ -95,8 +96,18 @@ export default function PromptDetailPageContent({ entry, locale = "en" }) {
             </p>
           </div>
         </section>
-        <section className="panel">
-          <h2>{t.fullPrompt}</h2>
+        <section className="panel prompt-panel">
+          <div className="prompt-panel-header">
+            <h2>{t.fullPrompt}</h2>
+            <CopyPromptButton
+              text={image.prompt}
+              labels={{
+                copy: t.copyPrompt,
+                copied: t.copiedPrompt,
+                failed: t.copyPromptFailed,
+              }}
+            />
+          </div>
           <pre>{image.prompt}</pre>
         </section>
         <section>

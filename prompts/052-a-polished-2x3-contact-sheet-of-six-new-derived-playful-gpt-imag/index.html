@@ -140,6 +140,45 @@
         word-break: break-word;
         font: 13px/1.55 ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
       }
+      .prompt-panel-header {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px 14px;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 10px;
+      }
+      .copy-prompt {
+        min-inline-size: 124px;
+        min-height: 36px;
+        border: 1px solid var(--ink);
+        background: #fdf7ea;
+        color: var(--ink);
+        cursor: pointer;
+        padding: 8px 10px;
+        text-align: center;
+        font: 900 12px ui-sans-serif, system-ui, sans-serif;
+        letter-spacing: 0;
+        text-transform: uppercase;
+      }
+      .copy-prompt:hover, .copy-prompt:focus-visible {
+        background: var(--ink);
+        color: var(--panel);
+      }
+      .copy-prompt:focus-visible {
+        outline: 3px solid color-mix(in srgb, var(--accent) 50%, transparent);
+        outline-offset: 2px;
+      }
+      .copy-prompt.is-copied {
+        border-color: var(--accent);
+        background: var(--accent);
+        color: var(--panel);
+      }
+      .copy-prompt.is-failed {
+        border-color: var(--accent-2);
+        background: var(--accent-2);
+        color: var(--panel);
+      }
       .grid {
         display: grid;
         grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -187,7 +226,7 @@
         <a href="https://github.com/pyth0nb3st/awesome-gpt-image-2">GitHub</a>
       </nav>
       <header>
-        <p class="meta">Prompt example #219 · 2026-04-25 01:32:09</p>
+        <p class="meta">Prompt example #221 · 2026-04-25 01:32:09</p>
         <h1>Polished 2x3 contact sheet of six NEW derived playful GPT Image 2 workflows, avoid</h1>
         <p class="lead">历史生成图，批次 019dc085-5186-7de1-9c04-5ba263d7d793，生成时间 2026-04-25 01:32:09。</p>
         <ul class="tags">
@@ -212,9 +251,12 @@
           </p>
         </div>
       </section>
-      <section class="panel">
-        <h2>Full Prompt</h2>
-        <pre>Create a polished 2x3 contact sheet of six NEW derived playful GPT Image 2 workflows, avoiding prior themes: bilingual food ad, tea infographic, product-board, paper boat storyboard, mood menu, storefront style grid, generic poster/UI/product/infographic/storyboard/interior boards. These should be repeatable game-like mechanisms. No brand logos, no real people identities, no copyrighted character styles. Small clean English labels only: 1) MEMORY PALACE: one abstract concept becomes a navigable illustrated room with mnemonic objects; 2) ASSET RESKIN DICE: a single game icon reskinned by rolling material, era, weather, and rarity dice; 3) CAMERA LOTTERY: the same miniature scene rendered through six camera rules: macro, CCTV, drone, fisheye, x-ray cutaway, thermal; 4) ERROR BEAUTIFIER: broken screenshots, bad scans, and ugly forms transformed into elegant visual systems; 5) WORLD BIBLE CARDS: creatures, maps, tools, laws, and symbols from one fictional culture shown as consistent reference cards; 6) ONE-PROMPT SEQUENCER: one seed phrase unfolds into six adjacent visual states: seed, conflict, transformation, tool, ritual, souvenir. Style: playful design-system laboratory, crisp panel borders, varied palettes, high detail, 16:9 canvas, legible short labels, no watermarks.</pre>
+      <section class="panel prompt-panel">
+        <div class="prompt-panel-header">
+          <h2>Full Prompt</h2>
+          <button class="copy-prompt" type="button" data-copy-prompt="full-prompt" data-copy-label="Copy prompt" data-copied-label="Copied" data-failed-label="Copy failed" aria-live="polite">Copy prompt</button>
+        </div>
+        <pre id="full-prompt">Create a polished 2x3 contact sheet of six NEW derived playful GPT Image 2 workflows, avoiding prior themes: bilingual food ad, tea infographic, product-board, paper boat storyboard, mood menu, storefront style grid, generic poster/UI/product/infographic/storyboard/interior boards. These should be repeatable game-like mechanisms. No brand logos, no real people identities, no copyrighted character styles. Small clean English labels only: 1) MEMORY PALACE: one abstract concept becomes a navigable illustrated room with mnemonic objects; 2) ASSET RESKIN DICE: a single game icon reskinned by rolling material, era, weather, and rarity dice; 3) CAMERA LOTTERY: the same miniature scene rendered through six camera rules: macro, CCTV, drone, fisheye, x-ray cutaway, thermal; 4) ERROR BEAUTIFIER: broken screenshots, bad scans, and ugly forms transformed into elegant visual systems; 5) WORLD BIBLE CARDS: creatures, maps, tools, laws, and symbols from one fictional culture shown as consistent reference cards; 6) ONE-PROMPT SEQUENCER: one seed phrase unfolds into six adjacent visual states: seed, conflict, transformation, tool, ritual, souvenir. Style: playful design-system laboratory, crisp panel borders, varied palettes, high detail, 16:9 canvas, legible short labels, no watermarks.</pre>
       </section>
       <section>
         <h2>Related GPT Image 2 Prompt Examples</h2>
@@ -280,5 +322,65 @@
         <span>Creator tools: <a href="https://drillso.com/">Drill</a> and <a href="https://vibeart.app/">VibeArt</a>.</span>
       </footer>
     </main>
+    <script>
+(() => {
+  const resetDelay = 1800;
+
+  const copyWithFallback = (text) => {
+    const textarea = document.createElement("textarea");
+    textarea.value = text;
+    textarea.setAttribute("readonly", "");
+    textarea.style.position = "fixed";
+    textarea.style.top = "0";
+    textarea.style.left = "-9999px";
+    document.body.appendChild(textarea);
+    textarea.select();
+    textarea.setSelectionRange(0, textarea.value.length);
+
+    try {
+      return document.execCommand("copy");
+    } finally {
+      textarea.remove();
+    }
+  };
+
+  const resetButton = (button) => {
+    window.clearTimeout(Number(button.dataset.resetTimer || 0));
+    button.dataset.resetTimer = String(
+      window.setTimeout(() => {
+        button.textContent = button.dataset.copyLabel || "Copy prompt";
+        button.classList.remove("is-copied", "is-failed");
+      }, resetDelay),
+    );
+  };
+
+  document.addEventListener("click", async (event) => {
+    const target = event.target instanceof Element ? event.target : null;
+    const button = target?.closest("[data-copy-prompt]");
+    if (!button) return;
+
+    const prompt = document.getElementById(button.dataset.copyPrompt);
+    const text = prompt?.textContent || "";
+
+    try {
+      if (navigator.clipboard?.writeText && window.isSecureContext) {
+        await navigator.clipboard.writeText(text);
+      } else if (!copyWithFallback(text)) {
+        throw new Error("Clipboard copy failed");
+      }
+
+      button.textContent = button.dataset.copiedLabel || "Copied";
+      button.classList.add("is-copied");
+      button.classList.remove("is-failed");
+    } catch {
+      button.textContent = button.dataset.failedLabel || "Copy failed";
+      button.classList.add("is-failed");
+      button.classList.remove("is-copied");
+    } finally {
+      resetButton(button);
+    }
+  });
+})();
+</script>
   </body>
 </html>

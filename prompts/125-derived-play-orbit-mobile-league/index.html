@@ -140,6 +140,45 @@
         word-break: break-word;
         font: 13px/1.55 ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
       }
+      .prompt-panel-header {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px 14px;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 10px;
+      }
+      .copy-prompt {
+        min-inline-size: 124px;
+        min-height: 36px;
+        border: 1px solid var(--ink);
+        background: #fdf7ea;
+        color: var(--ink);
+        cursor: pointer;
+        padding: 8px 10px;
+        text-align: center;
+        font: 900 12px ui-sans-serif, system-ui, sans-serif;
+        letter-spacing: 0;
+        text-transform: uppercase;
+      }
+      .copy-prompt:hover, .copy-prompt:focus-visible {
+        background: var(--ink);
+        color: var(--panel);
+      }
+      .copy-prompt:focus-visible {
+        outline: 3px solid color-mix(in srgb, var(--accent) 50%, transparent);
+        outline-offset: 2px;
+      }
+      .copy-prompt.is-copied {
+        border-color: var(--accent);
+        background: var(--accent);
+        color: var(--panel);
+      }
+      .copy-prompt.is-failed {
+        border-color: var(--accent-2);
+        background: var(--accent-2);
+        color: var(--panel);
+      }
       .grid {
         display: grid;
         grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -187,7 +226,7 @@
         <a href="https://github.com/pyth0nb3st/awesome-gpt-image-2">GitHub</a>
       </nav>
       <header>
-        <p class="meta">Prompt example #119 · 2026-04-25 19:33:19</p>
+        <p class="meta">Prompt example #121 · 2026-04-25 19:33:19</p>
         <h1>Derived Play: Orbit Mobile League</h1>
         <p class="lead">从星图穹顶派生出的悬挂式 kinetic mobile 玩法：移动参考挂件、锁定遮罩月影、抽取裁切轨道、读短字流星、分拣提示星云，并把真实感标记换成虚构安全符号后计分。</p>
         <ul class="tags">
@@ -212,9 +251,12 @@
           </p>
         </div>
       </section>
-      <section class="panel">
-        <h2>Full Prompt</h2>
-        <pre>Create a single high-quality landscape concept image showing an original derived GPT Image 2 play mode called Orbit Mobile League, as a suspended kinetic mobile sculpture game, not a board, not a grid, not cards, not a circular rules machine. The image should feel like a playable tabletop object hanging in space: brass arms, translucent crop frames, magnetic moon tokens, reference-image charms, small mask shutters, and balance weights suspended from thin wires above a clean dark tabletop.
+      <section class="panel prompt-panel">
+        <div class="prompt-panel-header">
+          <h2>Full Prompt</h2>
+          <button class="copy-prompt" type="button" data-copy-prompt="full-prompt" data-copy-label="Copy prompt" data-copied-label="Copied" data-failed-label="Copy failed" aria-live="polite">Copy prompt</button>
+        </div>
+        <pre id="full-prompt">Create a single high-quality landscape concept image showing an original derived GPT Image 2 play mode called Orbit Mobile League, as a suspended kinetic mobile sculpture game, not a board, not a grid, not cards, not a circular rules machine. The image should feel like a playable tabletop object hanging in space: brass arms, translucent crop frames, magnetic moon tokens, reference-image charms, small mask shutters, and balance weights suspended from thin wires above a clean dark tabletop.
 
 Represent six game mechanics as physical actions on the mobile, integrated into one sculpture: 1) parallax-star-hop, players move a reference charm between depth hooks to test whether the generated scene preserves the intended object; 2) eclipse-token-lock, a moon token can cover exactly one harmless edit area before the next prompt; 3) orbit-window-draft, players draft aspect-ratio frames and must keep the focal subject inside the moving frame; 4) glyph-meteor-race, short invented labels are checked for legibility as they pass through a narrow light beam; 5) nebula-signal-sort, messy prompt fragments are sorted into useful constraints versus vague fog; 6) safe-harbor-swap, any real-looking mark is swapped for a fictional symbol before scoring.
 
@@ -284,5 +326,65 @@ Visual style: polished miniature product photography mixed with refined 3D illus
         <span>Creator tools: <a href="https://drillso.com/">Drill</a> and <a href="https://vibeart.app/">VibeArt</a>.</span>
       </footer>
     </main>
+    <script>
+(() => {
+  const resetDelay = 1800;
+
+  const copyWithFallback = (text) => {
+    const textarea = document.createElement("textarea");
+    textarea.value = text;
+    textarea.setAttribute("readonly", "");
+    textarea.style.position = "fixed";
+    textarea.style.top = "0";
+    textarea.style.left = "-9999px";
+    document.body.appendChild(textarea);
+    textarea.select();
+    textarea.setSelectionRange(0, textarea.value.length);
+
+    try {
+      return document.execCommand("copy");
+    } finally {
+      textarea.remove();
+    }
+  };
+
+  const resetButton = (button) => {
+    window.clearTimeout(Number(button.dataset.resetTimer || 0));
+    button.dataset.resetTimer = String(
+      window.setTimeout(() => {
+        button.textContent = button.dataset.copyLabel || "Copy prompt";
+        button.classList.remove("is-copied", "is-failed");
+      }, resetDelay),
+    );
+  };
+
+  document.addEventListener("click", async (event) => {
+    const target = event.target instanceof Element ? event.target : null;
+    const button = target?.closest("[data-copy-prompt]");
+    if (!button) return;
+
+    const prompt = document.getElementById(button.dataset.copyPrompt);
+    const text = prompt?.textContent || "";
+
+    try {
+      if (navigator.clipboard?.writeText && window.isSecureContext) {
+        await navigator.clipboard.writeText(text);
+      } else if (!copyWithFallback(text)) {
+        throw new Error("Clipboard copy failed");
+      }
+
+      button.textContent = button.dataset.copiedLabel || "Copied";
+      button.classList.add("is-copied");
+      button.classList.remove("is-failed");
+    } catch {
+      button.textContent = button.dataset.failedLabel || "Copy failed";
+      button.classList.add("is-failed");
+      button.classList.remove("is-copied");
+    } finally {
+      resetButton(button);
+    }
+  });
+})();
+</script>
   </body>
 </html>
