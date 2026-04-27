@@ -18,6 +18,188 @@
   },
   "images": [
     {
+      "title": "Derived Play: Stratigraphy Repair Relay",
+      "caption": "从 Context Sheet Synthesizer 派生出的层位逻辑修复玩法：玩家在虚构 trench section 中 spot、name、repair、retest、pass 五类错误，包括 floating deposit、missing cut edge、sample mismatch、reversed arrow 和 key gap。",
+      "path": "assets/images/262-derived-play-stratigraphy-repair-relay.png",
+      "alt": "Landscape fictional stratigraphy puzzle sheet titled Stratigraphy Repair Relay with trench section layers C201 to C205, five red audit labels, relay action cards, corrected Harris matrix, and relations checked stamp",
+      "width": 1536,
+      "height": 1024,
+      "createdAt": "2026-04-28 00:00:02",
+      "batch": "019dcfa3-43be-7b91-b9f3-5c0ad823ed4e",
+      "tags": [
+        "stratigraphy-repair-relay",
+        "derived-play",
+        "archaeology-recording",
+        "stratigraphy-logic",
+        "harris-matrix",
+        "relation-repair",
+        "field-record-qa",
+        "audit-game",
+        "batch-019dcfa3"
+      ],
+      "prompt": "Create a single polished derived-play image for GPT Image 2 titled \"Stratigraphy Repair Relay\".\n\nPrimary scene: a landscape-format printable logic puzzle sheet for a completely fictional archaeology training record. It should not look like a 2x3 research board, not a tabletop game photo, and not a dashboard. No people, no hands, no real archaeological site, no real artifact, no institution logos, no culturally specific motif, no human remains.\n\nGameplay concept: players audit a generated field-record image and repair layer-relationship mistakes before publishing the fictional record.\n\nComposition:\n- Left two-thirds: one continuous trench section strip with five colored earth layers and context labels C201, C202, C203, C204, C205. Include simple invented inclusions like small stones and charcoal dots. Add a measured vertical scale and baseline.\n- Overlay five red audit loops or tabs pointing to problems, each with short readable labels: FLOATING DEPOSIT, MISSING CUT EDGE, SAMPLE MISMATCH, REVERSED ARROW, KEY GAP.\n- Right column: relay cards numbered 1 to 5 with the actions \"spot\", \"name\", \"repair\", \"retest\", \"pass\". Each card has a tiny blank note line and a small icon.\n- Bottom strip: a corrected mini Harris matrix with boxes and arrows, plus a pass stamp reading \"RELATIONS CHECKED\".\n- Footer: \"fictional stratigraphy puzzle - no source image\".\n\nStyle: crisp archival field sheet meets playful puzzle design, off-white paper, black technical ink, restrained red correction marks, muted ochre/umber/clay/gray soil colors, clean legible typography, publication-quality details. Emphasize relationships, cross-references, and repair mechanics. Avoid political content, religious symbols, dangerous instructions, graphic violence, adult content, real brands, protected characters, living-artist style references, and copied external images.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original fictional stratigraphy relation-repair game generated locally after external source sweep. Sources informed only abstract field-section drawing conventions, context-sheet relationship checks, linked-record evaluation, and technical illustration clarity patterns; no external prompt text, image, form, archaeological site, artifact, 3D model, institution branding, protected cultural object, artwork, or source image was reused."
+      },
+      "promptSources": [
+        {
+          "title": "3D model collections by Digital Archaeology Laboratory (@digitalarch)",
+          "url": "https://sketchfab.com/digitalarch/collections",
+          "authorOrPublisher": "Digital Archaeology Laboratory / Sketchfab",
+          "license": "Sketchfab site terms; no model/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "community_gallery / cultural_heritage_media_scan / workflow_inspiration"
+        },
+        {
+          "title": "Illustration in the Field",
+          "url": "https://www.archaeologic.org/illustration-in-the-field",
+          "authorOrPublisher": "Archaeo-Logic",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "field_drawing_pattern / section_plan_workflow / prompt_pattern_inspiration"
+        },
+        {
+          "title": "Context Sheet Recording",
+          "url": "https://www.bajr.org/single-context-recording/",
+          "authorOrPublisher": "BAJR - British Archaeology Jobs and Resources",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "context_sheet_workflow / record_cross_reference_pattern / failure_mode_scan"
+        },
+        {
+          "title": "Open Context: Highlights",
+          "url": "https://opencontext.org/highlights/",
+          "authorOrPublisher": "Open Context / Alexandria Archive Institute",
+          "license": "site terms vary by record; no data/media reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "benchmark_dataset / archaeology_data_model_context / linked_record_pattern"
+        },
+        {
+          "title": "Category:Archaeological illustrations",
+          "url": "https://commons.wikimedia.org/wiki/Category%3AArchaeological_illustrations",
+          "authorOrPublisher": "Wikimedia Commons contributors",
+          "license": "per-file licenses vary; category text CC BY-SA / structured data CC0; no image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "historical_format_scan / technical_illustration_vocabulary"
+        },
+        {
+          "title": "Archaeological Illustration",
+          "url": "https://www.conservation-wiki.com/wiki/Archaeological_Illustration",
+          "authorOrPublisher": "AIC Wiki / Conservation Wiki contributors",
+          "license": "wiki terms; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "illustration_evaluation_pattern / publication_clarity_context"
+        },
+        {
+          "title": "3D Artifact Gallery",
+          "url": "https://3d-gallery.isas.illinois.edu/",
+          "authorOrPublisher": "Illinois State Archaeological Survey",
+          "license": "unspecified; no model/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "public_access_pattern / 3d_scan_context / ethical_publication_scan"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-27",
+        "reviewNote": "Fictional no-people stratigraphy QA game with invented trench, context numbers, relation errors, and Harris matrix. Screened to avoid real sites, real artifacts, protected cultural objects, human remains, sacred/religious/political symbols, real institutions/logos/brands, public figures, political persuasion, parties/elections, medical/legal/financial claims, celebrity likenesses, copyrighted characters, adult/explicit content, harmful or dangerous instructions, weapons, gore, graphic violence, living-artist style imitation, copied prompt text, copied field forms/diagrams/images/models, and source-image reuse."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dcfa3-43be-7b91-b9f3-5c0ad823ed4e/ig_0fdeab8a544e75c70169ef879dde78819795cae39cc329c5ed.png"
+    },
+    {
+      "title": "Use Case: Context Sheet Synthesizer",
+      "caption": "把 GPT Image 2 用作文博记录结构化草图工具：从虚构 field note 生成 FEN-42 的 plan view、section drawing、context relationship matrix、sample/photo/drawing cross-reference 和 PLAN/SECTION/CONTEXT/SAMPLE/RELATION 审查栏。",
+      "path": "assets/images/263-use-case-context-sheet-synthesizer.png",
+      "alt": "Portrait fictional archaeology training record titled Context Sheet Synthesizer with field note, structured record, plan view, section drawing, context relationship diagram, matrix, cross-reference index, and review checks",
+      "width": 1024,
+      "height": 1536,
+      "createdAt": "2026-04-27 23:58:24",
+      "batch": "019dcfa3-43be-7b91-b9f3-5c0ad823ed4e",
+      "tags": [
+        "context-sheet-synthesizer",
+        "use-case",
+        "archaeology-recording",
+        "cultural-heritage",
+        "field-note-to-record",
+        "plan-section-drawing",
+        "context-matrix",
+        "archive-dossier",
+        "batch-019dcfa3"
+      ],
+      "prompt": "Create a single polished GPT Image 2 use-case image titled visually as a fictional archival field-record sheet, not a product photo and not a grid board.\n\nUse case name: Context Sheet Synthesizer.\n\nPrimary scene: a tall portrait cultural-heritage documentation dossier for a completely fictional excavation training site code \"FEN-42\". The image should look like one coherent printed field-record page laid flat in clean daylight, with no hands, no people, no real institution logos, no real archaeological site, no real artifact, and no culturally specific motif.\n\nCore visual structure:\n- Top strip: a short source note block labeled \"FIELD NOTE\" with generic invented text fragments, then an arrow to \"STRUCTURED RECORD\".\n- Main left area: clean technical plan view of a square trench with abstract soil patches, context numbers C101, C102, C103, north arrow, scale bar, and a simple key for deposit, cut edge, stone, charcoal fleck. Keep shapes generic and invented.\n- Main right area: vertical section drawing with layered soil bands labeled Layer A, Layer B, Layer C, with crisp boundaries and measurement ticks.\n- Lower band: mini relationship matrix using simple boxes C101 above C102, C102 fills C103, plus sample/photo cross-reference chips S-02, P-07, D-03.\n- Side review rail: five compact checks with readable labels: PLAN, SECTION, CONTEXT, SAMPLE, RELATION.\n- Footer stamp: \"fictional training record - no source image\".\n\nStyle: publication-quality technical illustration mixed with modern archive layout, off-white paper, fine black ink, muted earth accent colors, measured lines, clean typography, high legibility, restrained but rich design. Avoid 2x3 contact sheet composition, avoid dashboard look, avoid macro product shot, avoid physical apparatus, avoid real brands, avoid political symbols, avoid religious symbols, avoid human remains, avoid weapons, avoid gore. Make it visually fresh and publicly displayable.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original fictional FEN-42 context-sheet artifact generated locally after external source sweep. Sources informed only abstract cultural-heritage media organization, field drawing conventions, context-sheet cross-reference patterns, linked-record data modeling, and technical illustration evaluation; no external prompt text, image, field form, archaeological site, artifact, 3D model, institution branding, protected cultural object, artwork, or source image was reused."
+      },
+      "promptSources": [
+        {
+          "title": "3D model collections by Digital Archaeology Laboratory (@digitalarch)",
+          "url": "https://sketchfab.com/digitalarch/collections",
+          "authorOrPublisher": "Digital Archaeology Laboratory / Sketchfab",
+          "license": "Sketchfab site terms; no model/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "community_gallery / cultural_heritage_media_scan / workflow_inspiration"
+        },
+        {
+          "title": "Illustration in the Field",
+          "url": "https://www.archaeologic.org/illustration-in-the-field",
+          "authorOrPublisher": "Archaeo-Logic",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "field_drawing_pattern / section_plan_workflow / prompt_pattern_inspiration"
+        },
+        {
+          "title": "Context Sheet Recording",
+          "url": "https://www.bajr.org/single-context-recording/",
+          "authorOrPublisher": "BAJR - British Archaeology Jobs and Resources",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "context_sheet_workflow / record_cross_reference_pattern / failure_mode_scan"
+        },
+        {
+          "title": "Open Context: Highlights",
+          "url": "https://opencontext.org/highlights/",
+          "authorOrPublisher": "Open Context / Alexandria Archive Institute",
+          "license": "site terms vary by record; no data/media reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "benchmark_dataset / archaeology_data_model_context / linked_record_pattern"
+        },
+        {
+          "title": "Category:Archaeological illustrations",
+          "url": "https://commons.wikimedia.org/wiki/Category%3AArchaeological_illustrations",
+          "authorOrPublisher": "Wikimedia Commons contributors",
+          "license": "per-file licenses vary; category text CC BY-SA / structured data CC0; no image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "historical_format_scan / technical_illustration_vocabulary"
+        },
+        {
+          "title": "Archaeological Illustration",
+          "url": "https://www.conservation-wiki.com/wiki/Archaeological_Illustration",
+          "authorOrPublisher": "AIC Wiki / Conservation Wiki contributors",
+          "license": "wiki terms; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "illustration_evaluation_pattern / publication_clarity_context"
+        },
+        {
+          "title": "3D Artifact Gallery",
+          "url": "https://3d-gallery.isas.illinois.edu/",
+          "authorOrPublisher": "Illinois State Archaeological Survey",
+          "license": "unspecified; no model/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "public_access_pattern / 3d_scan_context / ethical_publication_scan"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-27",
+        "reviewNote": "Fictional no-people archaeology training record with invented site code, trench, context numbers, layers, samples, and diagrams. Screened to avoid real sites, real artifacts, protected cultural objects, human remains, sacred/religious/political symbols, real institutions/logos/brands, public figures, political persuasion, parties/elections, medical/legal/financial claims, celebrity likenesses, copyrighted characters, adult/explicit content, harmful or dangerous instructions, weapons, gore, graphic violence, living-artist style imitation, copied prompt text, copied field forms/diagrams/images/models, and source-image reuse."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dcfa3-43be-7b91-b9f3-5c0ad823ed4e/ig_0fdeab8a544e75c70169ef873e0f7c819783c87f1efc2369c6.png"
+    },
+    {
       "title": "Derived Play: First-Run Friction Hunt",
       "caption": "从 First-Run Flow Forge 派生出的 UX 找茬玩法：玩家沿五屏 tap-through strip 找出 no skip、too many choices、dead empty state、permission too early 和 desktop pattern，再用 add skip、reduce choices、make first CTA、ask in context、use bottom nav 修复。",
       "path": "assets/images/260-derived-play-first-run-friction-hunt.png",

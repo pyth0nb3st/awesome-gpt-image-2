@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/262-derived-play-stratigraphy-repair-relay.png": {
+      "path": "assets/thumbs/262-derived-play-stratigraphy-repair-relay.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "assets/images/263-use-case-context-sheet-synthesizer.png": {
+      "path": "assets/thumbs/263-use-case-context-sheet-synthesizer.jpg",
+      "width": 768,
+      "height": 1152
+    },
     "assets/images/260-derived-play-first-run-friction-hunt.png": {
       "path": "assets/thumbs/260-derived-play-first-run-friction-hunt.jpg",
       "width": 768,

@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/262-derived-play-stratigraphy-repair-relay.png</image:loc>
+      <image:title>Derived Play: Stratigraphy Repair Relay</image:title>
+      <image:caption>Create a single polished derived-play image for GPT Image 2 titled &quot;Stratigraphy Repair Relay&quot;. Primary scene: a landscape-format printable logic puzzle sheet for a completely fictional archaeology training record. It should not look like...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/263-use-case-context-sheet-synthesizer.png</image:loc>
+      <image:title>Use Case: Context Sheet Synthesizer</image:title>
+      <image:caption>Create a single polished GPT Image 2 use-case image titled visually as a fictional archival field-record sheet, not a product photo and not a grid board. Use case name: Context Sheet Synthesizer. Primary scene: a tall portrait cultural-her...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/260-derived-play-first-run-friction-hunt.png</image:loc>
       <image:title>Derived Play: First-Run Friction Hunt</image:title>
       <image:caption>Use case: ui-mockup / derived play mechanic: first-run-friction-hunt Asset type: GPT Image 2 derived-play gallery image, wide 16:9 printable UX QA game overlay Primary request: Create a polished derived play image titled &quot;First-Run Frictio...</image:caption>
@@ -1257,6 +1267,28 @@
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/262-derived-play-stratigraphy-repair-relay/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/262-derived-play-stratigraphy-repair-relay.png</image:loc>
+      <image:title>Derived Play: Stratigraphy Repair Relay</image:title>
+      <image:caption>Create a single polished derived-play image for GPT Image 2 titled &quot;Stratigraphy Repair Relay&quot;. Primary scene: a landscape-format printable logic puzzle sheet for a completely fictional archaeology training record. It should not look like...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/263-use-case-context-sheet-synthesizer/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/263-use-case-context-sheet-synthesizer.png</image:loc>
+      <image:title>Use Case: Context Sheet Synthesizer</image:title>
+      <image:caption>Create a single polished GPT Image 2 use-case image titled visually as a fictional archival field-record sheet, not a product photo and not a grid board. Use case name: Context Sheet Synthesizer. Primary scene: a tall portrait cultural-her...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/260-derived-play-first-run-friction-hunt/</loc>
@@ -4150,6 +4182,12 @@
   </url>
   <url>
     <loc>https://gptimg2.best/tags/alt-text/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/archaeology-recording/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
