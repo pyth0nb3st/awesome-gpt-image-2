@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/260-derived-play-first-run-friction-hunt.png</image:loc>
+      <image:title>Derived Play: First-Run Friction Hunt</image:title>
+      <image:caption>Use case: ui-mockup / derived play mechanic: first-run-friction-hunt Asset type: GPT Image 2 derived-play gallery image, wide 16:9 printable UX QA game overlay Primary request: Create a polished derived play image titled &quot;First-Run Frictio...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/261-use-case-first-run-flow-forge.png</image:loc>
+      <image:title>Use Case: First-Run Flow Forge</image:title>
+      <image:caption>Use case: ui-mockup Asset type: GPT Image 2 use-case gallery image, wide 16:9 UX prototype review artifact Primary request: Create a polished fictional mobile onboarding prototype review image titled &quot;First-Run Flow Forge&quot;. Show four tall...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/258-derived-play-confetti-cleanup-hunt.png</image:loc>
       <image:title>Derived Play: Confetti Cleanup Hunt</image:title>
       <image:caption>Create one polished public-gallery image titled &quot;Derived Play: Confetti Cleanup Hunt&quot;. Use case: productivity-visual / craft-production QA game Asset type: GPT Image derived-play demo, single finished image for a public gallery Output form...</image:caption>
@@ -1247,6 +1257,28 @@
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/260-derived-play-first-run-friction-hunt/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/260-derived-play-first-run-friction-hunt.png</image:loc>
+      <image:title>Derived Play: First-Run Friction Hunt</image:title>
+      <image:caption>Use case: ui-mockup / derived play mechanic: first-run-friction-hunt Asset type: GPT Image 2 derived-play gallery image, wide 16:9 printable UX QA game overlay Primary request: Create a polished derived play image titled &quot;First-Run Frictio...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/261-use-case-first-run-flow-forge/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/261-use-case-first-run-flow-forge.png</image:loc>
+      <image:title>Use Case: First-Run Flow Forge</image:title>
+      <image:caption>Use case: ui-mockup Asset type: GPT Image 2 use-case gallery image, wide 16:9 UX prototype review artifact Primary request: Create a polished fictional mobile onboarding prototype review image titled &quot;First-Run Flow Forge&quot;. Show four tall...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/258-derived-play-confetti-cleanup-hunt/</loc>
@@ -4033,6 +4065,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://gptimg2.best/tags/use-case/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://gptimg2.best/tags/evaluation/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -4052,12 +4090,6 @@
   </url>
   <url>
     <loc>https://gptimg2.best/tags/stylized-concept/</loc>
-    <lastmod>2026-04-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gptimg2.best/tags/use-case/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>

@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/260-derived-play-first-run-friction-hunt.png": {
+      "path": "assets/thumbs/260-derived-play-first-run-friction-hunt.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/261-use-case-first-run-flow-forge.png": {
+      "path": "assets/thumbs/261-use-case-first-run-flow-forge.jpg",
+      "width": 768,
+      "height": 462
+    },
     "assets/images/258-derived-play-confetti-cleanup-hunt.png": {
       "path": "assets/thumbs/258-derived-play-confetti-cleanup-hunt.jpg",
       "width": 768,
