@@ -66,7 +66,10 @@ const cards = data.images
             <ul class="tags">
               ${tagList}
             </ul>
-            <a class="detail-link" href="${escapeAttribute(pagePath)}">Open prompt page</a>
+            <div class="card-actions">
+              <a class="detail-link" href="${escapeAttribute(pagePath)}">Open prompt page</a>
+              <button class="copy-prompt copy-prompt-compact" type="button" data-copy-prompt data-copy-label="Copy prompt" data-copied-label="Copied" data-failed-label="Copy failed" aria-live="polite">Copy prompt</button>
+            </div>
             <details>
               <summary>Prompt</summary>
               <pre>${escapeHtml(image.prompt)}</pre>
@@ -490,6 +493,57 @@ const html = `<!doctype html>
         text-transform: uppercase;
       }
 
+      .card-actions {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        align-items: center;
+      }
+
+      .copy-prompt {
+        min-inline-size: 124px;
+        min-height: 36px;
+        border: 1px solid var(--ink);
+        background: var(--paper);
+        color: var(--ink);
+        cursor: pointer;
+        padding: 8px 10px;
+        text-align: center;
+        font: 900 12px ui-sans-serif, system-ui, sans-serif;
+        letter-spacing: 0;
+        text-transform: uppercase;
+      }
+
+      .copy-prompt:hover,
+      .copy-prompt:focus-visible {
+        background: var(--ink);
+        color: var(--panel);
+      }
+
+      .copy-prompt:focus-visible {
+        outline: 3px solid color-mix(in srgb, var(--accent) 50%, transparent);
+        outline-offset: 2px;
+      }
+
+      .copy-prompt.is-copied {
+        border-color: var(--accent);
+        background: var(--accent);
+        color: var(--panel);
+      }
+
+      .copy-prompt.is-failed {
+        border-color: var(--accent-2);
+        background: var(--accent-2);
+        color: var(--panel);
+      }
+
+      .copy-prompt-compact {
+        min-inline-size: 112px;
+        min-height: 30px;
+        padding: 6px 8px;
+        font-size: 11px;
+      }
+
       .load-sentinel {
         display: flex;
         justify-content: center;
@@ -659,6 +713,7 @@ ${cards}
       let activeTag = "";
       let autoLoadQueued = false;
       let lastTrigger = null;
+      const copyResetDelay = 1800;
 
       const hydrateCardImage = (card) => {
         const image = card.querySelector("img[data-src]");
@@ -786,6 +841,61 @@ ${cards}
       for (const button of document.querySelectorAll("[data-modal-close]")) {
         button.addEventListener("click", closeModal);
       }
+
+      const copyWithFallback = (text) => {
+        const textarea = document.createElement("textarea");
+        textarea.value = text;
+        textarea.setAttribute("readonly", "");
+        textarea.style.position = "fixed";
+        textarea.style.top = "0";
+        textarea.style.left = "-9999px";
+        document.body.appendChild(textarea);
+        textarea.select();
+        textarea.setSelectionRange(0, textarea.value.length);
+
+        try {
+          return document.execCommand("copy");
+        } finally {
+          textarea.remove();
+        }
+      };
+
+      const resetCopyButton = (button) => {
+        window.clearTimeout(Number(button.dataset.resetTimer || 0));
+        button.dataset.resetTimer = String(
+          window.setTimeout(() => {
+            button.textContent = button.dataset.copyLabel || "Copy prompt";
+            button.classList.remove("is-copied", "is-failed");
+          }, copyResetDelay),
+        );
+      };
+
+      document.addEventListener("click", async (event) => {
+        const target = event.target instanceof Element ? event.target : null;
+        const button = target?.closest("[data-copy-prompt]");
+        if (!button) return;
+
+        const prompt = button.closest(".card")?.querySelector("pre");
+        const text = prompt?.textContent || "";
+
+        try {
+          if (navigator.clipboard?.writeText && window.isSecureContext) {
+            await navigator.clipboard.writeText(text);
+          } else if (!copyWithFallback(text)) {
+            throw new Error("Clipboard copy failed");
+          }
+
+          button.textContent = button.dataset.copiedLabel || "Copied";
+          button.classList.add("is-copied");
+          button.classList.remove("is-failed");
+        } catch {
+          button.textContent = button.dataset.failedLabel || "Copy failed";
+          button.classList.add("is-failed");
+          button.classList.remove("is-copied");
+        } finally {
+          resetCopyButton(button);
+        }
+      });
 
       document.addEventListener("keydown", (event) => {
         if (event.key === "Escape" && !modal.hidden) {

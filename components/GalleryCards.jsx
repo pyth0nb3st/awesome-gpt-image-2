@@ -1,4 +1,5 @@
 import Image from "next/image";
+import CopyPromptButton from "./CopyPromptButton";
 import {
   imageUrl,
   localizedPromptUrl,
@@ -84,9 +85,20 @@ export function GalleryCard({ entry, defer = false, locale = "en" }) {
             </li>
           ))}
         </ul>
-        <a className="detail-link" href={localizedPromptUrl(entry, locale)}>
-          {t.viewDetails}
-        </a>
+        <div className="card-actions">
+          <a className="detail-link" href={localizedPromptUrl(entry, locale)}>
+            {t.viewDetails}
+          </a>
+          <CopyPromptButton
+            text={image.prompt}
+            labels={{
+              copy: t.copyPrompt,
+              copied: t.copiedPrompt,
+              failed: t.copyPromptFailed,
+            }}
+            className="copy-prompt-compact"
+          />
+        </div>
         <details>
           <summary>{t.promptText}</summary>
           <pre>{image.prompt}</pre>
@@ -103,7 +115,7 @@ export function CardGrid({ entries, locale = "en" }) {
     <div className="grid">
       {entries.map((entry) => (
         <article className="card" key={entry.pagePath}>
-          <a href={localizedPromptUrl(entry, locale)}>
+          <a className="image-link" href={localizedPromptUrl(entry, locale)}>
             <Image
               src={thumbnailUrl(entry.image)}
               alt={t.exampleAlt(entry.title)}
@@ -112,11 +124,29 @@ export function CardGrid({ entries, locale = "en" }) {
               height={thumbnailDimensions(entry.image).height}
               sizes={GALLERY_IMAGE_SIZES}
             />
-            <div className="content">
-              <h2>{entry.title}</h2>
-              <p>{promptExcerpt(entry.image.prompt, 130)}</p>
-            </div>
           </a>
+          <div className="content">
+            <h2>
+              <a className="title-link" href={localizedPromptUrl(entry, locale)}>
+                {entry.title}
+              </a>
+            </h2>
+            <p>{promptExcerpt(entry.image.prompt, 130)}</p>
+            <div className="card-actions">
+              <a className="detail-link" href={localizedPromptUrl(entry, locale)}>
+                {t.viewDetails}
+              </a>
+              <CopyPromptButton
+                text={entry.image.prompt}
+                labels={{
+                  copy: t.copyPrompt,
+                  copied: t.copiedPrompt,
+                  failed: t.copyPromptFailed,
+                }}
+                className="copy-prompt-compact"
+              />
+            </div>
+          </div>
         </article>
       ))}
     </div>

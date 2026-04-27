@@ -22,7 +22,7 @@ const copyWithFallback = (text) => {
   }
 };
 
-export default function CopyPromptButton({ text, labels }) {
+export default function CopyPromptButton({ text, labels, className = "" }) {
   const [status, setStatus] = useState("idle");
   const resetTimer = useRef(null);
 
@@ -60,7 +60,7 @@ export default function CopyPromptButton({ text, labels }) {
   const label = status === "copied" ? labels.copied : status === "failed" ? labels.failed : labels.copy;
 
   return (
-    <button className={`copy-prompt is-${status}`} type="button" onClick={copyPrompt} aria-live="polite">
+    <button className={`copy-prompt is-${status}${className ? ` ${className}` : ""}`} type="button" onClick={copyPrompt} aria-live="polite">
       {label}
     </button>
   );

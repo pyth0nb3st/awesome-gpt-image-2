@@ -344,6 +344,13 @@ input[type="search"] {
   text-transform: uppercase;
 }
 
+.card-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+}
+
 .load-sentinel {
   display: flex;
   justify-content: center;
@@ -441,6 +448,13 @@ pre {
   border-color: var(--accent-2);
   background: var(--accent-2);
   color: var(--panel);
+}
+
+.copy-prompt-compact {
+  min-inline-size: 112px;
+  min-height: 30px;
+  padding: 6px 8px;
+  font-size: 11px;
 }
 
 .image-modal[hidden] {
