@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/239-derived-play-chart-lie-detector.png</image:loc>
+      <image:title>Derived Play: Chart Lie Detector</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Derived Play: Chart Lie Detector&quot;. Use case: infographic-diagram / derived play mechanic: chart-lie-detector Asset type: public GPT Image 2 derived-play gallery image, square...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/240-use-case-data-poster-proof.png</image:loc>
+      <image:title>Use Case: Data Poster Proof</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Use Case: Data Poster Proof&quot;. Use case: infographic-diagram / productivity-visual Asset type: public GPT Image 2 use-case gallery image, vertical 4:5 flat editorial proof art...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/237-derived-play-drift-bingo-review.png</image:loc>
       <image:title>Derived Play: Drift Bingo Review</image:title>
       <image:caption>Create a polished landscape 16:9 concept image for a derived GPT Image 2 play mode. Title visible in the artwork: &quot;DRIFT BINGO REVIEW&quot;. Scene: a full-screen collaborative review surface, like a design team critique wall, showing the genera...</image:caption>
@@ -1147,6 +1157,28 @@
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/239-derived-play-chart-lie-detector/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/239-derived-play-chart-lie-detector.png</image:loc>
+      <image:title>Derived Play: Chart Lie Detector</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Derived Play: Chart Lie Detector&quot;. Use case: infographic-diagram / derived play mechanic: chart-lie-detector Asset type: public GPT Image 2 derived-play gallery image, square...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/240-use-case-data-poster-proof/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/240-use-case-data-poster-proof.png</image:loc>
+      <image:title>Use Case: Data Poster Proof</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Use Case: Data Poster Proof&quot;. Use case: infographic-diagram / productivity-visual Asset type: public GPT Image 2 use-case gallery image, vertical 4:5 flat editorial proof art...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/237-derived-play-drift-bingo-review/</loc>
@@ -3737,13 +3769,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/ads-marketing/</loc>
+    <loc>https://gptimg2.best/tags/derived-play/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/derived-play/</loc>
+    <loc>https://gptimg2.best/tags/ads-marketing/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3761,13 +3793,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/scientific-educational/</loc>
+    <loc>https://gptimg2.best/tags/use-case/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/use-case/</loc>
+    <loc>https://gptimg2.best/tags/scientific-educational/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3881,6 +3913,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://gptimg2.best/tags/infographic-fidelity/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://gptimg2.best/tags/language-learning/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -3971,7 +4009,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://gptimg2.best/tags/toy-dataset/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://gptimg2.best/tags/ui-fiction-simulator/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/visual-evaluation/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>

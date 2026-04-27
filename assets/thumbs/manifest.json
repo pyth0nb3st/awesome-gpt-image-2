@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/239-derived-play-chart-lie-detector.png": {
+      "path": "assets/thumbs/239-derived-play-chart-lie-detector.jpg",
+      "width": 768,
+      "height": 768
+    },
+    "assets/images/240-use-case-data-poster-proof.png": {
+      "path": "assets/thumbs/240-use-case-data-poster-proof.jpg",
+      "width": 768,
+      "height": 1152
+    },
     "assets/images/237-derived-play-drift-bingo-review.png": {
       "path": "assets/thumbs/237-derived-play-drift-bingo-review.jpg",
       "width": 768,

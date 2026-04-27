@@ -18,6 +18,188 @@
   },
   "images": [
     {
+      "title": "Derived Play: Chart Lie Detector",
+      "caption": "从 Data Poster Proof 派生出的数据 QA 玩法：观众对照 Lantern Library Week 的 toy data 表，找出 Wed 柱状图被画成 19 的一处 Lie，用 Fix 16 修复后得到 PASS 和 Score 4。",
+      "path": "assets/images/239-derived-play-chart-lie-detector.png",
+      "alt": "Square puzzle poster titled Derived Play Chart Lie Detector with Lantern Library Week toy data source table, before chart showing a wrong coral Wed 19 bar, after chart fixed to 16, compare spot fix steps, pass token, and score 4",
+      "width": 1254,
+      "height": 1254,
+      "createdAt": "2026-04-27 11:48:24",
+      "batch": "019dcd02-c4ea-74c3-9911-d7901553fc2f",
+      "tags": [
+        "chart-lie-detector",
+        "derived-play",
+        "data-qa",
+        "infographic-fidelity",
+        "chart-repair",
+        "toy-dataset",
+        "visual-evaluation",
+        "public-puzzle",
+        "text-and-number-check",
+        "batch-019dcd02"
+      ],
+      "prompt": "Create one polished public-gallery concept image titled exactly \"Derived Play: Chart Lie Detector\".\n\nUse case: infographic-diagram / derived play mechanic: chart-lie-detector\nAsset type: public GPT Image 2 derived-play gallery image, square 1:1 flat puzzle poster\n\nPrimary request: Derive a playable data QA game from Data Poster Proof. Viewers compare a tiny fictional source table with a generated chart and must find the one deliberate chart error, repair it, and approve the corrected poster. The artwork must be a complete public puzzle poster, not a physical tabletop game, not a device, not a tray, not a lab bench, not a route map, not a comic, not a classroom worksheet, and not a dashboard-first UI.\n\nScene/backdrop: a flat ivory puzzle poster for the same fictional \"Lantern Library Week\" toy dataset. Put the source table in the upper left with exact rows: \"Mon 12\", \"Tue 18\", \"Wed 16\", \"Thu 24\". Put a large bar chart in the center. The chart intentionally shows one coral wrong bar: Wednesday is mislabeled or drawn as 19. A repair overlay changes it back to \"Wed 16\". Include a compact score path along the bottom.\n\nDerived gameplay mechanism: players follow three short steps: compare the source table, spot the wrong chart value, patch the chart, then pass the proof. Show a magnifier icon, one coral \"Lie\" tag pointing at the wrong Wednesday bar, a teal \"Fix 16\" patch arrow, and a green \"PASS\" token after repair. Keep the chart, table, and correction marks clear enough that the game can be understood at a glance.\n\nExact readable text to render: \"Derived Play: Chart Lie Detector\", \"Lantern Library Week\", \"toy data\", \"Mon 12\", \"Tue 18\", \"Wed 16\", \"Thu 24\", \"Find 1 lie\", \"Compare\", \"Spot\", \"Fix 16\", \"Lie\", \"PASS\", \"Score 4\". Do not add random placeholder text.\n\nVisual style: sophisticated public puzzle graphic, data-journalism meets casual game night, flat printed poster, crisp vector-like geometry, warm ivory canvas, graphite typography, teal bars, coral lie marker, amber guide arrows, moss green pass token, accessible contrast, sparse decorative details, precise alignment, lively but not childish. Avoid generic AI dramatic poster style and avoid UI dashboard panels.\n\nSafety and rights: fictional dataset and fictional game only. Use no real brands, no trademarks, no logos, no real organizations, no real people, no public figures, no politics, no elections, no medical/legal/financial advice, no dangerous instructions, no adult or explicit content, no gore or violence, no copyrighted characters, no living-artist style imitation, no source image reuse, no watermark.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt_with_external_pattern_research",
+        "sourceNote": "Derived locally from Data Poster Proof after a fresh external source sweep. External sources informed only abstract patterns around prompt-gallery metadata, descriptive prompt structure, chart/infographic evaluation, data visualization clarity, and chart-clutter failure modes. No external prompt text, image, source image, real data, brand, character, artwork, or protected style was reused."
+      },
+      "promptSources": [
+        {
+          "title": "Prompt Image - AI Art Prompt Gallery | Free Prompts",
+          "url": "https://promptimage.org/",
+          "authorOrPublisher": "Prompt Image",
+          "license": "site says prompt examples are free to copy/use, but treated as unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "community_gallery_pattern / prompt_metadata_scan"
+        },
+        {
+          "title": "How To Write AI Image Prompts: Tips & Examples",
+          "url": "https://leonardo.ai/news/ai-image-prompts/",
+          "authorOrPublisher": "Leonardo.Ai",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "prompt_pattern_inspiration / text_failure_mode / composition_prompting"
+        },
+        {
+          "title": "Gen-4 Image Prompting Guide",
+          "url": "https://help.runwayml.com/hc/en-us/articles/35694045317139-Gen-4-Image-Prompting-Guide",
+          "authorOrPublisher": "Runway",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "prompt_pattern_inspiration / descriptive_prompt_structure"
+        },
+        {
+          "title": "Brookseeworld/IGenBench-Dataset",
+          "url": "https://huggingface.co/datasets/Brookseeworld/IGenBench-Dataset",
+          "authorOrPublisher": "Brookseeworld / Hugging Face",
+          "license": "MIT",
+          "accessedAt": "2026-04-27",
+          "usedAs": "benchmark_dataset / infographic_fidelity_evaluation / failure_mode_scan"
+        },
+        {
+          "title": "10 Data Visualization Best Practices for 2026",
+          "url": "https://fivenumbersummary.io/blog/data-visualization-best-practices/",
+          "authorOrPublisher": "FiveNumberSummary.io",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "data_visualization_pattern / chart_context_pattern"
+        },
+        {
+          "title": "10 Important Do's and Don'ts of Chart & Infographic Design [2026 Guide]",
+          "url": "https://venngage.com/blog/chart-design/",
+          "authorOrPublisher": "Venngage / Midori Nediger",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "visual_format_reference / chart_clutter_failure_mode"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Fictional toy dataset and chart QA game only; no real statistics, real brands, trademarks, logos, real organizations, people, public figures, politics/elections/parties, medical/legal/financial advice, dangerous instructions, adult or explicit content, gore, graphic violence, celebrity likeness, copyrighted character, living-artist style imitation, copied prompt text, or source-image reuse.",
+        "checkedAt": "2026-04-27"
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dcd02-c4ea-74c3-9911-d7901553fc2f/ig_0a1fdda04aef9d3c0169eedc34507081979c6d58c91ce66de2.png"
+    },
+    {
+      "title": "Use Case: Data Poster Proof",
+      "caption": "一个 GPT Image 2 数据可视化校验玩法：把虚构 Lantern Library Week 的 Mon 12、Tue 18、Wed 16、Thu 24 toy data 生成成柱状图海报，并用 Title、Units、Order、Values、Scale、Source 和 PASS 4 证明图表与源数据一致。",
+      "path": "assets/images/240-use-case-data-poster-proof.png",
+      "alt": "Vertical infographic proof poster titled Use Case Data Poster Proof with Lantern Library Week source table, matching bar chart values 12 18 16 24, proof chips for title units order values scale source, toy data note, and PASS 4 stamp",
+      "width": 1024,
+      "height": 1536,
+      "createdAt": "2026-04-27 11:47:00",
+      "batch": "019dcd02-c4ea-74c3-9911-d7901553fc2f",
+      "tags": [
+        "data-poster-proof",
+        "use-case",
+        "data-to-infographic",
+        "infographic-fidelity",
+        "chart-qa",
+        "toy-dataset",
+        "text-and-number-check",
+        "visual-evaluation",
+        "fact-check-workflow",
+        "batch-019dcd02"
+      ],
+      "prompt": "Create one polished public-gallery concept image titled exactly \"Use Case: Data Poster Proof\".\n\nUse case: infographic-diagram / productivity-visual\nAsset type: public GPT Image 2 use-case gallery image, vertical 4:5 flat editorial proof artifact\n\nPrimary request: Show GPT Image 2 as a data-to-infographic reliability workflow. A tiny fictional source table is transformed into a clean infographic poster, with visible QA marks that prove the generated chart matches the source data. The artwork must feel like a finished design review artifact, not a generic dashboard, not a classroom worksheet, not a route map, not a comic, not a physical product photo, not a tray or lab bench, and not a multi-image contact sheet.\n\nScene/backdrop: a flat ivory editorial poster preview for a fictional community reading program called \"Lantern Library Week\". Use only invented data. The source table has four rows: \"Mon 12\", \"Tue 18\", \"Wed 16\", \"Thu 24\". The main chart is a simple vertical bar chart using those four values in the same order. Add a small subtitle: \"fictional visits\". Include a right-side proof strip with compact chips: \"Title\", \"Units\", \"Order\", \"Values\", \"Scale\", \"Source\", \"PASS\".\n\nMechanism to make visible: the image demonstrates that generated infographics need fact checking. Show subtle human review marks: green checks next to Order and Values, a tiny amber note reading \"scale ok\", a source label reading \"toy data\", and a final green stamp reading \"PASS 4\". Keep all numbers short and legible. Do not add random placeholder text.\n\nExact readable text to render: \"Use Case: Data Poster Proof\", \"Lantern Library Week\", \"fictional visits\", \"Mon 12\", \"Tue 18\", \"Wed 16\", \"Thu 24\", \"Title\", \"Units\", \"Order\", \"Values\", \"Scale\", \"Source\", \"toy data\", \"scale ok\", \"PASS 4\".\n\nVisual style: sophisticated data-journalism poster design, crisp vector-like chart shapes, warm ivory paper, graphite typography, teal bars, amber annotations, moss green pass marks, small coral warning accents used sparingly, accessible contrast, generous margins, precise alignment, lightweight hand-review marks. Make it look distinct from AI poster tropes and from a software analytics dashboard.\n\nSafety and rights: fictional dataset and fictional community program only. Use no real brands, no trademarks, no logos, no real organizations, no real people, no public figures, no politics, no elections, no medical/legal/financial advice, no dangerous instructions, no adult or explicit content, no gore or violence, no copyrighted characters, no living-artist style imitation, no source image reuse, no watermark.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt_with_external_pattern_research",
+        "sourceNote": "Created after a fresh external source sweep. External sources informed only abstract patterns around prompt-gallery metadata, descriptive prompt structure, chart/infographic evaluation, data visualization clarity, and chart-clutter failure modes. No external prompt text, image, source image, real data, brand, character, artwork, or protected style was reused."
+      },
+      "promptSources": [
+        {
+          "title": "Prompt Image - AI Art Prompt Gallery | Free Prompts",
+          "url": "https://promptimage.org/",
+          "authorOrPublisher": "Prompt Image",
+          "license": "site says prompt examples are free to copy/use, but treated as unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "community_gallery_pattern / prompt_metadata_scan"
+        },
+        {
+          "title": "How To Write AI Image Prompts: Tips & Examples",
+          "url": "https://leonardo.ai/news/ai-image-prompts/",
+          "authorOrPublisher": "Leonardo.Ai",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "prompt_pattern_inspiration / text_failure_mode / composition_prompting"
+        },
+        {
+          "title": "Gen-4 Image Prompting Guide",
+          "url": "https://help.runwayml.com/hc/en-us/articles/35694045317139-Gen-4-Image-Prompting-Guide",
+          "authorOrPublisher": "Runway",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "prompt_pattern_inspiration / descriptive_prompt_structure"
+        },
+        {
+          "title": "Brookseeworld/IGenBench-Dataset",
+          "url": "https://huggingface.co/datasets/Brookseeworld/IGenBench-Dataset",
+          "authorOrPublisher": "Brookseeworld / Hugging Face",
+          "license": "MIT",
+          "accessedAt": "2026-04-27",
+          "usedAs": "benchmark_dataset / infographic_fidelity_evaluation / failure_mode_scan"
+        },
+        {
+          "title": "10 Data Visualization Best Practices for 2026",
+          "url": "https://fivenumbersummary.io/blog/data-visualization-best-practices/",
+          "authorOrPublisher": "FiveNumberSummary.io",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "data_visualization_pattern / chart_context_pattern"
+        },
+        {
+          "title": "10 Important Do's and Don'ts of Chart & Infographic Design [2026 Guide]",
+          "url": "https://venngage.com/blog/chart-design/",
+          "authorOrPublisher": "Venngage / Midori Nediger",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "visual_format_reference / chart_clutter_failure_mode"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "Fictional toy dataset and community reading program only; no real statistics, real brands, trademarks, logos, real organizations, people, public figures, politics/elections/parties, medical/legal/financial advice, dangerous instructions, adult or explicit content, gore, graphic violence, celebrity likeness, copyrighted character, living-artist style imitation, copied prompt text, or source-image reuse.",
+        "checkedAt": "2026-04-27"
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dcd02-c4ea-74c3-9911-d7901553fc2f/ig_0a1fdda04aef9d3c0169eedbf9924c81978e9d86bd92b52fb4.png"
+    },
+    {
       "title": "Derived Play: Drift Bingo Review",
       "caption": "从 Visual SOP Dry Run 派生出的评审玩法：团队在虚构 Lumen Lane Book Swap SOP 上找出 Misspell、Step Gap、Role Drift、Access、Tiny Text 五类漂移，并把 Clutter 与 Tiny Text 两项修复后盖上 PASS AFTER REPAIR。",
       "path": "assets/images/237-derived-play-drift-bingo-review.png",
