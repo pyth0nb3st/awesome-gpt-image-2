@@ -18,6 +18,172 @@
   },
   "images": [
     {
+      "title": "Derived Play: Menu Misread Hunt",
+      "caption": "从菜单重排工作流派生出的可打印找茬玩法：玩家在虚构菜单里找 duplicate price、allergy icon mismatch、overcrowded section、low contrast item 和 missing divider，再写修复说明。",
+      "path": "assets/images/243-derived-play-menu-misread-hunt.png",
+      "alt": "Portrait printable game sheet titled Menu Misread Hunt with a fictional cafe menu, five numbered usability problems, a spot mark explain repair pass rail, and answer checkboxes",
+      "width": 1055,
+      "height": 1491,
+      "createdAt": "2026-04-27 13:45:07",
+      "batch": "019dcd73-0383-73f2-a035-6421a5185e70",
+      "tags": [
+        "menu-misread-hunt",
+        "derived-play",
+        "printable-game",
+        "accessibility-qa",
+        "usability-scavenger-hunt",
+        "allergen-icon-check",
+        "contrast-check",
+        "menu-repair-loop",
+        "batch-019dcd73"
+      ],
+      "prompt": "Create a second finished derived-play image based on the same fictional menu workflow, portrait A4 ratio, titled in small crisp English text: \"Derived Play: Menu Misread Hunt\". Show a printable classroom-safe game sheet for checking whether an AI-generated menu is actually usable. It should look like a clean restaurant-service training game, not a tabletop object photo and not a dashboard. Main surface: one fictional cafe menu page with five deliberate visual puzzles highlighted by colored callout rings: a hidden duplicate price, one allergy icon mismatch, one overcrowded section, one low-contrast item, and one missing category divider. Right side: a narrow score rail with simple steps: \"Spot\", \"Mark\", \"Explain\", \"Repair\", \"Pass\". Bottom: a compact answer card with blank checkboxes and readable labels: \"price\", \"icon\", \"contrast\", \"grouping\", \"divider\". Use abstract food icons only, invented dish names only, no real brand, no real logo, no people. Visual style: polished printable design exercise, high-contrast typography, calm colors with green, amber, blue, and charcoal, realistic paper scan edges, crisp legible short text. It should clearly demonstrate a derived play mechanic from GPT Image 2: turn a generated menu into a usability scavenger hunt and repair loop. Avoid political content, adult content, dangerous instructions, celebrity likeness, copyrighted characters, living-artist style imitation, and copied external prompts/images.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original fictional menu QA game and prompt generated locally after external source sweep. Sources informed abstract menu accessibility, text-layout evaluation, prompt-library structure, and human review mechanics only; no external prompt text, image, brand, character, artwork, protected style, or source image was reused."
+      },
+      "promptSources": [
+        {
+          "title": "AI Menu Generator | Prompt Library",
+          "url": "https://logicballs.com/ai-prompt/prompts/ai-menu-generator",
+          "authorOrPublisher": "LogicBalls / PromptLib Team",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "community_prompt_library / workflow_inspiration"
+        },
+        {
+          "title": "Free Online AI Menu Generator",
+          "url": "https://mew.design/create/ai-menu-generator",
+          "authorOrPublisher": "Mew Design / MAGOAI LTD",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "product_case / menu_layout_workflow / typography_failure_mode"
+        },
+        {
+          "title": "Building Accessible Restaurant Menus in React",
+          "url": "https://www.logic-leap.co.uk/blog/accessible-restaurant-menus-react",
+          "authorOrPublisher": "LogicLeap",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "accessibility_workflow / failure_mode_scan / evaluation_pattern"
+        },
+        {
+          "title": "Making Your Restaurant Menu Accessible: Ultimate Guide to QR Menus",
+          "url": "https://qrmenugenerator.io/blog/making-your-restaurant-menu-accessible-qr-menus-guide",
+          "authorOrPublisher": "QR Menu Generator / Evrenus Firat Polat",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "readability_pattern / menu_structure_pattern / failure_mode_scan"
+        },
+        {
+          "title": "TextAtlasEval",
+          "url": "https://huggingface.co/datasets/CSU-JPG/TextAtlasEval",
+          "authorOrPublisher": "CSU-JPG / Hugging Face",
+          "license": "MIT",
+          "accessedAt": "2026-04-27",
+          "usedAs": "benchmark_dataset / dense_text_evaluation / typography_failure_mode"
+        },
+        {
+          "title": "Open Preference Dataset for Text-to-Image Generation by the Hugging Face Community",
+          "url": "https://huggingface.co/blog/image-preferences",
+          "authorOrPublisher": "Hugging Face Community / David Berenstein, Ben Burtenshaw, Daniel Vila, Daniel van Strien, Sayak Paul, Ame Vie, Linoy Tsaban",
+          "license": "Apache 2.0 dataset discussion; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "preference_dataset / human_evaluation_pattern / safety_filtering_pattern"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-27",
+        "reviewNote": "Fictional no-people printable menu usability game with invented venue, dishes, icons, prices, and repair tasks. Screened to avoid political persuasion, public political figures, parties/elections, real brands/trademarks/logos, celebrity likenesses, copyrighted characters, adult/explicit content, harmful or dangerous instructions, weapons, gore, graphic violence, living-artist style imitation, copied prompt text, and source-image reuse."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dcd73-0383-73f2-a035-6421a5185e70/ig_0075e9280ca272e40169eef7858ea8819095e62b425e060d00.png"
+    },
+    {
+      "title": "Use Case: Readable Menu Rescue",
+      "caption": "把 GPT Image 2 用在虚构餐厅菜单重排：从低对比、装饰字体和松散分组的旧菜单，生成可打印的高对比层级、清晰价格、可见过敏原图例和底部 QA 通过条。",
+      "path": "assets/images/244-use-case-readable-menu-rescue.png",
+      "alt": "Portrait print proof titled Use Case Readable Menu Rescue showing a fictional cafe menu before and after redesign with hierarchy, allergy icons, low-light check, price scan, edit notes, and QA chips",
+      "width": 1024,
+      "height": 1536,
+      "createdAt": "2026-04-27 13:43:33",
+      "batch": "019dcd73-0383-73f2-a035-6421a5185e70",
+      "tags": [
+        "readable-menu-rescue",
+        "use-case",
+        "menu-design",
+        "accessibility",
+        "typography-qa",
+        "allergen-icons",
+        "low-light-readability",
+        "print-proof",
+        "batch-019dcd73"
+      ],
+      "prompt": "Create a single finished GPT Image 2 use-case demo image, portrait A4 ratio, titled in small crisp English text: \"Use Case: Readable Menu Rescue\". Show a fictional, unbranded neighborhood cafe menu redesign workflow as a print-ready before/after proof sheet, not a product photo and not a grid of prompt tags. Left third: a faded fictional original menu named \"Luna Leaf Cafe\" with intentionally cluttered but readable placeholder sections, no real logo. Center: a clean transformation lane with short labels: \"Hierarchy\", \"Allergy Icons\", \"Low-Light Check\", \"Price Scan\", \"Edit Notes\". Right two-thirds: the final accessible menu layout for the same fictional cafe, with clear large typography, high contrast, grouped sections, simple invented dishes such as \"Moon Rice Bowl\", \"Green Pear Toast\", \"Quiet Soup\", \"Citrus Tea\", and visible allergy-safe icon legend using abstract symbols only. Add a small QA strip along the bottom with check chips: \"Readable\", \"Grouped\", \"Prices Clear\", \"Icons Match\", \"Print Ready\". Style: polished editorial design mockup, realistic flat-lay scanner proof with paper texture but primarily a graphic workflow, sophisticated but not luxury-brand, no real brands, no people, no copyrighted characters, no political content. Make all visible text short and legible; avoid tiny paragraphs.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original fictional accessible-menu workflow and prompt generated locally after external source sweep. Sources informed abstract menu workflow, accessibility failure modes, dense-text evaluation, and human preference/evaluation patterns only; no external prompt text, image, brand, character, artwork, protected style, or source image was reused."
+      },
+      "promptSources": [
+        {
+          "title": "AI Menu Generator | Prompt Library",
+          "url": "https://logicballs.com/ai-prompt/prompts/ai-menu-generator",
+          "authorOrPublisher": "LogicBalls / PromptLib Team",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "community_prompt_library / workflow_inspiration"
+        },
+        {
+          "title": "Free Online AI Menu Generator",
+          "url": "https://mew.design/create/ai-menu-generator",
+          "authorOrPublisher": "Mew Design / MAGOAI LTD",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "product_case / menu_layout_workflow / typography_failure_mode"
+        },
+        {
+          "title": "Building Accessible Restaurant Menus in React",
+          "url": "https://www.logic-leap.co.uk/blog/accessible-restaurant-menus-react",
+          "authorOrPublisher": "LogicLeap",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "accessibility_workflow / failure_mode_scan / evaluation_pattern"
+        },
+        {
+          "title": "Making Your Restaurant Menu Accessible: Ultimate Guide to QR Menus",
+          "url": "https://qrmenugenerator.io/blog/making-your-restaurant-menu-accessible-qr-menus-guide",
+          "authorOrPublisher": "QR Menu Generator / Evrenus Firat Polat",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "readability_pattern / menu_structure_pattern / failure_mode_scan"
+        },
+        {
+          "title": "TextAtlasEval",
+          "url": "https://huggingface.co/datasets/CSU-JPG/TextAtlasEval",
+          "authorOrPublisher": "CSU-JPG / Hugging Face",
+          "license": "MIT",
+          "accessedAt": "2026-04-27",
+          "usedAs": "benchmark_dataset / dense_text_evaluation / typography_failure_mode"
+        },
+        {
+          "title": "Open Preference Dataset for Text-to-Image Generation by the Hugging Face Community",
+          "url": "https://huggingface.co/blog/image-preferences",
+          "authorOrPublisher": "Hugging Face Community / David Berenstein, Ben Burtenshaw, Daniel Vila, Daniel van Strien, Sayak Paul, Ame Vie, Linoy Tsaban",
+          "license": "Apache 2.0 dataset discussion; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-27",
+          "usedAs": "preference_dataset / human_evaluation_pattern / safety_filtering_pattern"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-27",
+        "reviewNote": "Fictional no-people cafe menu with invented venue, dishes, icons, and prices. Screened to avoid political persuasion, public political figures, parties/elections, real brands/trademarks/logos, celebrity likenesses, copyrighted characters, adult/explicit content, harmful or dangerous instructions, weapons, gore, graphic violence, living-artist style imitation, copied prompt text, and source-image reuse."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dcd73-0383-73f2-a035-6421a5185e70/ig_0075e9280ca272e40169eef738a9a08190b6871d14640d3e13.png"
+    },
+    {
       "title": "Derived Play: Token Drift Hunt",
       "caption": "从 Stateflow Mockup Gauntlet 派生出的 UI QA 玩法：评审者在虚构 Mosaic Pantry 四状态移动端流程里找出 radius、nav、empty、error、locale 五个 token drift，并用 fix nav / fix copy 两个补丁后得到 PASS 5/5。",
       "path": "assets/images/241-derived-play-token-drift-hunt.png",

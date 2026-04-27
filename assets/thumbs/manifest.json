@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/243-derived-play-menu-misread-hunt.png": {
+      "path": "assets/thumbs/243-derived-play-menu-misread-hunt.jpg",
+      "width": 768,
+      "height": 1086
+    },
+    "assets/images/244-use-case-readable-menu-rescue.png": {
+      "path": "assets/thumbs/244-use-case-readable-menu-rescue.jpg",
+      "width": 768,
+      "height": 1152
+    },
     "assets/images/241-derived-play-token-drift-hunt.png": {
       "path": "assets/thumbs/241-derived-play-token-drift-hunt.jpg",
       "width": 768,

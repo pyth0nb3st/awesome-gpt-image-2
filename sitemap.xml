@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/243-derived-play-menu-misread-hunt.png</image:loc>
+      <image:title>Derived Play: Menu Misread Hunt</image:title>
+      <image:caption>Create a second finished derived-play image based on the same fictional menu workflow, portrait A4 ratio, titled in small crisp English text: &quot;Derived Play: Menu Misread Hunt&quot;. Show a printable classroom-safe game sheet for checking whethe...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/244-use-case-readable-menu-rescue.png</image:loc>
+      <image:title>Use Case: Readable Menu Rescue</image:title>
+      <image:caption>Create a single finished GPT Image 2 use-case demo image, portrait A4 ratio, titled in small crisp English text: &quot;Use Case: Readable Menu Rescue&quot;. Show a fictional, unbranded neighborhood cafe menu redesign workflow as a print-ready before...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/241-derived-play-token-drift-hunt.png</image:loc>
       <image:title>Derived Play: Token Drift Hunt</image:title>
       <image:caption>Create one polished public-gallery concept image titled exactly &quot;Derived Play: Token Drift Hunt&quot;. Use case: ui-mockup / derived play mechanic / product-design QA game Asset type: public GPT Image 2 derived-play gallery image, landscape 16:...</image:caption>
@@ -1167,6 +1177,28 @@
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/243-derived-play-menu-misread-hunt/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/243-derived-play-menu-misread-hunt.png</image:loc>
+      <image:title>Derived Play: Menu Misread Hunt</image:title>
+      <image:caption>Create a second finished derived-play image based on the same fictional menu workflow, portrait A4 ratio, titled in small crisp English text: &quot;Derived Play: Menu Misread Hunt&quot;. Show a printable classroom-safe game sheet for checking whethe...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/244-use-case-readable-menu-rescue/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/244-use-case-readable-menu-rescue.png</image:loc>
+      <image:title>Use Case: Readable Menu Rescue</image:title>
+      <image:caption>Create a single finished GPT Image 2 use-case demo image, portrait A4 ratio, titled in small crisp English text: &quot;Use Case: Readable Menu Rescue&quot;. Show a fictional, unbranded neighborhood cafe menu redesign workflow as a print-ready before...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/241-derived-play-token-drift-hunt/</loc>
@@ -3807,6 +3839,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://gptimg2.best/tags/use-case/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://gptimg2.best/tags/ads-marketing/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -3825,12 +3863,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/use-case/</loc>
-    <lastmod>2026-04-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://gptimg2.best/tags/scientific-educational/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -3844,6 +3876,12 @@
   </url>
   <url>
     <loc>https://gptimg2.best/tags/sound-to-scene/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/accessibility/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
