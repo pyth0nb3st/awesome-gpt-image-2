@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/247-derived-play-alt-text-relay.png": {
+      "path": "assets/thumbs/247-derived-play-alt-text-relay.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/248-use-case-chart-narration-studio.png": {
+      "path": "assets/thumbs/248-use-case-chart-narration-studio.jpg",
+      "width": 768,
+      "height": 432
+    },
     "assets/images/245-derived-play-three-second-sign-test.png": {
       "path": "assets/thumbs/245-derived-play-three-second-sign-test.jpg",
       "width": 768,

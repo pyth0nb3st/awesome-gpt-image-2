@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/247-derived-play-alt-text-relay.png</image:loc>
+      <image:title>Derived Play: Alt-Text Relay</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Derived Play: Alt-Text Relay&quot;. Use case: derived play mechanic / accessibility review game / data-literacy practice. Asset type: landscape 16:9 printable challenge proof for...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/248-use-case-chart-narration-studio.png</image:loc>
+      <image:title>Use Case: Chart Narration Studio</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Use Case: Chart Narration Studio&quot;. Use case: accessibility material / data-literacy / content-production workflow. Asset type: landscape 16:9 editorial production board for a...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/245-derived-play-three-second-sign-test.png</image:loc>
       <image:title>Derived Play: Three-Second Sign Test</image:title>
       <image:caption>Create one polished public-gallery concept image titled exactly &quot;Derived Play: Three-Second Sign Test&quot;. Use case: productivity-visual / derived play mechanic / public-signage QA game. Asset type: vertical 9:16 fictional lobby-screen challe...</image:caption>
@@ -1187,6 +1197,28 @@
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/247-derived-play-alt-text-relay/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/247-derived-play-alt-text-relay.png</image:loc>
+      <image:title>Derived Play: Alt-Text Relay</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Derived Play: Alt-Text Relay&quot;. Use case: derived play mechanic / accessibility review game / data-literacy practice. Asset type: landscape 16:9 printable challenge proof for...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/248-use-case-chart-narration-studio/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/248-use-case-chart-narration-studio.png</image:loc>
+      <image:title>Use Case: Chart Narration Studio</image:title>
+      <image:caption>Create one polished public-gallery concept image titled exactly &quot;Use Case: Chart Narration Studio&quot;. Use case: accessibility material / data-literacy / content-production workflow. Asset type: landscape 16:9 editorial production board for a...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/245-derived-play-three-second-sign-test/</loc>
@@ -3865,13 +3897,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/illustration-story/</loc>
+    <loc>https://gptimg2.best/tags/use-case/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gptimg2.best/tags/use-case/</loc>
+    <loc>https://gptimg2.best/tags/illustration-story/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3925,6 +3957,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://gptimg2.best/tags/alt-text/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://gptimg2.best/tags/arrow-edit/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -3967,7 +4005,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://gptimg2.best/tags/chart-accessibility/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://gptimg2.best/tags/crumb-mask/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/data-literacy/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
