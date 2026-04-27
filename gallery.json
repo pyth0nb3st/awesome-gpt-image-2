@@ -18,6 +18,206 @@
   },
   "images": [
     {
+      "title": "Derived Play: Loci Swap Relay",
+      "caption": "从 Memory Palace Mapper 派生出的 recall-path QA 游戏：玩家沿 6 个 room route 找出并修复 swapped stop、vague cue、duplicate icon、missing source、broken arrow 和 overloaded room。",
+      "path": "assets/images/266-derived-play-loci-swap-relay.png",
+      "alt": "Landscape puzzle sheet titled Loci Swap Relay with six-room memory route, bug type icons, repair queue, before-after route strip, recall test checklist, and final pass stamp",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-28 02:01:00",
+      "batch": "019dd012-f777-7092-ac86-0fde5e73973f",
+      "tags": [
+        "loci-swap-relay",
+        "derived-play",
+        "scientific-educational",
+        "memory-palace",
+        "recall-path",
+        "qa-game",
+        "source-linking",
+        "sequence-repair",
+        "visual-note-bugs",
+        "batch-019dd012"
+      ],
+      "prompt": "Create a polished, public-gallery image for a derived GPT Image 2 play mechanic.\n\nUse case: scientific-educational / derived play mechanic\nAsset type: landscape recall-path puzzle sheet, 16:9.\nTitle text on the image: \"Loci Swap Relay\".\nPrimary request: Show a fictional game-like QA challenge derived from Memory Palace Mapper. The sheet should be one wide interactive puzzle artifact, not a 2x3 board and not a product photo. A simplified imaginary memory-palace route runs left to right through six rooms. Some cue cards are intentionally wrong. Players must find, name, repair, retest, and pass six safe visual-note bugs: SWAPPED STOP, VAGUE CUE, DUPLICATE ICON, MISSING SOURCE, BROKEN ARROW, OVERLOADED ROOM. Include a compact \"repair queue\" with empty slots, a before/after route strip, and a final PASS stamp area. Use only fictional study content about urban shade and water cycles, with short legible labels.\n\nVisual language: crisp illustrated puzzle worksheet with UI polish; pale mint background, charcoal linework, teal arrows, coral warning tags, yellow sticky-note repair cards, and clear spacious hierarchy. Make the route feel like a mnemonic inspection game: spatial sequence, item-location binding, source trace, and recall test are visible.\n\nSafety and originality constraints: no real school, university, brand, logo, person, face, address, copyrighted character, celebrity, political content, medical or therapeutic efficacy claim, dangerous instruction, source-image reuse, copied prompt, copied sketchnote, copied gallery image, or living-artist style imitation. Avoid fantasy palace decoration; emphasize rule-based recall repair.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original fictional recall-path repair game generated locally after external source sweep. Sources informed only abstract route/loci memory mechanics, sketchnote component evaluation, editable visual-note failure modes, and source-link review patterns; no external prompt text, image, sketchnote, product UI, research figure, source image, creator style, institution branding, or real personal memory was reused."
+      },
+      "promptSources": [
+        {
+          "title": "memory palace, masterpiece composition, 8 k | Stable Diffusion",
+          "url": "https://openart.ai/discovery/sd-1008075851390275724",
+          "authorOrPublisher": "OpenArt community",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "community_gallery / trend_scan / visual_metaphor_failure_mode"
+        },
+        {
+          "title": "Mockr - Transform Ideas into Beautiful Sketchnotes",
+          "url": "https://mockr.art/",
+          "authorOrPublisher": "Mockr",
+          "license": "site copyright; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "product_case / sketchnote_workflow / output_format_scan"
+        },
+        {
+          "title": "Generate sketches for your notes | sketchnote.app",
+          "url": "https://sketchnote.app/",
+          "authorOrPublisher": "sketchnote.app",
+          "license": "site copyright; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "product_case / study_workflow / iteration_pattern"
+        },
+        {
+          "title": "Home | SketchScript",
+          "url": "https://sketchscript.app/",
+          "authorOrPublisher": "SketchScript",
+          "license": "site copyright; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "workflow_inspiration / visual_encoding_pattern / failure_mode_scan"
+        },
+        {
+          "title": "Sketchnote Components, Design Space Dimensions, and Strategies for Effective Visual Note Taking",
+          "url": "https://www.microsoft.com/en-us/research/publication/sketchnote-components-design-space-dimensions-and-strategies-for-effective-visual-note-taking/?locale=ja",
+          "authorOrPublisher": "Rebecca Zheng, Marina Fernández Camporro, Hugo Romat, Nathalie Henry Riche, Benjamin Bach, Fanny Chevalier, Ken Hinckley, Nicolai Marquardt / Microsoft Research",
+          "license": "research publication page; no figure/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "research_context / sketchnote_component_model / evaluation_pattern"
+        },
+        {
+          "title": "Memory Strategy: Memory Palace",
+          "url": "https://ctl.stanford.edu/memory-strategy-memory-palace",
+          "authorOrPublisher": "Stanford Center for Teaching and Learning",
+          "license": "site copyright; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "learning_workflow / route_and_loci_pattern / prompt_pattern_inspiration"
+        },
+        {
+          "title": "The Method of Loci: A Survey Review",
+          "url": "https://www.ccsenet.org/journal/index.php/ijps/article/view/0/53011",
+          "authorOrPublisher": "Cole R. Lawson / International Journal of Psychological Studies, CCSE",
+          "license": "journal page terms; no verbatim text/figure reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "research_context / method_of_loci_evaluation / trend_scan"
+        },
+        {
+          "title": "Digest videos into sketchnotes through AI",
+          "url": "https://www.allaboutken.com/posts/20251205-digesting-ai-sketchnotes-video-preview/",
+          "authorOrPublisher": "Ken Hawkins",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "blog_case / editability_failure_mode / workflow_inspiration"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-28",
+        "reviewNote": "Fictional no-people memory-route puzzle with invented urban-shade and water-cycle cue cards only. Screened to avoid real people/faces, real schools/universities, real homes/addresses, brands/logos, public figures, politics/elections/parties/persuasion, medical/clinical/therapeutic efficacy claims, harmful instructions, adult/explicit content, gore, graphic violence, celebrity likenesses, copyrighted characters, living-artist style imitation, copied prompt text, copied sketchnote/gallery image, and source-image reuse."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dd012-f777-7092-ac86-0fde5e73973f/ig_06c6a1ced060681b0169efa409172c8190a0bb621942d77776.png"
+    },
+    {
+      "title": "Use Case: Memory Palace Mapper",
+      "caption": "把 GPT Image 2 用作学习笔记到空间记忆图的转换器：从虚构城市热岛笔记抽取 6 个 loci、路线箭头、cue cards、source snippets 和 ORDER/BINDING/SOURCE LINK/RECALL TEST 复核栏。",
+      "path": "assets/images/267-use-case-memory-palace-mapper.png",
+      "alt": "Tall isometric study loft map titled Memory Palace Mapper with six numbered loci, teal walking route arrows, source-note cards, review rail, and notes-to-test workflow strip",
+      "width": 972,
+      "height": 1619,
+      "createdAt": "2026-04-28 01:59:37",
+      "batch": "019dd012-f777-7092-ac86-0fde5e73973f",
+      "tags": [
+        "memory-palace-mapper",
+        "use-case",
+        "scientific-educational",
+        "study-workflow",
+        "memory-palace",
+        "sketchnote",
+        "loci-route",
+        "recall-test",
+        "source-linking",
+        "batch-019dd012"
+      ],
+      "prompt": "Create a polished, public-gallery image for GPT Image 2 use-case research.\n\nUse case: scientific-educational / productivity-visual\nAsset type: tall isometric learning-map artifact, 4:5 portrait.\nTitle text on the image: \"Memory Palace Mapper\".\nPrimary request: Show a fictional study workflow where GPT Image 2 turns a dense paragraph of notes into a navigable memory palace. The image should look like one coherent cutaway map of an imaginary study loft, not a 2x3 board and not a product photo. Include six numbered loci along a clear walking route: Door, Window, Desk, Shelf, Lamp, Balcony. Each locus has a small invented cue scene and a tiny source-note snippet card attached. Include a narrow right-side review rail with five checklist chips: ORDER, BINDING, DISTINCT CUE, SOURCE LINK, RECALL TEST. Include a bottom strip showing the workflow: NOTES -> ANCHORS -> ROUTE -> CUES -> TEST.\n\nVisual language: clean editorial isometric illustration mixed with crisp UI annotation; warm white paper background, teal route arrows, coral cue markers, charcoal labels, muted green review rail. Text should be short, legible, and fictional. Make the artifact feel useful for students and teachers without showing any real people.\n\nSafety and originality constraints: no real school, university, brand, logo, person, face, address, copyrighted character, celebrity, political content, medical or therapeutic efficacy claim, dangerous instruction, source-image reuse, copied prompt, copied sketchnote, copied gallery image, or living-artist style imitation. Avoid ornate fantasy palace cliches; emphasize spatial mnemonic structure and reviewable output.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original fictional memory-palace learning-map artifact generated locally after external source sweep. Sources informed only abstract memory-palace route/loci patterns, sketchnote workflows, editable visual-note review patterns, and method-of-loci evaluation framing; no external prompt text, image, sketchnote, product UI, research figure, source image, creator style, institution branding, or real personal memory was reused."
+      },
+      "promptSources": [
+        {
+          "title": "memory palace, masterpiece composition, 8 k | Stable Diffusion",
+          "url": "https://openart.ai/discovery/sd-1008075851390275724",
+          "authorOrPublisher": "OpenArt community",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "community_gallery / trend_scan / visual_metaphor_failure_mode"
+        },
+        {
+          "title": "Mockr - Transform Ideas into Beautiful Sketchnotes",
+          "url": "https://mockr.art/",
+          "authorOrPublisher": "Mockr",
+          "license": "site copyright; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "product_case / sketchnote_workflow / output_format_scan"
+        },
+        {
+          "title": "Generate sketches for your notes | sketchnote.app",
+          "url": "https://sketchnote.app/",
+          "authorOrPublisher": "sketchnote.app",
+          "license": "site copyright; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "product_case / study_workflow / iteration_pattern"
+        },
+        {
+          "title": "Home | SketchScript",
+          "url": "https://sketchscript.app/",
+          "authorOrPublisher": "SketchScript",
+          "license": "site copyright; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "workflow_inspiration / visual_encoding_pattern / failure_mode_scan"
+        },
+        {
+          "title": "Sketchnote Components, Design Space Dimensions, and Strategies for Effective Visual Note Taking",
+          "url": "https://www.microsoft.com/en-us/research/publication/sketchnote-components-design-space-dimensions-and-strategies-for-effective-visual-note-taking/?locale=ja",
+          "authorOrPublisher": "Rebecca Zheng, Marina Fernández Camporro, Hugo Romat, Nathalie Henry Riche, Benjamin Bach, Fanny Chevalier, Ken Hinckley, Nicolai Marquardt / Microsoft Research",
+          "license": "research publication page; no figure/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "research_context / sketchnote_component_model / evaluation_pattern"
+        },
+        {
+          "title": "Memory Strategy: Memory Palace",
+          "url": "https://ctl.stanford.edu/memory-strategy-memory-palace",
+          "authorOrPublisher": "Stanford Center for Teaching and Learning",
+          "license": "site copyright; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "learning_workflow / route_and_loci_pattern / prompt_pattern_inspiration"
+        },
+        {
+          "title": "The Method of Loci: A Survey Review",
+          "url": "https://www.ccsenet.org/journal/index.php/ijps/article/view/0/53011",
+          "authorOrPublisher": "Cole R. Lawson / International Journal of Psychological Studies, CCSE",
+          "license": "journal page terms; no verbatim text/figure reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "research_context / method_of_loci_evaluation / trend_scan"
+        },
+        {
+          "title": "Digest videos into sketchnotes through AI",
+          "url": "https://www.allaboutken.com/posts/20251205-digesting-ai-sketchnotes-video-preview/",
+          "authorOrPublisher": "Ken Hawkins",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "blog_case / editability_failure_mode / workflow_inspiration"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-28",
+        "reviewNote": "Fictional no-people study artifact with invented urban-shade notes only. Screened to avoid real people/faces, real schools/universities, real homes/addresses, brands/logos, public figures, politics/elections/parties/persuasion, medical/clinical/therapeutic efficacy claims, harmful instructions, adult/explicit content, gore, graphic violence, celebrity likenesses, copyrighted characters, living-artist style imitation, copied prompt text, copied sketchnote/gallery image, and source-image reuse."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dd012-f777-7092-ac86-0fde5e73973f/ig_06c6a1ced060681b0169efa37dd6408190975faa97a7e17ee7.png"
+    },
+    {
       "title": "Derived Play: BiDi Glyph Rescue",
       "caption": "从 Multilingual Poster Preflight 派生出的双向文本 QA 玩法：玩家在 before/after 多语种版面中 spot、tag、mirror、pad、sign 五类问题，包括 order flip、number drift、arrow wrong、glyph clip 和 box tilt。",
       "path": "assets/images/264-derived-play-bidi-glyph-rescue.png",

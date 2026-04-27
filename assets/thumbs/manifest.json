@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/266-derived-play-loci-swap-relay.png": {
+      "path": "assets/thumbs/266-derived-play-loci-swap-relay.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/267-use-case-memory-palace-mapper.png": {
+      "path": "assets/thumbs/267-use-case-memory-palace-mapper.jpg",
+      "width": 768,
+      "height": 1280
+    },
     "assets/images/264-derived-play-bidi-glyph-rescue.png": {
       "path": "assets/thumbs/264-derived-play-bidi-glyph-rescue.jpg",
       "width": 768,

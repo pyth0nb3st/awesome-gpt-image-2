@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/266-derived-play-loci-swap-relay.png</image:loc>
+      <image:title>Derived Play: Loci Swap Relay</image:title>
+      <image:caption>Create a polished, public-gallery image for a derived GPT Image 2 play mechanic. Use case: scientific-educational / derived play mechanic Asset type: landscape recall-path puzzle sheet, 16:9. Title text on the image: &quot;Loci Swap Relay&quot;. Pri...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/267-use-case-memory-palace-mapper.png</image:loc>
+      <image:title>Use Case: Memory Palace Mapper</image:title>
+      <image:caption>Create a polished, public-gallery image for GPT Image 2 use-case research. Use case: scientific-educational / productivity-visual Asset type: tall isometric learning-map artifact, 4:5 portrait. Title text on the image: &quot;Memory Palace Mappe...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/264-derived-play-bidi-glyph-rescue.png</image:loc>
       <image:title>Derived Play: BiDi Glyph Rescue</image:title>
       <image:caption>Create one polished public-gallery concept image titled exactly &quot;Derived Play: BiDi Glyph Rescue&quot;. Use case: derived play mechanic / localization QA game / mixed-script text-direction repair. Asset type: landscape 16:9 printable repair puz...</image:caption>
@@ -1277,6 +1287,28 @@
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/266-derived-play-loci-swap-relay/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/266-derived-play-loci-swap-relay.png</image:loc>
+      <image:title>Derived Play: Loci Swap Relay</image:title>
+      <image:caption>Create a polished, public-gallery image for a derived GPT Image 2 play mechanic. Use case: scientific-educational / derived play mechanic Asset type: landscape recall-path puzzle sheet, 16:9. Title text on the image: &quot;Loci Swap Relay&quot;. Pri...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/267-use-case-memory-palace-mapper/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/267-use-case-memory-palace-mapper.png</image:loc>
+      <image:title>Use Case: Memory Palace Mapper</image:title>
+      <image:caption>Create a polished, public-gallery image for GPT Image 2 use-case research. Use case: scientific-educational / productivity-visual Asset type: tall isometric learning-map artifact, 4:5 portrait. Title text on the image: &quot;Memory Palace Mappe...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/264-derived-play-bidi-glyph-rescue/</loc>
@@ -4399,6 +4431,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://gptimg2.best/tags/memory-palace/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://gptimg2.best/tags/moon-phase/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -4448,6 +4486,12 @@
   </url>
   <url>
     <loc>https://gptimg2.best/tags/prompt-debugging/</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/qa-game/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
