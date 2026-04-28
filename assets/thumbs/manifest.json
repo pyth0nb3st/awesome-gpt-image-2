@@ -3,6 +3,21 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/275-gpt-image-2-seedance-16-step-dance-sheet.jpg": {
+      "path": "assets/thumbs/275-gpt-image-2-seedance-16-step-dance-sheet.jpg",
+      "width": 544,
+      "height": 680
+    },
+    "assets/images/276-gpt-image2-epic-graduation-silhouette-poster.jpg": {
+      "path": "assets/thumbs/276-gpt-image2-epic-graduation-silhouette-poster.jpg",
+      "width": 680,
+      "height": 384
+    },
+    "assets/images/277-gpt-image-2-portrait-with-direct-flash-izakaya-style.jpg": {
+      "path": "assets/thumbs/277-gpt-image-2-portrait-with-direct-flash-izakaya-style.jpg",
+      "width": 680,
+      "height": 294
+    },
     "assets/images/274-use-case-k-pop-choreography-sheet.png": {
       "path": "assets/thumbs/274-use-case-k-pop-choreography-sheet.jpg",
       "width": 768,

@@ -18,6 +18,126 @@
   },
   "images": [
     {
+      "title": "GPT Image 2 + Seedance 16-step dance sheet",
+      "caption": "复用 Ciri 的热门 GPT Image 2 + Seedance 提示词，重绘一组 16 格舞蹈教学信息图。",
+      "path": "assets/images/275-gpt-image-2-seedance-16-step-dance-sheet.jpg",
+      "alt": "16-step dance movement sheet with one dancer in a 4x4 grid",
+      "width": 544,
+      "height": 680,
+      "createdAt": "2026-04-28 20:10:00",
+      "batch": "019dd5c1-redraw-x-ciri",
+      "tags": [
+        "x-prompt-redraw",
+        "gpt-image-2",
+        "dance-infographic",
+        "prompt-redraw",
+        "seedance-16-steps",
+        "social-workflow"
+      ],
+      "prompt": "Create a clean, black-and-white instructional poster showing a 16-step dance sequence performed by a single female dancer. Layout:\n4x4 grid (16 panels total) Each panel shows the same dancer in a different pose Full-body, centered in each frame Even spacing, consistent framing across all panels Dancer:\nFemale, long flowing hair Wearing a fitted, reflective/sequined crop top and long flared skirt Elegant, confident, expressive poses inspired by vogue and waacking dance styles\nPanel Details: Each panel has a bold number (1–16) and a short title at the top (e.g., \"WATER CALL,\" \"LIQUID RISE,\" \"VOGUE FRAME,\" etc. Include small instructional captions at the bottom of each panel\nAdd subtle arrows and motion lines to show movement direction (arms, hips, body flow) Style:\nBlack and white (monochrome) High contrast, sharp studio lighting Fashion editorial photography look Clean white or light gray background Modern sans-serif typography Overall Feel: Minimalist, polished, magazine-quality layout Smooth progression of movement across all 16 frames Dynamic but clean, easy-to-follow instructional design",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Prompt extracted from a public X/Twitter post by Ciri and reused with attribution at user request. The generation prompt preserves the original prompt meaning and keeps formatting changes minimal."
+      },
+      "promptSources": [
+        {
+          "title": "GPT Image 2 + Seedance 2.0 dance-sheet prompt",
+          "url": "https://x.com/Ciri_ai/status/2048783811606147492",
+          "authorOrPublisher": "Ciri / @Ciri_ai",
+          "license": "public social post; prompt reused with attribution at user request",
+          "accessedAt": "2026-04-28",
+          "usedAs": "original_prompt_source / author_credit / social_workflow_reference"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-28",
+        "reviewNote": "Prompt is safe for publication: no policy violations in text, no real celebrities, no copyrighted characters, no explicit content, no harmful instructions."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/redraw_2026_04_28/ciri_x_prompt_redraw.jpg"
+    },
+    {
+      "title": "GPT-image2 epic graduation silhouette poster",
+      "caption": "提取 Zesee 的热门 GPT-image2 提示词，重绘一张偏纪念感的史诗叙事毕业照海报。",
+      "path": "assets/images/276-gpt-image2-epic-graduation-silhouette-poster.jpg",
+      "alt": "Epic narrative poster with side-profile silhouette and graduation-themed worldbuilding",
+      "width": 680,
+      "height": 383,
+      "createdAt": "2026-04-28 20:06:00",
+      "batch": "019dd5c1-redraw-x-zesee",
+      "tags": [
+        "x-prompt-redraw",
+        "gpt-image-2",
+        "poster",
+        "epic-narrative",
+        "graduation",
+        "social-workflow"
+      ],
+      "prompt": "根据我的人物肖像自动生成一张收藏版史诗叙事海报(毕业照:巨大的我的侧脸剪影作为外轮廓，剪影内部自动生长出最契合该主题的完整世界观、标志性场景、角色关系、象征符号、关键建筑、生物、道具与氛围(校园+毕业)。\n\n整体不是普通拼贴，而是高级的剪影轮廓填充式叙事合成，带有双重曝光式联想，但更偏电影海报与梦幻水彩插画融合格;柔和空气透视，轻雾化过波，纸张颗粒，边缘白与刷痕，大面积留白，版式克制高级，安静、宏大、神圣、怀旧、诗意、传说感。\n\n风格、色彩、场景、材质全部根据主题自动适配，所有元素必须强绑定主题，一眼识别，不要杂乱，不要硬拼贴，不要模板化背景，不要廉价奇幻素材。如果有字体用英文。",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Prompt extracted from a public X/Twitter post by Rachel (Zesee) and reused with attribution at user request. The generation prompt keeps the narrative scope and avoids adding unrequested identities or styles."
+      },
+      "promptSources": [
+        {
+          "title": "GPT-image2 narrative poster generation prompt",
+          "url": "https://x.com/Zesee/status/2049036808839700789",
+          "authorOrPublisher": "Rachel / @Zesee",
+          "license": "public social post; prompt reused with attribution at user request",
+          "accessedAt": "2026-04-28",
+          "usedAs": "original_prompt_source / author_credit / social_workflow_reference"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-28",
+        "reviewNote": "Prompt is safe for publication: no real public figures, no explicit content, no harmful or political material."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/redraw_2026_04_28/zesee_x_prompt_redraw.jpg"
+    },
+    {
+      "title": "GPT Image 2 portrait with direct-flash izakaya style",
+      "caption": "复用 BubbleBrain 的热门 prompt，重绘一张日式居酒屋氛围的人物肖像。",
+      "path": "assets/images/277-gpt-image-2-portrait-with-direct-flash-izakaya-style.jpg",
+      "alt": "Direct flash portrait in a Japanese izakaya setting with cinematic side lighting",
+      "width": 680,
+      "height": 294,
+      "createdAt": "2026-04-28 20:02:00",
+      "batch": "019dd5c1-redraw-x-bubble",
+      "tags": [
+        "x-prompt-redraw",
+        "gpt-image-2",
+        "portrait",
+        "flash-photography",
+        "izakaya",
+        "social-workflow"
+      ],
+      "prompt": "Portrait. by GPT Image 2\n---prompt--- Japanese izakaya portrait, direct flash photography, on-camera flash, harsh frontal lighting, strong flash shadow behind subject, high contrast highlights, slight overexposed skin, visible specular highlights a stunning beautiful japanese woman sitting casually inside a small izakaya, wooden table, skewers, beer glass, small plates, cluttered authentic environment hair: natural black hair, slightly messy but intentionally styled, soft volume, loose strands framing face, subtle shine catching flash makeup: understated but intentional, dewy skin, slight glow on cheekbones, soft smoky eye or subtle reddish-brown eye shadow, lightly defined eyeliner, natural but slightly glossy lips, no heavy makeup, no over-perfection expression: calm, detached, slightly seductive without trying, half-lidded eyes, slow gaze, not smiling, not posing, subtle tension in lips, looking at camera as if aware but indifferent vibe: effortless sensuality, quiet confidence, \"she knows she looks good but doesn’t care\" lighting mix: cold white flash on subject + warm tungsten ambient lighting in background, strong color contrast (cool vs warm), deep shadows, uneven exposure falloff background: japanese izakaya interior, paper lanterns, handwritten menu on wall, smoke haze, warm yellow-orange tones, shallow depth but still readable environment composition: slightly tilted frame, imperfect candid framing, close to mid shot, flash flattening perspective, snapshot aesthetic film texture: 35mm film look, subtle grain, slight color shift, muted tones but strong flash highlights, light halation around bright areas mood: late night, intimate, ambiguous, subtle tension, \"caught between distance and attraction\" --ar 65:28",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Prompt extracted from a public X/Twitter post by BubbleBrain and reused with attribution at user request. Minor normalization only was applied for consistency."
+      },
+      "promptSources": [
+        {
+          "title": "GPT Image 2 direct flash portrait prompt",
+          "url": "https://x.com/BubbleBrain/status/2048967068058554857",
+          "authorOrPublisher": "BubbleBrain / @BubbleBrain",
+          "license": "public social post; prompt reused with attribution at user request",
+          "accessedAt": "2026-04-28",
+          "usedAs": "original_prompt_source / author_credit / social_workflow_reference"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-28",
+        "reviewNote": "Prompt is screened: no explicit/violent content and no political or illegal guidance. Uses descriptive portrait photography only."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/redraw_2026_04_28/bubble_x_prompt_redraw.jpg"
+    },
+    {
       "title": "Use Case: K-Pop Choreography Sheet",
       "caption": "复用 Oogie 在 X 公开分享的 GPT Image 2 prompt，重绘为 16 格 K-pop 舞步编排信息图，并保留原帖 credit。",
       "path": "assets/images/274-use-case-k-pop-choreography-sheet.png",
