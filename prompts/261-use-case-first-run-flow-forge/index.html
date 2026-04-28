@@ -148,6 +148,47 @@
         justify-content: space-between;
         margin-bottom: 10px;
       }
+      .source-panel {
+        display: grid;
+        gap: 14px;
+        margin-top: 18px;
+      }
+      .source-thanks,
+      .source-note {
+        margin: 0;
+      }
+      .source-note strong {
+        color: var(--ink);
+      }
+      .source-list {
+        display: grid;
+        gap: 12px;
+      }
+      .source-item {
+        border: 1px solid var(--line);
+        background: #fdf7ea;
+        padding: 14px;
+      }
+      .source-item h3 {
+        margin: 0 0 8px;
+        font-size: 18px;
+        line-height: 1.2;
+      }
+      .source-meta {
+        margin: 4px 0 0;
+        color: var(--muted);
+        font-size: 13px;
+      }
+      .source-link {
+        color: var(--accent);
+        font: 900 12px ui-sans-serif, system-ui, sans-serif;
+        letter-spacing: 0;
+        text-transform: uppercase;
+        text-decoration: none;
+      }
+      .source-link:hover, .source-link:focus-visible {
+        text-decoration: underline;
+      }
       .copy-prompt {
         min-inline-size: 124px;
         min-height: 36px;
@@ -263,6 +304,58 @@ Composition: professional product-design review board, but not a 2x2 or 2x3 grid
 QA rail text: &quot;value first&quot;, &quot;one question&quot;, &quot;empty state CTA&quot;, &quot;pre-prompt&quot;, &quot;skip path&quot;, &quot;mobile-native&quot;. Include small pass/fix chips, activation checkpoints, and a compact footer stamp &quot;fictional app / no real brand / no source image&quot;.
 Visual style: crisp modern UX design artifact, readable short UI copy, soft off-white canvas, graphite annotations, muted garden greens, coral warnings, clean type, subtle shadows, high polish.
 Avoid: no real brands, no real platform logos, no app-store badges, no real people or faces, no public figures, no politics, no medical/legal/financial advice, no copyrighted characters, no copied UI, no dense tiny text, no lorem ipsum, no dashboard, no menu, no map, no physical apparatus, no 2x3 research board.</pre>
+      </section>
+      <section class="panel source-panel">
+        <div class="prompt-panel-header">
+          <h2>Credits and sources</h2>
+          <p class="meta">6 linked sources</p>
+        </div>
+        
+        <p class="source-note"><strong>Source note:</strong> Original fictional Pocket Orchard onboarding prototype generated locally after external source sweep. Sources informed only abstract onboarding workflow, prompt-to-UI constraints, progressive disclosure, journey-map storytelling, and mobile UI structure evaluation; no external prompt text, image, UI screen, app, brand, product UI, dataset sample, artwork, protected style, or source image was reused.</p>
+        <div class="source-list">
+          <article class="source-item">
+              <h3>Mobile App Onboarding | Design Framework | Case Study</h3>
+              <p class="source-meta"><strong>Robert Sens / Behance</strong></p>
+              <p class="source-meta">community_gallery / onboarding_flow_pattern_scan</p>
+              <p class="source-meta">Accessed 2026-04-27 · unspecified; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://www.behance.net/gallery/50546449/Mobile-App-Onboarding-Design-Framework-Case-Study?locale=en_US" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>AI UI Generator: How to Create App Interfaces in Minutes (2026 Guide)</h3>
+              <p class="source-meta"><strong>GenDesigns Team</strong></p>
+              <p class="source-meta">ai_ui_workflow / prompt_pattern_inspiration / evaluation_pattern</p>
+              <p class="source-meta">Accessed 2026-04-27 · unspecified; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://gendesigns.ai/blog/ai-ui-generator-guide" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>Mobile App Onboarding: Retaining Users Through UX Engineering</h3>
+              <p class="source-meta"><strong>Boundev Team</strong></p>
+              <p class="source-meta">onboarding_failure_mode / friction_scan / workflow_inspiration</p>
+              <p class="source-meta">Accessed 2026-04-27 · unspecified; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://www.boundev.com/blog/mobile-app-onboarding-ux-retention" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>Progressive disclosure in onboarding: the right amount of information</h3>
+              <p class="source-meta"><strong>Dominique Degottex / userTourKit</strong></p>
+              <p class="source-meta">progressive_disclosure_pattern / trigger_layer_model / evaluation_context</p>
+              <p class="source-meta">Accessed 2026-04-27 · unspecified; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://usertourkit.com/blog/progressive-disclosure-onboarding" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>How to generate storyboard images with AI</h3>
+              <p class="source-meta"><strong>Tanya from UXPressia / UXPressia Help Center</strong></p>
+              <p class="source-meta">journey_map_storytelling / scene_prompt_pattern / team_library_workflow</p>
+              <p class="source-meta">Accessed 2026-04-27 · unspecified; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://help.uxpressia.com/en/articles/11961358-how-to-generate-storyboard-images-with-ai" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>Rico: A mobile app dataset for building data-driven design applications</h3>
+              <p class="source-meta"><strong>Biplab Deka, Zifeng Huang, Chad Franzen, Joshua Hibschman, Daniel Afergan, Yang Li, Jeffrey Nichols, Ranjitha Kumar / Illinois Experts</strong></p>
+              <p class="source-meta">benchmark_dataset / mobile_ui_structure_context / design_mining_pattern</p>
+              <p class="source-meta">Accessed 2026-04-27 · research publication page; no dataset screenshot/prompt/image reuse</p>
+              <p><a class="source-link" href="https://experts.illinois.edu/en/publications/rico-a-mobile-app-dataset-for-building-data-driven-design-applica/" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+        </div>
       </section>
       <section>
         <h2>Related GPT Image 2 Prompt Examples</h2>

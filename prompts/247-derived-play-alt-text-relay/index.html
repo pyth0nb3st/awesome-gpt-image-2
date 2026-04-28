@@ -148,6 +148,47 @@
         justify-content: space-between;
         margin-bottom: 10px;
       }
+      .source-panel {
+        display: grid;
+        gap: 14px;
+        margin-top: 18px;
+      }
+      .source-thanks,
+      .source-note {
+        margin: 0;
+      }
+      .source-note strong {
+        color: var(--ink);
+      }
+      .source-list {
+        display: grid;
+        gap: 12px;
+      }
+      .source-item {
+        border: 1px solid var(--line);
+        background: #fdf7ea;
+        padding: 14px;
+      }
+      .source-item h3 {
+        margin: 0 0 8px;
+        font-size: 18px;
+        line-height: 1.2;
+      }
+      .source-meta {
+        margin: 4px 0 0;
+        color: var(--muted);
+        font-size: 13px;
+      }
+      .source-link {
+        color: var(--accent);
+        font: 900 12px ui-sans-serif, system-ui, sans-serif;
+        letter-spacing: 0;
+        text-transform: uppercase;
+        text-decoration: none;
+      }
+      .source-link:hover, .source-link:focus-visible {
+        text-decoration: underline;
+      }
       .copy-prompt {
         min-inline-size: 124px;
         min-height: 36px;
@@ -272,6 +313,58 @@ Visual style: refined accessibility workshop graphic, crisp flat print design wi
 Show the derived play clearly: generated chart assets become a human relay where people assemble alt-text reading order and improve vague descriptions.
 
 Safety and originality constraints: no real datasets, no real brands, no logos, no public figures, no politics/elections/parties, no medical/legal claims, no harmful instructions, no adult or explicit content, no gore, no celebrity likeness, no copyrighted characters, no living-artist style imitation. Do not copy any external prompt, chart, layout, image, dataset, product UI, or source style.</pre>
+      </section>
+      <section class="panel source-panel">
+        <div class="prompt-panel-header">
+          <h2>Credits and sources</h2>
+          <p class="meta">6 linked sources</p>
+        </div>
+        
+        <p class="source-note"><strong>Source note:</strong> Original fictional chart accessibility relay generated locally after external source sweep. Sources informed abstract infographic prompt structure, poster/text failure modes, chart prompt failure modes, chart accessibility requirements, and infographic-chart benchmark patterns only; no external prompt text, image, chart, dataset, product UI, brand, character, artwork, protected style, or source image was reused.</p>
+        <div class="source-list">
+          <article class="source-item">
+              <h3>Infographic AI Prompts | Free Infographic Image Generation Prompts - Prompt Image</h3>
+              <p class="source-meta"><strong>Prompt Image</strong></p>
+              <p class="source-meta">community_gallery / infographic_prompt_pattern_scan</p>
+              <p class="source-meta">Accessed 2026-04-27 · unspecified; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://promptimage.org/prompt/category/infographic" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>Free AI Poster Generator Online</h3>
+              <p class="source-meta"><strong>Pict.AI</strong></p>
+              <p class="source-meta">poster_workflow / typography_failure_mode / format_scan</p>
+              <p class="source-meta">Accessed 2026-04-27 · unspecified; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://pict.ai/ai-poster-generator" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>AI Chart Prompts That Actually Work (25+ Templates)</h3>
+              <p class="source-meta"><strong>Fardino Team / 0xminds</strong></p>
+              <p class="source-meta">chart_prompt_pattern / failure_mode_scan / evaluation_pattern</p>
+              <p class="source-meta">Accessed 2026-04-27 · unspecified; no verbatim prompt/code reuse</p>
+              <p><a class="source-link" href="https://0xminds.com/blog/guides/ai-chart-prompts-data-visualization-guide" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>Accessibility: Data visualizations for more of your visitors</h3>
+              <p class="source-meta"><strong>Datawrapper</strong></p>
+              <p class="source-meta">chart_accessibility_pattern / evaluation_pattern / failure_mode_scan</p>
+              <p class="source-meta">Accessed 2026-04-27 · unspecified; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://www.datawrapper.de/accessibility.html" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>InfoChartQA: A Benchmark for Multimodal Question Answering on Infographic Charts</h3>
+              <p class="source-meta"><strong>Tianchi Xie, Minzhi Lin, Mengchen Liu, Yilin Ye, Changjian Chen, Shixia Liu / OpenReview</strong></p>
+              <p class="source-meta">benchmark_dataset / paired_plain_vs_infographic_pattern / visual_reasoning_failure_mode</p>
+              <p class="source-meta">Accessed 2026-04-27 · CC BY-NC 4.0</p>
+              <p><a class="source-link" href="https://openreview.net/forum?id=yzuPL2EXAn" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>ChartGalaxy: A Dataset for Infographic Chart Understanding and Generation</h3>
+              <p class="source-meta"><strong>Zhen Li, Duan Li, Yukai Guo, Xinyuan Guo, Bowen Li, Lanxi Xiao, Shenyu Qiao, Jiashu Chen, Zijian Wu, Hui Zhang, Xinhuan Shu, Shixia Liu / OpenReview</strong></p>
+              <p class="source-meta">benchmark_dataset / infographic_chart_type_scan / layout_template_pattern</p>
+              <p class="source-meta">Accessed 2026-04-27 · CC BY 4.0</p>
+              <p><a class="source-link" href="https://openreview.net/forum?id=P4lFbvZ4HH" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+        </div>
       </section>
       <section>
         <h2>Related GPT Image 2 Prompt Examples</h2>

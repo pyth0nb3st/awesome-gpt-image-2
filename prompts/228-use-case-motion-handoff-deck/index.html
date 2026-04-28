@@ -148,6 +148,47 @@
         justify-content: space-between;
         margin-bottom: 10px;
       }
+      .source-panel {
+        display: grid;
+        gap: 14px;
+        margin-top: 18px;
+      }
+      .source-thanks,
+      .source-note {
+        margin: 0;
+      }
+      .source-note strong {
+        color: var(--ink);
+      }
+      .source-list {
+        display: grid;
+        gap: 12px;
+      }
+      .source-item {
+        border: 1px solid var(--line);
+        background: #fdf7ea;
+        padding: 14px;
+      }
+      .source-item h3 {
+        margin: 0 0 8px;
+        font-size: 18px;
+        line-height: 1.2;
+      }
+      .source-meta {
+        margin: 4px 0 0;
+        color: var(--muted);
+        font-size: 13px;
+      }
+      .source-link {
+        color: var(--accent);
+        font: 900 12px ui-sans-serif, system-ui, sans-serif;
+        letter-spacing: 0;
+        text-transform: uppercase;
+        text-decoration: none;
+      }
+      .source-link:hover, .source-link:focus-visible {
+        text-decoration: underline;
+      }
       .copy-prompt {
         min-inline-size: 124px;
         min-height: 36px;
@@ -271,6 +312,58 @@ Mechanism: demonstrate that GPT Image can be used to make a static storyboard ha
 Style: premium product-design interface mixed with cinematic storyboard art, crisp vector-like UI overlays on soft illustrated thumbnails, off-white and graphite UI, deep teal water, amber lantern accents, high contrast, exact alignment, sophisticated but not corporate-generic. No purple-dominant palette, no decorative orbs, no watermark.
 
 Safety and rights: fictional project and fictional place only, no real brands or trademarks, no public figures, no politics, no dangerous instructions, no adult or explicit content, no gore or violence, no copyrighted characters, no living-artist style imitation, no source image reuse.</pre>
+      </section>
+      <section class="panel source-panel">
+        <div class="prompt-panel-header">
+          <h2>Credits and sources</h2>
+          <p class="meta">6 linked sources</p>
+        </div>
+        
+        <p class="source-note"><strong>Source note:</strong> Prompt concept generated locally after a fresh source sweep. External sources informed only abstract patterns: community gallery metadata cards, direct prompt iteration, image-to-video motion/camera cue separation, prompt-to-infographic workflow surfaces, and compositional evaluation chips. No external prompt text, image, source image, brand, character, artwork, or protected style was reused.</p>
+        <div class="source-list">
+          <article class="source-item">
+              <h3>AI Image Prompt Gallery - Browse AI Art Prompts with Examples</h3>
+              <p class="source-meta"><strong>SpacePrompts</strong></p>
+              <p class="source-meta">trend_scan / gallery_metadata_pattern</p>
+              <p class="source-meta">Accessed 2026-04-27 · unspecified; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://www.spaceprompts.com/gallery" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>AI Prompts Gallery</h3>
+              <p class="source-meta"><strong>Prompt Image</strong></p>
+              <p class="source-meta">visual_format_scan / category_taxonomy</p>
+              <p class="source-meta">Accessed 2026-04-27 · site says examples are free to copy, but treated as unspecified; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://promptimage.org/prompt" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>Writing effective text prompts</h3>
+              <p class="source-meta"><strong>Adobe</strong></p>
+              <p class="source-meta">prompt_pattern_inspiration / failure_mode_scan</p>
+              <p class="source-meta">Accessed 2026-04-27 · Adobe Help Center terms; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://helpx.adobe.com/firefly/web/generate-images-with-text-to-image/generate-images-using-text-prompts/writing-effective-text-prompts.html" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>Image to Video Prompting Guide</h3>
+              <p class="source-meta"><strong>Runway</strong></p>
+              <p class="source-meta">workflow_inspiration / motion_prompt_structure</p>
+              <p class="source-meta">Accessed 2026-04-27 · unspecified; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://help.runwayml.com/hc/en-us/articles/48324313115155-Image-to-Video-Prompting-Guide" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>Prompt2Infographic | Case Study</h3>
+              <p class="source-meta"><strong>Neovise-Tech</strong></p>
+              <p class="source-meta">product_workflow_inspiration / output_shape_reference</p>
+              <p class="source-meta">Accessed 2026-04-27 · unspecified; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://www.neovise-tech.com/case-study/prompt2infographic" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>T2I-CompBench: A Comprehensive Benchmark for Open-world Compositional Text-to-image Generation</h3>
+              <p class="source-meta"><strong>Hugging Face Papers / Kaiyi Huang, Kaiyue Sun, Enze Xie, Zhenguo Li, Xihui Liu</strong></p>
+              <p class="source-meta">benchmark_dataset / evaluation_pattern</p>
+              <p class="source-meta">Accessed 2026-04-27 · paper metadata page; dataset/paper terms vary; no prompt/image reuse</p>
+              <p><a class="source-link" href="https://huggingface.co/papers/2307.06350" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+        </div>
       </section>
       <section>
         <h2>Related GPT Image 2 Prompt Examples</h2>

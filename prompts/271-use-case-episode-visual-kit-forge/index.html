@@ -148,6 +148,47 @@
         justify-content: space-between;
         margin-bottom: 10px;
       }
+      .source-panel {
+        display: grid;
+        gap: 14px;
+        margin-top: 18px;
+      }
+      .source-thanks,
+      .source-note {
+        margin: 0;
+      }
+      .source-note strong {
+        color: var(--ink);
+      }
+      .source-list {
+        display: grid;
+        gap: 12px;
+      }
+      .source-item {
+        border: 1px solid var(--line);
+        background: #fdf7ea;
+        padding: 14px;
+      }
+      .source-item h3 {
+        margin: 0 0 8px;
+        font-size: 18px;
+        line-height: 1.2;
+      }
+      .source-meta {
+        margin: 4px 0 0;
+        color: var(--muted);
+        font-size: 13px;
+      }
+      .source-link {
+        color: var(--accent);
+        font: 900 12px ui-sans-serif, system-ui, sans-serif;
+        letter-spacing: 0;
+        text-transform: uppercase;
+        text-decoration: none;
+      }
+      .source-link:hover, .source-link:focus-visible {
+        text-decoration: underline;
+      }
       .copy-prompt {
         min-inline-size: 124px;
         min-height: 36px;
@@ -267,6 +308,65 @@ Visual details: make the assets look coordinated but not branded: invented typog
 Prompt mechanism shown: transcript summarization, timestamp alignment, speaker-turn consistency, multi-format adaptation, thumbnail readability, asset bundle provenance.
 
 Safety and originality constraints: no real podcast, no real host or guest, no faces or portraits, no platform logos, no real brands, no copyrighted shows, no celebrities, no political topics, no elections or parties, no true-crime violence imagery, no weapons, no harmful instructions, no medical/legal/financial claims, no adult or explicit content, no gore, no living-artist style imitation, no copied UI, no copied prompt text, no source image reuse, no 2x2 or 2x3 research board.</pre>
+      </section>
+      <section class="panel source-panel">
+        <div class="prompt-panel-header">
+          <h2>Credits and sources</h2>
+          <p class="meta">7 linked sources</p>
+        </div>
+        
+        <p class="source-note"><strong>Source note:</strong> Original fictional podcast visual-production artifact generated locally after external source sweep. Sources informed only abstract podcast prompt trends, per-episode artwork workflow, chapter metadata, transcript summarization, diarization/timestamp structures, thumbnail readability, and multi-format asset bundles; no external prompt text, image, product UI, show, host, guest, platform logo, brand, artwork, or source image was reused.</p>
+        <div class="source-list">
+          <article class="source-item">
+              <h3>Midjourney Podcast Image Prompts</h3>
+              <p class="source-meta"><strong>PromptDen / Tiny Works LLC community</strong></p>
+              <p class="source-meta">community_gallery / trend_scan / prompt_pattern_inspiration</p>
+              <p class="source-meta">Accessed 2026-04-28 · unspecified; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://promptden.com/inspiration/midjourney/podcast%2Ball" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>ZSky AI for Podcasters - Cover Art, Episode Visuals, Video Clips (2026)</h3>
+              <p class="source-meta"><strong>ZSky AI</strong></p>
+              <p class="source-meta">product_case / workflow_inspiration / output_bundle_pattern</p>
+              <p class="source-meta">Accessed 2026-04-28 · site terms; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://zsky.ai/for-podcasters" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>Generate Per Episode Cover Art</h3>
+              <p class="source-meta"><strong>Pierson Marks / Jellypod</strong></p>
+              <p class="source-meta">episode_art_workflow / publish_state_pattern / prompt_pattern_inspiration</p>
+              <p class="source-meta">Accessed 2026-04-28 · site copyright; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://www.jellypod.com/blog/generate-per-episode-cover-art" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>Podcast Chapter Markers Guide: Enhanced Navigation for Your Episodes</h3>
+              <p class="source-meta"><strong>PodRewind Team</strong></p>
+              <p class="source-meta">chapter_metadata_workflow / failure_mode_scan / evaluation_pattern</p>
+              <p class="source-meta">Accessed 2026-04-28 · unspecified; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://podrewind.com/blog/podcast-chapter-markers-guide" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>MediaSum: A Large-scale Media Interview Dataset for Dialogue Summarization</h3>
+              <p class="source-meta"><strong>Chenguang Zhu, Yang Liu, Jie Mei, Michael Zeng / Microsoft Research</strong></p>
+              <p class="source-meta">research_context / transcript_summary_pattern / benchmark_dataset</p>
+              <p class="source-meta">Accessed 2026-04-28 · research publication page; no dataset/text reuse</p>
+              <p><a class="source-link" href="https://www.microsoft.com/en-us/research/publication/mediasum-a-large-scale-media-interview-dataset-for-dialogue-summarization/" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>Structured Podcast Research Corpus (SPoRC)</h3>
+              <p class="source-meta"><strong>Emergent Mind</strong></p>
+              <p class="source-meta">research_context / diarization_schema_pattern / trend_scan</p>
+              <p class="source-meta">Accessed 2026-04-28 · unspecified; no dataset/media reuse</p>
+              <p><a class="source-link" href="https://www.emergentmind.com/topics/structured-podcast-research-corpus-sporc" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>AI-podcast cover generator</h3>
+              <p class="source-meta"><strong>Phygital+</strong></p>
+              <p class="source-meta">cover_art_workflow / thumbnail_readability_pattern / multi_format_export_pattern</p>
+              <p class="source-meta">Accessed 2026-04-28 · site copyright; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://design.phygital.plus/ai-podcast-cover-art-generator" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+        </div>
       </section>
       <section>
         <h2>Related GPT Image 2 Prompt Examples</h2>

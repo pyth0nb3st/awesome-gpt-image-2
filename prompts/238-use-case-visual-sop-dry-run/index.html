@@ -148,6 +148,47 @@
         justify-content: space-between;
         margin-bottom: 10px;
       }
+      .source-panel {
+        display: grid;
+        gap: 14px;
+        margin-top: 18px;
+      }
+      .source-thanks,
+      .source-note {
+        margin: 0;
+      }
+      .source-note strong {
+        color: var(--ink);
+      }
+      .source-list {
+        display: grid;
+        gap: 12px;
+      }
+      .source-item {
+        border: 1px solid var(--line);
+        background: #fdf7ea;
+        padding: 14px;
+      }
+      .source-item h3 {
+        margin: 0 0 8px;
+        font-size: 18px;
+        line-height: 1.2;
+      }
+      .source-meta {
+        margin: 4px 0 0;
+        color: var(--muted);
+        font-size: 13px;
+      }
+      .source-link {
+        color: var(--accent);
+        font: 900 12px ui-sans-serif, system-ui, sans-serif;
+        letter-spacing: 0;
+        text-transform: uppercase;
+        text-decoration: none;
+      }
+      .source-link:hover, .source-link:focus-visible {
+        text-decoration: underline;
+      }
       .copy-prompt {
         min-inline-size: 124px;
         min-height: 36px;
@@ -265,6 +306,51 @@ Scene: a clean printable one-page operating guide for a fictional community even
 Mechanism to make visible: GPT Image 2 is being used to dry-run whether a generated instruction sheet has readable text, correct sequence, clear roles, and reviewable visual hierarchy. Add subtle human QA markup in a different ink color: checkmarks on steps 1, 2, 4, 6; small repair notes on step 3 reading &quot;TEXT TOO SMALL&quot; and on step 5 reading &quot;ROLE DRIFT&quot;; a bottom audit strip with five chips: &quot;OCR&quot;, &quot;ORDER&quot;, &quot;ROLE&quot;, &quot;ACCESS&quot;, &quot;PASS&quot;. Make the artwork look like a production review artifact, not an ad poster and not a dashboard.
 
 Visual style: contemporary editorial document design, off-white paper, charcoal text, muted teal and coral accents, hand-drawn but precise icons, slight human imperfection in annotation strokes, crisp readable typography, generous margins, no logos, no real brands, no real people, no copyrighted characters, no politics, no harmful instructions, no gore, no explicit content. Avoid a 2x2 or 2x3 grid board, avoid tabletop game pieces, avoid lab instruments, avoid macro product photography.</pre>
+      </section>
+      <section class="panel source-panel">
+        <div class="prompt-panel-header">
+          <h2>Credits and sources</h2>
+          <p class="meta">5 linked sources</p>
+        </div>
+        
+        <p class="source-note"><strong>Source note:</strong> Created after a fresh external source sweep. External sources informed only abstract patterns around community gallery categories, plausible-but-wrong failure modes, visual-text benchmarks, iterative creator workflows, and anti-slop human review signals. No external prompt text, image, source image, brand, character, artwork, or protected style was reused.</p>
+        <div class="source-list">
+          <article class="source-item">
+              <h3>AI Image Prompts (Copy &amp; Paste) - 50+ Examples for 2026</h3>
+              <p class="source-meta"><strong>Fiddl.art Team</strong></p>
+              <p class="source-meta">gallery_category_scan / prompt_pattern_inspiration</p>
+              <p class="source-meta">Accessed 2026-04-27 · unspecified; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://fiddl.art/blog/en/ai-image-prompts" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>How I Stopped Image Models From Making &quot;Pretty but Dumb&quot; Design Choices</h3>
+              <p class="source-meta"><strong>Reddit r/PromptEngineering community</strong></p>
+              <p class="source-meta">community_failure_mode / workflow_inspiration</p>
+              <p class="source-meta">Accessed 2026-04-27 · user-generated public discussion; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://www.reddit.com/r/PromptEngineering/comments/1qaqew0/how_i_stopped_image_models_from_making_pretty_but/" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>TextInVision: Text and Prompt Complexity Driven Visual Text Generation Benchmark</h3>
+              <p class="source-meta"><strong>Forouzan Fallah, Maitreya Patel, Agneet Chatterjee, Vlad I. Morariu, Chitta Baral, Yezhou Yang / ML Anthology</strong></p>
+              <p class="source-meta">benchmark_dataset / typography_failure_mode / compositional_evaluation</p>
+              <p class="source-meta">Accessed 2026-04-27 · unspecified; no prompt/image reuse</p>
+              <p><a class="source-link" href="https://mlanthology.org/cvprw/2025/fallah2025cvprw-textinvision/" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>Image generation - Krea</h3>
+              <p class="source-meta"><strong>Krea</strong></p>
+              <p class="source-meta">creator_workflow_scan / iteration_pattern / settings_pattern</p>
+              <p class="source-meta">Accessed 2026-04-27 · unspecified; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://docs.krea.ai/user-guide/features/krea-image" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>The Anti-AI Slop Playbook</h3>
+              <p class="source-meta"><strong>Vogue Business / Amy Francombe</strong></p>
+              <p class="source-meta">trend_scan / visual_homogeneity_failure_mode / authenticity_signal</p>
+              <p class="source-meta">Accessed 2026-04-27 · unspecified; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://www.vogue.com/article/the-anti-ai-slop-playbook" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+        </div>
       </section>
       <section>
         <h2>Related GPT Image 2 Prompt Examples</h2>

@@ -148,6 +148,47 @@
         justify-content: space-between;
         margin-bottom: 10px;
       }
+      .source-panel {
+        display: grid;
+        gap: 14px;
+        margin-top: 18px;
+      }
+      .source-thanks,
+      .source-note {
+        margin: 0;
+      }
+      .source-note strong {
+        color: var(--ink);
+      }
+      .source-list {
+        display: grid;
+        gap: 12px;
+      }
+      .source-item {
+        border: 1px solid var(--line);
+        background: #fdf7ea;
+        padding: 14px;
+      }
+      .source-item h3 {
+        margin: 0 0 8px;
+        font-size: 18px;
+        line-height: 1.2;
+      }
+      .source-meta {
+        margin: 4px 0 0;
+        color: var(--muted);
+        font-size: 13px;
+      }
+      .source-link {
+        color: var(--accent);
+        font: 900 12px ui-sans-serif, system-ui, sans-serif;
+        letter-spacing: 0;
+        text-transform: uppercase;
+        text-decoration: none;
+      }
+      .source-link:hover, .source-link:focus-visible {
+        text-decoration: underline;
+      }
       .copy-prompt {
         min-inline-size: 124px;
         min-height: 36px;
@@ -257,6 +298,23 @@
           <button class="copy-prompt" type="button" data-copy-prompt="full-prompt" data-copy-label="Copy prompt" data-copied-label="Copied" data-failed-label="Copy failed" aria-live="polite">Copy prompt</button>
         </div>
         <pre id="full-prompt">Visible title: &quot;Derived Play: Crease Court Rally&quot;. Create one polished original derived-play concept image for a public GPT Image 2 gallery, 16:9 landscape. This is a tabletop folding-rule game derived from the Prompt Origami Atlas use case, but it must be a distinct playable object: a low rectangular paper court made from layered cardstock, with diagonal crease lanes, pop-up gates, foldable referee flags, blank geometric paper tokens, a rotating crease judge dial, score clips, and sealed source envelopes. The play rules are visible as seven short labels on the court edge: Valley Claim, Mountain Lift, Pocket Draft, Flap Block, Tab Read, Pleat Sprint, Seal Win. Gameplay: choose a paper token, claim one valley lane, lift a mountain gate, draft a pocket reference card, block one move with a mask flap, read a tiny tab phrase, sprint across accordion pleats without tearing the sheet, then seal the win envelope. Make it look like a photographed handmade strategy game, not a diagram grid, not a research board, not a card spread. Use paper texture, crease shadows, colored edge strips, small wooden clips, and clean studio lighting. No hands, no people, no real brands, no celebrities, no copyrighted characters. Original fictional content only. Avoid political persuasion, parties, elections, public political figures, propaganda, harmful instructions, sexual or nude content, explicit content, weapons, gore, graphic violence, and living-artist style imitation.</pre>
+      </section>
+      <section class="panel source-panel">
+        <div class="prompt-panel-header">
+          <h2>Credits and sources</h2>
+          <p class="meta">1 linked source</p>
+        </div>
+        
+        <p class="source-note"><strong>Source note:</strong> Original cardstock crease-court play mechanic and prompt generated locally. OpenAI documentation was consulted only as current image-generation capability background; no external prompt, image, article, case study, repository, artwork, brand, or character source was reused.</p>
+        <div class="source-list">
+          <article class="source-item">
+              <h3>Image generation | OpenAI API</h3>
+              <p class="source-meta"><strong>OpenAI</strong></p>
+              <p class="source-meta">Capability background for prompt-driven image generation and editing workflows; final crease-court game concept, wording, labels, and layout are original.</p>
+              <p class="source-meta">Accessed 2026-04-26 · OpenAI website terms; used only for factual image-generation workflow background, with no prompt text or artwork reused.</p>
+              <p><a class="source-link" href="https://platform.openai.com/docs/guides/image-generation/" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+        </div>
       </section>
       <section>
         <h2>Related GPT Image 2 Prompt Examples</h2>

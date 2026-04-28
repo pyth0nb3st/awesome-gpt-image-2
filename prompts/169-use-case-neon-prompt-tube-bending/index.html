@@ -148,6 +148,47 @@
         justify-content: space-between;
         margin-bottom: 10px;
       }
+      .source-panel {
+        display: grid;
+        gap: 14px;
+        margin-top: 18px;
+      }
+      .source-thanks,
+      .source-note {
+        margin: 0;
+      }
+      .source-note strong {
+        color: var(--ink);
+      }
+      .source-list {
+        display: grid;
+        gap: 12px;
+      }
+      .source-item {
+        border: 1px solid var(--line);
+        background: #fdf7ea;
+        padding: 14px;
+      }
+      .source-item h3 {
+        margin: 0 0 8px;
+        font-size: 18px;
+        line-height: 1.2;
+      }
+      .source-meta {
+        margin: 4px 0 0;
+        color: var(--muted);
+        font-size: 13px;
+      }
+      .source-link {
+        color: var(--accent);
+        font: 900 12px ui-sans-serif, system-ui, sans-serif;
+        letter-spacing: 0;
+        text-transform: uppercase;
+        text-decoration: none;
+      }
+      .source-link:hover, .source-link:focus-visible {
+        text-decoration: underline;
+      }
       .copy-prompt {
         min-inline-size: 124px;
         min-height: 36px;
@@ -266,6 +307,23 @@ Visual language: premium editorial still life, dark matte bench, cyan and warm a
 Safety and originality: fictional unpowered design metaphor only; no real brands, no public figures, no political content, no weapons, no operational electrical instructions, no sexual content, no graphic violence, no copyrighted characters, no living-artist style.
 Text accuracy: include the title &quot;Prompt Tube Bending&quot; and all seven short mechanism labels exactly; labels should be readable on small acrylic tags.
 Composition: portrait orientation, one continuous S-shaped glowing tube from upper left to lower right, tools and tags orbiting the line; clearly different from a research board.</pre>
+      </section>
+      <section class="panel source-panel">
+        <div class="prompt-panel-header">
+          <h2>Credits and sources</h2>
+          <p class="meta">1 linked source</p>
+        </div>
+        
+        <p class="source-note"><strong>Source note:</strong> Original fictional neon-tube prompt-control concept and prompt generated locally. OpenAI image-generation documentation was consulted only as current capability background; no external prompt, image, article concept, case study, repository, artwork, brand, or character source was reused.</p>
+        <div class="source-list">
+          <article class="source-item">
+              <h3>Image generation | OpenAI API</h3>
+              <p class="source-meta"><strong>OpenAI</strong></p>
+              <p class="source-meta">Capability background for prompt-driven image generation and editing workflows; final neon workshop concept, wording, labels, and layout are original.</p>
+              <p class="source-meta">Accessed 2026-04-26 · OpenAI website terms; used only for factual image-generation capability background, with no prompt text or artwork reused.</p>
+              <p><a class="source-link" href="https://platform.openai.com/docs/guides/image-generation" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+        </div>
       </section>
       <section>
         <h2>Related GPT Image 2 Prompt Examples</h2>

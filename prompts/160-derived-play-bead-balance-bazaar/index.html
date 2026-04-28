@@ -148,6 +148,47 @@
         justify-content: space-between;
         margin-bottom: 10px;
       }
+      .source-panel {
+        display: grid;
+        gap: 14px;
+        margin-top: 18px;
+      }
+      .source-thanks,
+      .source-note {
+        margin: 0;
+      }
+      .source-note strong {
+        color: var(--ink);
+      }
+      .source-list {
+        display: grid;
+        gap: 12px;
+      }
+      .source-item {
+        border: 1px solid var(--line);
+        background: #fdf7ea;
+        padding: 14px;
+      }
+      .source-item h3 {
+        margin: 0 0 8px;
+        font-size: 18px;
+        line-height: 1.2;
+      }
+      .source-meta {
+        margin: 4px 0 0;
+        color: var(--muted);
+        font-size: 13px;
+      }
+      .source-link {
+        color: var(--accent);
+        font: 900 12px ui-sans-serif, system-ui, sans-serif;
+        letter-spacing: 0;
+        text-transform: uppercase;
+        text-decoration: none;
+      }
+      .source-link:hover, .source-link:focus-visible {
+        text-decoration: underline;
+      }
       .copy-prompt {
         min-inline-size: 124px;
         min-height: 36px;
@@ -257,6 +298,23 @@
           <button class="copy-prompt" type="button" data-copy-prompt="full-prompt" data-copy-label="Copy prompt" data-copied-label="Copied" data-failed-label="Copy failed" aria-live="polite">Copy prompt</button>
         </div>
         <pre id="full-prompt">Visible title: &quot;Derived Play: Bead Balance Bazaar&quot;. Create a compact handcrafted tabletop skill game photographed from a low oblique angle, 16:9. It is a semicircular bead market tray with tilting rails, bead bowls, tiny balance scales, felt score cups, and removable square/tall/wide frame tickets. Seven etched rules are visible: Draft Row, Cap Phrase, Trade Weight, Letter Toll, Frame Ticket, Echo Tip, Seal Pot. Play: draft one subject bead row, cap a phrase before it crowds the tray, trade weight beads without tipping the scale, pay a letter toll for tiny wording, pick a frame ticket, correct drift by tipping one rail back, then seal the score pot. No hands or people. It should feel like a new bead economy game, not a normal abacus diagram and not any previous gallery apparatus such as grids, cards, routes, chips, mazes, stages, gardens, kitchens, paper rolls, trays, presses, looms, weather devices, pinball, or kite lines. All content is fictional and rights-safe; avoid unsafe, adult, graphic, political, branded, celebrity, or copyrighted material. No watermark or QR code.</pre>
+      </section>
+      <section class="panel source-panel">
+        <div class="prompt-panel-header">
+          <h2>Credits and sources</h2>
+          <p class="meta">1 linked source</p>
+        </div>
+        
+        <p class="source-note"><strong>Source note:</strong> Original bead-economy play mechanic and prompt generated locally. OpenAI documentation was consulted only as current GPT Image capability background; no external prompt, image, article, case study, repository, or artwork source was reused.</p>
+        <div class="source-list">
+          <article class="source-item">
+              <h3>Image generation | OpenAI API</h3>
+              <p class="source-meta"><strong>OpenAI</strong></p>
+              <p class="source-meta">Capability background for GPT Image generation and editing workflows; final bead-bazaar concept, prompt wording, labels, and layout are original.</p>
+              <p class="source-meta">Accessed 2026-04-26 · OpenAI website terms; used only for factual capability background, with no prompt text or artwork reused.</p>
+              <p><a class="source-link" href="https://platform.openai.com/docs/guides/image-generation/" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+        </div>
       </section>
       <section>
         <h2>Related GPT Image 2 Prompt Examples</h2>

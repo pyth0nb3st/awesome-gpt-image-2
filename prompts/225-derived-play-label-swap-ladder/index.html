@@ -148,6 +148,47 @@
         justify-content: space-between;
         margin-bottom: 10px;
       }
+      .source-panel {
+        display: grid;
+        gap: 14px;
+        margin-top: 18px;
+      }
+      .source-thanks,
+      .source-note {
+        margin: 0;
+      }
+      .source-note strong {
+        color: var(--ink);
+      }
+      .source-list {
+        display: grid;
+        gap: 12px;
+      }
+      .source-item {
+        border: 1px solid var(--line);
+        background: #fdf7ea;
+        padding: 14px;
+      }
+      .source-item h3 {
+        margin: 0 0 8px;
+        font-size: 18px;
+        line-height: 1.2;
+      }
+      .source-meta {
+        margin: 4px 0 0;
+        color: var(--muted);
+        font-size: 13px;
+      }
+      .source-link {
+        color: var(--accent);
+        font: 900 12px ui-sans-serif, system-ui, sans-serif;
+        letter-spacing: 0;
+        text-transform: uppercase;
+        text-decoration: none;
+      }
+      .source-link:hover, .source-link:focus-visible {
+        text-decoration: underline;
+      }
       .copy-prompt {
         min-inline-size: 124px;
         min-height: 36px;
@@ -271,6 +312,58 @@ Gameplay mechanism shown through layout: players start with a small fictional la
 Visual style: museum education worksheet, warm white paper, charcoal typography, teal, amber, and coral accents, crisp vector-like shapes, accessible contrast, neat printable margins, tactile but flat design. Distinct from a UI screenshot: it should feel like a downloadable activity handout plus small board-game rules embedded in the graphic.
 
 Safety and rights: fictional museum activity, fictional exhibit and data, no real museum names, no real brands or trademarks, no public figures, no politics, no harmful instructions, no adult or explicit content, no gore or violence, no copyrighted characters, no living-artist style imitation, no watermark.</pre>
+      </section>
+      <section class="panel source-panel">
+        <div class="prompt-panel-header">
+          <h2>Credits and sources</h2>
+          <p class="meta">6 linked sources</p>
+        </div>
+        
+        <p class="source-note"><strong>Source note:</strong> Derived locally from the Label Repair Console after fresh external pattern research. External sources informed abstract patterns around short text, multilingual labels, workflow sequencing, gallery metadata, and evaluation checkpoints only; no external prompt text, image, source image, brand, character, artwork, or protected style was reused.</p>
+        <div class="source-list">
+          <article class="source-item">
+              <h3>AI Prompt Gallery</h3>
+              <p class="source-meta"><strong>OpenPromptLib</strong></p>
+              <p class="source-meta">trend_scan / prompt_pattern_inspiration</p>
+              <p class="source-meta">Accessed 2026-04-27 · unspecified; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://openpromptlib.com/" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>GPT Image 2 Use Cases: 20+ Creative Applications</h3>
+              <p class="source-meta"><strong>ImagineArt / Syed Anas Hussain</strong></p>
+              <p class="source-meta">use_case_taxonomy / capability_context</p>
+              <p class="source-meta">Accessed 2026-04-27 · unspecified; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://www.imagine.art/blogs/gpt-image-2-use-cases" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>Text and Typography</h3>
+              <p class="source-meta"><strong>Ideogram</strong></p>
+              <p class="source-meta">typography_failure_mode / prompt_pattern_inspiration</p>
+              <p class="source-meta">Accessed 2026-04-27 · unspecified; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://docs.ideogram.ai/using-ideogram/prompting-guide/2-prompting-fundamentals/text-and-typography" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>DiffusionDB: A Large-scale Prompt Gallery Dataset for Text-to-Image Generative Models</h3>
+              <p class="source-meta"><strong>Hugging Face Papers / Zijie J. Wang, Evan Montoya, David Munechika, Haoyang Yang, Benjamin Hoover, Duen Horng Chau</strong></p>
+              <p class="source-meta">benchmark_dataset / failure_mode_scan</p>
+              <p class="source-meta">Accessed 2026-04-27 · paper metadata page; dataset/paper terms vary; no prompt/image reuse</p>
+              <p><a class="source-link" href="https://huggingface.co/papers/2210.14896" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>AI Image to Video Storyboard - AI Prompt</h3>
+              <p class="source-meta"><strong>DocsBot</strong></p>
+              <p class="source-meta">workflow_inspiration</p>
+              <p class="source-meta">Accessed 2026-04-27 · unspecified; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://docsbot.ai/prompts/creative/ai-image-to-video-storyboard" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>Midjourney Prompts for Storyboard</h3>
+              <p class="source-meta"><strong>OpenArt</strong></p>
+              <p class="source-meta">storyboard_format_reference / prompt_pattern_inspiration</p>
+              <p class="source-meta">Accessed 2026-04-27 · OpenArt site terms unspecified; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://openart.ai/blog/post/midjourney-prompts-for-storyboard" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+        </div>
       </section>
       <section>
         <h2>Related GPT Image 2 Prompt Examples</h2>

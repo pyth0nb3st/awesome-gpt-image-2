@@ -148,6 +148,47 @@
         justify-content: space-between;
         margin-bottom: 10px;
       }
+      .source-panel {
+        display: grid;
+        gap: 14px;
+        margin-top: 18px;
+      }
+      .source-thanks,
+      .source-note {
+        margin: 0;
+      }
+      .source-note strong {
+        color: var(--ink);
+      }
+      .source-list {
+        display: grid;
+        gap: 12px;
+      }
+      .source-item {
+        border: 1px solid var(--line);
+        background: #fdf7ea;
+        padding: 14px;
+      }
+      .source-item h3 {
+        margin: 0 0 8px;
+        font-size: 18px;
+        line-height: 1.2;
+      }
+      .source-meta {
+        margin: 4px 0 0;
+        color: var(--muted);
+        font-size: 13px;
+      }
+      .source-link {
+        color: var(--accent);
+        font: 900 12px ui-sans-serif, system-ui, sans-serif;
+        letter-spacing: 0;
+        text-transform: uppercase;
+        text-decoration: none;
+      }
+      .source-link:hover, .source-link:focus-visible {
+        text-decoration: underline;
+      }
       .copy-prompt {
         min-inline-size: 124px;
         min-height: 36px;
@@ -257,6 +298,30 @@
           <button class="copy-prompt" type="button" data-copy-prompt="full-prompt" data-copy-label="Copy prompt" data-copied-label="Copied" data-failed-label="Copy failed" aria-live="polite">Copy prompt</button>
         </div>
         <pre id="full-prompt">Visible title: &quot;Use Case Rig: Prompt Marionettes&quot;. Create one polished original GPT Image 2 use-case concept image for a public gallery, 16:9 landscape. Output format: a suspended marionette rehearsal rig photographed in a quiet fictional workshop, not a grid, not a contact sheet, not cards, not a board game, not a maze, not a chip, not an abacus, not a stage-camera setup. The artifact is a wooden overhead rail with pulleys, colored strings, tiny blank puppet silhouettes, cloth swatches, small paper cue tags, curtain strips, knot counters, and sealed source envelopes. Seven short labels are visible and legible: Pose String, Reference Knot, Occlusion Curtain, Texture Swatch, Caption Loop, Continuity Bell, Safety Seal. Meaning: use GPT Image 2 for pose/gesture drafting, multi-reference influence control, occlusion rehearsal, material consistency, short in-image labels, variant continuity checks, and provenance/safety sealing. Keep all figures as simple wooden non-human puppets with blank faces; no real people, no brands, no celebrities, no copyrighted characters. Original fictional content only. Avoid political persuasion, public political figures, parties, elections, harmful instructions, sexual or nude content, weapons, gore, graphic violence, watermark, QR code, or real trademarks. Make the mechanism visually distinct from prior gallery artifacts: no 2x3 panel board, no greenhouse, kitchen, seismograph roll, sand tray, mosaic, receipt, patchbay, lantern, planetarium, proof press, loom, weather station, pinball, kite line, hotel cabinet, film stage, microfluidic chip, or bead ledger.</pre>
+      </section>
+      <section class="panel source-panel">
+        <div class="prompt-panel-header">
+          <h2>Credits and sources</h2>
+          <p class="meta">2 linked sources</p>
+        </div>
+        
+        <p class="source-note"><strong>Source note:</strong> Original marionette-control concept and prompt generated locally. OpenAI documentation was consulted only as current GPT Image 2 capability background; no external prompt, image, article, case study, repository, artwork, brand, or character source was reused.</p>
+        <div class="source-list">
+          <article class="source-item">
+              <h3>GPT Image 2 Model | OpenAI API</h3>
+              <p class="source-meta"><strong>OpenAI</strong></p>
+              <p class="source-meta">Capability background for GPT Image 2 generation and editing support; final marionette-rig concept, wording, labels, and layout are original.</p>
+              <p class="source-meta">Accessed 2026-04-26 · OpenAI website terms; used only for factual model capability background, with no prompt text or artwork reused.</p>
+              <p><a class="source-link" href="https://developers.openai.com/api/docs/models/gpt-image-2" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>Image generation | OpenAI API</h3>
+              <p class="source-meta"><strong>OpenAI</strong></p>
+              <p class="source-meta">Capability background for prompt-driven image generation and editing workflows; no external creative expression was copied.</p>
+              <p class="source-meta">Accessed 2026-04-26 · OpenAI website terms; used only for factual image-generation workflow background, with no prompt text or artwork reused.</p>
+              <p><a class="source-link" href="https://platform.openai.com/docs/guides/image-generation/" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+        </div>
       </section>
       <section>
         <h2>Related GPT Image 2 Prompt Examples</h2>

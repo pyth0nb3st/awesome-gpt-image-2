@@ -148,6 +148,47 @@
         justify-content: space-between;
         margin-bottom: 10px;
       }
+      .source-panel {
+        display: grid;
+        gap: 14px;
+        margin-top: 18px;
+      }
+      .source-thanks,
+      .source-note {
+        margin: 0;
+      }
+      .source-note strong {
+        color: var(--ink);
+      }
+      .source-list {
+        display: grid;
+        gap: 12px;
+      }
+      .source-item {
+        border: 1px solid var(--line);
+        background: #fdf7ea;
+        padding: 14px;
+      }
+      .source-item h3 {
+        margin: 0 0 8px;
+        font-size: 18px;
+        line-height: 1.2;
+      }
+      .source-meta {
+        margin: 4px 0 0;
+        color: var(--muted);
+        font-size: 13px;
+      }
+      .source-link {
+        color: var(--accent);
+        font: 900 12px ui-sans-serif, system-ui, sans-serif;
+        letter-spacing: 0;
+        text-transform: uppercase;
+        text-decoration: none;
+      }
+      .source-link:hover, .source-link:focus-visible {
+        text-decoration: underline;
+      }
       .copy-prompt {
         min-inline-size: 124px;
         min-height: 36px;
@@ -263,6 +304,23 @@ Scene/backdrop: clean counter surface with one extra-long curling receipt passin
 Subject: the receipt is the hero, with line items, check marks, tiny thumbnail boxes, coupon perforations, subtotal stamps, a safe-source stamp, and crop marks. Include short readable fictional labels: PROMPT TOTAL, REFUND EDIT, COUPON STYLE, SAFE SOURCE, FORMAT CHECK, FINAL MATCH.
 Style: crisp editorial product photograph mixed with diagrammatic print design, high detail, readable short English labels, original fictional interface language, no watermark.
 Safety note: fully fictional and rights-safe; suitable for a public prompt gallery.</pre>
+      </section>
+      <section class="panel source-panel">
+        <div class="prompt-panel-header">
+          <h2>Credits and sources</h2>
+          <p class="meta">1 linked source</p>
+        </div>
+        
+        <p class="source-note"><strong>Source note:</strong> Original prompt and gameplay concept by this automation. OpenAI documentation was used only to confirm current image-generation capabilities and revised-prompt behavior.</p>
+        <div class="source-list">
+          <article class="source-item">
+              <h3>Image generation guide</h3>
+              <p class="source-meta"><strong>OpenAI</strong></p>
+              <p class="source-meta">Capability background for GPT Image prompt revision, text rendering, output sizing, and safety-aware generation; no external prompt, image, artwork, repository, or case-study concept was reused.</p>
+              <p class="source-meta">Accessed 2026-04-25 · OpenAI public documentation; terms apply</p>
+              <p><a class="source-link" href="https://platform.openai.com/docs/guides/image-generation/" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+        </div>
       </section>
       <section>
         <h2>Related GPT Image 2 Prompt Examples</h2>

@@ -148,6 +148,47 @@
         justify-content: space-between;
         margin-bottom: 10px;
       }
+      .source-panel {
+        display: grid;
+        gap: 14px;
+        margin-top: 18px;
+      }
+      .source-thanks,
+      .source-note {
+        margin: 0;
+      }
+      .source-note strong {
+        color: var(--ink);
+      }
+      .source-list {
+        display: grid;
+        gap: 12px;
+      }
+      .source-item {
+        border: 1px solid var(--line);
+        background: #fdf7ea;
+        padding: 14px;
+      }
+      .source-item h3 {
+        margin: 0 0 8px;
+        font-size: 18px;
+        line-height: 1.2;
+      }
+      .source-meta {
+        margin: 4px 0 0;
+        color: var(--muted);
+        font-size: 13px;
+      }
+      .source-link {
+        color: var(--accent);
+        font: 900 12px ui-sans-serif, system-ui, sans-serif;
+        letter-spacing: 0;
+        text-transform: uppercase;
+        text-decoration: none;
+      }
+      .source-link:hover, .source-link:focus-visible {
+        text-decoration: underline;
+      }
       .copy-prompt {
         min-inline-size: 124px;
         min-height: 36px;
@@ -266,6 +307,72 @@ Primary request: Show a fictional game-like QA challenge derived from Memory Pal
 Visual language: crisp illustrated puzzle worksheet with UI polish; pale mint background, charcoal linework, teal arrows, coral warning tags, yellow sticky-note repair cards, and clear spacious hierarchy. Make the route feel like a mnemonic inspection game: spatial sequence, item-location binding, source trace, and recall test are visible.
 
 Safety and originality constraints: no real school, university, brand, logo, person, face, address, copyrighted character, celebrity, political content, medical or therapeutic efficacy claim, dangerous instruction, source-image reuse, copied prompt, copied sketchnote, copied gallery image, or living-artist style imitation. Avoid fantasy palace decoration; emphasize rule-based recall repair.</pre>
+      </section>
+      <section class="panel source-panel">
+        <div class="prompt-panel-header">
+          <h2>Credits and sources</h2>
+          <p class="meta">8 linked sources</p>
+        </div>
+        
+        <p class="source-note"><strong>Source note:</strong> Original fictional recall-path repair game generated locally after external source sweep. Sources informed only abstract route/loci memory mechanics, sketchnote component evaluation, editable visual-note failure modes, and source-link review patterns; no external prompt text, image, sketchnote, product UI, research figure, source image, creator style, institution branding, or real personal memory was reused.</p>
+        <div class="source-list">
+          <article class="source-item">
+              <h3>memory palace, masterpiece composition, 8 k | Stable Diffusion</h3>
+              <p class="source-meta"><strong>OpenArt community</strong></p>
+              <p class="source-meta">community_gallery / trend_scan / visual_metaphor_failure_mode</p>
+              <p class="source-meta">Accessed 2026-04-28 · unspecified; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://openart.ai/discovery/sd-1008075851390275724" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>Mockr - Transform Ideas into Beautiful Sketchnotes</h3>
+              <p class="source-meta"><strong>Mockr</strong></p>
+              <p class="source-meta">product_case / sketchnote_workflow / output_format_scan</p>
+              <p class="source-meta">Accessed 2026-04-28 · site copyright; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://mockr.art/" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>Generate sketches for your notes | sketchnote.app</h3>
+              <p class="source-meta"><strong>sketchnote.app</strong></p>
+              <p class="source-meta">product_case / study_workflow / iteration_pattern</p>
+              <p class="source-meta">Accessed 2026-04-28 · site copyright; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://sketchnote.app/" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>Home | SketchScript</h3>
+              <p class="source-meta"><strong>SketchScript</strong></p>
+              <p class="source-meta">workflow_inspiration / visual_encoding_pattern / failure_mode_scan</p>
+              <p class="source-meta">Accessed 2026-04-28 · site copyright; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://sketchscript.app/" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>Sketchnote Components, Design Space Dimensions, and Strategies for Effective Visual Note Taking</h3>
+              <p class="source-meta"><strong>Rebecca Zheng, Marina Fernández Camporro, Hugo Romat, Nathalie Henry Riche, Benjamin Bach, Fanny Chevalier, Ken Hinckley, Nicolai Marquardt / Microsoft Research</strong></p>
+              <p class="source-meta">research_context / sketchnote_component_model / evaluation_pattern</p>
+              <p class="source-meta">Accessed 2026-04-28 · research publication page; no figure/image reuse</p>
+              <p><a class="source-link" href="https://www.microsoft.com/en-us/research/publication/sketchnote-components-design-space-dimensions-and-strategies-for-effective-visual-note-taking/?locale=ja" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>Memory Strategy: Memory Palace</h3>
+              <p class="source-meta"><strong>Stanford Center for Teaching and Learning</strong></p>
+              <p class="source-meta">learning_workflow / route_and_loci_pattern / prompt_pattern_inspiration</p>
+              <p class="source-meta">Accessed 2026-04-28 · site copyright; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://ctl.stanford.edu/memory-strategy-memory-palace" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>The Method of Loci: A Survey Review</h3>
+              <p class="source-meta"><strong>Cole R. Lawson / International Journal of Psychological Studies, CCSE</strong></p>
+              <p class="source-meta">research_context / method_of_loci_evaluation / trend_scan</p>
+              <p class="source-meta">Accessed 2026-04-28 · journal page terms; no verbatim text/figure reuse</p>
+              <p><a class="source-link" href="https://www.ccsenet.org/journal/index.php/ijps/article/view/0/53011" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>Digest videos into sketchnotes through AI</h3>
+              <p class="source-meta"><strong>Ken Hawkins</strong></p>
+              <p class="source-meta">blog_case / editability_failure_mode / workflow_inspiration</p>
+              <p class="source-meta">Accessed 2026-04-28 · unspecified; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://www.allaboutken.com/posts/20251205-digesting-ai-sketchnotes-video-preview/" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+        </div>
       </section>
       <section>
         <h2>Related GPT Image 2 Prompt Examples</h2>

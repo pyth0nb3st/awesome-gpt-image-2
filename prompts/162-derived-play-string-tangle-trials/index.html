@@ -148,6 +148,47 @@
         justify-content: space-between;
         margin-bottom: 10px;
       }
+      .source-panel {
+        display: grid;
+        gap: 14px;
+        margin-top: 18px;
+      }
+      .source-thanks,
+      .source-note {
+        margin: 0;
+      }
+      .source-note strong {
+        color: var(--ink);
+      }
+      .source-list {
+        display: grid;
+        gap: 12px;
+      }
+      .source-item {
+        border: 1px solid var(--line);
+        background: #fdf7ea;
+        padding: 14px;
+      }
+      .source-item h3 {
+        margin: 0 0 8px;
+        font-size: 18px;
+        line-height: 1.2;
+      }
+      .source-meta {
+        margin: 4px 0 0;
+        color: var(--muted);
+        font-size: 13px;
+      }
+      .source-link {
+        color: var(--accent);
+        font: 900 12px ui-sans-serif, system-ui, sans-serif;
+        letter-spacing: 0;
+        text-transform: uppercase;
+        text-decoration: none;
+      }
+      .source-link:hover, .source-link:focus-visible {
+        text-decoration: underline;
+      }
       .copy-prompt {
         min-inline-size: 124px;
         min-height: 36px;
@@ -257,6 +298,30 @@
           <button class="copy-prompt" type="button" data-copy-prompt="full-prompt" data-copy-label="Copy prompt" data-copied-label="Copied" data-failed-label="Copy failed" aria-live="polite">Copy prompt</button>
         </div>
         <pre id="full-prompt">Visible title: &quot;Derived Play: String Tangle Trials&quot;. Create one polished original derived-play concept image for a public GPT Image 2 gallery, 16:9 landscape. This is a physical dexterity-and-logic game derived from the Prompt Marionettes use case, but it must be a distinct object: a hanging string arena under an overhead wooden gantry, seen from a low oblique angle, with tension dials, sliding ring gates, felt target hoops, tiny blank wooden puppet tokens, numbered knot pegs, curtain blockers, swatch toll plates, bell counters, and sealed score envelopes. Seven etched rule labels are visible and legible: Pull Cue, Knot Draft, Curtain Feint, Swatch Toll, Bell Echo, Slack Rescue, Seal Score. Play: pull one cue string, draft a knot peg, use a curtain blocker to hide a token, pay a fabric swatch toll, ring the echo bell only when two variants still match, rescue slack without crossing strings, then seal the score envelope. No hands, no people, no real brands, no celebrities, no copyrighted characters. Original fictional content only. Avoid political persuasion, public political figures, parties, elections, harmful instructions, sexual or nude content, weapons, gore, graphic violence, watermark, QR code, or trademarks. Make it clearly unlike prior gallery mechanisms: not a 2x3 board, not cards, not a route map, not a pinball table, not a bead market, not an abacus, not a chip or valve maze, not a greenhouse, kitchen, seismograph, sand tray, mosaic, receipt, patchbay, lantern, planetarium, print press, loom, weather station, kite line, hotel cabinet, or film stage.</pre>
+      </section>
+      <section class="panel source-panel">
+        <div class="prompt-panel-header">
+          <h2>Credits and sources</h2>
+          <p class="meta">2 linked sources</p>
+        </div>
+        
+        <p class="source-note"><strong>Source note:</strong> Original string-arena play mechanic and prompt generated locally. OpenAI documentation was consulted only as current GPT Image 2 capability background; no external prompt, image, article, case study, repository, artwork, brand, or character source was reused.</p>
+        <div class="source-list">
+          <article class="source-item">
+              <h3>GPT Image 2 Model | OpenAI API</h3>
+              <p class="source-meta"><strong>OpenAI</strong></p>
+              <p class="source-meta">Capability background for GPT Image 2 generation and editing support; final string-arena game concept, wording, labels, and layout are original.</p>
+              <p class="source-meta">Accessed 2026-04-26 · OpenAI website terms; used only for factual model capability background, with no prompt text or artwork reused.</p>
+              <p><a class="source-link" href="https://developers.openai.com/api/docs/models/gpt-image-2" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>Image generation | OpenAI API</h3>
+              <p class="source-meta"><strong>OpenAI</strong></p>
+              <p class="source-meta">Capability background for prompt-driven image generation and editing workflows; no external creative expression was copied.</p>
+              <p class="source-meta">Accessed 2026-04-26 · OpenAI website terms; used only for factual image-generation workflow background, with no prompt text or artwork reused.</p>
+              <p><a class="source-link" href="https://platform.openai.com/docs/guides/image-generation/" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+        </div>
       </section>
       <section>
         <h2>Related GPT Image 2 Prompt Examples</h2>

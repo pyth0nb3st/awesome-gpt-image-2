@@ -148,6 +148,47 @@
         justify-content: space-between;
         margin-bottom: 10px;
       }
+      .source-panel {
+        display: grid;
+        gap: 14px;
+        margin-top: 18px;
+      }
+      .source-thanks,
+      .source-note {
+        margin: 0;
+      }
+      .source-note strong {
+        color: var(--ink);
+      }
+      .source-list {
+        display: grid;
+        gap: 12px;
+      }
+      .source-item {
+        border: 1px solid var(--line);
+        background: #fdf7ea;
+        padding: 14px;
+      }
+      .source-item h3 {
+        margin: 0 0 8px;
+        font-size: 18px;
+        line-height: 1.2;
+      }
+      .source-meta {
+        margin: 4px 0 0;
+        color: var(--muted);
+        font-size: 13px;
+      }
+      .source-link {
+        color: var(--accent);
+        font: 900 12px ui-sans-serif, system-ui, sans-serif;
+        letter-spacing: 0;
+        text-transform: uppercase;
+        text-decoration: none;
+      }
+      .source-link:hover, .source-link:focus-visible {
+        text-decoration: underline;
+      }
       .copy-prompt {
         min-inline-size: 124px;
         min-height: 36px;
@@ -270,6 +311,7 @@ Show six distinct playable mechanics as labeled zones on the same pinball board,
 
 Visual requirements: one continuous arcade object with all six labels integrated into the playfield, visible balls/tokens in motion, score windows, accepted/rejected output tickets, and tiny generated thumbnails. Use varied accent colors on polished wood, brushed metal, glass, rubber, LEDs, paper tickets, and neutral studio background. Professional editorial product photography, crisp concept-art detail, readable labels only, playful but rigorous, not dominated by purple, beige, slate, brown, or orange.</pre>
       </section>
+      
       <section>
         <h2>Related GPT Image 2 Prompt Examples</h2>
         <div class="grid">

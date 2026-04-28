@@ -148,6 +148,47 @@
         justify-content: space-between;
         margin-bottom: 10px;
       }
+      .source-panel {
+        display: grid;
+        gap: 14px;
+        margin-top: 18px;
+      }
+      .source-thanks,
+      .source-note {
+        margin: 0;
+      }
+      .source-note strong {
+        color: var(--ink);
+      }
+      .source-list {
+        display: grid;
+        gap: 12px;
+      }
+      .source-item {
+        border: 1px solid var(--line);
+        background: #fdf7ea;
+        padding: 14px;
+      }
+      .source-item h3 {
+        margin: 0 0 8px;
+        font-size: 18px;
+        line-height: 1.2;
+      }
+      .source-meta {
+        margin: 4px 0 0;
+        color: var(--muted);
+        font-size: 13px;
+      }
+      .source-link {
+        color: var(--accent);
+        font: 900 12px ui-sans-serif, system-ui, sans-serif;
+        letter-spacing: 0;
+        text-transform: uppercase;
+        text-decoration: none;
+      }
+      .source-link:hover, .source-link:focus-visible {
+        text-decoration: underline;
+      }
       .copy-prompt {
         min-inline-size: 124px;
         min-height: 36px;
@@ -271,6 +312,58 @@ Exact readable text to render, keep short: title &quot;Use Case: Dialogue Comic 
 GPT Image play mechanism shown visually: tiny colored check chips next to each panel mark text accuracy, tone consistency, face consistency, panel order, and final pass. Show a small before/after speech bubble in panel 3 where a garbled bubble becomes &quot;谢谢&quot; using a clean edit arrow. The worksheet should make the workflow understandable at a glance without long explanation.
 
 Visual style: contemporary educational comic illustration, warm but not childish, clean ink line, soft watercolor fills, clear white speech bubbles, accessible contrast, generous margins, graphite text, teal and saffron accents, small coral correction mark. Avoid purple-dominant gradients, decorative blobs, fake brand logos, real trademarks, famous characters, celebrity likenesses, political content, adult content, violence, medical/legal claims, dangerous instructions, living-artist style imitation, watermark.</pre>
+      </section>
+      <section class="panel source-panel">
+        <div class="prompt-panel-header">
+          <h2>Credits and sources</h2>
+          <p class="meta">6 linked sources</p>
+        </div>
+        
+        <p class="source-note"><strong>Source note:</strong> Created after a fresh external source sweep. External sources informed only abstract patterns around gallery task categories, reusable prompt fields, picture-book continuity, text-placement failure modes, compositional evaluation, and prompt specificity. No external prompt text, image, source image, brand, character, artwork, or protected style was reused.</p>
+        <div class="source-list">
+          <article class="source-item">
+              <h3>GPT Image 2 Prompt Gallery: 2085 Copyable Image Prompts</h3>
+              <p class="source-meta"><strong>GPT Image 2 / gptimg2.art</strong></p>
+              <p class="source-meta">trend_scan / gallery_category_pattern</p>
+              <p class="source-meta">Accessed 2026-04-27 · unspecified; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://gptimg2.art/prompts/gpt-image-2" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>MY PROMPT STRUCTURE</h3>
+              <p class="source-meta"><strong>Civitai community article</strong></p>
+              <p class="source-meta">prompt_pattern_inspiration / workflow_inspiration</p>
+              <p class="source-meta">Accessed 2026-04-27 · unspecified; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://civitai.red/articles/11959/my-prompt-structure" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>Best Picture Books Ideas for Authors and Artists to Use with AI Image Generators</h3>
+              <p class="source-meta"><strong>NightCafe</strong></p>
+              <p class="source-meta">story_format_reference / educational_output_inspiration</p>
+              <p class="source-meta">Accessed 2026-04-27 · unspecified; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://nightcafe.studio/blogs/info/best-picture-books-ideas-for-authors-and-artists-to-use-with-ai-image-generators" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>ConceptMix: A Compositional Image Generation Benchmark with Controllable Difficulty</h3>
+              <p class="source-meta"><strong>Xindi Wu, Dingli Yu, Yangsibo Huang, Olga Russakovsky, Sanjeev Arora / OpenReview</strong></p>
+              <p class="source-meta">benchmark_dataset / compositional_evaluation / failure_mode_scan</p>
+              <p class="source-meta">Accessed 2026-04-27 · CC BY 4.0</p>
+              <p><a class="source-link" href="https://openreview.net/forum?id=2UWnlxVNPz" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>Prompt Engineering for Text-in-Image: Complete Guide 2026</h3>
+              <p class="source-meta"><strong>GLM-Image Team / glmimage.app</strong></p>
+              <p class="source-meta">typography_failure_mode / prompt_pattern_inspiration</p>
+              <p class="source-meta">Accessed 2026-04-27 · unspecified; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://glmimage.app/blog/text-in-image-prompts" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>I upgraded my AI image prompts using Gemini's advice - specifying lighting, layouts, and even fonts changed everything</h3>
+              <p class="source-meta"><strong>TechRadar / Lance Ulanoff</strong></p>
+              <p class="source-meta">trend_scan / prompt_specificity_pattern</p>
+              <p class="source-meta">Accessed 2026-04-27 · unspecified; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://www.techradar.com/ai-platforms-assistants/gemini/i-upgraded-my-ai-image-prompts-using-geminis-advice-specifying-lighting-layouts-and-even-fonts-changed-everything" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+        </div>
       </section>
       <section>
         <h2>Related GPT Image 2 Prompt Examples</h2>

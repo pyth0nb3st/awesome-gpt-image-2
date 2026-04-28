@@ -148,6 +148,47 @@
         justify-content: space-between;
         margin-bottom: 10px;
       }
+      .source-panel {
+        display: grid;
+        gap: 14px;
+        margin-top: 18px;
+      }
+      .source-thanks,
+      .source-note {
+        margin: 0;
+      }
+      .source-note strong {
+        color: var(--ink);
+      }
+      .source-list {
+        display: grid;
+        gap: 12px;
+      }
+      .source-item {
+        border: 1px solid var(--line);
+        background: #fdf7ea;
+        padding: 14px;
+      }
+      .source-item h3 {
+        margin: 0 0 8px;
+        font-size: 18px;
+        line-height: 1.2;
+      }
+      .source-meta {
+        margin: 4px 0 0;
+        color: var(--muted);
+        font-size: 13px;
+      }
+      .source-link {
+        color: var(--accent);
+        font: 900 12px ui-sans-serif, system-ui, sans-serif;
+        letter-spacing: 0;
+        text-transform: uppercase;
+        text-decoration: none;
+      }
+      .source-link:hover, .source-link:focus-visible {
+        text-decoration: underline;
+      }
       .copy-prompt {
         min-inline-size: 124px;
         min-height: 36px;
@@ -261,6 +302,23 @@
 Show six distinct use cases as integrated celestial instruments around the dome, without boxed panels: 1) reference-parallax-check, comparing a fictional object reference against a generated scene by shifting star sightlines; 2) mask-eclipse-edit, a local edit shown as a soft eclipse shadow over one harmless object; 3) orbit-crop-planner, multiple aspect-ratio windows riding along orbital tracks; 4) glyph-constellation-typeset, very short readable invented labels placed as star names; 5) nebula-noise-denoiser, messy prompt fog condensing into a clearer image region; 6) rights-safe-starfield-swap, real-world-looking but fully fictional marks and characters replaced by neutral invented symbols.
 
 Visual style: premium editorial 3D illustration plus technical drawing, precise and playful, cinematic observatory lighting, crisp labels and arrows but no dense text. Composition: wide 16:9, one continuous environment with a central telescope console and dome projection, no 2x3 layout, no cards, no loom, no weather station, no printshop, no film stage. Palette: deep teal, midnight blue, warm brass, soft white starlight, restrained coral highlights. Safety constraints: no real brands or logos, no celebrity likeness, no public political figures, no election or party material, no sexual content, no harmful instructions, no graphic violence, no copyrighted characters, no living-artist style imitation, no watermark.</pre>
+      </section>
+      <section class="panel source-panel">
+        <div class="prompt-panel-header">
+          <h2>Credits and sources</h2>
+          <p class="meta">1 linked source</p>
+        </div>
+        
+        <p class="source-note"><strong>Source note:</strong> Original automation concept and prompt; OpenAI documentation was consulted only for current capability background. No external prompt, image, artwork, repository, or case-study source was reused.</p>
+        <div class="source-list">
+          <article class="source-item">
+              <h3>Image generation guide</h3>
+              <p class="source-meta"><strong>OpenAI</strong></p>
+              <p class="source-meta">Current GPT Image capability background for generation, edits, masks, text rendering, output sizing, and limitations.</p>
+              <p class="source-meta">Accessed 2026-04-25 · OpenAI public documentation; used as capability background only, no prompt or image copied</p>
+              <p><a class="source-link" href="https://platform.openai.com/docs/guides/image-generation" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+        </div>
       </section>
       <section>
         <h2>Related GPT Image 2 Prompt Examples</h2>

@@ -148,6 +148,47 @@
         justify-content: space-between;
         margin-bottom: 10px;
       }
+      .source-panel {
+        display: grid;
+        gap: 14px;
+        margin-top: 18px;
+      }
+      .source-thanks,
+      .source-note {
+        margin: 0;
+      }
+      .source-note strong {
+        color: var(--ink);
+      }
+      .source-list {
+        display: grid;
+        gap: 12px;
+      }
+      .source-item {
+        border: 1px solid var(--line);
+        background: #fdf7ea;
+        padding: 14px;
+      }
+      .source-item h3 {
+        margin: 0 0 8px;
+        font-size: 18px;
+        line-height: 1.2;
+      }
+      .source-meta {
+        margin: 4px 0 0;
+        color: var(--muted);
+        font-size: 13px;
+      }
+      .source-link {
+        color: var(--accent);
+        font: 900 12px ui-sans-serif, system-ui, sans-serif;
+        letter-spacing: 0;
+        text-transform: uppercase;
+        text-decoration: none;
+      }
+      .source-link:hover, .source-link:focus-visible {
+        text-decoration: underline;
+      }
       .copy-prompt {
         min-inline-size: 124px;
         min-height: 36px;
@@ -270,6 +311,58 @@ Right third shows a vertical game rail with five short steps: &quot;Find&quot;, 
 Visual style: refined printable classroom design exercise, black-and-white line art with a few gray dotted guide marks, crisp typography, generous spacing, clean hierarchy, low-ink aesthetic, professional but playful. The game should clearly show a human evaluation loop for GPT Image 2 outputs: generated coloring pages become inspectable artifacts with concrete QA rules.
 
 Safety and originality constraints: fictional classroom material only; no real students, no real teachers, no faces, no real school names, no brands, no logos, no public figures, no politics/elections/parties, no medical/legal claims, no hazardous instructions, no adult or explicit content, no gore, no celebrity likeness, no copyrighted characters, no living-artist style imitation. Do not copy any external prompt, coloring page, article image, product UI, source image, artwork, character, or protected style.</pre>
+      </section>
+      <section class="panel source-panel">
+        <div class="prompt-panel-header">
+          <h2>Credits and sources</h2>
+          <p class="meta">6 linked sources</p>
+        </div>
+        
+        <p class="source-note"><strong>Source note:</strong> Original fictional coloring-page QA game generated locally after external source sweep. Sources informed abstract coloring-page workflow, clean line-art constraints, printable failure modes, sketch stroke evaluation, and vector stroke research context only; no external prompt text, image, coloring sheet, figure, product UI, brand, character, artwork, protected style, or source image was reused.</p>
+        <div class="source-list">
+          <article class="source-item">
+              <h3>OpenArt - Coloring Pages Community Model</h3>
+              <p class="source-meta"><strong>OpenArt community</strong></p>
+              <p class="source-meta">community_gallery / line_art_prompt_pattern_inspiration</p>
+              <p class="source-meta">Accessed 2026-04-27 · unspecified; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://openart.ai/gallery/community-models/yZJ0J7zvaettuSJevGi1" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>AI Coloring Pages &amp; Custom Books | Coloring.app</h3>
+              <p class="source-meta"><strong>Coloring.app</strong></p>
+              <p class="source-meta">product_case / coloring_book_workflow / print_export_pattern</p>
+              <p class="source-meta">Accessed 2026-04-27 · unspecified; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://coloring.app/" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>Free AI Coloring Page Generator - Adobe Firefly</h3>
+              <p class="source-meta"><strong>Adobe</strong></p>
+              <p class="source-meta">product_case / teacher_parent_user_scenario / clean_line_art_pattern</p>
+              <p class="source-meta">Accessed 2026-04-27 · unspecified site terms; no prompt/image reuse</p>
+              <p><a class="source-link" href="https://www.adobe.com/products/firefly/features/ai-drawing-generator/coloring-page.html" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>AI Coloring Book Prompt | 25+ Copy-Paste Pages in Minutes</h3>
+              <p class="source-meta"><strong>Media.io</strong></p>
+              <p class="source-meta">tutorial / prompt_constraint_pattern / printable_failure_mode</p>
+              <p class="source-meta">Accessed 2026-04-27 · unspecified; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://www.media.io/ai-prompts/ai-coloring-book-prompts.html" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>google/quickdraw · Datasets at Hugging Face</h3>
+              <p class="source-meta"><strong>Google / Hugging Face</strong></p>
+              <p class="source-meta">benchmark_dataset / sketch_stroke_pattern / evaluation_context</p>
+              <p class="source-meta">Accessed 2026-04-27 · CC BY 4.0</p>
+              <p><a class="source-link" href="https://huggingface.co/datasets/google/quickdraw" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>A Neural Representation of Sketch Drawings</h3>
+              <p class="source-meta"><strong>David Ha, Douglas Eck / Google Research</strong></p>
+              <p class="source-meta">research_context / vector_stroke_generation_pattern / failure_mode_scan</p>
+              <p class="source-meta">Accessed 2026-04-27 · research publication page; no figure/prompt/image reuse</p>
+              <p><a class="source-link" href="https://research.google/pubs/a-neural-representation-of-sketch-drawings/" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+        </div>
       </section>
       <section>
         <h2>Related GPT Image 2 Prompt Examples</h2>

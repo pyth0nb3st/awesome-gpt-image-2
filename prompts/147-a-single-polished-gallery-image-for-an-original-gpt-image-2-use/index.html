@@ -148,6 +148,47 @@
         justify-content: space-between;
         margin-bottom: 10px;
       }
+      .source-panel {
+        display: grid;
+        gap: 14px;
+        margin-top: 18px;
+      }
+      .source-thanks,
+      .source-note {
+        margin: 0;
+      }
+      .source-note strong {
+        color: var(--ink);
+      }
+      .source-list {
+        display: grid;
+        gap: 12px;
+      }
+      .source-item {
+        border: 1px solid var(--line);
+        background: #fdf7ea;
+        padding: 14px;
+      }
+      .source-item h3 {
+        margin: 0 0 8px;
+        font-size: 18px;
+        line-height: 1.2;
+      }
+      .source-meta {
+        margin: 4px 0 0;
+        color: var(--muted);
+        font-size: 13px;
+      }
+      .source-link {
+        color: var(--accent);
+        font: 900 12px ui-sans-serif, system-ui, sans-serif;
+        letter-spacing: 0;
+        text-transform: uppercase;
+        text-decoration: none;
+      }
+      .source-link:hover, .source-link:focus-visible {
+        text-decoration: underline;
+      }
       .copy-prompt {
         min-inline-size: 124px;
         min-height: 36px;
@@ -274,6 +315,23 @@ Use-case mechanisms shown on the same continuous trace:
 - Format Faultline: the final strip passes through three paper-width gates labeled &quot;1:1&quot;, &quot;4:5&quot;, and &quot;16:9&quot;, showing aspect ratio planning without making separate panels.
 
 Design details: elegant fictional instrument, no real brands, no people, no famous characters, no political content, no dangerous instructions, no sexual or graphic content. Use restrained colors with brass, graphite, teal ink, coral calibration marks, and warm paper. Include tiny provenance stamp reading &quot;fictional source-safe lab&quot;. Ensure text is legible but secondary to the artifact. High detail, editorial product-photography quality, soft shadows, crisp readable labels.</pre>
+      </section>
+      <section class="panel source-panel">
+        <div class="prompt-panel-header">
+          <h2>Credits and sources</h2>
+          <p class="meta">1 linked source</p>
+        </div>
+        
+        <p class="source-note"><strong>Source note:</strong> OpenAI documentation was used only as current GPT Image 2 capability background. The prompt, mechanism, labels, and visual artifact are original.</p>
+        <div class="source-list">
+          <article class="source-item">
+              <h3>GPT Image 2 Model | OpenAI API</h3>
+              <p class="source-meta"><strong>OpenAI</strong></p>
+              <p class="source-meta">Capability background for gpt-image-2 image generation and editing support; the gameplay concept, prompt, labels, and composition are original.</p>
+              <p class="source-meta">Accessed 2026-04-25 · OpenAI public documentation; referenced for capability background only, not reused as prompt text or visual source</p>
+              <p><a class="source-link" href="https://developers.openai.com/api/docs/models/gpt-image-2" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+        </div>
       </section>
       <section>
         <h2>Related GPT Image 2 Prompt Examples</h2>

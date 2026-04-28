@@ -148,6 +148,47 @@
         justify-content: space-between;
         margin-bottom: 10px;
       }
+      .source-panel {
+        display: grid;
+        gap: 14px;
+        margin-top: 18px;
+      }
+      .source-thanks,
+      .source-note {
+        margin: 0;
+      }
+      .source-note strong {
+        color: var(--ink);
+      }
+      .source-list {
+        display: grid;
+        gap: 12px;
+      }
+      .source-item {
+        border: 1px solid var(--line);
+        background: #fdf7ea;
+        padding: 14px;
+      }
+      .source-item h3 {
+        margin: 0 0 8px;
+        font-size: 18px;
+        line-height: 1.2;
+      }
+      .source-meta {
+        margin: 4px 0 0;
+        color: var(--muted);
+        font-size: 13px;
+      }
+      .source-link {
+        color: var(--accent);
+        font: 900 12px ui-sans-serif, system-ui, sans-serif;
+        letter-spacing: 0;
+        text-transform: uppercase;
+        text-decoration: none;
+      }
+      .source-link:hover, .source-link:focus-visible {
+        text-decoration: underline;
+      }
       .copy-prompt {
         min-inline-size: 124px;
         min-height: 36px;
@@ -270,6 +311,65 @@ Composition:
 - Footer: &quot;fictional stratigraphy puzzle - no source image&quot;.
 
 Style: crisp archival field sheet meets playful puzzle design, off-white paper, black technical ink, restrained red correction marks, muted ochre/umber/clay/gray soil colors, clean legible typography, publication-quality details. Emphasize relationships, cross-references, and repair mechanics. Avoid political content, religious symbols, dangerous instructions, graphic violence, adult content, real brands, protected characters, living-artist style references, and copied external images.</pre>
+      </section>
+      <section class="panel source-panel">
+        <div class="prompt-panel-header">
+          <h2>Credits and sources</h2>
+          <p class="meta">7 linked sources</p>
+        </div>
+        
+        <p class="source-note"><strong>Source note:</strong> Original fictional stratigraphy relation-repair game generated locally after external source sweep. Sources informed only abstract field-section drawing conventions, context-sheet relationship checks, linked-record evaluation, and technical illustration clarity patterns; no external prompt text, image, form, archaeological site, artifact, 3D model, institution branding, protected cultural object, artwork, or source image was reused.</p>
+        <div class="source-list">
+          <article class="source-item">
+              <h3>3D model collections by Digital Archaeology Laboratory (@digitalarch)</h3>
+              <p class="source-meta"><strong>Digital Archaeology Laboratory / Sketchfab</strong></p>
+              <p class="source-meta">community_gallery / cultural_heritage_media_scan / workflow_inspiration</p>
+              <p class="source-meta">Accessed 2026-04-27 · Sketchfab site terms; no model/image reuse</p>
+              <p><a class="source-link" href="https://sketchfab.com/digitalarch/collections" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>Illustration in the Field</h3>
+              <p class="source-meta"><strong>Archaeo-Logic</strong></p>
+              <p class="source-meta">field_drawing_pattern / section_plan_workflow / prompt_pattern_inspiration</p>
+              <p class="source-meta">Accessed 2026-04-27 · unspecified; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://www.archaeologic.org/illustration-in-the-field" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>Context Sheet Recording</h3>
+              <p class="source-meta"><strong>BAJR - British Archaeology Jobs and Resources</strong></p>
+              <p class="source-meta">context_sheet_workflow / record_cross_reference_pattern / failure_mode_scan</p>
+              <p class="source-meta">Accessed 2026-04-27 · unspecified; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://www.bajr.org/single-context-recording/" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>Open Context: Highlights</h3>
+              <p class="source-meta"><strong>Open Context / Alexandria Archive Institute</strong></p>
+              <p class="source-meta">benchmark_dataset / archaeology_data_model_context / linked_record_pattern</p>
+              <p class="source-meta">Accessed 2026-04-27 · site terms vary by record; no data/media reuse</p>
+              <p><a class="source-link" href="https://opencontext.org/highlights/" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>Category:Archaeological illustrations</h3>
+              <p class="source-meta"><strong>Wikimedia Commons contributors</strong></p>
+              <p class="source-meta">historical_format_scan / technical_illustration_vocabulary</p>
+              <p class="source-meta">Accessed 2026-04-27 · per-file licenses vary; category text CC BY-SA / structured data CC0; no image reuse</p>
+              <p><a class="source-link" href="https://commons.wikimedia.org/wiki/Category%3AArchaeological_illustrations" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>Archaeological Illustration</h3>
+              <p class="source-meta"><strong>AIC Wiki / Conservation Wiki contributors</strong></p>
+              <p class="source-meta">illustration_evaluation_pattern / publication_clarity_context</p>
+              <p class="source-meta">Accessed 2026-04-27 · wiki terms; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://www.conservation-wiki.com/wiki/Archaeological_Illustration" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>3D Artifact Gallery</h3>
+              <p class="source-meta"><strong>Illinois State Archaeological Survey</strong></p>
+              <p class="source-meta">public_access_pattern / 3d_scan_context / ethical_publication_scan</p>
+              <p class="source-meta">Accessed 2026-04-27 · unspecified; no model/image reuse</p>
+              <p><a class="source-link" href="https://3d-gallery.isas.illinois.edu/" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+        </div>
       </section>
       <section>
         <h2>Related GPT Image 2 Prompt Examples</h2>

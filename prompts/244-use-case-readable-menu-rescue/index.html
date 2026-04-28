@@ -148,6 +148,47 @@
         justify-content: space-between;
         margin-bottom: 10px;
       }
+      .source-panel {
+        display: grid;
+        gap: 14px;
+        margin-top: 18px;
+      }
+      .source-thanks,
+      .source-note {
+        margin: 0;
+      }
+      .source-note strong {
+        color: var(--ink);
+      }
+      .source-list {
+        display: grid;
+        gap: 12px;
+      }
+      .source-item {
+        border: 1px solid var(--line);
+        background: #fdf7ea;
+        padding: 14px;
+      }
+      .source-item h3 {
+        margin: 0 0 8px;
+        font-size: 18px;
+        line-height: 1.2;
+      }
+      .source-meta {
+        margin: 4px 0 0;
+        color: var(--muted);
+        font-size: 13px;
+      }
+      .source-link {
+        color: var(--accent);
+        font: 900 12px ui-sans-serif, system-ui, sans-serif;
+        letter-spacing: 0;
+        text-transform: uppercase;
+        text-decoration: none;
+      }
+      .source-link:hover, .source-link:focus-visible {
+        text-decoration: underline;
+      }
       .copy-prompt {
         min-inline-size: 124px;
         min-height: 36px;
@@ -257,6 +298,58 @@
           <button class="copy-prompt" type="button" data-copy-prompt="full-prompt" data-copy-label="Copy prompt" data-copied-label="Copied" data-failed-label="Copy failed" aria-live="polite">Copy prompt</button>
         </div>
         <pre id="full-prompt">Create a single finished GPT Image 2 use-case demo image, portrait A4 ratio, titled in small crisp English text: &quot;Use Case: Readable Menu Rescue&quot;. Show a fictional, unbranded neighborhood cafe menu redesign workflow as a print-ready before/after proof sheet, not a product photo and not a grid of prompt tags. Left third: a faded fictional original menu named &quot;Luna Leaf Cafe&quot; with intentionally cluttered but readable placeholder sections, no real logo. Center: a clean transformation lane with short labels: &quot;Hierarchy&quot;, &quot;Allergy Icons&quot;, &quot;Low-Light Check&quot;, &quot;Price Scan&quot;, &quot;Edit Notes&quot;. Right two-thirds: the final accessible menu layout for the same fictional cafe, with clear large typography, high contrast, grouped sections, simple invented dishes such as &quot;Moon Rice Bowl&quot;, &quot;Green Pear Toast&quot;, &quot;Quiet Soup&quot;, &quot;Citrus Tea&quot;, and visible allergy-safe icon legend using abstract symbols only. Add a small QA strip along the bottom with check chips: &quot;Readable&quot;, &quot;Grouped&quot;, &quot;Prices Clear&quot;, &quot;Icons Match&quot;, &quot;Print Ready&quot;. Style: polished editorial design mockup, realistic flat-lay scanner proof with paper texture but primarily a graphic workflow, sophisticated but not luxury-brand, no real brands, no people, no copyrighted characters, no political content. Make all visible text short and legible; avoid tiny paragraphs.</pre>
+      </section>
+      <section class="panel source-panel">
+        <div class="prompt-panel-header">
+          <h2>Credits and sources</h2>
+          <p class="meta">6 linked sources</p>
+        </div>
+        
+        <p class="source-note"><strong>Source note:</strong> Original fictional accessible-menu workflow and prompt generated locally after external source sweep. Sources informed abstract menu workflow, accessibility failure modes, dense-text evaluation, and human preference/evaluation patterns only; no external prompt text, image, brand, character, artwork, protected style, or source image was reused.</p>
+        <div class="source-list">
+          <article class="source-item">
+              <h3>AI Menu Generator | Prompt Library</h3>
+              <p class="source-meta"><strong>LogicBalls / PromptLib Team</strong></p>
+              <p class="source-meta">community_prompt_library / workflow_inspiration</p>
+              <p class="source-meta">Accessed 2026-04-27 · unspecified; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://logicballs.com/ai-prompt/prompts/ai-menu-generator" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>Free Online AI Menu Generator</h3>
+              <p class="source-meta"><strong>Mew Design / MAGOAI LTD</strong></p>
+              <p class="source-meta">product_case / menu_layout_workflow / typography_failure_mode</p>
+              <p class="source-meta">Accessed 2026-04-27 · unspecified; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://mew.design/create/ai-menu-generator" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>Building Accessible Restaurant Menus in React</h3>
+              <p class="source-meta"><strong>LogicLeap</strong></p>
+              <p class="source-meta">accessibility_workflow / failure_mode_scan / evaluation_pattern</p>
+              <p class="source-meta">Accessed 2026-04-27 · unspecified; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://www.logic-leap.co.uk/blog/accessible-restaurant-menus-react" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>Making Your Restaurant Menu Accessible: Ultimate Guide to QR Menus</h3>
+              <p class="source-meta"><strong>QR Menu Generator / Evrenus Firat Polat</strong></p>
+              <p class="source-meta">readability_pattern / menu_structure_pattern / failure_mode_scan</p>
+              <p class="source-meta">Accessed 2026-04-27 · unspecified; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://qrmenugenerator.io/blog/making-your-restaurant-menu-accessible-qr-menus-guide" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>TextAtlasEval</h3>
+              <p class="source-meta"><strong>CSU-JPG / Hugging Face</strong></p>
+              <p class="source-meta">benchmark_dataset / dense_text_evaluation / typography_failure_mode</p>
+              <p class="source-meta">Accessed 2026-04-27 · MIT</p>
+              <p><a class="source-link" href="https://huggingface.co/datasets/CSU-JPG/TextAtlasEval" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+<article class="source-item">
+              <h3>Open Preference Dataset for Text-to-Image Generation by the Hugging Face Community</h3>
+              <p class="source-meta"><strong>Hugging Face Community / David Berenstein, Ben Burtenshaw, Daniel Vila, Daniel van Strien, Sayak Paul, Ame Vie, Linoy Tsaban</strong></p>
+              <p class="source-meta">preference_dataset / human_evaluation_pattern / safety_filtering_pattern</p>
+              <p class="source-meta">Accessed 2026-04-27 · Apache 2.0 dataset discussion; no verbatim prompt/image reuse</p>
+              <p><a class="source-link" href="https://huggingface.co/blog/image-preferences" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+        </div>
       </section>
       <section>
         <h2>Related GPT Image 2 Prompt Examples</h2>

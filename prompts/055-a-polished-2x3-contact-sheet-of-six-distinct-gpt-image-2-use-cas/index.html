@@ -148,6 +148,47 @@
         justify-content: space-between;
         margin-bottom: 10px;
       }
+      .source-panel {
+        display: grid;
+        gap: 14px;
+        margin-top: 18px;
+      }
+      .source-thanks,
+      .source-note {
+        margin: 0;
+      }
+      .source-note strong {
+        color: var(--ink);
+      }
+      .source-list {
+        display: grid;
+        gap: 12px;
+      }
+      .source-item {
+        border: 1px solid var(--line);
+        background: #fdf7ea;
+        padding: 14px;
+      }
+      .source-item h3 {
+        margin: 0 0 8px;
+        font-size: 18px;
+        line-height: 1.2;
+      }
+      .source-meta {
+        margin: 4px 0 0;
+        color: var(--muted);
+        font-size: 13px;
+      }
+      .source-link {
+        color: var(--accent);
+        font: 900 12px ui-sans-serif, system-ui, sans-serif;
+        letter-spacing: 0;
+        text-transform: uppercase;
+        text-decoration: none;
+      }
+      .source-link:hover, .source-link:focus-visible {
+        text-decoration: underline;
+      }
       .copy-prompt {
         min-inline-size: 124px;
         min-height: 36px;
@@ -258,6 +299,7 @@
         </div>
         <pre id="full-prompt">Create a polished 2x3 contact sheet of six distinct GPT Image 2 use-case concepts. No brand logos, no real celebrities, no copyrighted character styles. Each panel should look like a finished mini artwork, with small clean English labels only: 1) TYPE POSTER: a colorful event poster with crisp readable typography and layered graphic design; 2) UI SCREEN: a realistic SaaS dashboard screenshot mockup on a laptop, dense tables and charts; 3) PRODUCT SHOT: a premium reusable bottle packaging concept with label, box, and studio lighting; 4) INFOGRAPHIC: a clean educational science infographic about how a solar eclipse works, diagram arrows and short labels; 5) STORYBOARD: a four-frame cinematic micro story shown inside one panel, consistent protagonist and environment; 6) ROOM REDESIGN: before-and-after interior design visualization in a small apartment. Style: contemporary editorial design, high detail, varied palettes across panels, 16:9 canvas, sharp composition, professional image generation showcase.</pre>
       </section>
+      
       <section>
         <h2>Related GPT Image 2 Prompt Examples</h2>
         <div class="grid">

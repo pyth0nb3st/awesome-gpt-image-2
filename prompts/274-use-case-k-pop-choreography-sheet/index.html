@@ -148,6 +148,47 @@
         justify-content: space-between;
         margin-bottom: 10px;
       }
+      .source-panel {
+        display: grid;
+        gap: 14px;
+        margin-top: 18px;
+      }
+      .source-thanks,
+      .source-note {
+        margin: 0;
+      }
+      .source-note strong {
+        color: var(--ink);
+      }
+      .source-list {
+        display: grid;
+        gap: 12px;
+      }
+      .source-item {
+        border: 1px solid var(--line);
+        background: #fdf7ea;
+        padding: 14px;
+      }
+      .source-item h3 {
+        margin: 0 0 8px;
+        font-size: 18px;
+        line-height: 1.2;
+      }
+      .source-meta {
+        margin: 4px 0 0;
+        color: var(--muted);
+        font-size: 13px;
+      }
+      .source-link {
+        color: var(--accent);
+        font: 900 12px ui-sans-serif, system-ui, sans-serif;
+        letter-spacing: 0;
+        text-transform: uppercase;
+        text-decoration: none;
+      }
+      .source-link:hover, .source-link:focus-visible {
+        text-decoration: underline;
+      }
       .copy-prompt {
         min-inline-size: 124px;
         min-height: 36px;
@@ -273,6 +314,23 @@ Environment: White studio background, dramatic downlight suggestion, minimal cle
 Quality: High detail, crisp composition, balanced layout, editorial dance tutorial poster.
 
 Negative prompt: blurry, low quality, extra limbs, distorted anatomy, bad proportions, messy layout, overcrowded design, text errors, watermark, soft or pastel tones.</pre>
+      </section>
+      <section class="panel source-panel">
+        <div class="prompt-panel-header">
+          <h2>Credits and sources</h2>
+          <p class="meta">1 linked source</p>
+        </div>
+        <p class="source-thanks">Thanks to the original creator whose public post supplied the prompt for this image.</p>
+        <p class="source-note"><strong>Source note:</strong> Prompt extracted from a public X/Twitter post by Oogie and reused with attribution at the user's request. The generation prompt preserved the original prompt meaning and only normalized punctuation/formatting noise for clean reuse.</p>
+        <div class="source-list">
+          <article class="source-item">
+              <h3>Made with GPT Image 2 + Seedance 2.0 choreography sheet workflow</h3>
+              <p class="source-meta"><strong>Oogie / @oggii_0</strong></p>
+              <p class="source-meta">original_prompt_source / author_credit / social_workflow_reference</p>
+              <p class="source-meta">Accessed 2026-04-28 · public social post; prompt reused with attribution at user request</p>
+              <p><a class="source-link" href="https://x.com/oggii_0/status/2048997210428440706" target="_blank" rel="noreferrer">Open original post</a></p>
+            </article>
+        </div>
       </section>
       <section>
         <h2>Related GPT Image 2 Prompt Examples</h2>

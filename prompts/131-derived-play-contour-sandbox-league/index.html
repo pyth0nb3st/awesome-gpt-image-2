@@ -148,6 +148,47 @@
         justify-content: space-between;
         margin-bottom: 10px;
       }
+      .source-panel {
+        display: grid;
+        gap: 14px;
+        margin-top: 18px;
+      }
+      .source-thanks,
+      .source-note {
+        margin: 0;
+      }
+      .source-note strong {
+        color: var(--ink);
+      }
+      .source-list {
+        display: grid;
+        gap: 12px;
+      }
+      .source-item {
+        border: 1px solid var(--line);
+        background: #fdf7ea;
+        padding: 14px;
+      }
+      .source-item h3 {
+        margin: 0 0 8px;
+        font-size: 18px;
+        line-height: 1.2;
+      }
+      .source-meta {
+        margin: 4px 0 0;
+        color: var(--muted);
+        font-size: 13px;
+      }
+      .source-link {
+        color: var(--accent);
+        font: 900 12px ui-sans-serif, system-ui, sans-serif;
+        letter-spacing: 0;
+        text-transform: uppercase;
+        text-decoration: none;
+      }
+      .source-link:hover, .source-link:focus-visible {
+        text-decoration: underline;
+      }
       .copy-prompt {
         min-inline-size: 124px;
         min-height: 36px;
@@ -277,6 +318,23 @@ Composition: the sandbox arena fills the frame from lower left to upper right; t
 Safety and originality constraints: original concept and prompt; no external prompt, article, image, artwork, repository, or case-study source reused; all entities, marks, characters, places, labels, and institutions are fictional or rights-safe; keep the content non-political, non-adult, non-graphic, non-harmful, and free of real brands, celebrities, copyrighted characters, living-artist style imitation, and watermarks.
 
 Avoid showing: underwater sonar, bathymetry screens, portholes, signal patch cables, oscilloscope panels, transparent slide projectors, celestial star maps, hanging mobiles, printing presses, weaving looms, weather gauges, film sets, arcade cabinets, tabletop card layouts, six rectangular panels, route-map game boards, and pinball scoring tables.</pre>
+      </section>
+      <section class="panel source-panel">
+        <div class="prompt-panel-header">
+          <h2>Credits and sources</h2>
+          <p class="meta">1 linked source</p>
+        </div>
+        
+        <p class="source-note"><strong>Source note:</strong> Original automation concept and prompt; OpenAI documentation was consulted only for current capability background. No external prompt, image, artwork, repository, or case-study source was reused.</p>
+        <div class="source-list">
+          <article class="source-item">
+              <h3>Image generation guide</h3>
+              <p class="source-meta"><strong>OpenAI</strong></p>
+              <p class="source-meta">Capability background for GPT Image generation, edits, multi-turn image workflows, input images, text rendering, output sizing, transparency, and limitations.</p>
+              <p class="source-meta">Accessed 2026-04-25 · OpenAI public documentation; used as current capability background only, no prompt or image copied</p>
+              <p><a class="source-link" href="https://platform.openai.com/docs/guides/image-generation/" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+        </div>
       </section>
       <section>
         <h2>Related GPT Image 2 Prompt Examples</h2>

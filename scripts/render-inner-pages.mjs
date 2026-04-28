@@ -167,6 +167,47 @@ const style = `
         justify-content: space-between;
         margin-bottom: 10px;
       }
+      .source-panel {
+        display: grid;
+        gap: 14px;
+        margin-top: 18px;
+      }
+      .source-thanks,
+      .source-note {
+        margin: 0;
+      }
+      .source-note strong {
+        color: var(--ink);
+      }
+      .source-list {
+        display: grid;
+        gap: 12px;
+      }
+      .source-item {
+        border: 1px solid var(--line);
+        background: #fdf7ea;
+        padding: 14px;
+      }
+      .source-item h3 {
+        margin: 0 0 8px;
+        font-size: 18px;
+        line-height: 1.2;
+      }
+      .source-meta {
+        margin: 4px 0 0;
+        color: var(--muted);
+        font-size: 13px;
+      }
+      .source-link {
+        color: var(--accent);
+        font: 900 12px ui-sans-serif, system-ui, sans-serif;
+        letter-spacing: 0;
+        text-transform: uppercase;
+        text-decoration: none;
+      }
+      .source-link:hover, .source-link:focus-visible {
+        text-decoration: underline;
+      }
       .copy-prompt {
         min-inline-size: 124px;
         min-height: 36px;
@@ -347,6 +388,53 @@ const tagLinks = (tags) =>
     )
     .join("\n");
 
+const isSocialCreditUrl = (value) => {
+  try {
+    const hostname = new URL(value).hostname.replace(/^www\./, "");
+    return hostname === "x.com" || hostname === "twitter.com";
+  } catch {
+    return false;
+  }
+};
+
+const sourceSection = (image) => {
+  const promptSources = Array.isArray(image.promptSources) ? image.promptSources : [];
+  if (!promptSources.length) return "";
+
+  const socialCredits = promptSources.filter((source) => isSocialCreditUrl(source.url));
+  const thanks =
+    socialCredits.length === 1
+      ? `<p class="source-thanks">Thanks to the original creator whose public post supplied the prompt for this image.</p>`
+      : socialCredits.length > 1
+        ? `<p class="source-thanks">Thanks to the original creators whose public posts supplied the prompt context for this image.</p>`
+        : "";
+  const sourceNote = image.provenance?.sourceNote
+    ? `<p class="source-note"><strong>Source note:</strong> ${escapeHtml(image.provenance.sourceNote)}</p>`
+    : "";
+
+  return `<section class="panel source-panel">
+        <div class="prompt-panel-header">
+          <h2>Credits and sources</h2>
+          <p class="meta">${promptSources.length} linked source${promptSources.length === 1 ? "" : "s"}</p>
+        </div>
+        ${thanks}
+        ${sourceNote}
+        <div class="source-list">
+          ${promptSources
+            .map(
+              (source) => `<article class="source-item">
+              <h3>${escapeHtml(source.title)}</h3>
+              <p class="source-meta"><strong>${escapeHtml(source.authorOrPublisher)}</strong></p>
+              <p class="source-meta">${escapeHtml(source.usedAs)}</p>
+              <p class="source-meta">Accessed ${escapeHtml(source.accessedAt)} · ${escapeHtml(source.license)}</p>
+              <p><a class="source-link" href="${escapeAttribute(source.url)}" target="_blank" rel="noreferrer">${isSocialCreditUrl(source.url) ? "Open original post" : "Open source link"}</a></p>
+            </article>`,
+            )
+            .join("\n")}
+        </div>
+      </section>`;
+};
+
 const relatedFor = (entry) => {
   const seen = new Set([entry.pagePath]);
   const related = [];
@@ -510,6 +598,7 @@ for (const entry of images) {
         </div>
         <pre id="full-prompt">${escapeHtml(image.prompt)}</pre>
       </section>
+      ${sourceSection(image)}
       <section>
         <h2>Related GPT Image 2 Prompt Examples</h2>
         ${cardGrid(related)}

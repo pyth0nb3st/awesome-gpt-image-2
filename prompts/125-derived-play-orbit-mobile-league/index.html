@@ -148,6 +148,47 @@
         justify-content: space-between;
         margin-bottom: 10px;
       }
+      .source-panel {
+        display: grid;
+        gap: 14px;
+        margin-top: 18px;
+      }
+      .source-thanks,
+      .source-note {
+        margin: 0;
+      }
+      .source-note strong {
+        color: var(--ink);
+      }
+      .source-list {
+        display: grid;
+        gap: 12px;
+      }
+      .source-item {
+        border: 1px solid var(--line);
+        background: #fdf7ea;
+        padding: 14px;
+      }
+      .source-item h3 {
+        margin: 0 0 8px;
+        font-size: 18px;
+        line-height: 1.2;
+      }
+      .source-meta {
+        margin: 4px 0 0;
+        color: var(--muted);
+        font-size: 13px;
+      }
+      .source-link {
+        color: var(--accent);
+        font: 900 12px ui-sans-serif, system-ui, sans-serif;
+        letter-spacing: 0;
+        text-transform: uppercase;
+        text-decoration: none;
+      }
+      .source-link:hover, .source-link:focus-visible {
+        text-decoration: underline;
+      }
       .copy-prompt {
         min-inline-size: 124px;
         min-height: 36px;
@@ -261,6 +302,23 @@
 Represent six game mechanics as physical actions on the mobile, integrated into one sculpture: 1) parallax-star-hop, players move a reference charm between depth hooks to test whether the generated scene preserves the intended object; 2) eclipse-token-lock, a moon token can cover exactly one harmless edit area before the next prompt; 3) orbit-window-draft, players draft aspect-ratio frames and must keep the focal subject inside the moving frame; 4) glyph-meteor-race, short invented labels are checked for legibility as they pass through a narrow light beam; 5) nebula-signal-sort, messy prompt fragments are sorted into useful constraints versus vague fog; 6) safe-harbor-swap, any real-looking mark is swapped for a fictional symbol before scoring.
 
 Visual style: polished miniature product photography mixed with refined 3D illustration, clear rule affordances, rich material detail, elegant museum-object presentation. Composition: wide 16:9, shallow perspective, the mobile sculpture occupies the center with visible hanging pieces and a few small score beads, no six boxed panels, no route map, no arcade table, no weather gauges, no loom, no printshop, no film set. Palette: matte black tabletop, warm brass, translucent glass, pearl white, teal shadows, small coral scoring marks. Safety constraints: all symbols are fictional; no real brands, no logos, no celebrity likenesses, no public political figures, no parties or elections, no sexual content, no harmful instructions, no graphic violence, no copyrighted characters, no living-artist style imitation, no watermark.</pre>
+      </section>
+      <section class="panel source-panel">
+        <div class="prompt-panel-header">
+          <h2>Credits and sources</h2>
+          <p class="meta">1 linked source</p>
+        </div>
+        
+        <p class="source-note"><strong>Source note:</strong> Original automation concept and prompt; OpenAI documentation was consulted only for current capability background. No external prompt, image, artwork, repository, or case-study source was reused.</p>
+        <div class="source-list">
+          <article class="source-item">
+              <h3>Image generation guide</h3>
+              <p class="source-meta"><strong>OpenAI</strong></p>
+              <p class="source-meta">Current GPT Image capability background for generation, edits, masks, text rendering, output sizing, and limitations.</p>
+              <p class="source-meta">Accessed 2026-04-25 · OpenAI public documentation; used as capability background only, no prompt or image copied</p>
+              <p><a class="source-link" href="https://platform.openai.com/docs/guides/image-generation" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>
+        </div>
       </section>
       <section>
         <h2>Related GPT Image 2 Prompt Examples</h2>
