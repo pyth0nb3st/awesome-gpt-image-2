@@ -20,11 +20,11 @@
     {
       "title": "GPT Image 2 + Seedance 16-step dance sheet",
       "caption": "复用 Ciri 的热门 GPT Image 2 + Seedance 提示词，重绘一组 16 格舞蹈教学信息图。",
-      "path": "assets/images/275-gpt-image-2-seedance-16-step-dance-sheet.jpg",
+      "path": "assets/images/278-gpt-image-2-seedance-16-step-dance-sheet.png",
       "alt": "16-step dance movement sheet with one dancer in a 4x4 grid",
-      "width": 544,
-      "height": 680,
-      "createdAt": "2026-04-28 20:10:00",
+      "width": 1254,
+      "height": 1254,
+      "createdAt": "2026-04-28 20:35:09",
       "batch": "019dd5c1-redraw-x-ciri",
       "tags": [
         "x-prompt-redraw",
@@ -55,16 +55,16 @@
         "checkedAt": "2026-04-28",
         "reviewNote": "Prompt is safe for publication: no policy violations in text, no real celebrities, no copyrighted characters, no explicit content, no harmful instructions."
       },
-      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/redraw_2026_04_28/ciri_x_prompt_redraw.jpg"
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dd40d-c74a-7a62-98f4-5f2864321a34/ig_03f2989dcbeaf7390169f0a7b7f0388194913ea8ec998532ee.png"
     },
     {
       "title": "GPT-image2 epic graduation silhouette poster",
       "caption": "提取 Zesee 的热门 GPT-image2 提示词，重绘一张偏纪念感的史诗叙事毕业照海报。",
-      "path": "assets/images/276-gpt-image2-epic-graduation-silhouette-poster.jpg",
+      "path": "assets/images/279-gpt-image2-epic-graduation-silhouette-poster.png",
       "alt": "Epic narrative poster with side-profile silhouette and graduation-themed worldbuilding",
-      "width": 680,
-      "height": 383,
-      "createdAt": "2026-04-28 20:06:00",
+      "width": 1024,
+      "height": 1535,
+      "createdAt": "2026-04-28 20:35:08",
       "batch": "019dd5c1-redraw-x-zesee",
       "tags": [
         "x-prompt-redraw",
@@ -74,11 +74,11 @@
         "graduation",
         "social-workflow"
       ],
-      "prompt": "根据我的人物肖像自动生成一张收藏版史诗叙事海报(毕业照:巨大的我的侧脸剪影作为外轮廓，剪影内部自动生长出最契合该主题的完整世界观、标志性场景、角色关系、象征符号、关键建筑、生物、道具与氛围(校园+毕业)。\n\n整体不是普通拼贴，而是高级的剪影轮廓填充式叙事合成，带有双重曝光式联想，但更偏电影海报与梦幻水彩插画融合格;柔和空气透视，轻雾化过波，纸张颗粒，边缘白与刷痕，大面积留白，版式克制高级，安静、宏大、神圣、怀旧、诗意、传说感。\n\n风格、色彩、场景、材质全部根据主题自动适配，所有元素必须强绑定主题，一眼识别，不要杂乱，不要硬拼贴，不要模板化背景，不要廉价奇幻素材。如果有字体用英文。",
+      "prompt": "根据热门 X 提示词做最小兼容改写，生成一张收藏版史诗叙事毕业海报。巨大的年轻毕业生女性侧脸剪影作为外轮廓，剪影内部生长出完整世界观与标志性校园毕业场景：教学楼、礼堂、学位帽、花束、阶梯、同学关系、象征符号、关键建筑、纸张、光影与纪念氛围。整体不是普通拼贴，而是高级的剪影轮廓填充式叙事合成，带有双重曝光联想，但更偏电影海报与梦幻水彩插画融合风格。柔和空气透视，轻雾化过渡，纸张颗粒，边缘留白与刷痕，大面积留白，版式克制高级，安静、宏大、神圣、怀旧、诗意、传说感。风格、色彩、场景、材质全部围绕校园毕业主题自动适配，所有元素必须强绑定主题，一眼识别，不要杂乱，不要硬拼贴，不要模板化背景，不要廉价奇幻素材。如出现字体，仅使用英文。No watermark.",
       "provenance": {
         "status": "external_attributed",
         "origin": "local_codex_revised_prompt",
-        "sourceNote": "Prompt extracted from a public X/Twitter post by Rachel (Zesee) and reused with attribution at user request. The generation prompt keeps the narrative scope and avoids adding unrequested identities or styles."
+        "sourceNote": "Prompt extracted from a public X/Twitter post by Rachel (Zesee) and reused with attribution at user request. A minimal compatibility edit replaced the missing first-person portrait dependency with a fictional graduate silhouette while preserving the original narrative structure."
       },
       "promptSources": [
         {
@@ -95,16 +95,16 @@
         "checkedAt": "2026-04-28",
         "reviewNote": "Prompt is safe for publication: no real public figures, no explicit content, no harmful or political material."
       },
-      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/redraw_2026_04_28/zesee_x_prompt_redraw.jpg"
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dd40d-c74a-7a62-98f4-5f2864321a34/ig_03f2989dcbeaf7390169f0a8b341f88194b2f972825c8c89c4.png"
     },
     {
       "title": "GPT Image 2 portrait with direct-flash izakaya style",
       "caption": "复用 BubbleBrain 的热门 prompt，重绘一张日式居酒屋氛围的人物肖像。",
-      "path": "assets/images/277-gpt-image-2-portrait-with-direct-flash-izakaya-style.jpg",
+      "path": "assets/images/280-gpt-image-2-portrait-with-direct-flash-izakaya-style.png",
       "alt": "Direct flash portrait in a Japanese izakaya setting with cinematic side lighting",
-      "width": 680,
-      "height": 294,
-      "createdAt": "2026-04-28 20:02:00",
+      "width": 1024,
+      "height": 1535,
+      "createdAt": "2026-04-28 20:35:07",
       "batch": "019dd5c1-redraw-x-bubble",
       "tags": [
         "x-prompt-redraw",
@@ -135,7 +135,7 @@
         "checkedAt": "2026-04-28",
         "reviewNote": "Prompt is screened: no explicit/violent content and no political or illegal guidance. Uses descriptive portrait photography only."
       },
-      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/redraw_2026_04_28/bubble_x_prompt_redraw.jpg"
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dd40d-c74a-7a62-98f4-5f2864321a34/ig_03f2989dcbeaf7390169f0a8f407f881949e1df5eb8d128b94.png"
     },
     {
       "title": "Use Case: K-Pop Choreography Sheet",
