@@ -25,7 +25,37 @@ const isSocialCreditUrl = (value) => {
   }
 };
 
-export default function PromptDetailPageContent({ entry, locale = "en" }) {
+const tweetCardCache = new Map();
+
+const fetchTweetCardHtml = async (url) => {
+  if (!isSocialCreditUrl(url)) return "";
+  if (tweetCardCache.has(url)) return tweetCardCache.get(url);
+
+  const requestUrl = new URL("https://publish.twitter.com/oembed");
+  requestUrl.searchParams.set("url", url);
+  requestUrl.searchParams.set("omit_script", "1");
+  requestUrl.searchParams.set("dnt", "1");
+  requestUrl.searchParams.set("align", "center");
+  requestUrl.searchParams.set("maxwidth", "550");
+
+  try {
+    const response = await fetch(requestUrl, { cache: "force-cache" });
+    if (!response.ok) {
+      tweetCardCache.set(url, "");
+      return "";
+    }
+
+    const data = await response.json();
+    const html = typeof data.html === "string" ? data.html : "";
+    tweetCardCache.set(url, html);
+    return html;
+  } catch {
+    tweetCardCache.set(url, "");
+    return "";
+  }
+};
+
+export default async function PromptDetailPageContent({ entry, locale = "en" }) {
   const t = getCopy(locale);
   const { image, index, tags, title } = entry;
   const tagLabels = tags.map((tag) => tagLabel(tag, locale));
@@ -35,6 +65,13 @@ export default function PromptDetailPageContent({ entry, locale = "en" }) {
   const promptSources = Array.isArray(image.promptSources) ? image.promptSources : [];
   const socialCredits = promptSources.filter((source) => isSocialCreditUrl(source.url));
   const sourceNote = image.provenance?.sourceNote;
+  const sources = await Promise.all(
+    promptSources.map(async (source) => ({
+      ...source,
+      tweetCardHtml: await fetchTweetCardHtml(source.url),
+    })),
+  );
+  const hasTweetCards = sources.some((source) => source.tweetCardHtml);
 
   return (
     <>
@@ -135,7 +172,7 @@ export default function PromptDetailPageContent({ entry, locale = "en" }) {
               </p>
             ) : null}
             <div className="source-list">
-              {promptSources.map((source) => (
+              {sources.map((source) => (
                 <article className="source-item" key={`${source.url}-${source.usedAs}`}>
                   <h3>{source.title}</h3>
                   <p className="source-meta">
@@ -145,6 +182,9 @@ export default function PromptDetailPageContent({ entry, locale = "en" }) {
                   <p className="source-meta">
                     {t.sourceAccessedLabel(source.accessedAt)} · {source.license}
                   </p>
+                  {source.tweetCardHtml ? (
+                    <div className="tweet-card-shell" dangerouslySetInnerHTML={{ __html: source.tweetCardHtml }} />
+                  ) : null}
                   <p>
                     <a className="source-link" href={source.url} target="_blank" rel="noreferrer">
                       {isSocialCreditUrl(source.url) ? t.openOriginalPost : t.openSourceLink}
@@ -162,6 +202,7 @@ export default function PromptDetailPageContent({ entry, locale = "en" }) {
         <Footer locale={locale} />
       </main>
       <ImageModal locale={locale} />
+      {hasTweetCards ? <script async src="https://platform.twitter.com/widgets.js" charSet="utf-8" /> : null}
     </>
   );
 }

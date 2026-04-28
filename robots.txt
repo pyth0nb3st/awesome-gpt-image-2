@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://gptimg2.best/sitemap.xml

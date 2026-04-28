@@ -443,6 +443,15 @@ pre {
   margin: 0 0 8px;
 }
 
+.tweet-card-shell {
+  width: min(100%, 550px);
+  margin: 14px auto 6px;
+}
+
+.tweet-card-shell .twitter-tweet {
+  margin-inline: auto;
+}
+
 .source-meta {
   margin: 4px 0 0;
 }

@@ -18,6 +18,54 @@
   },
   "images": [
     {
+      "title": "Use Case: K-Pop Choreography Sheet",
+      "caption": "复用 Oogie 在 X 公开分享的 GPT Image 2 prompt，重绘为 16 格 K-pop 舞步编排信息图，并保留原帖 credit。",
+      "path": "assets/images/274-use-case-k-pop-choreography-sheet.png",
+      "alt": "Colored pencil choreography sheet infographic with 16 K-pop solo dance poses in a 4x4 grid, monochrome styling, red motion arrows, and editorial tutorial-poster layout",
+      "width": 1024,
+      "height": 1536,
+      "createdAt": "2026-04-28 17:20:15",
+      "batch": "019dd345-bf32-76d1-b61c-688e04356a8d",
+      "tags": [
+        "x-prompt-redraw",
+        "author-credit",
+        "dance-infographic",
+        "k-pop-choreography",
+        "editorial-illustration",
+        "prompt-reuse",
+        "social-workflow",
+        "batch-019dd345"
+      ],
+      "prompt": "A colored pencil sketch style choreography sheet infographic for a K-pop solo dance. Layout: 16 steps arranged in a clean 4x4 grid, each panel showing a different dance move.\n\nSubject: A teenage Asian girl with short blunt-cut hair and bold bangs, wearing a monochrome outfit: fitted black turtleneck, wide-leg tailored trousers, chunky white platform boots, with silver chain accessories and fingerless gloves.\n\nStyle: Hand-drawn colored pencil illustration, bold outlines with sharp shading, slightly angular and graphic, monochrome base with pops of electric red and silver as accent tones. Confident, editorial energy.\n\nMovement: Each frame captures sharp, punchy dance motions: arm isolations, sharp head snaps, shoulder locks, chest contractions, low lunges, toe-point poses, dramatic wrist flicks, and a signature ending freeze, with bold red arrows showing force direction and snap timing.\n\nDesign: High-contrast K-pop girl crush aesthetic, grid with thin black borders, step numbers 1-16 in bold sans-serif, short captions under each frame describing the motion.\n\nText: Title at the top: \"K-POP GIRL CRUSH - 16 COUNTS - 10 SECONDS - SHARP LOCK & POP\"\n\nEnvironment: White studio background, dramatic downlight suggestion, minimal clean shadows.\n\nQuality: High detail, crisp composition, balanced layout, editorial dance tutorial poster.\n\nNegative prompt: blurry, low quality, extra limbs, distorted anatomy, bad proportions, messy layout, overcrowded design, text errors, watermark, soft or pastel tones.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_reused_social_prompt",
+        "sourceNote": "Prompt extracted from a public X/Twitter post by Oogie and reused with attribution at the user's request. The generation prompt preserved the original prompt meaning and only normalized punctuation/formatting noise for clean reuse."
+      },
+      "promptSources": [
+        {
+          "title": "Made with GPT Image 2 + Seedance 2.0 choreography sheet workflow",
+          "url": "https://x.com/oggii_0/status/2048997210428440706",
+          "authorOrPublisher": "Oogie / @oggii_0",
+          "license": "public social post; prompt reused with attribution at user request",
+          "accessedAt": "2026-04-28",
+          "usedAs": "original_prompt_source / author_credit / social_workflow_reference"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "policy": [
+          "No political persuasion, elections, parties, public political figures, or propaganda content.",
+          "No harmful, illegal, or operationally dangerous instructions.",
+          "No sexual, nude, or explicit content.",
+          "No graphic violence, gore, torture, or dismemberment.",
+          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
+        ],
+        "reviewNote": "The reused social prompt was screened before publication. The published redraw preserves author attribution, avoids source-image reuse, and keeps the result within existing gallery safety and rights constraints."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dd345-bf32-76d1-b61c-688e04356a8d/ig_05070c1b895295590169f07b36c70081968fa7907bf288d432.png"
+    },
+    {
       "title": "Derived Play: Backstage Leak Hunt",
       "caption": "从 Service Blueprint Distiller 派生的服务运营找错玩法：玩家在虚构 Mossline Library Pickup 蓝图中 spot、name、move、assign、retest 五类错误，包括 internal note visible、missing support link、emotion in wrong stage、fix has no owner 和 outcome used as cause。",
       "path": "assets/images/272-derived-play-backstage-leak-hunt.png",
@@ -12011,54 +12059,6 @@
         "reviewNote": "Backfilled baseline; future automation must screen before publishing."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019db43b-da57-7f42-9b6c-38129f270670/ig_011cc6db28e9b1620169e8832e3bc881939966c7951b81b1b8.png"
-    },
-    {
-      "title": "Use Case: K-Pop Choreography Sheet",
-      "caption": "复用 Oogie 在 X 公开分享的 GPT Image 2 prompt，重绘为 16 格 K-pop 舞步编排信息图，并保留原帖 credit。",
-      "path": "assets/images/274-use-case-k-pop-choreography-sheet.png",
-      "alt": "Colored pencil choreography sheet infographic with 16 K-pop solo dance poses in a 4x4 grid, monochrome styling, red motion arrows, and editorial tutorial-poster layout",
-      "width": 1024,
-      "height": 1536,
-      "createdAt": "2026-04-28 17:20:15",
-      "batch": "019dd345-bf32-76d1-b61c-688e04356a8d",
-      "tags": [
-        "x-prompt-redraw",
-        "author-credit",
-        "dance-infographic",
-        "k-pop-choreography",
-        "editorial-illustration",
-        "prompt-reuse",
-        "social-workflow",
-        "batch-019dd345"
-      ],
-      "prompt": "A colored pencil sketch style choreography sheet infographic for a K-pop solo dance. Layout: 16 steps arranged in a clean 4x4 grid, each panel showing a different dance move.\n\nSubject: A teenage Asian girl with short blunt-cut hair and bold bangs, wearing a monochrome outfit: fitted black turtleneck, wide-leg tailored trousers, chunky white platform boots, with silver chain accessories and fingerless gloves.\n\nStyle: Hand-drawn colored pencil illustration, bold outlines with sharp shading, slightly angular and graphic, monochrome base with pops of electric red and silver as accent tones. Confident, editorial energy.\n\nMovement: Each frame captures sharp, punchy dance motions: arm isolations, sharp head snaps, shoulder locks, chest contractions, low lunges, toe-point poses, dramatic wrist flicks, and a signature ending freeze, with bold red arrows showing force direction and snap timing.\n\nDesign: High-contrast K-pop girl crush aesthetic, grid with thin black borders, step numbers 1-16 in bold sans-serif, short captions under each frame describing the motion.\n\nText: Title at the top: \"K-POP GIRL CRUSH - 16 COUNTS - 10 SECONDS - SHARP LOCK & POP\"\n\nEnvironment: White studio background, dramatic downlight suggestion, minimal clean shadows.\n\nQuality: High detail, crisp composition, balanced layout, editorial dance tutorial poster.\n\nNegative prompt: blurry, low quality, extra limbs, distorted anatomy, bad proportions, messy layout, overcrowded design, text errors, watermark, soft or pastel tones.",
-      "provenance": {
-        "status": "external_attributed",
-        "origin": "local_codex_reused_social_prompt",
-        "sourceNote": "Prompt extracted from a public X/Twitter post by Oogie and reused with attribution at the user's request. The generation prompt preserved the original prompt meaning and only normalized punctuation/formatting noise for clean reuse."
-      },
-      "promptSources": [
-        {
-          "title": "Made with GPT Image 2 + Seedance 2.0 choreography sheet workflow",
-          "url": "https://x.com/oggii_0/status/2048997210428440706",
-          "authorOrPublisher": "Oogie / @oggii_0",
-          "license": "public social post; prompt reused with attribution at user request",
-          "accessedAt": "2026-04-28",
-          "usedAs": "original_prompt_source / author_credit / social_workflow_reference"
-        }
-      ],
-      "contentSafety": {
-        "status": "screened",
-        "policy": [
-          "No political persuasion, elections, parties, public political figures, or propaganda content.",
-          "No harmful, illegal, or operationally dangerous instructions.",
-          "No sexual, nude, or explicit content.",
-          "No graphic violence, gore, torture, or dismemberment.",
-          "Avoid real brands, trademarks, celebrity likenesses, copyrighted characters, and living-artist style imitation."
-        ],
-        "reviewNote": "The reused social prompt was screened before publication. The published redraw preserves author attribution, avoids source-image reuse, and keeps the result within existing gallery safety and rights constraints."
-      },
-      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dd345-bf32-76d1-b61c-688e04356a8d/ig_05070c1b895295590169f07b36c70081968fa7907bf288d432.png"
     }
   ]
 }

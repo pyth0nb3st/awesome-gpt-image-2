@@ -42,6 +42,18 @@ export const slugify = (value) =>
 
 export const absoluteUrl = (path) => new URL(path, SITE_URL).toString();
 
+export const imageTimestamp = (image) => {
+  const normalized = String(image?.createdAt ?? "").trim().replace(" ", "T");
+  const timestamp = Date.parse(normalized);
+  return Number.isFinite(timestamp) ? timestamp : 0;
+};
+
+export const sortImagesByNewest = (images) =>
+  [...images]
+    .map((image, index) => ({ image, index }))
+    .sort((left, right) => imageTimestamp(right.image) - imageTimestamp(left.image) || left.index - right.index)
+    .map(({ image }) => image);
+
 export const humanizeTag = (tag) =>
   String(tag)
     .split("-")

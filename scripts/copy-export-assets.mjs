@@ -12,7 +12,7 @@ const exists = async (path) => {
 await mkdir("out", { recursive: true });
 await cp("assets", "out/assets", { recursive: true });
 
-for (const file of ["CNAME", ".nojekyll", "gallery.json", "llms.txt"]) {
+for (const file of ["CNAME", ".nojekyll", "gallery.json"]) {
   if (await exists(file)) {
     await copyFile(file, `out/${file}`);
   }
