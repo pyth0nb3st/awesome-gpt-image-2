@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/272-derived-play-backstage-leak-hunt.png": {
+      "path": "assets/thumbs/272-derived-play-backstage-leak-hunt.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/273-use-case-service-blueprint-distiller.png": {
+      "path": "assets/thumbs/273-use-case-service-blueprint-distiller.jpg",
+      "width": 768,
+      "height": 330
+    },
     "assets/images/270-derived-play-chapter-mismatch-relay.png": {
       "path": "assets/thumbs/270-derived-play-chapter-mismatch-relay.jpg",
       "width": 768,

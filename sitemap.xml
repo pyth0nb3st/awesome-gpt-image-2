@@ -6,6 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://gptimg2.best/assets/images/272-derived-play-backstage-leak-hunt.png</image:loc>
+      <image:title>Derived Play: Backstage Leak Hunt</image:title>
+      <image:caption>Derived play: productivity-visual / service-design QA game Asset type: public gallery image for GPT Image 2 derived-play research, wide 16:9 printable workshop challenge sheet Primary request: Create a polished fictional game sheet titled...</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/273-use-case-service-blueprint-distiller.png</image:loc>
+      <image:title>Use Case: Service Blueprint Distiller</image:title>
+      <image:caption>Use case: productivity-visual / service-design workflow Asset type: public gallery image for GPT Image 2 use-case research, ultra-wide 21:9 workshop artifact Primary request: Create a polished fictional service-design canvas titled &quot;Servic...</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://gptimg2.best/assets/images/270-derived-play-chapter-mismatch-relay.png</image:loc>
       <image:title>Derived Play: Chapter Mismatch Relay</image:title>
       <image:caption>Create a wide 16:9 playable QA puzzle sheet titled in small clear text &quot;Derived Play: Chapter Mismatch Relay&quot;. It is derived from Episode Visual Kit Forge: players inspect a fictional podcast episode visual kit and repair mismatches before...</image:caption>
@@ -1307,6 +1317,28 @@
     <lastmod>2026-04-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/272-derived-play-backstage-leak-hunt/</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/272-derived-play-backstage-leak-hunt.png</image:loc>
+      <image:title>Derived Play: Backstage Leak Hunt</image:title>
+      <image:caption>Derived play: productivity-visual / service-design QA game Asset type: public gallery image for GPT Image 2 derived-play research, wide 16:9 printable workshop challenge sheet Primary request: Create a polished fictional game sheet titled...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/273-use-case-service-blueprint-distiller/</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/273-use-case-service-blueprint-distiller.png</image:loc>
+      <image:title>Use Case: Service Blueprint Distiller</image:title>
+      <image:caption>Use case: productivity-visual / service-design workflow Asset type: public gallery image for GPT Image 2 use-case research, ultra-wide 21:9 workshop artifact Primary request: Create a polished fictional service-design canvas titled &quot;Servic...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/270-derived-play-chapter-mismatch-relay/</loc>
@@ -4585,6 +4617,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://gptimg2.best/tags/service-design/</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://gptimg2.best/tags/silence-mask/</loc>
     <lastmod>2026-04-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -4646,6 +4684,12 @@
   </url>
   <url>
     <loc>https://gptimg2.best/tags/ui-fiction-simulator/</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/tags/visibility-line/</loc>
     <lastmod>2026-04-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>

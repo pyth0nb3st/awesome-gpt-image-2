@@ -18,6 +18,172 @@
   },
   "images": [
     {
+      "title": "Derived Play: Backstage Leak Hunt",
+      "caption": "从 Service Blueprint Distiller 派生的服务运营找错玩法：玩家在虚构 Mossline Library Pickup 蓝图中 spot、name、move、assign、retest 五类错误，包括 internal note visible、missing support link、emotion in wrong stage、fix has no owner 和 outcome used as cause。",
+      "path": "assets/images/272-derived-play-backstage-leak-hunt.png",
+      "alt": "Landscape printable workshop game sheet titled Backstage Leak Hunt with fictional service blueprint lanes, five circled errors, repair tokens, five-step rule rail, solved-state preview, and scoring row",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-28 09:11:08",
+      "batch": "019dd19a-dfd2-75a3-aaae-861a520bb610",
+      "tags": [
+        "backstage-leak-hunt",
+        "derived-play",
+        "service-design",
+        "blueprint-qa",
+        "visibility-line",
+        "touchpoint-repair",
+        "workshop-game",
+        "logic-repair",
+        "batch-019dd19a"
+      ],
+      "prompt": "Derived play: productivity-visual / service-design QA game\nAsset type: public gallery image for GPT Image 2 derived-play research, wide 16:9 printable workshop challenge sheet\nPrimary request: Create a polished fictional game sheet titled \"Backstage Leak Hunt\" derived from the Service Blueprint Distiller concept. Players inspect a service blueprint and repair five logic errors where internal work leaks into customer view or the map confuses touchpoints, causes, fixes, and outcomes.\nScene/backdrop: flat printable facilitation sheet on clean warm paper, straight-on, no people, no hands, no real brand. It should feel like a workshop puzzle, not a software dashboard and not a board game photo.\nSubject: center shows a simplified fictional Mossline Library Pickup blueprint strip with lanes: \"Customer\", \"Frontstage\", \"Visibility line\", \"Backstage\", \"Support\". Five circled error markers appear on the strip with small repair tokens beside it.\nGame mechanism: include a concise rule rail with five steps: \"1 Spot\", \"2 Name\", \"3 Move\", \"4 Assign\", \"5 Retest\". Show five safe fictional error cards: \"internal note visible\", \"missing support link\", \"emotion in wrong stage\", \"fix has no owner\", \"outcome used as cause\". Show a small solved-state preview with green checks, and a timer badge \"8 min\".\nVisual format: landscape single-sheet activity with one long blueprint strip, side repair-token column, and bottom scoring row. No 2x2 or 2x3 grid. No product mockup, no physical controller, no tabletop props, no UI dashboard.\nStyle/medium: crisp editorial UX workshop material, playful but professional, clean iconography, clearly separated lanes, high legibility, subtle paper texture.\nColor palette: warm white, graphite, teal, coral error circles, green pass checks, muted yellow repair tokens, small blue owner dots. Avoid purple-dominant palettes.\nText requirements: render only short labels listed in this prompt; keep text mostly readable and avoid dense paragraphs.\nSafety and rights constraints: completely fictional service; no real brands, logos, institutions, customer names, phone numbers, addresses, QR codes, barcodes, public figures, politics, medical/legal/financial service claims, harmful instructions, adult content, gore, weapons, copyrighted characters, celebrity likeness, living-artist style imitation, watermark, copied template, copied source image, or external prompt text.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original fictional service-blueprint QA game generated locally after external source sweep. Sources informed only abstract visibility-line conventions, journey-map touchpoint/emotion patterns, service recovery logic, customer-journey research distinctions, and prompt-gallery metadata practices; no external prompt text, image, portfolio, template, real service case, customer data, product UI, or source image was reused."
+      },
+      "promptSources": [
+        {
+          "title": "Service Blueprint Customer Journey Map Projects",
+          "url": "https://www.behance.net/search/projects/service%20blueprint%20customer%20journey%20map",
+          "authorOrPublisher": "Behance / Adobe community",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "community_gallery / visual_format_scan / trend_scan"
+        },
+        {
+          "title": "Service Blueprint",
+          "url": "https://www.uxatlas.io/methods/service-blueprint",
+          "authorOrPublisher": "UXAtlas",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "workflow_inspiration / service_blueprint_pattern / failure_mode_scan"
+        },
+        {
+          "title": "Customer Journey Map: Guide, Examples & Templates",
+          "url": "https://courseux.com/customer-journey-map/",
+          "authorOrPublisher": "CorsoUX",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "journey_map_pattern / touchpoint_emotion_pattern / prompt_pattern_inspiration"
+        },
+        {
+          "title": "How to Create a Storyboard with AI (Step-by-Step Guide)",
+          "url": "https://mstudio.ai/blog/storyboarding/how-to-create-storyboard-with-ai",
+          "authorOrPublisher": "M Studio",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "prompt_pattern_inspiration / scene_breakdown_workflow / sequence_consistency_pattern"
+        },
+        {
+          "title": "Unravelling the customer journey: A conceptual framework and research agenda",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0040162524007145",
+          "authorOrPublisher": "Technological Forecasting and Social Change / Elsevier authors",
+          "license": "Open access article under Creative Commons license; no figure/data reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "research_context / trend_scan / conceptual_evaluation_pattern"
+        },
+        {
+          "title": "AI Prompt Gallery | 10,000+ Creative AI Prompts for Midjourney, Flux & More",
+          "url": "https://loraai.io/inspiration",
+          "authorOrPublisher": "LoraAI",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "prompt_gallery_pattern / metadata_scan / prompt_structure_inspiration"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-28",
+        "reviewNote": "Fictional no-people service-design QA game for invented Mossline Library Pickup, using synthetic operation errors and generic repair steps only. Screened to avoid real brands/logos, real institutions, real customer data, names, phone numbers, addresses, QR/barcodes, public figures, political persuasion, parties/elections, medical/legal/financial service claims, harmful or dangerous instructions, adult/explicit content, gore, graphic violence, weapons, celebrity likenesses, copyrighted characters, living-artist style imitation, copied prompt text, copied templates, copied images, and source-image reuse."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dd19a-dfd2-75a3-aaae-861a520bb610/ig_0de8ed8fbf93ba290169f008d0488c8193b6b1ad8c28007490.png"
+    },
+    {
+      "title": "Use Case: Service Blueprint Distiller",
+      "caption": "把 GPT Image 2 用作服务设计蓝图蒸馏器：从虚构投诉 transcript 生成 customer actions、frontstage、visibility line、backstage、support systems 和 recovery opportunities 的跨泳道 workshop canvas。",
+      "path": "assets/images/273-use-case-service-blueprint-distiller.png",
+      "alt": "Ultra-wide fictional service design workshop canvas titled Service Blueprint Distiller with complaint transcript input, customer actions, frontstage, visibility line, backstage, support systems, pain markers, owner dots, and recovery opportunities",
+      "width": 1915,
+      "height": 821,
+      "createdAt": "2026-04-28 09:09:37",
+      "batch": "019dd19a-dfd2-75a3-aaae-861a520bb610",
+      "tags": [
+        "service-blueprint-distiller",
+        "use-case",
+        "service-design",
+        "journey-map",
+        "complaint-transcript",
+        "visibility-line",
+        "backstage-process",
+        "workflow-distillation",
+        "batch-019dd19a"
+      ],
+      "prompt": "Use case: productivity-visual / service-design workflow\nAsset type: public gallery image for GPT Image 2 use-case research, ultra-wide 21:9 workshop artifact\nPrimary request: Create a polished fictional service-design canvas titled \"Service Blueprint Distiller\" showing how GPT Image 2 converts one messy plain-language complaint transcript into a scan-friendly multilane service blueprint.\nScene/backdrop: a clean workshop wall canvas, photographed straight-on, with crisp paper texture, thin colored tape lines, and neatly arranged sticky-note clusters. No hands, no people, no laptops, no logos.\nSubject: left side contains a small fictional input note labeled \"Complaint transcript\" with short safe text fragments only: \"pickup code failed\", \"waited 12 min\", \"staff could not see hold shelf\". The large center/right canvas turns it into five horizontal lanes: \"Customer actions\", \"Frontstage\", \"Visibility line\", \"Backstage\", \"Support systems\". Use simple icons, arrows, stage chips, pain markers, owner dots, and a final row called \"Recovery opportunities\". Include a tiny confidence/provenance strip at bottom: \"source: fictional transcript\", \"no real customer data\", \"review needed\".\nVisual mechanism: make the transformation visible: a thin flow from unstructured text to stages, then into aligned touchpoints, hidden dependencies, and fixes. Emphasize the visibility line separating customer-visible and internal work.\nStyle/medium: high-end service design workshop board, editorial UX research artifact, clear information hierarchy, legible but not overloaded, professional and realistic.\nComposition/framing: ultra-wide panoramic canvas, not a 2x2 or 2x3 grid, not a dashboard, not a tabletop game, not a physical instrument. Use lanes spanning horizontally with a few vertical stage columns: \"Request\", \"Arrive\", \"Verify\", \"Retrieve\", \"Recover\".\nColor palette: warm white paper, graphite ink, teal lane dividers, coral pain markers, mustard opportunity tags, muted blue owner dots. Avoid purple-dominant palettes.\nText requirements: Only the title and lane/stage labels above, plus short fictional fragments. Keep text clean and mostly readable; do not invent real brands.\nSafety and rights constraints: completely fictional service called Mossline Library Pickup; no real brands, logos, institutions, customer names, phone numbers, addresses, QR codes, barcodes, public figures, politics, medical/legal/financial services, harmful instructions, adult content, gore, weapons, copyrighted characters, celebrity likeness, living-artist style imitation, watermark, copied template, copied source image, or external prompt text.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original fictional service-design blueprint artifact generated locally after external source sweep. Sources informed only abstract service blueprint lane conventions, journey-map touchpoint/emotion patterns, script-to-sequence breakdown, customer-journey research distinctions, and prompt-gallery metadata practices; no external prompt text, image, portfolio, template, real brand case, customer data, product UI, or source image was reused."
+      },
+      "promptSources": [
+        {
+          "title": "Service Blueprint Customer Journey Map Projects",
+          "url": "https://www.behance.net/search/projects/service%20blueprint%20customer%20journey%20map",
+          "authorOrPublisher": "Behance / Adobe community",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "community_gallery / visual_format_scan / trend_scan"
+        },
+        {
+          "title": "Service Blueprint",
+          "url": "https://www.uxatlas.io/methods/service-blueprint",
+          "authorOrPublisher": "UXAtlas",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "workflow_inspiration / service_blueprint_pattern / failure_mode_scan"
+        },
+        {
+          "title": "Customer Journey Map: Guide, Examples & Templates",
+          "url": "https://courseux.com/customer-journey-map/",
+          "authorOrPublisher": "CorsoUX",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "journey_map_pattern / touchpoint_emotion_pattern / prompt_pattern_inspiration"
+        },
+        {
+          "title": "How to Create a Storyboard with AI (Step-by-Step Guide)",
+          "url": "https://mstudio.ai/blog/storyboarding/how-to-create-storyboard-with-ai",
+          "authorOrPublisher": "M Studio",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "prompt_pattern_inspiration / scene_breakdown_workflow / sequence_consistency_pattern"
+        },
+        {
+          "title": "Unravelling the customer journey: A conceptual framework and research agenda",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0040162524007145",
+          "authorOrPublisher": "Technological Forecasting and Social Change / Elsevier authors",
+          "license": "Open access article under Creative Commons license; no figure/data reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "research_context / trend_scan / conceptual_evaluation_pattern"
+        },
+        {
+          "title": "AI Prompt Gallery | 10,000+ Creative AI Prompts for Midjourney, Flux & More",
+          "url": "https://loraai.io/inspiration",
+          "authorOrPublisher": "LoraAI",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "prompt_gallery_pattern / metadata_scan / prompt_structure_inspiration"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-28",
+        "reviewNote": "Fictional no-people service-design workshop artifact for invented Mossline Library Pickup, using synthetic complaint fragments and generic service stages only. Screened to avoid real brands/logos, real institutions, real customer data, names, phone numbers, addresses, QR/barcodes, public figures, political persuasion, parties/elections, medical/legal/financial service claims, harmful or dangerous instructions, adult/explicit content, gore, graphic violence, weapons, celebrity likenesses, copyrighted characters, living-artist style imitation, copied prompt text, copied templates, copied images, and source-image reuse."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dd19a-dfd2-75a3-aaae-861a520bb610/ig_0de8ed8fbf93ba290169f0084ef84c8193a5b78d9464226b14.png"
+    },
+    {
       "title": "Derived Play: Chapter Mismatch Relay",
       "caption": "从 Episode Visual Kit Forge 派生出的章节资产 QA 游戏：玩家沿虚构 episode timeline 修复 WRONG IMAGE、QUOTE DRIFT、SPEAKER SWAP、TIME GAP、FALLBACK MISSING 和 TINY TEXT，最后通过 publish gate。",
       "path": "assets/images/270-derived-play-chapter-mismatch-relay.png",
