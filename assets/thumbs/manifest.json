@@ -3,6 +3,16 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/270-derived-play-chapter-mismatch-relay.png": {
+      "path": "assets/thumbs/270-derived-play-chapter-mismatch-relay.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "assets/images/271-use-case-episode-visual-kit-forge.png": {
+      "path": "assets/thumbs/271-use-case-episode-visual-kit-forge.jpg",
+      "width": 768,
+      "height": 432
+    },
     "assets/images/268-derived-play-blocking-bug-hunt.png": {
       "path": "assets/thumbs/268-derived-play-blocking-bug-hunt.jpg",
       "width": 768,

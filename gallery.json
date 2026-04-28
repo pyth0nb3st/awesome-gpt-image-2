@@ -18,6 +18,190 @@
   },
   "images": [
     {
+      "title": "Derived Play: Chapter Mismatch Relay",
+      "caption": "从 Episode Visual Kit Forge 派生出的章节资产 QA 游戏：玩家沿虚构 episode timeline 修复 WRONG IMAGE、QUOTE DRIFT、SPEAKER SWAP、TIME GAP、FALLBACK MISSING 和 TINY TEXT，最后通过 publish gate。",
+      "path": "assets/images/270-derived-play-chapter-mismatch-relay.png",
+      "alt": "Wide QA puzzle sheet titled Chapter Mismatch Relay with podcast episode timeline, chapter cards, quote cards, speaker tags, waveform slices, show-note snippets, six mismatch badges, repair relay steps, before-after fix strips, and ready publish gate",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-28 08:09:43",
+      "batch": "019dd162-fc96-73e0-90fc-5d4131d85154",
+      "tags": [
+        "chapter-mismatch-relay",
+        "derived-play",
+        "podcast-workflow",
+        "chapter-metadata",
+        "quote-drift",
+        "speaker-turns",
+        "timestamp-alignment",
+        "visual-qa-game",
+        "multi-format-assets",
+        "batch-019dd162"
+      ],
+      "prompt": "Create a wide 16:9 playable QA puzzle sheet titled in small clear text \"Derived Play: Chapter Mismatch Relay\". It is derived from Episode Visual Kit Forge: players inspect a fictional podcast episode visual kit and repair mismatches before publishing.\n\nScene/backdrop: a flat editorial QA poster pinned to a neutral production-room wall, crisp readable labels, not a product UI screenshot, not a tabletop game, not a physical controller or lab instrument.\n\nMain layout: a large horizontal episode timeline across the middle for the fictional show \"Field Notes From Tomorrow\" with five chapter stops: 00:00 Cold Open, 04:20 Host Intro, 10:40 Guest Idea, 18:15 Listener Q&A, 27:30 Recap. Around the timeline are movable-looking but printed asset cards: chapter image cards, quote cards, speaker tags H/G, audiogram waveform slices, and show-note fallback snippets.\n\nGame mechanics: intentionally mark six safe fictional errors with numbered warning badges and readable labels: 1 WRONG IMAGE, 2 QUOTE DRIFT, 3 SPEAKER SWAP, 4 TIME GAP, 5 FALLBACK MISSING, 6 TINY TEXT. On the right, show a repair relay column with steps: SPOT, MATCH, PATCH, PREVIEW, PASS. Along the bottom, show before/after mini strips for each fix and a final publish gate stamped \"READY\".\n\nVisual details: use abstract graphic episode art, waveform lanes, timestamp pins, colored thread lines connecting cards to chapters, clear checkboxes, small magnifier icons, and contrast/readability chips. Make it obvious this is a game about visual-generation consistency, metadata alignment, and multi-format asset QA.\n\nStyle: polished media-ops diagram, playful but professional, varied palette with navy, teal, plum, gold, coral, and off-white, high contrast, readable text, compact layout that does not resemble a 2x2 or 2x3 contact sheet.\n\nSafety and originality constraints: no real podcast, no real host or guest, no faces or portraits, no platform logos, no real brands, no copyrighted shows, no celebrities, no political topics, no elections or parties, no true-crime violence imagery, no weapons, no harmful instructions, no medical/legal/financial claims, no adult or explicit content, no gore, no living-artist style imitation, no copied UI, no copied prompt text, no source image reuse.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original fictional podcast chapter-mismatch QA game generated locally after external source sweep. Sources informed only abstract podcast prompt trends, episode art workflow, chapter metadata, transcript summarization, timestamp/speaker structures, thumbnail readability checks, and publish-state review; no external prompt text, image, product UI, show, host, guest, platform logo, brand, artwork, or source image was reused."
+      },
+      "promptSources": [
+        {
+          "title": "Midjourney Podcast Image Prompts",
+          "url": "https://promptden.com/inspiration/midjourney/podcast%2Ball",
+          "authorOrPublisher": "PromptDen / Tiny Works LLC community",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "community_gallery / trend_scan / prompt_pattern_inspiration"
+        },
+        {
+          "title": "ZSky AI for Podcasters - Cover Art, Episode Visuals, Video Clips (2026)",
+          "url": "https://zsky.ai/for-podcasters",
+          "authorOrPublisher": "ZSky AI",
+          "license": "site terms; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "product_case / workflow_inspiration / output_bundle_pattern"
+        },
+        {
+          "title": "Generate Per Episode Cover Art",
+          "url": "https://www.jellypod.com/blog/generate-per-episode-cover-art",
+          "authorOrPublisher": "Pierson Marks / Jellypod",
+          "license": "site copyright; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "episode_art_workflow / publish_state_pattern / prompt_pattern_inspiration"
+        },
+        {
+          "title": "Podcast Chapter Markers Guide: Enhanced Navigation for Your Episodes",
+          "url": "https://podrewind.com/blog/podcast-chapter-markers-guide",
+          "authorOrPublisher": "PodRewind Team",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "chapter_metadata_workflow / failure_mode_scan / evaluation_pattern"
+        },
+        {
+          "title": "MediaSum: A Large-scale Media Interview Dataset for Dialogue Summarization",
+          "url": "https://www.microsoft.com/en-us/research/publication/mediasum-a-large-scale-media-interview-dataset-for-dialogue-summarization/",
+          "authorOrPublisher": "Chenguang Zhu, Yang Liu, Jie Mei, Michael Zeng / Microsoft Research",
+          "license": "research publication page; no dataset/text reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "research_context / transcript_summary_pattern / benchmark_dataset"
+        },
+        {
+          "title": "Structured Podcast Research Corpus (SPoRC)",
+          "url": "https://www.emergentmind.com/topics/structured-podcast-research-corpus-sporc",
+          "authorOrPublisher": "Emergent Mind",
+          "license": "unspecified; no dataset/media reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "research_context / diarization_schema_pattern / trend_scan"
+        },
+        {
+          "title": "AI-podcast cover generator",
+          "url": "https://design.phygital.plus/ai-podcast-cover-art-generator",
+          "authorOrPublisher": "Phygital+",
+          "license": "site copyright; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "cover_art_workflow / thumbnail_readability_pattern / multi_format_export_pattern"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-28",
+        "reviewNote": "Fictional no-people podcast QA game with invented show title, chapter stops, timestamps, speaker labels, abstract asset cards, and neutral episode content only. Screened to avoid real podcasts/shows/hosts/guests/media outlets/platform logos, faces or portraits, celebrity likenesses, copyrighted programs, brands, public figures, political persuasion, parties/elections, true-crime violence imagery, weapons, harmful or dangerous instructions, medical/legal/financial claims, adult/explicit content, gore, graphic violence, living-artist style imitation, copied prompt text, copied UI/images, and source-image reuse."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dd162-fc96-73e0-90fc-5d4131d85154/ig_0ed9516f1bcf5f3a0169effa6de3ec8190b251f9c41be64bbc.png"
+    },
+    {
+      "title": "Use Case: Episode Visual Kit Forge",
+      "caption": "把 GPT Image 2 用作播客视觉生产工具：从虚构 transcript outline 生成 square cover、16:9 thumbnail、vertical clip keyframe、quote card、audiogram background、chapter rail 和 TRANSCRIPT/SPEAKER/CHAPTER/QUOTE/TINY READ/EXPORT 复核栏。",
+      "path": "assets/images/271-use-case-episode-visual-kit-forge.png",
+      "alt": "Wide podcast production wall titled Episode Visual Kit Forge with transcript outline, speaker-turn timeline, chapter markers, square cover, 16:9 thumbnail, vertical clip frame, quote card, audiogram background, chapter image rail, and QA chips",
+      "width": 1672,
+      "height": 941,
+      "createdAt": "2026-04-28 08:08:14",
+      "batch": "019dd162-fc96-73e0-90fc-5d4131d85154",
+      "tags": [
+        "episode-visual-kit-forge",
+        "use-case",
+        "podcast-workflow",
+        "transcript-to-assets",
+        "chapter-markers",
+        "speaker-turns",
+        "multi-format-adaptation",
+        "thumbnail-readability",
+        "asset-provenance",
+        "batch-019dd162"
+      ],
+      "prompt": "Create a wide 16:9 fictional podcast production artifact titled in small clear text \"Use Case: Episode Visual Kit Forge\". Show how GPT Image 2 can turn a plain transcript outline into a coordinated multi-channel episode visual kit.\n\nScene/backdrop: a clean audio-production planning wall, matte paper and crisp editorial mockup assets pinned flat, not a product photo, not a tabletop game, not a physical control device.\n\nMain structure: center-left shows a compact transcript input strip for a fictional episode named \"Field Notes From Tomorrow\" with invented neutral segments only: 00:00 cold open, 04:20 host intro, 10:40 guest idea, 18:15 listener question, 27:30 recap. Use abstract speaker labels H and G, no real names. Center shows a horizontal timeline with speaker-turn bands, timestamp ticks, topic blocks, and chapter markers. Right side shows the generated visual kit as clearly different formats: square cover art placeholder, 16:9 thumbnail frame, vertical clip keyframe, quote card, audiogram background with waveform lane, and chapter image rail. Bottom has a provenance and QA rail with chips: TRANSCRIPT LOCK, SPEAKER MATCH, CHAPTER IMAGE, QUOTE SAFE, TINY READ, EXPORT SET.\n\nVisual details: make the assets look coordinated but not branded: invented typography, varied restrained color palette, abstract geometric imagery, waveform motifs, chapter thumbnails as nonliteral graphic scenes, readable labels. Include small arrows showing transcript-to-summary-to-assets workflow and a draft-to-publish gate.\n\nPrompt mechanism shown: transcript summarization, timestamp alignment, speaker-turn consistency, multi-format adaptation, thumbnail readability, asset bundle provenance.\n\nSafety and originality constraints: no real podcast, no real host or guest, no faces or portraits, no platform logos, no real brands, no copyrighted shows, no celebrities, no political topics, no elections or parties, no true-crime violence imagery, no weapons, no harmful instructions, no medical/legal/financial claims, no adult or explicit content, no gore, no living-artist style imitation, no copied UI, no copied prompt text, no source image reuse, no 2x2 or 2x3 research board.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Original fictional podcast visual-production artifact generated locally after external source sweep. Sources informed only abstract podcast prompt trends, per-episode artwork workflow, chapter metadata, transcript summarization, diarization/timestamp structures, thumbnail readability, and multi-format asset bundles; no external prompt text, image, product UI, show, host, guest, platform logo, brand, artwork, or source image was reused."
+      },
+      "promptSources": [
+        {
+          "title": "Midjourney Podcast Image Prompts",
+          "url": "https://promptden.com/inspiration/midjourney/podcast%2Ball",
+          "authorOrPublisher": "PromptDen / Tiny Works LLC community",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "community_gallery / trend_scan / prompt_pattern_inspiration"
+        },
+        {
+          "title": "ZSky AI for Podcasters - Cover Art, Episode Visuals, Video Clips (2026)",
+          "url": "https://zsky.ai/for-podcasters",
+          "authorOrPublisher": "ZSky AI",
+          "license": "site terms; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "product_case / workflow_inspiration / output_bundle_pattern"
+        },
+        {
+          "title": "Generate Per Episode Cover Art",
+          "url": "https://www.jellypod.com/blog/generate-per-episode-cover-art",
+          "authorOrPublisher": "Pierson Marks / Jellypod",
+          "license": "site copyright; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "episode_art_workflow / publish_state_pattern / prompt_pattern_inspiration"
+        },
+        {
+          "title": "Podcast Chapter Markers Guide: Enhanced Navigation for Your Episodes",
+          "url": "https://podrewind.com/blog/podcast-chapter-markers-guide",
+          "authorOrPublisher": "PodRewind Team",
+          "license": "unspecified; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "chapter_metadata_workflow / failure_mode_scan / evaluation_pattern"
+        },
+        {
+          "title": "MediaSum: A Large-scale Media Interview Dataset for Dialogue Summarization",
+          "url": "https://www.microsoft.com/en-us/research/publication/mediasum-a-large-scale-media-interview-dataset-for-dialogue-summarization/",
+          "authorOrPublisher": "Chenguang Zhu, Yang Liu, Jie Mei, Michael Zeng / Microsoft Research",
+          "license": "research publication page; no dataset/text reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "research_context / transcript_summary_pattern / benchmark_dataset"
+        },
+        {
+          "title": "Structured Podcast Research Corpus (SPoRC)",
+          "url": "https://www.emergentmind.com/topics/structured-podcast-research-corpus-sporc",
+          "authorOrPublisher": "Emergent Mind",
+          "license": "unspecified; no dataset/media reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "research_context / diarization_schema_pattern / trend_scan"
+        },
+        {
+          "title": "AI-podcast cover generator",
+          "url": "https://design.phygital.plus/ai-podcast-cover-art-generator",
+          "authorOrPublisher": "Phygital+",
+          "license": "site copyright; no verbatim prompt/image reuse",
+          "accessedAt": "2026-04-28",
+          "usedAs": "cover_art_workflow / thumbnail_readability_pattern / multi_format_export_pattern"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-28",
+        "reviewNote": "Fictional no-people podcast production artifact with invented show title, transcript outline, timestamps, speaker labels, abstract visuals, and neutral episode topics only. Screened to avoid real podcasts/shows/hosts/guests/media outlets/platform logos, faces or portraits, celebrity likenesses, copyrighted programs, brands, public figures, political persuasion, parties/elections, true-crime violence imagery, weapons, harmful or dangerous instructions, medical/legal/financial claims, adult/explicit content, gore, graphic violence, living-artist style imitation, copied prompt text, copied UI/images, and source-image reuse."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dd162-fc96-73e0-90fc-5d4131d85154/ig_0ed9516f1bcf5f3a0169eff9d5ccd08190b9d3a6c176d6f594.png"
+    },
+    {
       "title": "Derived Play: Blocking Bug Hunt",
       "caption": "从 Rehearsal Blocking Atlas 派生出的走位一致性 QA 游戏：玩家检查虚构 stage map 并修复 late entrance、path collision、wrong facing、missed hold 和 off-count exit。",
       "path": "assets/images/268-derived-play-blocking-bug-hunt.png",
