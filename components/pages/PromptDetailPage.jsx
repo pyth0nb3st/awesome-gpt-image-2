@@ -16,6 +16,15 @@ import {
 } from "../../lib/gallery";
 import { getCopy, tagLabel } from "../../lib/i18n";
 
+const isSocialCreditUrl = (value) => {
+  try {
+    const hostname = new URL(value).hostname.replace(/^www\./, "");
+    return hostname === "x.com" || hostname === "twitter.com";
+  } catch {
+    return false;
+  }
+};
+
 export default function PromptDetailPageContent({ entry, locale = "en" }) {
   const t = getCopy(locale);
   const { image, index, tags, title } = entry;
@@ -23,6 +32,9 @@ export default function PromptDetailPageContent({ entry, locale = "en" }) {
   const related = relatedFor(entry);
   const canonical = absoluteUrl(entry.pagePath);
   const fullImageUrl = absoluteUrl(image.path);
+  const promptSources = Array.isArray(image.promptSources) ? image.promptSources : [];
+  const socialCredits = promptSources.filter((source) => isSocialCreditUrl(source.url));
+  const sourceNote = image.provenance?.sourceNote;
 
   return (
     <>
@@ -110,6 +122,39 @@ export default function PromptDetailPageContent({ entry, locale = "en" }) {
           </div>
           <pre>{image.prompt}</pre>
         </section>
+        {promptSources.length > 0 ? (
+          <section className="panel source-panel">
+            <div className="prompt-panel-header">
+              <h2>{t.sourceCredits}</h2>
+              <p className="meta">{t.sourceCount(promptSources.length)}</p>
+            </div>
+            {socialCredits.length > 0 ? <p className="source-thanks">{t.sourceThanks(socialCredits.length)}</p> : null}
+            {sourceNote ? (
+              <p className="source-note">
+                <strong>{t.sourceNoteLabel}</strong> {sourceNote}
+              </p>
+            ) : null}
+            <div className="source-list">
+              {promptSources.map((source) => (
+                <article className="source-item" key={`${source.url}-${source.usedAs}`}>
+                  <h3>{source.title}</h3>
+                  <p className="source-meta">
+                    <strong>{source.authorOrPublisher}</strong>
+                  </p>
+                  <p className="source-meta">{source.usedAs}</p>
+                  <p className="source-meta">
+                    {t.sourceAccessedLabel(source.accessedAt)} · {source.license}
+                  </p>
+                  <p>
+                    <a className="source-link" href={source.url} target="_blank" rel="noreferrer">
+                      {isSocialCreditUrl(source.url) ? t.openOriginalPost : t.openSourceLink}
+                    </a>
+                  </p>
+                </article>
+              ))}
+            </div>
+          </section>
+        ) : null}
         <section>
           <h2 className="section-title">{t.relatedExamples}</h2>
           <CardGrid entries={related} locale={locale} />
