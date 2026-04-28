@@ -208,6 +208,18 @@ const style = `
       .source-link:hover, .source-link:focus-visible {
         text-decoration: underline;
       }
+      .tweet-card-shell {
+        border: 1px solid var(--line);
+        background: #fdf7ea;
+        padding: 14px;
+      }
+      .tweet-card-shell .twitter-tweet {
+        margin: 0 auto !important;
+      }
+      .tweet-card-fallback {
+        display: grid;
+        gap: 10px;
+      }
       .copy-prompt {
         min-inline-size: 124px;
         min-height: 36px;
@@ -336,7 +348,38 @@ const copyPromptScript = `<script>
 })();
 </script>`;
 
-const pageShell = ({ title, description, canonical, imageUrl, jsonLd, body }) => `<!doctype html>
+const TWITTER_OEMBED_URL = "https://publish.twitter.com/oembed";
+const tweetCardCache = new Map();
+
+const fetchTweetCardHtml = async (url) => {
+  if (tweetCardCache.has(url)) {
+    return tweetCardCache.get(url);
+  }
+
+  try {
+    const params = new URLSearchParams({
+      url,
+      omit_script: "true",
+      maxwidth: "550",
+      dnt: "true",
+      align: "center",
+    });
+    const response = await fetch(`${TWITTER_OEMBED_URL}?${params}`);
+    if (!response.ok) {
+      tweetCardCache.set(url, null);
+      return null;
+    }
+    const data = await response.json();
+    const html = typeof data?.html === "string" ? data.html : null;
+    tweetCardCache.set(url, html);
+    return html;
+  } catch {
+    tweetCardCache.set(url, null);
+    return null;
+  }
+};
+
+const pageShell = ({ title, description, canonical, imageUrl, jsonLd, body, hasTwitterCard = false }) => `<!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8" />
@@ -374,6 +417,7 @@ const pageShell = ({ title, description, canonical, imageUrl, jsonLd, body }) =>
         <span>Creator tools: <a href="${DRILL_URL}">Drill</a> and <a href="${VIBEART_URL}">VibeArt</a>.</span>
       </footer>
     </main>
+    ${hasTwitterCard ? '<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>' : ""}
     ${copyPromptScript}
   </body>
 </html>
@@ -397,9 +441,9 @@ const isSocialCreditUrl = (value) => {
   }
 };
 
-const sourceSection = (image) => {
+const sourceSection = async (image) => {
   const promptSources = Array.isArray(image.promptSources) ? image.promptSources : [];
-  if (!promptSources.length) return "";
+  if (!promptSources.length) return { html: "", hasTwitterCard: false };
 
   const socialCredits = promptSources.filter((source) => isSocialCreditUrl(source.url));
   const thanks =
@@ -411,8 +455,42 @@ const sourceSection = (image) => {
   const sourceNote = image.provenance?.sourceNote
     ? `<p class="source-note"><strong>Source note:</strong> ${escapeHtml(image.provenance.sourceNote)}</p>`
     : "";
+  let hasTwitterCard = false;
+  const sourceItems = await Promise.all(
+    promptSources.map(async (source) => {
+      if (isSocialCreditUrl(source.url)) {
+        const embedHtml = await fetchTweetCardHtml(source.url);
+        if (embedHtml) {
+          hasTwitterCard = true;
+          return `<article class="source-item">
+              <h3>${escapeHtml(source.title)}</h3>
+              <p class="source-meta"><strong>${escapeHtml(source.authorOrPublisher)}</strong></p>
+              <p class="source-meta">${escapeHtml(source.usedAs)}</p>
+              <p class="source-meta">Accessed ${escapeHtml(source.accessedAt)} · ${escapeHtml(source.license)}</p>
+              <div class="tweet-card-shell">${embedHtml}</div>
+              <p><a class="source-link" href="${escapeAttribute(source.url)}" target="_blank" rel="noreferrer">Open original post</a></p>
+            </article>`;
+        }
+        return `<article class="source-item tweet-card-fallback">
+              <h3>${escapeHtml(source.title)}</h3>
+              <p class="source-meta"><strong>${escapeHtml(source.authorOrPublisher)}</strong></p>
+              <p class="source-meta">${escapeHtml(source.usedAs)}</p>
+              <p class="source-meta">Accessed ${escapeHtml(source.accessedAt)} · ${escapeHtml(source.license)}</p>
+              <p><a class="source-link" href="${escapeAttribute(source.url)}" target="_blank" rel="noreferrer">Open original post</a></p>
+            </article>`;
+      }
 
-  return `<section class="panel source-panel">
+      return `<article class="source-item">
+              <h3>${escapeHtml(source.title)}</h3>
+              <p class="source-meta"><strong>${escapeHtml(source.authorOrPublisher)}</strong></p>
+              <p class="source-meta">${escapeHtml(source.usedAs)}</p>
+              <p class="source-meta">Accessed ${escapeHtml(source.accessedAt)} · ${escapeHtml(source.license)}</p>
+              <p><a class="source-link" href="${escapeAttribute(source.url)}" target="_blank" rel="noreferrer">Open source link</a></p>
+            </article>`;
+    }),
+  );
+
+  return { html: `<section class="panel source-panel">
         <div class="prompt-panel-header">
           <h2>Credits and sources</h2>
           <p class="meta">${promptSources.length} linked source${promptSources.length === 1 ? "" : "s"}</p>
@@ -420,19 +498,9 @@ const sourceSection = (image) => {
         ${thanks}
         ${sourceNote}
         <div class="source-list">
-          ${promptSources
-            .map(
-              (source) => `<article class="source-item">
-              <h3>${escapeHtml(source.title)}</h3>
-              <p class="source-meta"><strong>${escapeHtml(source.authorOrPublisher)}</strong></p>
-              <p class="source-meta">${escapeHtml(source.usedAs)}</p>
-              <p class="source-meta">Accessed ${escapeHtml(source.accessedAt)} · ${escapeHtml(source.license)}</p>
-              <p><a class="source-link" href="${escapeAttribute(source.url)}" target="_blank" rel="noreferrer">${isSocialCreditUrl(source.url) ? "Open original post" : "Open source link"}</a></p>
-            </article>`,
-            )
-            .join("\n")}
+          ${sourceItems.join("\n")}
         </div>
-      </section>`;
+      </section>`, hasTwitterCard };
 };
 
 const relatedFor = (entry) => {
@@ -541,6 +609,7 @@ for (const entry of images) {
     158,
   );
   const related = relatedFor(entry);
+  const sourceInfo = await sourceSection(image);
 
   await writeHtml(
     pagePath,
@@ -572,6 +641,7 @@ for (const entry of images) {
           ],
         },
       ],
+      hasTwitterCard: sourceInfo.hasTwitterCard,
       body: `<header>
         <p class="meta">Prompt example #${String(index + 1).padStart(2, "0")} · ${escapeHtml(image.createdAt ?? updated)}</p>
         <h1>${escapeHtml(title)}</h1>
@@ -598,7 +668,7 @@ for (const entry of images) {
         </div>
         <pre id="full-prompt">${escapeHtml(image.prompt)}</pre>
       </section>
-      ${sourceSection(image)}
+      ${sourceInfo.html}
       <section>
         <h2>Related GPT Image 2 Prompt Examples</h2>
         ${cardGrid(related)}

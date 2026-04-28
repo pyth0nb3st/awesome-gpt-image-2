@@ -189,6 +189,18 @@
       .source-link:hover, .source-link:focus-visible {
         text-decoration: underline;
       }
+      .tweet-card-shell {
+        border: 1px solid var(--line);
+        background: #fdf7ea;
+        padding: 14px;
+      }
+      .tweet-card-shell .twitter-tweet {
+        margin: 0 auto !important;
+      }
+      .tweet-card-fallback {
+        display: grid;
+        gap: 10px;
+      }
       .copy-prompt {
         min-inline-size: 124px;
         min-height: 36px;
@@ -328,6 +340,9 @@ Negative prompt: blurry, low quality, extra limbs, distorted anatomy, bad propor
               <p class="source-meta"><strong>Oogie / @oggii_0</strong></p>
               <p class="source-meta">original_prompt_source / author_credit / social_workflow_reference</p>
               <p class="source-meta">Accessed 2026-04-28 · public social post; prompt reused with attribution at user request</p>
+              <div class="tweet-card-shell"><blockquote class="twitter-tweet" align="center" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Made with GPT Image 2 + Seedance 2.0 on <a href="https://twitter.com/SocialSight?ref_src=twsrc%5Etfw">@SocialSight</a><br><br>Generate a 16-move choreography sheet in GPT Image<br>↓↓↓↓↓↓<br>Upload it to Seedance 2.0 as the &quot;brain&quot; of your dance<br>↓↓↓↓↓↓<br>Your character performs the full routine instantly<br>↓↓↓↓↓↓<br>A complete K-pop dance video.… <a href="https://t.co/8lt8ApJq6Z">pic.twitter.com/8lt8ApJq6Z</a></p>&mdash; Oogie (@oggii_0) <a href="https://twitter.com/oggii_0/status/2048997210428440706?ref_src=twsrc%5Etfw">April 28, 2026</a></blockquote>
+
+</div>
               <p><a class="source-link" href="https://x.com/oggii_0/status/2048997210428440706" target="_blank" rel="noreferrer">Open original post</a></p>
             </article>
         </div>
@@ -396,6 +411,7 @@ Negative prompt: blurry, low quality, extra limbs, distorted anatomy, bad propor
         <span>Creator tools: <a href="https://drillso.com/">Drill</a> and <a href="https://vibeart.app/">VibeArt</a>.</span>
       </footer>
     </main>
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     <script>
 (() => {
   const resetDelay = 1800;

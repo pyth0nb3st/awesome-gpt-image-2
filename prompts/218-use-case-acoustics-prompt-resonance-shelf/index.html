@@ -189,6 +189,18 @@
       .source-link:hover, .source-link:focus-visible {
         text-decoration: underline;
       }
+      .tweet-card-shell {
+        border: 1px solid var(--line);
+        background: #fdf7ea;
+        padding: 14px;
+      }
+      .tweet-card-shell .twitter-tweet {
+        margin: 0 auto !important;
+      }
+      .tweet-card-fallback {
+        display: grid;
+        gap: 10px;
+      }
       .copy-prompt {
         min-inline-size: 124px;
         min-height: 36px;
@@ -370,6 +382,7 @@ Style: premium tactile studio photograph, black walnut, brushed copper, charcoal
         <span>Creator tools: <a href="https://drillso.com/">Drill</a> and <a href="https://vibeart.app/">VibeArt</a>.</span>
       </footer>
     </main>
+    
     <script>
 (() => {
   const resetDelay = 1800;
