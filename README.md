@@ -1,11 +1,11 @@
 # Awesome GPT Image 2
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-live-2ea44f)](https://gptimg2.best/)
-[![Images](https://img.shields.io/badge/images-260-0f766e)](https://gptimg2.best/)
-[![Prompts](https://img.shields.io/badge/prompts-260-a34716)](https://gptimg2.best/)
+[![Images](https://img.shields.io/badge/images-261-0f766e)](https://gptimg2.best/)
+[![Prompts](https://img.shields.io/badge/prompts-261-a34716)](https://gptimg2.best/)
 [![License](https://img.shields.io/badge/license-code%20MIT%20%2B%20content%20review-lightgrey)](LICENSE.md)
 
-> Browse 260 GPT Image 2 prompt examples with generated images, reusable tags, image-generation use cases, and prompt text for product mockups, UI, games, diagrams, and storytelling.
+> Browse 261 GPT Image 2 prompt examples with generated images, reusable tags, image-generation use cases, and prompt text for product mockups, UI, games, diagrams, and storytelling.
 
 **Live gallery:** https://gptimg2.best/  
 **Repository:** https://github.com/pyth0nb3st/awesome-gpt-image-2  
@@ -234,6 +234,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `attribute-binding` (1)
 - `audit-game` (1)
 - `audit-heatmap-arcade` (1)
+- `author-credit` (1)
 - `backflush-fix` (1)
 - `backstage-leak-hunt` (1)
 - `backstage-process` (1)
@@ -436,6 +437,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `cushion-stack-trial` (1)
 - `damping-duel` (1)
 - `damping-felt` (1)
+- `dance-infographic` (1)
 - `darkroom` (1)
 - `darkroom-game` (1)
 - `dart-scale` (1)
@@ -490,6 +492,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `edit-window` (1)
 - `edition-ledger-trail` (1)
 - `edition-trail-memory` (1)
+- `editorial-illustration` (1)
 - `education-worksheet` (1)
 - `educational-comic` (1)
 - `educational-infographic-remix` (1)
@@ -621,6 +624,8 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `jewel-letter` (1)
 - `jewel-read` (1)
 - `journey-map` (1)
+- `k-pop` (1)
+- `k-pop-choreography` (1)
 - `kernel-puff` (1)
 - `kiln-provenance-tags` (1)
 - `kitchen-mise-map` (1)
@@ -872,6 +877,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `prompt-pressure-altimeter` (1)
 - `prompt-refraction-bench` (1)
 - `prompt-resonance-shelf` (1)
+- `prompt-reuse` (1)
 - `prompt-seed-vault` (1)
 - `prompt-settling-chamber` (1)
 - `prompt-tremor-lab` (1)
@@ -1049,6 +1055,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `slide-layer-draft` (1)
 - `smooth-patch` (1)
 - `snowglobe` (1)
+- `social-workflow` (1)
 - `sound-shape-notation` (1)
 - `source-credit` (1)
 - `source-linking` (1)
@@ -1230,6 +1237,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 - `worldbuilding-atlas` (1)
 - `wrap-seam-sweep` (1)
 - `wraparound-scene` (1)
+- `x-prompt-redraw` (1)
 
 </details>
 
@@ -1249,7 +1257,7 @@ These lists are regenerated from `gallery.json`. Top themes are broad reusable c
 
 ## Example Pages
 
-- [Prompt page index](https://gptimg2.best/prompts/) links to 260 individual GPT Image 2 prompt examples.
+- [Prompt page index](https://gptimg2.best/prompts/) links to 261 individual GPT Image 2 prompt examples.
 - [Tag page index](https://gptimg2.best/tags/) groups examples by visual intent, asset type, and workflow.
 - Each generated prompt page includes a unique title, meta description, canonical URL, Open Graph image, image schema, full prompt text, and related internal links.
 
@@ -7753,6 +7761,39 @@ Lighting/mood: intelligent, exploratory, precise, calm but powerful; soft volume
 Color palette: off-white paper tones, deep graphite, electric cyan, subtle teal, restrained warm highlights.
 Materials/textures: paper grain, glassy UI layers, soft light bloom, crisp typographic-texture hints without readable text.
 Constraints: no readable text, no logos, no watermark, no clutter, no purple-dominant palette, suitable for SaaS marketing hero use.
+```
+
+</details>
+
+### 261. Use Case: K-Pop Choreography Sheet
+
+![Use Case: K-Pop Choreography Sheet](assets/images/274-use-case-k-pop-choreography-sheet.png)
+
+**Tags:** `author-credit` `dance-infographic` `editorial-illustration` `k-pop` `k-pop-choreography` `prompt-reuse` `social-workflow` `x-prompt-redraw`
+
+**Prompt excerpt:** A colored pencil sketch style choreography sheet infographic for a K-pop solo dance. Layout: 16 steps arranged in a clean 4x4 grid, each panel showing a different dance move. Subject: A teenage Asian girl with short blunt-cut hair and bold...
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+A colored pencil sketch style choreography sheet infographic for a K-pop solo dance. Layout: 16 steps arranged in a clean 4x4 grid, each panel showing a different dance move.
+
+Subject: A teenage Asian girl with short blunt-cut hair and bold bangs, wearing a monochrome outfit: fitted black turtleneck, wide-leg tailored trousers, chunky white platform boots, with silver chain accessories and fingerless gloves.
+
+Style: Hand-drawn colored pencil illustration, bold outlines with sharp shading, slightly angular and graphic, monochrome base with pops of electric red and silver as accent tones. Confident, editorial energy.
+
+Movement: Each frame captures sharp, punchy dance motions: arm isolations, sharp head snaps, shoulder locks, chest contractions, low lunges, toe-point poses, dramatic wrist flicks, and a signature ending freeze, with bold red arrows showing force direction and snap timing.
+
+Design: High-contrast K-pop girl crush aesthetic, grid with thin black borders, step numbers 1-16 in bold sans-serif, short captions under each frame describing the motion.
+
+Text: Title at the top: "K-POP GIRL CRUSH - 16 COUNTS - 10 SECONDS - SHARP LOCK & POP"
+
+Environment: White studio background, dramatic downlight suggestion, minimal clean shadows.
+
+Quality: High detail, crisp composition, balanced layout, editorial dance tutorial poster.
+
+Negative prompt: blurry, low quality, extra limbs, distorted anatomy, bad proportions, messy layout, overcrowded design, text errors, watermark, soft or pastel tones.
 ```
 
 </details>

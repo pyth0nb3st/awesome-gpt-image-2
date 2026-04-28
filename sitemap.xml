@@ -1305,6 +1305,11 @@
       <image:title>Use case: stylized-concept</image:title>
       <image:caption>Use case: stylized-concept Asset type: Drill website landing page hero image, wide 16:9 marketing visual Primary request: Create a bold abstract brand visual for Drill, an AI reading comprehension product that lets users drill into anythin...</image:caption>
     </image:image>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/274-use-case-k-pop-choreography-sheet.png</image:loc>
+      <image:title>Use Case: K-Pop Choreography Sheet</image:title>
+      <image:caption>A colored pencil sketch style choreography sheet infographic for a K-pop solo dance. Layout: 16 steps arranged in a clean 4x4 grid, each panel showing a different dance move. Subject: A teenage Asian girl with short blunt-cut hair and bold...</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://gptimg2.best/prompts/</loc>
@@ -4176,6 +4181,17 @@
       <image:loc>https://gptimg2.best/assets/images/077-use-case-stylized-concept.png</image:loc>
       <image:title>Use case: stylized-concept</image:title>
       <image:caption>Use case: stylized-concept Asset type: Drill website landing page hero image, wide 16:9 marketing visual Primary request: Create a bold abstract brand visual for Drill, an AI reading comprehension product that lets users drill into anythin...</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gptimg2.best/prompts/274-use-case-k-pop-choreography-sheet/</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://gptimg2.best/assets/images/274-use-case-k-pop-choreography-sheet.png</image:loc>
+      <image:title>Use Case: K-Pop Choreography Sheet</image:title>
+      <image:caption>A colored pencil sketch style choreography sheet infographic for a K-pop solo dance. Layout: 16 steps arranged in a clean 4x4 grid, each panel showing a different dance move. Subject: A teenage Asian girl with short blunt-cut hair and bold...</image:caption>
     </image:image>
   </url>
   <url>
