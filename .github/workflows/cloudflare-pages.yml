@@ -1,0 +1,42 @@
+name: Deploy static Next.js export to Cloudflare Pages
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: cloudflare-pages
+  cancel-in-progress: false
+
+env:
+  CLOUDFLARE_PAGES_PROJECT: ${{ vars.CLOUDFLARE_PAGES_PROJECT || 'awesome-gpt-image-2' }}
+  NEXT_PUBLIC_GPTIMG_ASSET_BASE_URL: ${{ vars.NEXT_PUBLIC_GPTIMG_ASSET_BASE_URL }}
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    env:
+      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - name: Install dependencies
+        run: npm ci
+      - name: Build static export
+        run: npm run build
+      - name: Deploy to Cloudflare Pages
+        if: ${{ env.CLOUDFLARE_ACCOUNT_ID != '' && env.CLOUDFLARE_API_TOKEN != '' }}
+        run: npx --yes wrangler@latest pages deploy out --project-name "$CLOUDFLARE_PAGES_PROJECT"
+      - name: Skip Cloudflare deploy
+        if: ${{ env.CLOUDFLARE_ACCOUNT_ID == '' || env.CLOUDFLARE_API_TOKEN == '' }}
+        run: echo "Skipping Cloudflare deploy because CLOUDFLARE_ACCOUNT_ID or CLOUDFLARE_API_TOKEN is not configured."

@@ -42,6 +42,18 @@ export const slugify = (value) =>
 
 export const absoluteUrl = (path) => new URL(path, SITE_URL).toString();
 
+export const ASSET_BASE_URL = String(process.env.NEXT_PUBLIC_GPTIMG_ASSET_BASE_URL ?? "").replace(/\/+$/, "");
+
+export const assetKey = (path) =>
+  String(path)
+    .replace(/^\/+/, "")
+    .replace(/^assets\//, "");
+
+export const assetUrl = (path) =>
+  ASSET_BASE_URL ? `${ASSET_BASE_URL}/${assetKey(path)}` : `/${String(path).replace(/^\/+/, "")}`;
+
+export const absoluteAssetUrl = (path) => (ASSET_BASE_URL ? assetUrl(path) : absoluteUrl(path));
+
 export const imageTimestamp = (image) => {
   const normalized = String(image?.createdAt ?? "").trim().replace(" ", "T");
   const timestamp = Date.parse(normalized);
@@ -188,8 +200,8 @@ export const buildJsonLd = (data) => ({
     associatedMedia: data.images.slice(0, 100).map((image, index) => ({
       "@type": "ImageObject",
       name: cleanTitle(image, index),
-      contentUrl: absoluteUrl(image.path),
-      thumbnailUrl: absoluteUrl(image.path),
+      contentUrl: absoluteAssetUrl(image.path),
+      thumbnailUrl: absoluteAssetUrl(image.path),
       caption: promptExcerpt(image.prompt, 240),
       keywords: displayTags(image).join(", "),
       width: image.width,

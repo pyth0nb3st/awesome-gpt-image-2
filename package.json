@@ -9,6 +9,8 @@
     "prebuild": "npm run validate:gallery && node scripts/generate-thumbnails.mjs",
     "dev": "next dev",
     "build": "next build && node scripts/copy-export-assets.mjs",
+    "upload:r2-assets": "node scripts/upload-r2-assets.mjs",
+    "deploy:cloudflare": "npm run build && wrangler pages deploy out --project-name ${CLOUDFLARE_PAGES_PROJECT:-awesome-gpt-image-2}",
     "start": "next start"
   },
   "dependencies": {

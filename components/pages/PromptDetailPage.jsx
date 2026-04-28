@@ -7,6 +7,7 @@ import {
   DRILL_URL,
   VIBEART_URL,
   absoluteUrl,
+  imageAbsoluteUrl,
   imageUrl,
   localizedTagUrl,
   promptExcerpt,
@@ -61,7 +62,7 @@ export default async function PromptDetailPageContent({ entry, locale = "en" }) 
   const tagLabels = tags.map((tag) => tagLabel(tag, locale));
   const related = relatedFor(entry);
   const canonical = absoluteUrl(entry.pagePath);
-  const fullImageUrl = absoluteUrl(image.path);
+  const fullImageUrl = imageAbsoluteUrl(image);
   const promptSources = Array.isArray(image.promptSources) ? image.promptSources : [];
   const socialCredits = promptSources.filter((source) => isSocialCreditUrl(source.url));
   const sourceNote = image.provenance?.sourceNote;

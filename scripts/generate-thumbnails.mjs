@@ -7,6 +7,7 @@ const THUMB_QUALITY = 6;
 const imageDirectory = "assets/images";
 const thumbDirectory = "assets/thumbs";
 const manifestPath = path.join(thumbDirectory, "manifest.json");
+const preserveRemoteManifestEntries = Boolean(process.env.NEXT_PUBLIC_GPTIMG_ASSET_BASE_URL);
 
 const exists = async (filePath) => {
   try {
@@ -14,6 +15,14 @@ const exists = async (filePath) => {
     return true;
   } catch {
     return false;
+  }
+};
+
+const readExistingManifest = async () => {
+  try {
+    return JSON.parse(await readFile(manifestPath, "utf8"));
+  } catch {
+    return { images: {} };
   }
 };
 
@@ -57,6 +66,7 @@ const thumbDimensions = (image) => {
 };
 
 const data = JSON.parse(await readFile("gallery.json", "utf8"));
+const existingManifest = await readExistingManifest();
 const ffmpegAvailable = hasFfmpeg();
 let generated = 0;
 let missing = 0;
@@ -90,7 +100,7 @@ for (const image of data.images) {
   generated += 1;
 }
 
-const thumbs = {};
+const thumbs = preserveRemoteManifestEntries ? { ...(existingManifest.images ?? {}) } : {};
 for (const image of data.images) {
   const sourcePath = image.path;
   const outputPath = path.join(thumbDirectory, `${path.basename(sourcePath, path.extname(sourcePath))}.jpg`);

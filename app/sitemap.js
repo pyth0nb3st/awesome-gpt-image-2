@@ -1,8 +1,8 @@
-import { SITE_URL, absoluteUrl, galleryEntries, tagEntries, tagUrl, updatedDate } from "../lib/gallery";
+import { SITE_URL, absoluteUrl, galleryEntries, imageAbsoluteUrl, tagEntries, tagUrl, updatedDate } from "../lib/gallery";
 
 export const dynamic = "force-static";
 
-const topImages = () => galleryEntries.slice(0, 20).map((entry) => absoluteUrl(entry.image.path));
+const topImages = () => galleryEntries.slice(0, 20).map((entry) => imageAbsoluteUrl(entry.image));
 
 const withAlternates = (path, zhPath, entry) => ({
   ...entry,
@@ -80,14 +80,14 @@ export default function sitemap() {
         lastModified,
         changeFrequency: "monthly",
         priority: 0.7,
-        images: [absoluteUrl(entry.image.path)],
+        images: [imageAbsoluteUrl(entry.image)],
       }),
       withAlternates(entry.pagePath, zhPath, {
         url: absoluteUrl(zhPath),
         lastModified,
         changeFrequency: "monthly",
         priority: 0.65,
-        images: [absoluteUrl(entry.image.path)],
+        images: [imageAbsoluteUrl(entry.image)],
       }),
     ];
   });

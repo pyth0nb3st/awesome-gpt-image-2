@@ -2,7 +2,7 @@
   "title": "Awesome GPT Image 2",
   "automation": "gpt image 2 play",
   "run": "2026-04-25 historical sync",
-  "summary": "A visual gallery of playful GPT Image use cases, prompts, and experiment patterns. Images are stored in this repository for GitHub Pages publishing.",
+  "summary": "A visual gallery of playful GPT Image use cases, prompts, and experiment patterns. Image paths are metadata keys and can be served from repository assets or an external object bucket.",
   "provenancePolicy": {
     "version": 1,
     "updatedAt": "2026-04-25",

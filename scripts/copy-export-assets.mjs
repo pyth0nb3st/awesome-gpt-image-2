@@ -10,7 +10,12 @@ const exists = async (path) => {
 };
 
 await mkdir("out", { recursive: true });
-await cp("assets", "out/assets", { recursive: true });
+
+if (process.env.NEXT_PUBLIC_GPTIMG_ASSET_BASE_URL) {
+  console.log("Skipping gallery asset copy because NEXT_PUBLIC_GPTIMG_ASSET_BASE_URL is set.");
+} else {
+  await cp("assets", "out/assets", { recursive: true });
+}
 
 for (const file of ["CNAME", ".nojekyll", "gallery.json"]) {
   if (await exists(file)) {
