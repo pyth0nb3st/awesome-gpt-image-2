@@ -18,6 +18,166 @@
   },
   "images": [
     {
+      "title": "GPT Image 2 neon rabbit in a real bokeh garden",
+      "caption": "复用宝玉在 X 分享的霓虹线稿混合媒介模板，重绘一只手持粉色气球的开心兔子。",
+      "path": "assets/images/285-gpt-image-2-neon-rabbit-in-a-real-bokeh-garden.png",
+      "alt": "Glowing neon line-art rabbit holding a pink balloon on a real sunlit botanical garden path with bokeh",
+      "width": 1024,
+      "height": 1536,
+      "createdAt": "2026-04-29 23:21:08",
+      "batch": "019dd40d-c74a-7a62-98f4-5f2864321a34",
+      "tags": [
+        "x-prompt-redraw",
+        "gpt-image-2",
+        "mixed-media",
+        "neon-line-art",
+        "rabbit",
+        "social-workflow"
+      ],
+      "prompt": "Imagine a richly textured mixed-media image. The background is a botanical garden path in early morning sunlight, with soft bokeh blur, surrounded by wildflowers, green leaves, and flowering trees, making the scene feel real, warm, and photographic. But the main subject shifts into a creative style: a happy rabbit drawn in bold glowing neon line-art, holding a pink balloon. The white glowing line-art should look like a luminous sketch floating inside the real world. Add scattered sketchy doodles such as floating sparkles, playful droplets, and hand-drawn decorative elements. The rabbit's glowing shoes should lightly touch the real ground, creating a magical intersection between realistic photography and neon illustration. The overall visual feeling should be dreamy, lively, whimsical, and beautifully mixed-media. No watermark, no logos.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Prompt extracted from a public X/Twitter post by 宝玉 and reused with attribution at user request. The original template was instantiated with the example rabbit, balloon, and botanical garden parameters already included in the post."
+      },
+      "promptSources": [
+        {
+          "title": "真实模糊摄影背景 + 霓虹线稿插画提示词模板",
+          "url": "https://x.com/dotey/status/2049350241816563945?s=20",
+          "authorOrPublisher": "宝玉 / @dotey",
+          "license": "public social post; prompt reused with attribution at user request",
+          "accessedAt": "2026-04-29",
+          "usedAs": "original_prompt_source / author_credit / social_workflow_reference"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-29",
+        "reviewNote": "Prompt is safe for publication: whimsical animal subject, no public figures, no copyrighted characters, and no harmful content."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dd40d-c74a-7a62-98f4-5f2864321a34/ig_006faceffa278edb0169f220a8f5a48190934c65868e5a5772.png"
+    },
+    {
+      "title": "GPT Image 2 four-season Korean menswear guide",
+      "caption": "复用 Larus Canus 在 X 评论区分享的长提示词，重绘一张四季韩系型男穿搭 2x2 系列企划板。",
+      "path": "assets/images/286-gpt-image-2-four-season-korean-menswear-guide.png",
+      "alt": "Editorial four-panel Korean menswear streetwear guide for spring summer autumn and winter",
+      "width": 1024,
+      "height": 1536,
+      "createdAt": "2026-04-29 23:21:07",
+      "batch": "019dd40d-c74a-7a62-98f4-5f2864321a34",
+      "tags": [
+        "x-prompt-redraw",
+        "gpt-image-2",
+        "menswear",
+        "lookbook",
+        "seasonal-style-guide",
+        "social-workflow"
+      ],
+      "prompt": "Create a high-completion editorial 2x2 series board for a fictional original male model: Four Seasonal Korean Menswear Streetwear Guide. Do not base it on any uploaded photo or real person. The concept is a Seoul streetwear styling guide across spring, summer, autumn, and winter. Show the same fictional East Asian male model across all four seasonal panels with consistent face, age, body proportions, and vibe. Layout: one large vertical poster divided into four distinct 3:4 seasonal guide panels: Spring Seoul Menswear Guide, Summer Seoul Menswear Guide, Autumn Seoul Menswear Guide, Winter Seoul Menswear Guide. Clean white background, unified magazine lookbook system, Chinese headings readable, text limited and graphic. Each seasonal panel should visually include: one hero after look, multiple smaller extended looks, a compact color palette strip, a few styling notes and outfit formulas, and an elevated Korean streetwear fashion direction. Style direction: Korean city boy, Seoul select shop lookbook, clean fit, high-street menswear, relaxed but sharp proportions, broad-shoulder illusion, long-leg silhouette, real wearable styling. Seasonal differences must be obvious in color, fabric, silhouette, mood, and layering. Avoid any real-person likeness dependency, avoid feminine styling, avoid brand logos, avoid watermarks.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Prompt extracted from a public X/Twitter post by Larus Canus and reused with attribution at user request. The rewrite was minimal but necessary because the original depended on an uploaded real-person photo; it was generalized to a consistent fictional male model while preserving the four-season lookbook structure."
+      },
+      "promptSources": [
+        {
+          "title": "《四季潮牌穿搭指南》男生版提示词",
+          "url": "https://x.com/MrLarus/status/2049390156679970933?s=20",
+          "authorOrPublisher": "Larus Canus / @MrLarus",
+          "license": "public social post; prompt reused with attribution at user request",
+          "accessedAt": "2026-04-29",
+          "usedAs": "original_prompt_source / author_credit / social_workflow_reference"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-29",
+        "reviewNote": "Prompt was generalized from a real-photo transformation workflow to a fictional model workflow for safe public publishing."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dd40d-c74a-7a62-98f4-5f2864321a34/ig_006faceffa278edb0169f21fe211888190b78b7673c24df397.png"
+    },
+    {
+      "title": "GPT Image 2 Chinese character asset poster",
+      "caption": "复用骑司Chase 在 X 分享的中文角色资产卡 prompt，重绘一张原创角色设定海报。",
+      "path": "assets/images/287-gpt-image-2-chinese-character-asset-poster.png",
+      "alt": "Original character asset poster with portrait expressions icons palette and profile details",
+      "width": 1024,
+      "height": 1536,
+      "createdAt": "2026-04-29 23:21:06",
+      "batch": "019dd40d-c74a-7a62-98f4-5f2864321a34",
+      "tags": [
+        "x-prompt-redraw",
+        "gpt-image-2",
+        "character-sheet",
+        "asset-poster",
+        "original-character",
+        "social-workflow"
+      ],
+      "prompt": "基于一个原创虚构角色创建一张角色设计图。设计：角色简介海报。包括：1. 大型主肖像 2. 各种面部表情（开心、生气、困倦、惊讶等等）3. 动作姿势（跑步、玩耍）（基于个性）4. 小型物体图标 5. 配色方案部分 6. 简介部分，包括名称和个性。整体不要拘泥固定画风，让 AI 根据角色个性自行设计角色元素和配色，审美高级、信息一目了然，像一张完整的角色资产卡。使用干净海报版式，适合社交媒体传播。不要基于任何真实上传照片或真人。",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Prompt extracted from a public X/Twitter post by 骑司Chase and reused with attribution at user request. The only material change was replacing the uploaded-image dependency with an original fictional character to avoid real-person likeness issues."
+      },
+      "promptSources": [
+        {
+          "title": "中文角色资产卡提示词",
+          "url": "https://x.com/qisi_ai/status/2048415090421145792?s=20",
+          "authorOrPublisher": "骑司Chase / @qisi_ai",
+          "license": "public social post; prompt reused with attribution at user request",
+          "accessedAt": "2026-04-29",
+          "usedAs": "original_prompt_source / author_credit / social_workflow_reference"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-29",
+        "reviewNote": "Prompt was minimally generalized from uploaded-photo input to an original fictional character for safe public publishing."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dd40d-c74a-7a62-98f4-5f2864321a34/ig_006faceffa278edb0169f21f7aff408190a54fac486e9ad346.png"
+    },
+    {
+      "title": "GPT Image 2 cozy kawaii character design sheet",
+      "caption": "复用 Zara 在 X 分享的角色设计卡 prompt，重绘一张温暖软萌的原创角色设定板。",
+      "path": "assets/images/288-gpt-image-2-cozy-kawaii-character-design-sheet.png",
+      "alt": "Cozy kawaii original character design sheet with portrait expressions action poses icons and palette",
+      "width": 1024,
+      "height": 1536,
+      "createdAt": "2026-04-29 23:21:05",
+      "batch": "019dd40d-c74a-7a62-98f4-5f2864321a34",
+      "tags": [
+        "x-prompt-redraw",
+        "gpt-image-2",
+        "character-sheet",
+        "kawaii",
+        "original-character",
+        "social-workflow"
+      ],
+      "prompt": "Create an adorable original character design sheet for a fictional cozy kawaii character. Style: warm, soft, and semi-realistic cartoon illustration with a cozy Japanese kawaii look. Design a character profile poster including: one large main portrait, various facial expressions (happy, annoyed, sleepy, surprised), action poses (running, playing), small object icons, a color palette section, and a profile section with name and personality. Keep the layout polished, cute, production-ready, and poster-like. Use a clean light background and harmonious pastel tones. Do not base it on any uploaded or real person image.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Prompt extracted from a public X/Twitter post by Zara and reused with attribution at user request. The only material change was replacing the uploaded-image dependency with an original fictional character to avoid real-person likeness issues."
+      },
+      "promptSources": [
+        {
+          "title": "GPT Image 2 cozy kawaii character design sheet prompt",
+          "url": "https://x.com/ZaraIrahh/status/2048251738604613725?s=20",
+          "authorOrPublisher": "Zara / @ZaraIrahh",
+          "license": "public social post; prompt reused with attribution at user request",
+          "accessedAt": "2026-04-29",
+          "usedAs": "original_prompt_source / author_credit / social_workflow_reference"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-29",
+        "reviewNote": "Prompt was minimally generalized from uploaded-photo input to an original fictional character for safe public publishing."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dd40d-c74a-7a62-98f4-5f2864321a34/ig_006faceffa278edb0169f21ef270e08190a7211b76795151f9.png"
+    },
+    {
       "title": "GPT Image 2 palace-artifact-inspired tweed fashion design",
       "caption": "复用 Boooo波妞! 在 X 分享的极短 prompt，重绘一张中式宫廷纹样灵感的经典粗花呢时装设计图。",
       "path": "assets/images/284-gpt-image-2-palace-artifact-inspired-tweed-fashion-design.png",
