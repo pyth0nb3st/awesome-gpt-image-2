@@ -18,6 +18,46 @@
   },
   "images": [
     {
+      "title": "GPT Image 2 book-summary infographic poster",
+      "caption": "复用知识分享官在 X 分享的书籍总结海报 prompt，重绘一张《思考，快与慢》图文笔记海报。",
+      "path": "assets/images/283-gpt-image-2-book-summary-infographic-poster.png",
+      "alt": "Book-summary infographic poster for Thinking, Fast and Slow in a modern minimal UI with soft retro illustration accents",
+      "width": 1024,
+      "height": 1536,
+      "createdAt": "2026-04-29 22:06:26",
+      "batch": "019dd40d-c74a-7a62-98f4-5f2864321a34",
+      "tags": [
+        "x-prompt-redraw",
+        "gpt-image-2",
+        "book-summary",
+        "infographic",
+        "poster",
+        "social-workflow"
+      ],
+      "prompt": "生成一张【中等信息密度】书籍总结信息图海报，主题为《思考，快与慢》。\n\nStep 0（关键前置判断）\n在开始生成之前，请先判断这本书更接近哪一类（可多选）：\n认知成长类（思维 / 自我提升）\n商业 / 财富类（赚钱 / 职业 / 投资）\n心理 / 情绪类（关系 / 内在 / 人性）\n小说 / 故事类（叙事 / 人物 / 隐喻）\n\n然后根据类型，调整表达重点与结构侧重（不是改外观，是改内容逻辑）：\n认知类侧重模型 / 思维方式 / 误区。\n\n【整体风格】\n现代极简UI + 轻复古插画风，柔和浅色背景（奶油 / 米色 / 浅灰），低饱和配色（深绿 / 深蓝 / 棕色）。\n气质关键词：安静，有内容，可以慢慢读。\n\n【核心原则（非常重要）】\n不要使用固定模块标题，不要强行凑“结构完整”。\n请根据书的类型与内容，自然组织信息：\n可以合并 / 删除模块，调整顺序，改写所有小标题，强化某一部分。\n目标：更像“一个读懂的人在讲”，而不是“整理笔记”。\n\n【内容模块（按“信息类型”动态组合）】\n以下不是模板，而是素材池。请按书籍类型自由选择 + 重组。\n\n① 开场（一定要有）\n书名《思考，快与慢》作为视觉中心，作者 Daniel Kahneman，一句话洞察必须像人话，例如“你以为自己在理性判断，其实很多决定早就被直觉抢先做了”。\n插图要有隐喻意义。\n\n② 把这本书讲清楚（核心理解）\n不要写“核心思想”，可以这样表达：\n“这本书真正想说的，其实是……”\n“如果只讲一件事，那就是……”\n内容包含：核心观点（Core Thesis），它在回应什么现实问题（Problem）。\n强调为什么人会在判断里不断犯错，以及系统1 / 系统2的差异。\n\n③ 最值得带走的东西（重点区）\n标题自然，例如：\n“读完之后，很难不改变的几个点”\n“慢慢会影响你的，是这些”\n内容偏认知类：思维误区、认知升级点、决策方式。\n每个要点：一个短句观点（像人说话），1到2句解释，小图标。\n\n④ 一个“关键结构”（视觉核心）\n标题自然表达，例如：\n“所有内容，其实围绕这个结构”\n“理解这本书，可以用这张图”\n用一张可视化结构图展示：系统1（快思考、直觉、自动） vs 系统2（慢思考、理性、费力），以及它们如何影响判断与决策。\n\n⑤ 书里的例子 / 片段（更像讲故事）\n标题可以是：\n“书里有几个地方，让人印象很深”\n“这些片段，其实说明了什么”\n选用有画面感的案例，例如锚定效应、损失厌恶、可得性偏差。\n每条：一句话 + 图标。\n\n⑥ 一些会留下来的句子（金句区）\n标题风格：\n“有些话会在之后想起”\n“值得慢慢读的几句话”\n留白感要强，作为视觉重点。\n\n⑦ 可以带走的改变（行动区）\n标题：\n“如果只做一点改变”\n“你可以从这里开始”\n给出3到5条具体、可执行、可感知的认知习惯改变建议。\n\n【设计细节】\n自适应网格布局（不要死板对称），卡片化信息（留白优先），图文比例约6:4，插图统一风格（手绘 / 线性），层级清晰（重要信息更大）。\n\n【语言风格（决定质量）】\n要：像人讲书，有理解、有筛选，有一点顿悟感。\n不要：“本书讲了……”“定义是……”，不要空话、套话、过度总结。\n\n【输出要求】\n中文（可少量英文点缀），信息密度中等，适合社交媒体传播的书籍总结信息图海报。",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Prompt extracted from a public X/Twitter post by 知识分享官 and reused with attribution at user request. The only material change was replacing the book-title placeholder with a concrete book name for a runnable redraw."
+      },
+      "promptSources": [
+        {
+          "title": "Image-2 书籍总结图文笔记提示词",
+          "url": "https://x.com/knowledgefxg/status/2049417795222282252?s=20",
+          "authorOrPublisher": "知识分享官 / @knowledgefxg",
+          "license": "public social post; prompt reused with attribution at user request",
+          "accessedAt": "2026-04-29",
+          "usedAs": "original_prompt_source / author_credit / social_workflow_reference"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-29",
+        "reviewNote": "Prompt is safe for publication: no public figures, no explicit content, no copyrighted characters, and no harmful instructions."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dd40d-c74a-7a62-98f4-5f2864321a34/ig_006faceffa278edb0169f20e1a985c8190a968671c25aee8b0.png"
+    },
+    {
       "title": "GPT Image 2 Korean streetwear dance sequence sheet",
       "caption": "复用 Jack 在 X 分享的热门动作表 prompt，重绘一张 16 格韩系街舞教学动作表。",
       "path": "assets/images/281-gpt-image-2-korean-streetwear-dance-sequence-sheet.png",
