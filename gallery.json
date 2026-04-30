@@ -18,6 +18,49 @@
   },
   "images": [
     {
+      "title": "GPT Image 2 Xuanzang westward journey map explainer",
+      "caption": "复用知识猫图解在 X 分享的历史事件地图解说 prompt，重绘一张《玄奘西行》水彩风历史路线信息图。",
+      "path": "assets/images/291-gpt-image-2-xuanzang-westward-journey-map-explainer.png",
+      "alt": "Vertical watercolor historical infographic about Xuanzang's westward journey with route map and scene illustration",
+      "width": 1086,
+      "height": 1448,
+      "createdAt": "2026-04-30 20:59:40",
+      "batch": "019dd40d-c74a-7a62-98f4-5f2864321a34",
+      "tags": [
+        "x-prompt-redraw",
+        "gpt-image-2",
+        "historical-map",
+        "infographic",
+        "educational-history",
+        "journey-map",
+        "cultural-history",
+        "watercolor",
+        "social-workflow"
+      ],
+      "prompt": "历史事件地图插图师。您是一位专业的历史信息图表设计师。根据用户指定的【主题】历史内容，生成一个纵向的、两部分的地图和场景插图，匹配参考图像的温暖水彩/插图风格。\n\n布局结构：\n1. 上半部分：详细的地图，展示历史路线、关键地点和方向箭头，清晰标注城市、地区、山脉、沙漠和水体名称，标注重要停留点与关隘。\n2. 下半部分：生动的场景插图，描绘该历史主题的关键时刻，如长途跋涉、穿越沙漠、翻越山岭、求法旅程、重要会面、寺院停留或文化交流场景，整体克制、庄重、适合教育科普。\n3. 标题/标头：粗体标题显示“玄奘西行”，包含副标题和年代。\n\n视觉风格要求：\n温暖的水彩插图纹理，历史细节准确，清晰的排版设计，纵向格式，4K 超高清感，直接图像生成。\n\n主题：玄奘西行\n比例：3:4",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Prompt extracted from a public X/Twitter post by 知识猫图解 and reused with attribution at user request. The user asked to replace the prior war-like topic with an ancient non-war route subject, so the redraw preserves the original historical map-infographic structure but rethemed it to Xuanzang's westward journey."
+      },
+      "promptSources": [
+        {
+          "title": "历史事件地图插图师提示词",
+          "url": "https://x.com/GeekCatX/status/2049750213712334867?s=20",
+          "authorOrPublisher": "知识猫图解 / @GeekCatX",
+          "license": "public social post; prompt reused with attribution at user request",
+          "accessedAt": "2026-04-30",
+          "usedAs": "original_prompt_source / author_credit / social_workflow_reference"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-30",
+        "reviewNote": "Historical educational infographic prompt was rethemed to a non-violent ancient journey topic for publication safety."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dd40d-c74a-7a62-98f4-5f2864321a34/ig_006faceffa278edb0169f351a6ebc08190a686271f6e4de415.png"
+    },
+    {
       "title": "GPT Image 2 minimal cherry line illustration",
       "caption": "复用 Aleena Amir 在 X 分享的极简线稿模板，重绘一张带颜色点缀的樱桃编辑插画。",
       "path": "assets/images/289-gpt-image-2-minimal-cherry-line-illustration.png",

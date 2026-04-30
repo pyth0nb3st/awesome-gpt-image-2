@@ -3,6 +3,11 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/291-gpt-image-2-xuanzang-westward-journey-map-explainer.png": {
+      "path": "assets/thumbs/291-gpt-image-2-xuanzang-westward-journey-map-explainer.jpg",
+      "width": 768,
+      "height": 1024
+    },
     "assets/images/289-gpt-image-2-minimal-cherry-line-illustration.png": {
       "path": "assets/thumbs/289-gpt-image-2-minimal-cherry-line-illustration.jpg",
       "width": 768,
