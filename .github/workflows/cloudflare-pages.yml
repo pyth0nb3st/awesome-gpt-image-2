@@ -1,8 +1,6 @@
 name: Deploy static Next.js export to Cloudflare Pages
 
 on:
-  push:
-    branches: ["main"]
   workflow_dispatch:
 
 permissions:
