@@ -18,6 +18,46 @@
   },
   "images": [
     {
+      "title": "GPT Image 2 minimal cherry line illustration",
+      "caption": "复用 Aleena Amir 在 X 分享的极简线稿模板，重绘一张带颜色点缀的樱桃编辑插画。",
+      "path": "assets/images/289-gpt-image-2-minimal-cherry-line-illustration.png",
+      "alt": "Minimal line illustration of a red cherry with a green leaf and elegant negative space",
+      "width": 1086,
+      "height": 1448,
+      "createdAt": "2026-04-30 11:53:45",
+      "batch": "019dd40d-c74a-7a62-98f4-5f2864321a34",
+      "tags": [
+        "x-prompt-redraw",
+        "gpt-image-2",
+        "minimal-illustration",
+        "line-art",
+        "editorial-style",
+        "social-workflow"
+      ],
+      "prompt": "Minimal illustration of a red cherry with a green leaf, clean thin lines with selective vibrant color accents, lots of negative space, refined composition, modern editorial style, elegant and simple.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Prompt extracted from a public X/Twitter post by Aleena Amir and reused with attribution at user request. The only change was instantiating the subject placeholder with a concrete cherry illustration target."
+      },
+      "promptSources": [
+        {
+          "title": "Minimal Line + Color Accent Illustrations prompt",
+          "url": "https://x.com/aleenaamiir/status/2049400614195794230?s=20",
+          "authorOrPublisher": "Aleena Amir / @aleenaamiir",
+          "license": "public social post; prompt reused with attribution at user request",
+          "accessedAt": "2026-04-30",
+          "usedAs": "original_prompt_source / author_credit / social_workflow_reference"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-30",
+        "reviewNote": "Prompt is safe for publication: simple object illustration, no public figures, no brand dependency, and no harmful content."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dd40d-c74a-7a62-98f4-5f2864321a34/ig_006faceffa278edb0169f2d226da1481909f991481dbc9079e.png"
+    },
+    {
       "title": "GPT Image 2 neon rabbit in a real bokeh garden",
       "caption": "复用宝玉在 X 分享的霓虹线稿混合媒介模板，重绘一只手持粉色气球的开心兔子。",
       "path": "assets/images/285-gpt-image-2-neon-rabbit-in-a-real-bokeh-garden.png",
