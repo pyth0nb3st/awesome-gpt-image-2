@@ -18,6 +18,49 @@
   },
   "images": [
     {
+      "title": "GPT Image 2 whimsical steampunk castle equirectangular panorama",
+      "caption": "复用 Larus Canus 在 X 分享的等矩形全景 prompt，重绘一张可用于 3D 漫游的原创奇想蒸汽朋克行走城堡全景图。",
+      "path": "assets/images/292-gpt-image-2-whimsical-steampunk-castle-equirectangular-panorama.png",
+      "alt": "Seamless equirectangular panorama of an original whimsical steampunk walking castle roaming through magical countryside",
+      "width": 1774,
+      "height": 887,
+      "createdAt": "2026-04-30 23:59:20",
+      "batch": "019dd40d-c74a-7a62-98f4-5f2864321a34",
+      "tags": [
+        "x-prompt-redraw",
+        "gpt-image-2",
+        "equirectangular-panorama",
+        "360-scene",
+        "immersive-3d",
+        "steampunk",
+        "fantasy-animation",
+        "environment-design",
+        "social-workflow"
+      ],
+      "prompt": "Create a seamless equirectangular panorama of an original whimsical steampunk walking castle roaming through a beautiful countryside, hand-painted fantasy animation look, eccentric mechanical castle with four legs and smoking chimneys, green rolling hills, distant mountains, scattered wildflowers, magical atmosphere, highly detailed, vibrant colors, cinematic depth, continuous 360 degree environment, perfect for an immersive 3D scene. No text, no watermark, no logos.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Prompt extracted from a public X/Twitter post by Larus Canus and reused with attribution at user request. The original thread prompt referenced Howl's Moving Castle and Studio Ghibli style, so the redraw was minimally revised into an original whimsical steampunk walking castle with a hand-painted fantasy animation look."
+      },
+      "promptSources": [
+        {
+          "title": "等矩形全景图教程外景提示词",
+          "url": "https://x.com/MrLarus/status/2049823664489603425?s=20",
+          "authorOrPublisher": "Larus Canus / @MrLarus",
+          "license": "public social post; prompt reused with attribution at user request",
+          "accessedAt": "2026-04-30",
+          "usedAs": "original_prompt_source / author_credit / social_workflow_reference"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-04-30",
+        "reviewNote": "Original copyrighted character and specific studio style references were removed while preserving the panorama scene structure."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dd40d-c74a-7a62-98f4-5f2864321a34/ig_0eea77f7c93636660169f37a0faa0c8194a694e29ba9544b15.png"
+    },
+    {
       "title": "GPT Image 2 Xuanzang westward journey map explainer",
       "caption": "复用知识猫图解在 X 分享的历史事件地图解说 prompt，重绘一张《玄奘西行》水彩风历史路线信息图。",
       "path": "assets/images/291-gpt-image-2-xuanzang-westward-journey-map-explainer.png",

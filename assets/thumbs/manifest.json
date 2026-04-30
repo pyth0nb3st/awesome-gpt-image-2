@@ -3,6 +3,11 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/292-gpt-image-2-whimsical-steampunk-castle-equirectangular-panorama.png": {
+      "path": "assets/thumbs/292-gpt-image-2-whimsical-steampunk-castle-equirectangular-panorama.jpg",
+      "width": 768,
+      "height": 384
+    },
     "assets/images/291-gpt-image-2-xuanzang-westward-journey-map-explainer.png": {
       "path": "assets/thumbs/291-gpt-image-2-xuanzang-westward-journey-map-explainer.jpg",
       "width": 768,
