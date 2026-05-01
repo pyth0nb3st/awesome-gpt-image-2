@@ -18,6 +18,48 @@
   },
   "images": [
     {
+      "title": "GPT Image 2 pathetic MS Paint cat redraw",
+      "caption": "复用 ChatGPT 在 X 分享的 viral scribblification prompt，重绘一张故意笨拙潦草的原创橘猫涂鸦图。",
+      "path": "assets/images/293-gpt-image-2-pathetic-ms-paint-cat-redraw.png",
+      "alt": "Clumsy MS Paint style scribbly orange tabby cat on a white background",
+      "width": 1254,
+      "height": 1254,
+      "createdAt": "2026-05-01 00:10:30",
+      "batch": "019dd40d-c74a-7a62-98f4-5f2864321a34",
+      "tags": [
+        "x-prompt-redraw",
+        "gpt-image-2",
+        "scribblification",
+        "mspaintify",
+        "bad-drawing",
+        "white-background",
+        "cat-illustration",
+        "social-workflow"
+      ],
+      "prompt": "Redraw an original cute orange tabby cat sitting upright in the most clumsy, scribbly, and utterly pathetic way possible. Use a white background, and make it look like it was drawn in MS Paint with a mouse. It should be vaguely similar but also not really, kind of matching but also off in a confusing, awkward way, with that low-quality pixel-by-pixel feel that really emphasizes how ridiculously bad it is. Actually, you know what, whatever, just draw it however you want.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Prompt extracted from a public X/Twitter post by ChatGPT and reused with attribution at user request. The original prompt depended on an attached image, so the redraw minimally substituted an original orange tabby cat as the subject while preserving the intentionally clumsy MS Paint effect."
+      },
+      "promptSources": [
+        {
+          "title": "scribblification redraw prompt",
+          "url": "https://x.com/ChatGPTapp/status/2049942772803891376?s=20",
+          "authorOrPublisher": "ChatGPT / @ChatGPTapp",
+          "license": "public social post; prompt reused with attribution at user request",
+          "accessedAt": "2026-05-01",
+          "usedAs": "original_prompt_source / author_credit / social_workflow_reference"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-05-01",
+        "reviewNote": "Original attached-image dependency was replaced with an original fictional cat subject for standalone publication."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dd40d-c74a-7a62-98f4-5f2864321a34/ig_0eea77f7c93636660169f3fffbc5d08194b85a395c5105693f.png"
+    },
+    {
       "title": "GPT Image 2 whimsical steampunk castle equirectangular panorama",
       "caption": "复用 Larus Canus 在 X 分享的等矩形全景 prompt，重绘一张可用于 3D 漫游的原创奇想蒸汽朋克行走城堡全景图。",
       "path": "assets/images/292-gpt-image-2-whimsical-steampunk-castle-equirectangular-panorama.png",

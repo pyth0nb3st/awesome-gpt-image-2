@@ -3,6 +3,11 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/293-gpt-image-2-pathetic-ms-paint-cat-redraw.png": {
+      "path": "assets/thumbs/293-gpt-image-2-pathetic-ms-paint-cat-redraw.jpg",
+      "width": 768,
+      "height": 768
+    },
     "assets/images/292-gpt-image-2-whimsical-steampunk-castle-equirectangular-panorama.png": {
       "path": "assets/thumbs/292-gpt-image-2-whimsical-steampunk-castle-equirectangular-panorama.jpg",
       "width": 768,
