@@ -3,6 +3,11 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/294-gpt-image-2-goofy-retro-yellow-cartoon-doodle.png": {
+      "path": "assets/thumbs/294-gpt-image-2-goofy-retro-yellow-cartoon-doodle.jpg",
+      "width": 768,
+      "height": 768
+    },
     "assets/images/293-gpt-image-2-pathetic-ms-paint-cat-redraw.png": {
       "path": "assets/thumbs/293-gpt-image-2-pathetic-ms-paint-cat-redraw.jpg",
       "width": 768,
