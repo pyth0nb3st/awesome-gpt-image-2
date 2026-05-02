@@ -18,12 +18,12 @@
   },
   "images": [
     {
-      "title": "GPT Image 2 pathetic MS Paint blue bird redraw",
-      "caption": "复用 Amira Zairi 在 X 分享的 viral scribbly redraw prompt，重绘一张白底、拙劣鼠绘质感的原创蓝色小鸟。",
-      "path": "assets/images/296-gpt-image-2-pathetic-ms-paint-blue-bird-redraw.png",
-      "alt": "Clumsy MS Paint style scribbly blue bird on a white background",
-      "width": 1254,
-      "height": 1254,
+      "title": "GPT Image 2 pathetic MS Paint perfume sketch redraw",
+      "caption": "复用 Amira Zairi 在 X 分享的 viral scribbly redraw prompt，按原帖附图重绘一张白底、拙劣鼠绘质感的香水概念草图板。",
+      "path": "assets/images/297-gpt-image-2-pathetic-ms-paint-perfume-sketch-redraw.png",
+      "alt": "Clumsy MS Paint style redraw of a perfume concept sketch board on a white background",
+      "width": 1122,
+      "height": 1402,
       "createdAt": "2026-05-02 00:18:30",
       "batch": "019dd40d-c74a-7a62-98f4-5f2864321a34",
       "tags": [
@@ -33,14 +33,15 @@
         "mspaintify",
         "bad-drawing",
         "white-background",
-        "bird-illustration",
+        "perfume-sketch",
+        "concept-board",
         "social-workflow"
       ],
-      "prompt": "Redraw an original small blue bird standing upright in the most clumsy, scribbly, and utterly pathetic way possible. Use a white background, and make it look like it was drawn in MS Paint with a mouse. It should be vaguely similar but also not really, kind of matching but also off in a confusing, awkward way, with that low-quality pixel-by-pixel feel that really emphasizes how ridiculously bad it is. Actually, you know what, whatever, just draw it however you want.",
+      "prompt": "Use the attached image as the source. Redraw the attached image in the most clumsy, scribbly, and utterly pathetic way possible. Use a white background, and make it look like it was drawn in MS Paint with a mouse. Keep the same overall composition and subject from the source image: the rough perfume-bottle concept sketch board with pink scribbles, handwritten labels, and the large bottle sketch below. It should be vaguely similar but also not really, kind of matching but also off in a confusing, awkward way, with that low-quality pixel-by-pixel feel that really emphasizes how ridiculously bad it is. Actually, you know what, whatever, just draw it however you want. No watermark.",
       "provenance": {
         "status": "external_attributed",
         "origin": "local_codex_revised_prompt",
-        "sourceNote": "Prompt extracted from a public X/Twitter post by Amira Zairi and reused with attribution at user request. The original prompt depended on an attached image, so the redraw minimally substituted an original blue bird as the subject while preserving the intentionally clumsy MS Paint effect."
+        "sourceNote": "Prompt extracted from a public X/Twitter post by Amira Zairi and reused with attribution at user request. This redraw now follows the original attached perfume concept sketch image instead of substituting a standalone subject, preserving the same composition while applying the intentionally clumsy MS Paint effect."
       },
       "promptSources": [
         {
@@ -55,9 +56,9 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-05-02",
-        "reviewNote": "Original attached-image dependency was replaced with an original fictional bird subject for standalone publication."
+        "reviewNote": "Redraw follows the original attached sketch-board composition from the post while keeping the prompt self-contained for publication."
       },
-      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dd40d-c74a-7a62-98f4-5f2864321a34/ig_0eea77f7c93636660169f5d667056881949c6542e2e1eeda00.png"
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dd40d-c74a-7a62-98f4-5f2864321a34/ig_0eea77f7c93636660169f5d814c3bc81948284071360014081.png"
     },
     {
       "title": "GPT Image 2 colorful messy doodle puppy portrait",
