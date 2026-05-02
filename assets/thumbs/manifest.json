@@ -3,6 +3,11 @@
   "sourceWidth": 768,
   "format": "jpg",
   "images": {
+    "assets/images/295-gpt-image-2-colorful-messy-doodle-puppy-portrait.png": {
+      "path": "assets/thumbs/295-gpt-image-2-colorful-messy-doodle-puppy-portrait.jpg",
+      "width": 768,
+      "height": 768
+    },
     "assets/images/294-gpt-image-2-goofy-retro-yellow-cartoon-doodle.png": {
       "path": "assets/thumbs/294-gpt-image-2-goofy-retro-yellow-cartoon-doodle.jpg",
       "width": 768,

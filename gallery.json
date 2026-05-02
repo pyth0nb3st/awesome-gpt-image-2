@@ -18,6 +18,48 @@
   },
   "images": [
     {
+      "title": "GPT Image 2 colorful messy doodle puppy portrait",
+      "caption": "复用 Berryxia.AI 在 X 分享的彩色潦草小狗线条风 prompt，重绘一张童趣、凌乱、随手乱画感的原创小狗头像。",
+      "path": "assets/images/295-gpt-image-2-colorful-messy-doodle-puppy-portrait.png",
+      "alt": "Colorful messy doodle line portrait of an original puppy on a white background",
+      "width": 1254,
+      "height": 1254,
+      "createdAt": "2026-05-02 00:06:40",
+      "batch": "019dd40d-c74a-7a62-98f4-5f2864321a34",
+      "tags": [
+        "x-prompt-redraw",
+        "gpt-image-2",
+        "doodle",
+        "messy-line-art",
+        "puppy-portrait",
+        "childlike",
+        "white-background",
+        "social-workflow"
+      ],
+      "prompt": "彩色潦草小狗线条风格绘制一只原创的小狗头像，童趣和 doodle 加入其中，务必使用毫无章法的绘制手法，凌乱和草率即可。白色背景，彩色线条，像随手乱画出来但又很可爱，儿童涂鸦感，简单直接，不要文字，不要水印。",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Prompt extracted from a public X/Twitter post by Berryxia.AI and reused with attribution at user request. The original wording referred to drawing \"the image\" in this style, so the redraw minimally instantiates it as an original puppy portrait while preserving the colorful messy doodle treatment."
+      },
+      "promptSources": [
+        {
+          "title": "彩色潦草小狗线条风 prompt",
+          "url": "https://x.com/berryxia/status/2050226420681757102?s=20",
+          "authorOrPublisher": "Berryxia.AI / @berryxia",
+          "license": "public social post; prompt reused with attribution at user request",
+          "accessedAt": "2026-05-02",
+          "usedAs": "original_prompt_source / author_credit / social_workflow_reference"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-05-02",
+        "reviewNote": "Original image dependency was replaced with a simple original puppy subject for standalone publication."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dd40d-c74a-7a62-98f4-5f2864321a34/ig_0eea77f7c93636660169f57730a2548194aa0e67c2da4c655d.png"
+    },
+    {
       "title": "GPT Image 2 goofy retro yellow cartoon doodle",
       "caption": "复用 まと｜AI×デザイン 在 X 分享的卡通化 prompt，重绘一张白底、MS Paint 鼠绘质感的原创黄皮复古卡通涂鸦头像。",
       "path": "assets/images/294-gpt-image-2-goofy-retro-yellow-cartoon-doodle.png",
