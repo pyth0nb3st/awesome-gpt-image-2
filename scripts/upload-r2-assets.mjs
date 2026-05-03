@@ -1,5 +1,5 @@
 import { createHash, createHmac } from "node:crypto";
-import { readFile, readdir, stat } from "node:fs/promises";
+import { access, readFile, readdir, stat } from "node:fs/promises";
 import { extname, join, relative } from "node:path";
 import { spawnSync } from "node:child_process";
 
@@ -35,6 +35,15 @@ const walk = async (directory, results = []) => {
     }
   }
   return results;
+};
+
+const exists = async (path) => {
+  try {
+    await access(path);
+    return true;
+  } catch {
+    return false;
+  }
 };
 
 const objectKey = (filePath) => relative(assetRoot, filePath).replaceAll("\\", "/");
@@ -126,7 +135,15 @@ const putObject = (filePath) =>
 
 const files = [];
 for (const root of roots) {
+  if (!(await exists(root))) {
+    continue;
+  }
   files.push(...(await walk(root)));
+}
+
+if (files.length === 0) {
+  console.log("No local asset files found under assets/images or assets/thumbs; nothing to upload.");
+  process.exit(0);
 }
 
 let uploaded = 0;

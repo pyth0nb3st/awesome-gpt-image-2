@@ -1,6 +1,21 @@
+# Local OS files
 .DS_Store
+
+# Dependencies and build output
 node_modules/
 .next/
 out/
+
+# Local secrets
 .env
 .env.*
+
+# R2-backed generated assets. Keep the manifest tracked.
+assets/images/
+assets/thumbs/*.avif
+assets/thumbs/*.gif
+assets/thumbs/*.jpg
+assets/thumbs/*.jpeg
+assets/thumbs/*.png
+assets/thumbs/*.webp
+!assets/thumbs/manifest.json
