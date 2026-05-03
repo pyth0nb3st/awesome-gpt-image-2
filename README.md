@@ -1,95 +1,79 @@
-# Awesome GPT Image 2
+# Awesome GPT Image 2 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-live-2ea44f)](https://gptimg2.best/)
-[![Prompts](https://img.shields.io/badge/prompts-280-a34716)](https://gptimg2.best/prompts/)
-[![Assets](https://img.shields.io/badge/assets-Cloudflare%20R2-f38020)](https://gptimg2.best/)
-[![License](https://img.shields.io/badge/license-code%20MIT%20%2B%20content%20review-lightgrey)](LICENSE.md)
+> Curated GPT Image 2 prompt examples for product mockups, UI concepts, diagrams, games, educational visuals, and image-generation workflows.
 
-A static GPT Image 2 prompt gallery published at [gptimg2.best](https://gptimg2.best/). The repository stores the Next.js site, prompt metadata, and thumbnail manifest. Generated binary images are served from Cloudflare R2 instead of being committed to Git.
+This list tracks 280 public GPT Image 2 prompt examples. Each example links the generated image, prompt text, source attribution where available, reusable tags, and a dedicated static page.
 
-## What is in this repo
+## Contents
 
-- `gallery.json` - source metadata for all public prompt examples.
-- `app/`, `components/`, `lib/`, `scripts/` - the static Next.js gallery.
-- `assets/thumbs/manifest.json` - thumbnail path and dimension map used by the site.
-- `CNAME` - GitHub Pages custom domain for `gptimg2.best`.
+- [Prompt Gallery](#prompt-gallery)
+- [Topic Collections](#topic-collections)
+- [Featured Examples](#featured-examples)
+- [Creator Tools](#creator-tools)
+- [Maintainer Workflow](#maintainer-workflow)
 
-## What is not in this repo
+## Prompt Gallery
 
-Generated image binaries are intentionally not tracked:
+- [Live Gallery](https://gptimg2.best/) - Browse all 280 GPT Image 2 prompt examples with generated images.
+- [All Prompts](https://gptimg2.best/prompts/) - Complete index of prompt pages with images, tags, and reusable prompt text.
+- [Topic Collections](https://gptimg2.best/tags/) - Prompt examples grouped by visual format, use case, and generation pattern.
+- [Random Prompt Picker](https://gptimg2.best/lucky/) - Explore a random example when you want a new prompt direction.
+- [LLM Index](https://gptimg2.best/llms.txt) - Compact machine-readable overview for AI search and citation.
 
-- `assets/images/`
-- `assets/thumbs/*.jpg`
-- `out/`
-- `.next/`
+## Topic Collections
 
-The public site resolves image paths through `NEXT_PUBLIC_GPTIMG_ASSET_BASE_URL`. For production this points at the public Cloudflare R2 asset base, so a metadata path such as `assets/images/example.png` is rendered as an R2 URL like `/images/example.png` under that base.
+- [Typography](https://gptimg2.best/tags/typography/) - 87 prompt examples.
+- [Product Mockup](https://gptimg2.best/tags/product-mockup/) - 85 prompt examples.
+- [Game Design](https://gptimg2.best/tags/game-design/) - 68 prompt examples.
+- [Ui Mockup](https://gptimg2.best/tags/ui-mockup/) - 68 prompt examples.
+- [Storytelling](https://gptimg2.best/tags/storytelling/) - 55 prompt examples.
+- [Infographic](https://gptimg2.best/tags/infographic/) - 45 prompt examples.
+- [Lighting Weather](https://gptimg2.best/tags/lighting-weather/) - 36 prompt examples.
+- [Photoreal](https://gptimg2.best/tags/photoreal/) - 33 prompt examples.
+- [Worldbuilding](https://gptimg2.best/tags/worldbuilding/) - 33 prompt examples.
+- [Education](https://gptimg2.best/tags/education/) - 26 prompt examples.
+- [Derived Play](https://gptimg2.best/tags/derived-play/) - 24 prompt examples.
+- [Interior Design](https://gptimg2.best/tags/interior-design/) - 23 prompt examples.
 
-## Local development
+## Featured Examples
 
-Create a local `.env` with the public asset base and, when uploading, R2 credentials:
+- [GPT Image 2 six-style signature selection poster](https://gptimg2.best/prompts/298-gpt-image-2-six-style-signature-selection-poster/) - 复用李岳在 X 分享的签名设计系统 prompt，重绘一张为“李岳”生成的 6 风格东方签名选择海报。.
+- [GPT Image 2 pathetic MS Paint perfume sketch redraw](https://gptimg2.best/prompts/297-gpt-image-2-pathetic-ms-paint-perfume-sketch-redraw/) - 复用 Amira Zairi 在 X 分享的 viral scribbly redraw prompt，按原帖附图重绘一张白底、拙劣鼠绘质感的香水概念草图板。.
+- [GPT Image 2 colorful messy doodle puppy portrait](https://gptimg2.best/prompts/295-gpt-image-2-colorful-messy-doodle-puppy-portrait/) - 复用 Berryxia.AI 在 X 分享的彩色潦草小狗线条风 prompt，重绘一张童趣、凌乱、随手乱画感的原创小狗头像。.
+- [GPT Image 2 goofy retro yellow cartoon doodle](https://gptimg2.best/prompts/294-gpt-image-2-goofy-retro-yellow-cartoon-doodle/) - 复用 まと｜AI×デザイン 在 X 分享的卡通化 prompt，重绘一张白底、MS Paint 鼠绘质感的原创黄皮复古卡通涂鸦头像。.
+- [GPT Image 2 pathetic MS Paint cat redraw](https://gptimg2.best/prompts/293-gpt-image-2-pathetic-ms-paint-cat-redraw/) - 复用 ChatGPT 在 X 分享的 viral scribblification prompt，重绘一张故意笨拙潦草的原创橘猫涂鸦图。.
+- [GPT Image 2 whimsical steampunk castle equirectangular panorama](https://gptimg2.best/prompts/292-gpt-image-2-whimsical-steampunk-castle-equirectangular-panorama/) - 复用 Larus Canus 在 X 分享的等矩形全景 prompt，重绘一张可用于 3D 漫游的原创奇想蒸汽朋克行走城堡全景图。.
+- [GPT Image 2 Xuanzang westward journey map explainer](https://gptimg2.best/prompts/291-gpt-image-2-xuanzang-westward-journey-map-explainer/) - 复用知识猫图解在 X 分享的历史事件地图解说 prompt，重绘一张《玄奘西行》水彩风历史路线信息图。.
+- [GPT Image 2 minimal cherry line illustration](https://gptimg2.best/prompts/289-gpt-image-2-minimal-cherry-line-illustration/) - 复用 Aleena Amir 在 X 分享的极简线稿模板，重绘一张带颜色点缀的樱桃编辑插画。.
 
-```bash
-NEXT_PUBLIC_GPTIMG_ASSET_BASE_URL=https://<public-r2-base>
-GPTIMG_R2_BUCKET=<bucket-name>
-R2_S3_ENDPOINT=https://<account-id>.r2.cloudflarestorage.com
-R2_ACCESS_KEY_ID=<access-key-id>
-R2_SECRET_ACCESS_KEY=<secret-access-key>
-```
+## Creator Tools
 
-Then run:
+- [Drill](https://drillso.com/) - Product and prompt workflow tool from the same creator.
+- [VibeArt](https://vibeart.app/) - Visual creation tool from the same creator.
+
+## Maintainer Workflow
+
+Generated image binaries are served from Cloudflare R2. The repository stores the Next.js site, prompt metadata, and thumbnail manifest.
+
+Local development:
 
 ```bash
 npm ci
 npm run dev
 ```
 
-For a static export:
+Static export:
 
 ```bash
 npm run build
 ```
 
-When `NEXT_PUBLIC_GPTIMG_ASSET_BASE_URL` is set, `npm run build` does not copy local gallery images into `out/`; the exported pages point to R2.
+When `NEXT_PUBLIC_GPTIMG_ASSET_BASE_URL` is set, the export points image URLs at R2 and does not copy local gallery images into `out`.
 
-## Adding new prompt examples
-
-The normal automation flow is:
-
-1. Generate a new GPT Image 2 image.
-2. Update the source gallery data.
-3. Upload the image and generated thumbnail to R2.
-4. Commit only metadata changes, usually `gallery.json` and `assets/thumbs/manifest.json`.
-5. Push `main`; GitHub Actions exports the site and publishes `out/` to `gh-pages`.
-
-Do not commit generated binary assets. They are local upload inputs only.
-
-## R2 asset maintenance
-
-If local generated assets exist and need to be uploaded manually:
+Manual R2 upload, when local generated assets exist:
 
 ```bash
 npm run upload:r2-assets
 ```
 
-The upload script reads `assets/images` and `assets/thumbs`, uploads objects with long-lived cache headers, and uses S3 credentials when available. If no local asset files exist, it exits without changing R2.
-
-## Deployment
-
-Deployment is handled by `.github/workflows/pages.yml`:
-
-- Builds the static Next.js export on pushes to `main`.
-- Reads `NEXT_PUBLIC_GPTIMG_ASSET_BASE_URL` from GitHub Actions repository variables.
-- Publishes `out/` to the `gh-pages` branch.
-- Keeps `gptimg2.best` as the GitHub Pages custom domain.
-
-## Repository hygiene
-
-This repository is now metadata-first. Keep it that way:
-
-- Keep `gallery.json` as the canonical public example list.
-- Keep `assets/thumbs/manifest.json` tracked because the app imports it at build time.
-- Keep generated image binaries out of Git; upload them to R2.
-- Keep `.env` local only. Never commit Cloudflare tokens or S3 credentials.
-
-If the remote repository size still needs to be reduced after removing tracked assets from `main`, do that as a separate history rewrite task. Rewriting Git history is intentionally not part of normal gallery publishing.
+Deployment is handled by `.github/workflows/pages.yml`: pushes to `main` build the static export and publish `out` to the `gh-pages` branch with `gptimg2.best` as the custom domain.
