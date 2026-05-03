@@ -18,6 +18,48 @@
   },
   "images": [
     {
+      "title": "GPT Image 2 six-style signature selection poster",
+      "caption": "复用李岳在 X 分享的签名设计系统 prompt，重绘一张为“李岳”生成的 6 风格东方签名选择海报。",
+      "path": "assets/images/298-gpt-image-2-six-style-signature-selection-poster.png",
+      "alt": "Minimal vertical poster showing six signature style options for the Chinese name Li Yue",
+      "width": 941,
+      "height": 1672,
+      "createdAt": "2026-05-03 00:04:20",
+      "batch": "019dd40d-c74a-7a62-98f4-5f2864321a34",
+      "tags": [
+        "x-prompt-redraw",
+        "gpt-image-2",
+        "signature-design",
+        "poster",
+        "calligraphy-system",
+        "personal-branding",
+        "chinese-typography",
+        "social-workflow"
+      ],
+      "prompt": "你是一个高端签名设计系统 + 风格人格视觉系统。你的任务是：仅基于用户输入的「姓名」，生成一张「多风格签名选择海报（卡片式结构）」。\n\n这不是字体展示，而是：将名字转译为“具有笔势、气质与力量感的签名设计系统”，让用户产生选择欲、认同感、分享欲。\n\n一、输入信息\n姓名：李岳\n禁止要求额外信息。必须自动完成气质与风格推断。\n\n二、核心逻辑\n1. 字形与笔势分析：结构的疏密、横竖比例、重心位置；节奏的连贯、停顿、爆发、收束；适合的连笔程度、草写程度、变形空间。决定签名写法，不是字体。\n2. 气质推断：清冷、张扬、克制、商业、文艺、松弛、锋利、高级。\n3. 生成 6 个签名分支：全部适配该姓名，每一个都有明确书写风格，差异来自笔势，不是字体变化。\n\n三、整体画面结构\n9:16 竖版海报。\n风格：极简、高级、干净、有设计感、可传播。\n背景：纯白或极浅灰渐变，留白不少于 40%。\n\n四、顶部标题区\n主标题：你的名字，适合哪种签名？\n副标题：李岳 · 签名风格选择\n说明：不同笔势，不同气场\n排版高级，黑灰配色，字距略宽，留白充足。\n\n五、签名卡片区域\n使用整齐网格卡片布局，2 列 × 3 行，共 6 个卡片。每个卡片统一尺寸、统一间距、整体对齐干净。\n\n六、卡片设计规范\n每个签名放在轻卡片容器中：轻微圆角、无明显边框或极细描边、非常轻的阴影。背景为纯白微差、极浅灰或非常轻微的宣纸/磨砂质感。必须像高级杂志排版，不是 UI 组件。\n\n七、签名生成规则\n每一个签名风格都必须有明确的书写行为规则：\n1. 起笔方式不同。\n2. 连笔结构不同。\n3. 节奏变化明显。\n4. 结构变形明显。\n5. 收笔设计突出。\n\n八、6 个风格必须极端分化\n1. 极简理性（接近品牌签名）\n2. 狂放张力（强烈连笔 + 拉伸）\n3. 松弛随性（手写感强）\n4. 东方行草（飞白 + 墨感）\n5. 锋利结构（几何感 + 断裂）\n6. 实验风格（允许部分不可读）\n至少有 1 个风格接近不可读但极具设计感。\n\n九、禁止安全签名\n不要让每个签名结构类似，不要只是粗细不同，不要只是轻微连笔，不要看起来像字体库。\n\n十、色彩策略\n整体黑灰白为主，每个卡片允许一个极轻微点缀色，如冷灰蓝、香槟金、墨黑、暖棕、深绿，但不允许大面积色块，不允许花哨。\n\n十一、底部互动区\n底部居中：选一个，作为你的专属签名。\n小号灰字，克制留白。\n\n十二、光影与质感\n整体具备高级棚拍光、柔光环境、细腻阴影、干净空气感，像 Apple 发布会加高端品牌视觉。\n\n十三、禁止项\n不要字体拼贴，不要普通书法字，不要 UI 卡片风，不要颜色杂乱，不要签名太小，不要排版松散，不要缺乏笔势，不要像模板拼接。\n\n最终目标：生成一张高级、干净、有秩序、有笔势张力的 6 种不同风格签名组成的选择海报，用户一眼就能选出最像自己的一款签名。不要水印，不要额外 logo。",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Prompt extracted from a public X/Twitter post by 李岳 and reused with attribution at user request. The thread already instantiated the sample name as 李岳, so the redraw preserves that example and recreates the six-style signature selection poster as a standalone gallery artifact."
+      },
+      "promptSources": [
+        {
+          "title": "多风格签名选择海报提示词",
+          "url": "https://x.com/liyue_ai/status/2050590199902790102?s=20",
+          "authorOrPublisher": "李岳 / @liyue_ai",
+          "license": "public social post; prompt reused with attribution at user request",
+          "accessedAt": "2026-05-03",
+          "usedAs": "original_prompt_source / author_credit / social_workflow_reference"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-05-03",
+        "reviewNote": "Signature poster prompt was reused as a self-contained typographic design system example."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dd40d-c74a-7a62-98f4-5f2864321a34/ig_0eea77f7c93636660169f6b170977481948d53e079faf660ae.png"
+    },
+    {
       "title": "GPT Image 2 pathetic MS Paint perfume sketch redraw",
       "caption": "复用 Amira Zairi 在 X 分享的 viral scribbly redraw prompt，按原帖附图重绘一张白底、拙劣鼠绘质感的香水概念草图板。",
       "path": "assets/images/297-gpt-image-2-pathetic-ms-paint-perfume-sketch-redraw.png",
