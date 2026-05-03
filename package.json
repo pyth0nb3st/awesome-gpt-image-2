@@ -5,8 +5,9 @@
   "type": "module",
   "scripts": {
     "build:brand": "python3 scripts/build-brand-assets.py",
+    "generate:readme": "node scripts/generate-readme.mjs",
     "validate:gallery": "node scripts/validate-gallery-policy.mjs",
-    "prebuild": "npm run validate:gallery && node scripts/generate-thumbnails.mjs",
+    "prebuild": "npm run generate:readme && npm run validate:gallery && node scripts/generate-thumbnails.mjs",
     "dev": "next dev",
     "build": "next build && node scripts/copy-export-assets.mjs",
     "upload:r2-assets": "node scripts/upload-r2-assets.mjs",

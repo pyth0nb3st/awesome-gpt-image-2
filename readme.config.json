@@ -1,0 +1,46 @@
+{
+  "siteBaseUrl": "https://gptimg2.best",
+  "assetBaseUrl": "https://pub-d133211bf65a4d3daa7ab996ea945303.r2.dev",
+  "title": "Awesome GPT Image 2",
+  "description": "Curated GPT Image 2 prompt examples for product mockups, UI concepts, typography, diagrams, games, educational visuals, and image-generation workflows.",
+  "featuredCount": 0,
+  "fullList": {
+    "enabled": true,
+    "imageWidth": 180,
+    "topicCount": 3,
+    "useThumbnails": true
+  },
+  "popularTopics": {
+    "count": 18,
+    "excludeTags": [
+      "gpt-image-2",
+      "historical-import",
+      "prompt-recovered"
+    ],
+    "excludePrefixes": [
+      "batch-"
+    ]
+  },
+  "topicTags": {
+    "excludeTags": [
+      "gpt-image-2",
+      "historical-import",
+      "prompt-recovered"
+    ],
+    "excludePrefixes": [
+      "batch-"
+    ]
+  },
+  "creatorTools": [
+    {
+      "name": "Drill",
+      "url": "https://drillso.com/",
+      "description": "Product and prompt workflow tool from the same creator."
+    },
+    {
+      "name": "VibeArt",
+      "url": "https://vibeart.app/",
+      "description": "Visual creation tool from the same creator."
+    }
+  ]
+}
