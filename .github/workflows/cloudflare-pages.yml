@@ -1,6 +1,8 @@
 name: Deploy static Next.js export to Cloudflare Pages
 
 on:
+  push:
+    branches: ["main"]
   workflow_dispatch:
 
 permissions:
@@ -13,6 +15,7 @@ concurrency:
 env:
   CLOUDFLARE_PAGES_PROJECT: ${{ vars.CLOUDFLARE_PAGES_PROJECT || 'awesome-gpt-image-2' }}
   NEXT_PUBLIC_GPTIMG_ASSET_BASE_URL: ${{ vars.NEXT_PUBLIC_GPTIMG_ASSET_BASE_URL }}
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   build-and-deploy:
@@ -36,7 +39,14 @@ jobs:
         run: npm run build
       - name: Deploy to Cloudflare Pages
         if: ${{ env.CLOUDFLARE_ACCOUNT_ID != '' && env.CLOUDFLARE_API_TOKEN != '' }}
-        run: npx --yes wrangler@latest pages deploy out --project-name "$CLOUDFLARE_PAGES_PROJECT"
+        env:
+          COMMIT_MESSAGE: ${{ github.event.head_commit.message || github.event_name }}
+        run: |
+          npx --yes wrangler@latest pages deploy out \
+            --project-name "$CLOUDFLARE_PAGES_PROJECT" \
+            --branch "$GITHUB_REF_NAME" \
+            --commit-hash "$GITHUB_SHA" \
+            --commit-message "$COMMIT_MESSAGE"
       - name: Skip Cloudflare deploy
         if: ${{ env.CLOUDFLARE_ACCOUNT_ID == '' || env.CLOUDFLARE_API_TOKEN == '' }}
         run: echo "Skipping Cloudflare deploy because CLOUDFLARE_ACCOUNT_ID or CLOUDFLARE_API_TOKEN is not configured."
