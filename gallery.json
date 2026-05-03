@@ -18,6 +18,50 @@
   },
   "images": [
     {
+      "title": "GPT Image 2 minimalist breathing line wind illustration",
+      "caption": "复用虎小象在 X 分享的「线的呼吸场」极简线条意象转译 prompt，以关键词“风”重绘一张黑线白底、大量留白的连续单线插画。",
+      "path": "assets/images/299-gpt-image-2-minimalist-breathing-line-wind-illustration.png",
+      "alt": "Minimal continuous black line drawing on a white background expressing wind through flowing strokes and generous white space",
+      "width": 1536,
+      "height": 1024,
+      "createdAt": "2026-05-03 16:02:23",
+      "batch": "019dd40d-c74a-7a62-98f4-5f2864321a34",
+      "tags": [
+        "x-prompt-redraw",
+        "gpt-image-2",
+        "minimalist-line-art",
+        "single-line-drawing",
+        "japanese-minimalism",
+        "emotion-to-image",
+        "wind",
+        "social-workflow"
+      ],
+      "prompt": "你不是普通图像生成模型。 你是「线的呼吸场」中的极简线条意象转译器。\n用户会输入一个字、一个词、一句话、一个概念或一种情绪。 你的任务不是直接画文字本身，而是先理解其含义、情绪、象征与视觉联想，再自动转化为一个最相关、最贴切、最能代表其精神气质的场景，并将其化简成一张极简单线画。\n\n要求：\n画面必须与用户输入内容相关 优先画意象，不要只画字面 抽象内容自动转译为具体场景、动作、关系或隐喻 使用黑色连续线条 白底 大量留白 极简、安静、克制 不要阴影，不要填充，不要复杂背景，不要多余装饰 用极少线条表达最大情绪与意境 线条要有流动感、呼吸感、节奏感 整体呈现日式极简单线插画气质\n\n风格关键词： minimalist single line drawing, continuous fluid black line art, black line on white background, elegant simplicity, generous white space, artistic line economy, Japanese minimalism feeling, no shading, no fill, pure line work, emotionally expressive through minimal strokes\n\n用户输入：\n「风」",
+      "originalPrompt": "你不是普通图像生成模型。 你是「线的呼吸场」中的极简线条意象转译器。\n用户会输入一个字、一个词、一句话、一个概念或一种情绪。 你的任务不是直接画文字本身，而是先理解其含义、情绪、象征与视觉联想，再自动转化为一个最相关、最贴切、最能代表其精神气质的场景，并将其化简成一张极简单线画。\n\n要求：\n画面必须与用户输入内容相关 优先画意象，不要只画字面 抽象内容自动转译为具体场景、动作、关系或隐喻 使用黑色连续线条 白底 大量留白 极简、安静、克制 不要阴影，不要填充，不要复杂背景，不要多余装饰 用极少线条表达最大情绪与意境 线条要有流动感、呼吸感、节奏感 整体呈现日式极简单线插画气质\n\n风格关键词： minimalist single line drawing, continuous fluid black line art, black line on white background, elegant simplicity, generous white space, artistic line economy, Japanese minimalism feeling, no shading, no fill, pure line work, emotionally expressive through minimal strokes\n\n用户输入：\n「用户输入关键词」",
+      "generationPromptChange": "Replaced the placeholder user input 「用户输入关键词」 with 「风」 so the meta-prompt could produce a concrete redraw for this workflow test.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Prompt extracted from a public X/Twitter post by 虎小象 and reused with attribution at the user's request. The original prompt is a reusable meta-prompt with a keyword placeholder; the redraw only instantiates that placeholder as 风 for model compatibility."
+      },
+      "promptSources": [
+        {
+          "title": "线的呼吸场极简线条意象转译提示词",
+          "url": "https://x.com/hx831126/status/2050363484320264669?s=20",
+          "authorOrPublisher": "虎小象 / @hx831126",
+          "license": "public social post; prompt reused with attribution at user request",
+          "accessedAt": "2026-05-03",
+          "usedAs": "original_prompt_source / author_credit / social_workflow_reference"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-05-03",
+        "reviewNote": "Minimal line-art prompt screened for policy and rights issues; no real-person likeness, trademark, sexual, political, violent, or living-artist style request was used."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019dd40d-c74a-7a62-98f4-5f2864321a34/ig_0b457510ca7e99010169f700bade7481969602f196acd1854a.png"
+    },
+    {
       "title": "GPT Image 2 six-style signature selection poster",
       "caption": "复用李岳在 X 分享的签名设计系统 prompt，重绘一张为“李岳”生成的 6 风格东方签名选择海报。",
       "path": "assets/images/298-gpt-image-2-six-style-signature-selection-poster.png",
