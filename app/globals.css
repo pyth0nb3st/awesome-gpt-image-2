@@ -178,6 +178,114 @@ h2 {
   padding: 14px;
 }
 
+.promo-strip {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+  margin: 24px 0 30px;
+}
+
+.promo-card {
+  position: relative;
+  display: grid;
+  min-height: 260px;
+  gap: 14px;
+  align-content: start;
+  overflow: hidden;
+  border: 2px solid var(--ink);
+  color: var(--ink);
+  padding: clamp(18px, 3vw, 28px);
+  text-decoration: none;
+  box-shadow: 9px 9px 0 var(--ink);
+  isolation: isolate;
+}
+
+.promo-card::before,
+.promo-card::after {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  pointer-events: none;
+}
+
+.promo-card::before {
+  inset: 0;
+  background:
+    radial-gradient(circle at 82% 16%, rgba(255, 255, 255, 0.75) 0 10%, transparent 11%),
+    linear-gradient(135deg, rgba(255, 255, 255, 0.34), transparent 44%);
+}
+
+.promo-card::after {
+  right: -44px;
+  bottom: -58px;
+  width: 170px;
+  height: 170px;
+  border: 2px solid color-mix(in srgb, var(--ink) 72%, transparent);
+  border-radius: 34px;
+  transform: rotate(14deg);
+}
+
+.promo-card-vibeart {
+  background:
+    linear-gradient(140deg, #fff3c4 0%, #ffb7a8 48%, #b8d7ff 100%),
+    var(--panel);
+}
+
+.promo-card-drill {
+  background:
+    linear-gradient(140deg, #dff8df 0%, #f7f1bd 48%, #c9e3d9 100%),
+    var(--panel);
+}
+
+.promo-kicker,
+.promo-badge,
+.promo-cta {
+  width: fit-content;
+  font: 900 12px ui-sans-serif, system-ui, sans-serif;
+  text-transform: uppercase;
+}
+
+.promo-kicker {
+  border: 1px solid var(--ink);
+  background: color-mix(in srgb, var(--panel) 86%, white);
+  padding: 6px 9px;
+}
+
+.promo-badge {
+  border: 1px solid var(--ink);
+  background: var(--ink);
+  color: var(--panel);
+  padding: 6px 10px;
+}
+
+.promo-card strong {
+  max-width: 700px;
+  font-size: clamp(28px, 4.4vw, 52px);
+  line-height: 0.94;
+  letter-spacing: -0.03em;
+}
+
+.promo-body {
+  max-width: 680px;
+  color: color-mix(in srgb, var(--ink) 78%, var(--muted));
+  font: 700 15px/1.55 ui-sans-serif, system-ui, sans-serif;
+}
+
+.promo-cta {
+  margin-top: 4px;
+  border-bottom: 3px solid var(--ink);
+  padding-bottom: 3px;
+}
+
+.promo-card:hover {
+  transform: translate(-2px, -2px);
+  box-shadow: 12px 12px 0 var(--ink);
+}
+
+.promo-card:hover .promo-cta {
+  color: var(--accent);
+}
+
 .stat strong {
   display: block;
   font: 800 clamp(24px, 5vw, 40px) / 1 ui-sans-serif, system-ui, sans-serif;
@@ -974,6 +1082,7 @@ pre {
   .hero,
   .gallery,
   .grid,
+  .promo-strip,
   .hero-detail {
     grid-template-columns: 1fr 1fr;
   }
@@ -1009,9 +1118,15 @@ pre {
   .hero,
   .gallery,
   .grid,
+  .promo-strip,
   .search-row,
   .hero-detail {
     grid-template-columns: 1fr;
+  }
+
+  .promo-card {
+    min-height: 0;
+    box-shadow: 6px 6px 0 var(--ink);
   }
 
   .lucky-shell {
