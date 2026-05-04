@@ -1,0 +1,155 @@
+1:"$Sreact.fragment"
+2:I[5500,["/_next/static/chunks/0fsi8lw5utejl.js","/_next/static/chunks/0d3tkj33oycf2.js","/_next/static/chunks/01i.imrno_~ka.js"],"Image"]
+3:I[32732,["/_next/static/chunks/0fsi8lw5utejl.js","/_next/static/chunks/0d3tkj33oycf2.js","/_next/static/chunks/01i.imrno_~ka.js"],"default"]
+e:I[97367,["/_next/static/chunks/0fsi8lw5utejl.js","/_next/static/chunks/0d3tkj33oycf2.js"],"OutletBoundary"]
+f:"$Sreact.suspense"
+11:I[24844,["/_next/static/chunks/0fsi8lw5utejl.js","/_next/static/chunks/0d3tkj33oycf2.js","/_next/static/chunks/01i.imrno_~ka.js"],"default"]
+4:Tcc8,你是一个高端签名设计系统 + 风格人格视觉系统。你的任务是：仅基于用户输入的「姓名」，生成一张「多风格签名选择海报（卡片式结构）」。
+
+这不是字体展示，而是：将名字转译为“具有笔势、气质与力量感的签名设计系统”，让用户产生选择欲、认同感、分享欲。
+
+一、输入信息
+姓名：李岳
+禁止要求额外信息。必须自动完成气质与风格推断。
+
+二、核心逻辑
+1. 字形与笔势分析：结构的疏密、横竖比例、重心位置；节奏的连贯、停顿、爆发、收束；适合的连笔程度、草写程度、变形空间。决定签名写法，不是字体。
+2. 气质推断：清冷、张扬、克制、商业、文艺、松弛、锋利、高级。
+3. 生成 6 个签名分支：全部适配该姓名，每一个都有明确书写风格，差异来自笔势，不是字体变化。
+
+三、整体画面结构
+9:16 竖版海报。
+风格：极简、高级、干净、有设计感、可传播。
+背景：纯白或极浅灰渐变，留白不少于 40%。
+
+四、顶部标题区
+主标题：你的名字，适合哪种签名？
+副标题：李岳 · 签名风格选择
+说明：不同笔势，不同气场
+排版高级，黑灰配色，字距略宽，留白充足。
+
+五、签名卡片区域
+使用整齐网格卡片布局，2 列 × 3 行，共 6 个卡片。每个卡片统一尺寸、统一间距、整体对齐干净。
+
+六、卡片设计规范
+每个签名放在轻卡片容器中：轻微圆角、无明显边框或极细描边、非常轻的阴影。背景为纯白微差、极浅灰或非常轻微的宣纸/磨砂质感。必须像高级杂志排版，不是 UI 组件。
+
+七、签名生成规则
+每一个签名风格都必须有明确的书写行为规则：
+1. 起笔方式不同。
+2. 连笔结构不同。
+3. 节奏变化明显。
+4. 结构变形明显。
+5. 收笔设计突出。
+
+八、6 个风格必须极端分化
+1. 极简理性（接近品牌签名）
+2. 狂放张力（强烈连笔 + 拉伸）
+3. 松弛随性（手写感强）
+4. 东方行草（飞白 + 墨感）
+5. 锋利结构（几何感 + 断裂）
+6. 实验风格（允许部分不可读）
+至少有 1 个风格接近不可读但极具设计感。
+
+九、禁止安全签名
+不要让每个签名结构类似，不要只是粗细不同，不要只是轻微连笔，不要看起来像字体库。
+
+十、色彩策略
+整体黑灰白为主，每个卡片允许一个极轻微点缀色，如冷灰蓝、香槟金、墨黑、暖棕、深绿，但不允许大面积色块，不允许花哨。
+
+十一、底部互动区
+底部居中：选一个，作为你的专属签名。
+小号灰字，克制留白。
+
+十二、光影与质感
+整体具备高级棚拍光、柔光环境、细腻阴影、干净空气感，像 Apple 发布会加高端品牌视觉。
+
+十三、禁止项
+不要字体拼贴，不要普通书法字，不要 UI 卡片风，不要颜色杂乱，不要签名太小，不要排版松散，不要缺乏笔势，不要像模板拼接。
+
+最终目标：生成一张高级、干净、有秩序、有笔势张力的 6 种不同风格签名组成的选择海报，用户一眼就能选出最像自己的一款签名。不要水印，不要额外 logo。0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"site-shell","children":[["$","nav",null,{"className":"site-nav","aria-label":"Site","children":[["$","a",null,{"href":"/","children":"GPT Image 2 Prompt Gallery"}],["$","a",null,{"href":"/prompts/","children":"Examples"}],["$","a",null,{"href":"/tags/","children":"Topics"}],["$","a",null,{"href":"/lucky/","children":"Feeling Lucky"}],["$","a",null,{"className":"nav-partner","href":"https://drillso.com/?utm_source=gptimg2.best&utm_medium=referral&utm_campaign=gpt_image_2_gallery&utm_content=nav_drill","children":"Drill"}],["$","a",null,{"className":"nav-partner","href":"https://vibeart.app/?utm_source=gptimg2.best&utm_medium=referral&utm_campaign=gpt_image_2_gallery&utm_content=nav_vibeart","children":"VibeArt"}],["$","a",null,{"className":"icon-link","href":"https://github.com/pyth0nb3st/awesome-gpt-image-2?utm_source=gptimg2.best&utm_medium=referral&utm_campaign=gpt_image_2_gallery&utm_content=nav_github","aria-label":"GitHub","title":"GitHub","children":["$","svg",null,{"aria-hidden":"true","focusable":"false","width":16,"height":16,"viewBox":"0 0 16 16","fill":"currentColor","children":["$","path",null,{"d":"M8 .2A8 8 0 0 0 0 8.2c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.13 0 0 .67-.21 2.2.82a7.4 7.4 0 0 1 2-.27c.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.11.16 1.93.08 2.13.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8.2 8 8 0 0 0 8 .2Z"}]}]}],["$","a",null,{"className":"language-switch","href":"/zh/tags/poster/","hrefLang":"zh","children":"View in Chinese"}]]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"CollectionPage\",\"name\":\"Poster GPT Image 2 examples\",\"url\":\"https://gptimg2.best/tags/poster/\",\"description\":\"Browse 3 GPT Image 2 examples about poster, including generated images, prompt text, and related ideas.\",\"numberOfItems\":3}"}}],["$","header",null,{"className":"page-header","children":[["$","p",null,{"className":"meta","children":"3 examples · Updated 2026-05-04"}],["$","h1",null,{"className":"page-title","children":"Poster"}],["$","p",null,{"className":"lead","children":"Browse 3 GPT Image 2 examples about poster, including generated images, prompt text, and related ideas."}]]}],["$","div",null,{"className":"grid","children":[["$","article","prompts/298-gpt-image-2-six-style-signature-selection-poster/",{"className":"card","children":[["$","a",null,{"className":"image-link","href":"/prompts/298-gpt-image-2-six-style-signature-selection-poster/","children":["$","$L2",null,{"src":"https://pub-d133211bf65a4d3daa7ab996ea945303.r2.dev/thumbs/298-gpt-image-2-six-style-signature-selection-poster.jpg","alt":"GPT Image 2 six-style signature selection poster. GPT Image 2 example.","loading":"lazy","width":768,"height":1364,"sizes":"(max-width: 680px) calc(100vw - 20px), (max-width: 980px) calc((100vw - 50px) / 2), 402px"}]}],["$","div",null,{"className":"content","children":[["$","h2",null,{"children":["$","a",null,{"className":"title-link","href":"/prompts/298-gpt-image-2-six-style-signature-selection-poster/","children":"GPT Image 2 six-style signature selection poster"}]}],["$","p",null,{"children":"你是一个高端签名设计系统 + 风格人格视觉系统。你的任务是：仅基于用户输入的「姓名」，生成一张「多风格签名选择海报（卡片式结构）」。 这不是字体展示，而是：将名字转译为“具有笔势、气质与力量感的签名设计系统”，让用户产生选择欲、认同感、分享欲。 一、输入信息..."}],["$","div",null,{"className":"card-actions","children":[["$","a",null,{"className":"detail-link","href":"/prompts/298-gpt-image-2-six-style-signature-selection-poster/","children":"View details"}],["$","$L3",null,{"text":"$4","labels":{"copy":"Copy prompt","copied":"Copied","failed":"Copy failed"},"className":"copy-prompt-compact"}]]}]]}]]}],"$L5","$L6"]}],"$L7","$L8"]}],["$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Odwq3I9K0bw0TwnjO4hXs"}
+b:Te7b,生成一张【中等信息密度】书籍总结信息图海报，主题为《思考，快与慢》。
+
+Step 0（关键前置判断）
+在开始生成之前，请先判断这本书更接近哪一类（可多选）：
+认知成长类（思维 / 自我提升）
+商业 / 财富类（赚钱 / 职业 / 投资）
+心理 / 情绪类（关系 / 内在 / 人性）
+小说 / 故事类（叙事 / 人物 / 隐喻）
+
+然后根据类型，调整表达重点与结构侧重（不是改外观，是改内容逻辑）：
+认知类侧重模型 / 思维方式 / 误区。
+
+【整体风格】
+现代极简UI + 轻复古插画风，柔和浅色背景（奶油 / 米色 / 浅灰），低饱和配色（深绿 / 深蓝 / 棕色）。
+气质关键词：安静，有内容，可以慢慢读。
+
+【核心原则（非常重要）】
+不要使用固定模块标题，不要强行凑“结构完整”。
+请根据书的类型与内容，自然组织信息：
+可以合并 / 删除模块，调整顺序，改写所有小标题，强化某一部分。
+目标：更像“一个读懂的人在讲”，而不是“整理笔记”。
+
+【内容模块（按“信息类型”动态组合）】
+以下不是模板，而是素材池。请按书籍类型自由选择 + 重组。
+
+① 开场（一定要有）
+书名《思考，快与慢》作为视觉中心，作者 Daniel Kahneman，一句话洞察必须像人话，例如“你以为自己在理性判断，其实很多决定早就被直觉抢先做了”。
+插图要有隐喻意义。
+
+② 把这本书讲清楚（核心理解）
+不要写“核心思想”，可以这样表达：
+“这本书真正想说的，其实是……”
+“如果只讲一件事，那就是……”
+内容包含：核心观点（Core Thesis），它在回应什么现实问题（Problem）。
+强调为什么人会在判断里不断犯错，以及系统1 / 系统2的差异。
+
+③ 最值得带走的东西（重点区）
+标题自然，例如：
+“读完之后，很难不改变的几个点”
+“慢慢会影响你的，是这些”
+内容偏认知类：思维误区、认知升级点、决策方式。
+每个要点：一个短句观点（像人说话），1到2句解释，小图标。
+
+④ 一个“关键结构”（视觉核心）
+标题自然表达，例如：
+“所有内容，其实围绕这个结构”
+“理解这本书，可以用这张图”
+用一张可视化结构图展示：系统1（快思考、直觉、自动） vs 系统2（慢思考、理性、费力），以及它们如何影响判断与决策。
+
+⑤ 书里的例子 / 片段（更像讲故事）
+标题可以是：
+“书里有几个地方，让人印象很深”
+“这些片段，其实说明了什么”
+选用有画面感的案例，例如锚定效应、损失厌恶、可得性偏差。
+每条：一句话 + 图标。
+
+⑥ 一些会留下来的句子（金句区）
+标题风格：
+“有些话会在之后想起”
+“值得慢慢读的几句话”
+留白感要强，作为视觉重点。
+
+⑦ 可以带走的改变（行动区）
+标题：
+“如果只做一点改变”
+“你可以从这里开始”
+给出3到5条具体、可执行、可感知的认知习惯改变建议。
+
+【设计细节】
+自适应网格布局（不要死板对称），卡片化信息（留白优先），图文比例约6:4，插图统一风格（手绘 / 线性），层级清晰（重要信息更大）。
+
+【语言风格（决定质量）】
+要：像人讲书，有理解、有筛选，有一点顿悟感。
+不要：“本书讲了……”“定义是……”，不要空话、套话、过度总结。
+
+【输出要求】
+中文（可少量英文点缀），信息密度中等，适合社交媒体传播的书籍总结信息图海报。5:["$","article","prompts/283-gpt-image-2-book-summary-infographic-poster/",{"className":"card","children":[["$","a",null,{"className":"image-link","href":"/prompts/283-gpt-image-2-book-summary-infographic-poster/","children":["$","$L2",null,{"src":"https://pub-d133211bf65a4d3daa7ab996ea945303.r2.dev/thumbs/283-gpt-image-2-book-summary-infographic-poster.jpg","alt":"GPT Image 2 book-summary infographic poster. GPT Image 2 example.","loading":"lazy","width":768,"height":1152,"sizes":"(max-width: 680px) calc(100vw - 20px), (max-width: 980px) calc((100vw - 50px) / 2), 402px"}]}],["$","div",null,{"className":"content","children":[["$","h2",null,{"children":["$","a",null,{"className":"title-link","href":"/prompts/283-gpt-image-2-book-summary-infographic-poster/","children":"GPT Image 2 book-summary infographic poster"}]}],["$","p",null,{"children":"生成一张【中等信息密度】书籍总结信息图海报，主题为《思考，快与慢》。 Step 0（关键前置判断） 在开始生成之前，请先判断这本书更接近哪一类（可多选）： 认知成长类（思维 / 自我提升） 商业 / 财富类（赚钱 / 职业 / 投资） 心理 / 情绪类（关系..."}],["$","div",null,{"className":"card-actions","children":[["$","a",null,{"className":"detail-link","href":"/prompts/283-gpt-image-2-book-summary-infographic-poster/","children":"View details"}],["$","$L3",null,{"text":"$b","labels":{"copy":"Copy prompt","copied":"Copied","failed":"Copy failed"},"className":"copy-prompt-compact"}]]}]]}]]}]
+6:["$","article","prompts/279-gpt-image2-epic-graduation-silhouette-poster/",{"className":"card","children":[["$","a",null,{"className":"image-link","href":"/prompts/279-gpt-image2-epic-graduation-silhouette-poster/","children":["$","$L2",null,{"src":"https://pub-d133211bf65a4d3daa7ab996ea945303.r2.dev/thumbs/279-gpt-image2-epic-graduation-silhouette-poster.jpg","alt":"GPT-image2 epic graduation silhouette poster. GPT Image 2 example.","loading":"lazy","width":768,"height":1152,"sizes":"(max-width: 680px) calc(100vw - 20px), (max-width: 980px) calc((100vw - 50px) / 2), 402px"}]}],["$","div",null,{"className":"content","children":[["$","h2",null,{"children":["$","a",null,{"className":"title-link","href":"/prompts/279-gpt-image2-epic-graduation-silhouette-poster/","children":"GPT-image2 epic graduation silhouette poster"}]}],["$","p",null,{"children":"根据热门 X 提示词做最小兼容改写，生成一张收藏版史诗叙事毕业海报。巨大的年轻毕业生女性侧脸剪影作为外轮廓，剪影内部生长出完整世界观与标志性校园毕业场景：教学楼、礼堂、学位帽、花束、阶梯、同学关系、象征符号、关键建筑、纸张、光影与纪念氛围。整体不是普通拼贴，..."}],["$","div",null,{"className":"card-actions","children":[["$","a",null,{"className":"detail-link","href":"/prompts/279-gpt-image2-epic-graduation-silhouette-poster/","children":"View details"}],["$","$L3",null,{"text":"根据热门 X 提示词做最小兼容改写，生成一张收藏版史诗叙事毕业海报。巨大的年轻毕业生女性侧脸剪影作为外轮廓，剪影内部生长出完整世界观与标志性校园毕业场景：教学楼、礼堂、学位帽、花束、阶梯、同学关系、象征符号、关键建筑、纸张、光影与纪念氛围。整体不是普通拼贴，而是高级的剪影轮廓填充式叙事合成，带有双重曝光联想，但更偏电影海报与梦幻水彩插画融合风格。柔和空气透视，轻雾化过渡，纸张颗粒，边缘留白与刷痕，大面积留白，版式克制高级，安静、宏大、神圣、怀旧、诗意、传说感。风格、色彩、场景、材质全部围绕校园毕业主题自动适配，所有元素必须强绑定主题，一眼识别，不要杂乱，不要硬拼贴，不要模板化背景，不要廉价奇幻素材。如出现字体，仅使用英文。No watermark.","labels":{"copy":"Copy prompt","copied":"Copied","failed":"Copy failed"},"className":"copy-prompt-compact"}]]}]]}]]}]
+7:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Related topics"}],["$","ul",null,{"className":"tags","children":[["$","li","typography",{"children":["$","a",null,{"href":"/tags/typography/","children":["Typography"," (",87,")"]}]}],["$","li","product-mockup",{"children":["$","a",null,{"href":"/tags/product-mockup/","children":["Product Mockup"," (",85,")"]}]}],["$","li","game-design",{"children":["$","a",null,{"href":"/tags/game-design/","children":["Game Design"," (",68,")"]}]}],["$","li","ui-mockup",{"children":["$","a",null,{"href":"/tags/ui-mockup/","children":["UI Mockup"," (",68,")"]}]}],["$","li","storytelling",{"children":["$","a",null,{"href":"/tags/storytelling/","children":["Storytelling"," (",55,")"]}]}],["$","li","infographic",{"children":["$","a",null,{"href":"/tags/infographic/","children":["Infographic"," (",45,")"]}]}],["$","li","lighting-weather",{"children":["$","a",null,{"href":"/tags/lighting-weather/","children":["Lighting and Weather"," (",36,")"]}]}],["$","li","photoreal",{"children":["$","a",null,{"href":"/tags/photoreal/","children":["Photoreal"," (",33,")"]}]}],["$","li","worldbuilding",{"children":["$","a",null,{"href":"/tags/worldbuilding/","children":["Worldbuilding"," (",33,")"]}]}],["$","li","education",{"children":["$","a",null,{"href":"/tags/education/","children":["Education"," (",26,")"]}]}],["$","li","derived-play",{"children":["$","a",null,{"href":"/tags/derived-play/","children":["Derived Play"," (",24,")"]}]}],["$","li","interior-design",{"children":["$","a",null,{"href":"/tags/interior-design/","children":["Interior Design"," (",23,")"]}]}]]}]]}]
+8:[["$","footer",null,{"className":"site-footer","children":[["$","span",null,{"children":"This gallery preserves generated images, prompt text, topics, and notes so examples stay easy to browse and reuse."}],["$","span",null,{"children":"Disclaimer: this archive is researched, collected, and generated by Codex from public web context and local generation logs. Older source provenance is still under review; check the source policy before reuse."}],["$","span",null,{"className":"footer-row","children":[["$","span",null,{"children":["Creator tools:"," ",["$","a",null,{"href":"https://drillso.com/?utm_source=gptimg2.best&utm_medium=referral&utm_campaign=gpt_image_2_gallery&utm_content=footer_drill","children":"Drill"}]," ","for deeper reading workflows and"," ",["$","a",null,{"href":"https://vibeart.app/?utm_source=gptimg2.best&utm_medium=referral&utm_campaign=gpt_image_2_gallery&utm_content=footer_vibeart","children":"VibeArt"}]," ","for AI visual creation."]}],["$","span",null,{"className":"footer-links","children":[["$","a",null,{"href":"https://github.com/pyth0nb3st/awesome-gpt-image-2/blob/main/CONTENT_POLICY.md?utm_source=gptimg2.best&utm_medium=referral&utm_campaign=gpt_image_2_gallery&utm_content=footer_policy","children":"Policy"}],["$","a",null,{"className":"icon-link","href":"https://github.com/pyth0nb3st/awesome-gpt-image-2?utm_source=gptimg2.best&utm_medium=referral&utm_campaign=gpt_image_2_gallery&utm_content=footer_github","aria-label":"GitHub","title":"GitHub","children":["$","svg",null,{"aria-hidden":"true","focusable":"false","width":16,"height":16,"viewBox":"0 0 16 16","fill":"currentColor","children":["$","path",null,{"d":"M8 .2A8 8 0 0 0 0 8.2c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.13 0 0 .67-.21 2.2.82a7.4 7.4 0 0 1 2-.27c.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.11.16 1.93.08 2.13.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8.2 8 8 0 0 0 8 .2Z"}]}]}]]}]]}]]}],["$","aside",null,{"className":"fixed-disclaimer","aria-label":"Gallery disclaimer","data-disclaimer":true,"children":[["$","span",null,{"children":"Codex-built archive. Public-web research + generated images; provenance under review."}],["$","nav",null,{"aria-label":"Gallery disclaimer","children":[["$","a",null,{"href":"https://github.com/pyth0nb3st/awesome-gpt-image-2/blob/main/CONTENT_POLICY.md?utm_source=gptimg2.best&utm_medium=referral&utm_campaign=gpt_image_2_gallery&utm_content=fixed_policy","children":"Policy"}],["$","a",null,{"className":"icon-link","href":"https://github.com/pyth0nb3st/awesome-gpt-image-2?utm_source=gptimg2.best&utm_medium=referral&utm_campaign=gpt_image_2_gallery&utm_content=fixed_github","aria-label":"GitHub","title":"GitHub","children":["$","svg",null,{"aria-hidden":"true","focusable":"false","width":16,"height":16,"viewBox":"0 0 16 16","fill":"currentColor","children":["$","path",null,{"d":"M8 .2A8 8 0 0 0 0 8.2c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.13 0 0 .67-.21 2.2.82a7.4 7.4 0 0 1 2-.27c.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.11.16 1.93.08 2.13.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8.2 8 8 0 0 0 8 .2Z"}]}]}],"$Lc"]}]]}],"$Ld"]
+9:["$","script","script-0",{"src":"/_next/static/chunks/01i.imrno_~ka.js","async":true}]
+a:["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]
+c:["$","button",null,{"type":"button","className":"disclaimer-dismiss","data-disclaimer-dismiss":true,"aria-label":"Dismiss disclaimer","children":["$","svg",null,{"aria-hidden":"true","focusable":"false","width":14,"height":14,"viewBox":"0 0 14 14","fill":"none","stroke":"currentColor","strokeWidth":"2","strokeLinecap":"square","children":["$","path",null,{"d":"M2 2 L12 12 M12 2 L2 12"}]}]}]
+d:["$","$L11",null,{}]
+10:null
