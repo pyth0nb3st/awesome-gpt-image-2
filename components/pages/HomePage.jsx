@@ -1,6 +1,7 @@
 import Footer from "../Footer";
 import GalleryBehavior from "../GalleryBehavior";
 import { GalleryCard } from "../GalleryCards";
+import { GitHubIcon } from "../Icons";
 import ImageModal from "../ImageModal";
 import LanguageSwitch from "../LanguageSwitch";
 import {
@@ -15,7 +16,7 @@ import {
   topTags,
   updatedDate,
 } from "../../lib/gallery";
-import { getCopy, localizedPath, tagLabel } from "../../lib/i18n";
+import { LOCALES, getCopy, localizedPath, tagLabel } from "../../lib/i18n";
 
 const INITIAL_IMAGE_COUNT = 12;
 const IMAGE_BATCH_SIZE = 12;
@@ -86,17 +87,21 @@ export default function HomePageContent({ locale = "en" }) {
             <h1>{t.homeTitle}</h1>
             <p className="summary">{t.homeDescription}</p>
             <nav className="hero-links" aria-label={t.projectLinks}>
-              <a href={referralUrl(DRILL_URL, "hero_drill")}>Drill</a>
-              <a href={referralUrl(VIBEART_URL, "hero_vibeart")}>VibeArt</a>
-              <a href={localizedPath("/lucky/", locale)}>{t.lucky}</a>
               <a href={localizedPath("/prompts/", locale)}>{t.examples}</a>
               <a href={localizedPath("/tags/", locale)}>{t.topics}</a>
-              <a href={referralUrl(REPO_URL, "hero_github")}>{t.github}</a>
+              <a href={localizedPath("/lucky/", locale)}>{t.lucky}</a>
+              <a className="nav-partner" href={referralUrl(DRILL_URL, "hero_drill")}>Drill</a>
+              <a className="nav-partner" href={referralUrl(VIBEART_URL, "hero_vibeart")}>VibeArt</a>
+              <a
+                className="icon-link"
+                href={referralUrl(REPO_URL, "hero_github")}
+                aria-label={t.github}
+                title={t.github}
+              >
+                <GitHubIcon />
+              </a>
               <LanguageSwitch locale={locale} path="/" />
             </nav>
-            <p className="repo-strip">
-              {t.source}: <a href={referralUrl(REPO_URL, "source_link")}>{REPO_URL}</a>
-            </p>
           </div>
           <div className="stats" aria-label="gallery stats">
             <div className="stat">
@@ -108,8 +113,8 @@ export default function HomePageContent({ locale = "en" }) {
               <span>{t.topicStat}</span>
             </div>
             <div className="stat">
-              <strong>{galleryEntries.length}</strong>
-              <span>{t.exampleStat}</span>
+              <strong>{LOCALES.length}</strong>
+              <span>{t.languageStat}</span>
             </div>
             <div className="stat">
               <strong>{updatedDate}</strong>
