@@ -2,7 +2,7 @@
 
 > Curated GPT Image 2 prompt examples for product mockups, UI concepts, typography, diagrams, games, educational visuals, and image-generation workflows.
 
-This repository tracks 282 generated examples. The README is generated from `gallery.json` and `readme.config.json`; the live site keeps full prompt text, source attribution, provenance notes, tags, and static detail pages.
+This repository tracks 283 generated examples. The README is generated from `gallery.json` and `readme.config.json`; the live site keeps full prompt text, source attribution, provenance notes, tags, and static detail pages.
 
 ## Contents
 
@@ -14,7 +14,7 @@ This repository tracks 282 generated examples. The README is generated from `gal
 
 ## Start Here
 
-- [Live gallery](https://gptimg2.best/) - Visual homepage for all 282 examples.
+- [Live gallery](https://gptimg2.best/) - Visual homepage for all 283 examples.
 - [All prompts](https://gptimg2.best/prompts/) - Complete prompt index with images and prompt text.
 - [Tags](https://gptimg2.best/tags/) - Browse by topic, format, and workflow pattern.
 - [Lucky prompt](https://gptimg2.best/lucky/) - Open a random GPT Image 2 example.
@@ -22,6 +22,7 @@ This repository tracks 282 generated examples. The README is generated from `gal
 
 ## Full List
 
+- [GPT Image 2 plush pop teal cloud dragon collectible render](https://gptimg2.best/prompts/301-gpt-image-2-plush-pop-teal-cloud-dragon-collectible-render/) - 复用 Amira Zairi 在 X 分享的 Plush Pop Render 模板 prompt，将占位符实例化为一只带珍珠光翅膀和星星背包的原创青绿色云朵小龙毛绒玩具渲染。<br>Topics: X Prompt Redraw, Plush Pop Render, 3d Render.<br><img src="https://pub-d133211bf65a4d3daa7ab996ea945303.r2.dev/thumbs/301-gpt-image-2-plush-pop-teal-cloud-dragon-collectible-render.jpg" width="180" alt="Cute centered 3D render of a teal plush cloud dragon collectible with pearlescent wings and a small star backpack on a clean white background">
 - [GPT Image 2 children's picture book AI lab story page](https://gptimg2.best/prompts/300-gpt-image-2-children-s-picture-book-ai-lab-story-page/) - 复用宝玉在 X 分享的 GPT Image 2 儿童绘本内页 prompt，重绘一张米白纸张、多分镜、手绘水粉和彩铅质感的友好 AI 实验室故事页。<br>Topics: X Prompt Redraw, Children Picture Book, Storybook Layout.<br><img src="https://pub-d133211bf65a4d3daa7ab996ea945303.r2.dev/thumbs/300-gpt-image-2-children-s-picture-book-ai-lab-story-page.jpg" width="180" alt="Vertical children's picture book page on warm off-white paper showing a friendly AI research lab story in soft gouache and colored pencil panels">
 - [GPT Image 2 minimalist breathing line wind illustration](https://gptimg2.best/prompts/299-gpt-image-2-minimalist-breathing-line-wind-illustration/) - 复用虎小象在 X 分享的「线的呼吸场」极简线条意象转译 prompt，以关键词“风”重绘一张黑线白底、大量留白的连续单线插画。<br>Topics: X Prompt Redraw, Minimalist Line Art, Single Line Drawing.<br><img src="https://pub-d133211bf65a4d3daa7ab996ea945303.r2.dev/thumbs/299-gpt-image-2-minimalist-breathing-line-wind-illustration.jpg" width="180" alt="Minimal continuous black line drawing on a white background expressing wind through flowing strokes and generous white space">
 - [GPT Image 2 six-style signature selection poster](https://gptimg2.best/prompts/298-gpt-image-2-six-style-signature-selection-poster/) - 复用李岳在 X 分享的签名设计系统 prompt，重绘一张为“李岳”生成的 6 风格东方签名选择海报。<br>Topics: X Prompt Redraw, Signature Design, Poster.<br><img src="https://pub-d133211bf65a4d3daa7ab996ea945303.r2.dev/thumbs/298-gpt-image-2-six-style-signature-selection-poster.jpg" width="180" alt="Minimal vertical poster showing six signature style options for the Chinese name Li Yue">
@@ -308,9 +309,9 @@ This repository tracks 282 generated examples. The README is generated from `gal
 ## Popular Topics
 
 - [Derived Play](https://gptimg2.best/tags/derived-play/) - 24 examples.
-- [Social Workflow](https://gptimg2.best/tags/social-workflow/) - 22 examples.
+- [Social Workflow](https://gptimg2.best/tags/social-workflow/) - 23 examples.
+- [X Prompt Redraw](https://gptimg2.best/tags/x-prompt-redraw/) - 23 examples.
 - [Use Case](https://gptimg2.best/tags/use-case/) - 22 examples.
-- [X Prompt Redraw](https://gptimg2.best/tags/x-prompt-redraw/) - 22 examples.
 - [Source Seal](https://gptimg2.best/tags/source-seal/) - 4 examples.
 - [Ui Mockup](https://gptimg2.best/tags/ui-mockup/) - 4 examples.
 - [Visual Qa](https://gptimg2.best/tags/visual-qa/) - 4 examples.

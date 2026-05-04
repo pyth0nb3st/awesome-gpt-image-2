@@ -18,6 +18,50 @@
   },
   "images": [
     {
+      "title": "GPT Image 2 plush pop teal cloud dragon collectible render",
+      "caption": "复用 Amira Zairi 在 X 分享的 Plush Pop Render 模板 prompt，将占位符实例化为一只带珍珠光翅膀和星星背包的原创青绿色云朵小龙毛绒玩具渲染。",
+      "path": "assets/images/301-gpt-image-2-plush-pop-teal-cloud-dragon-collectible-render.png",
+      "alt": "Cute centered 3D render of a teal plush cloud dragon collectible with pearlescent wings and a small star backpack on a clean white background",
+      "width": 1254,
+      "height": 1254,
+      "createdAt": "2026-05-04 13:39:17",
+      "batch": "019deea0-d48d-7ff0-a744-b63c81caa1bd",
+      "tags": [
+        "x-prompt-redraw",
+        "gpt-image-2",
+        "plush-pop-render",
+        "3d-render",
+        "collectible-toy",
+        "cute-character",
+        "pastel-palette",
+        "social-workflow"
+      ],
+      "prompt": "A soft plush 3D model of a tiny teal cloud dragon with pearlescent oversized wings, sleepy embroidered eyes, and a little star-shaped backpack, rendered in a cute stylized aesthetic, velvety surface, squeezable toy-like form, rounded proportions, charming animated fantasy creature design, clean white background, centered composition, soft ambient lighting, pastel palette, subtle shadows, high-resolution 3D render, front-facing view, ultra clean, adorable collectible feel. No logos, no text, no watermark, no existing character likeness.",
+      "originalPrompt": "A soft plush 3D model of a [subject] with [key detail], rendered in a cute stylized aesthetic, velvety surface, squeezable toy-like form, rounded proportions, charming animated [object type] design, clean white background, centered composition, soft ambient lighting, pastel palette, subtle shadows, high-resolution 3D render, front-facing view, ultra clean, adorable collectible feel",
+      "generationPromptChange": "Filled the template placeholders with an original tiny teal cloud dragon subject, pearlescent oversized wings, sleepy embroidered eyes, a star-shaped backpack, and a generic fantasy creature object type; added no-logo/no-text/no-existing-character constraints for rights safety.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Prompt extracted from a public X/Twitter post by Amira Zairi and reused with attribution at the user's request. The original prompt is a reusable template; the redraw only instantiates placeholders with an original, non-branded subject."
+      },
+      "promptSources": [
+        {
+          "title": "Plush Pop Render GPT Image prompt template",
+          "url": "https://x.com/azed_ai/status/2050878302827708548?s=20",
+          "authorOrPublisher": "Amira Zairi / @azed_ai",
+          "license": "public social post; prompt reused with attribution at user request",
+          "accessedAt": "2026-05-04",
+          "usedAs": "original_prompt_source / author_credit / social_workflow_reference"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-05-04",
+        "reviewNote": "Template prompt was screened for rights and safety issues; placeholders were filled with an original non-branded fantasy creature and explicit no-logo/no-existing-character constraints."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019deea0-d48d-7ff0-a744-b63c81caa1bd/ig_0b0d19e3f3df7fcb0169f830c945748195a0f7dfa03bde00ff.png"
+    },
+    {
       "title": "GPT Image 2 children's picture book AI lab story page",
       "caption": "复用宝玉在 X 分享的 GPT Image 2 儿童绘本内页 prompt，重绘一张米白纸张、多分镜、手绘水粉和彩铅质感的友好 AI 实验室故事页。",
       "path": "assets/images/300-gpt-image-2-children-s-picture-book-ai-lab-story-page.png",
