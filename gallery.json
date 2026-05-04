@@ -18,6 +18,51 @@
   },
   "images": [
     {
+      "title": "GPT Image 2 children's picture book AI lab story page",
+      "caption": "复用宝玉在 X 分享的 GPT Image 2 儿童绘本内页 prompt，重绘一张米白纸张、多分镜、手绘水粉和彩铅质感的友好 AI 实验室故事页。",
+      "path": "assets/images/300-gpt-image-2-children-s-picture-book-ai-lab-story-page.png",
+      "alt": "Vertical children's picture book page on warm off-white paper showing a friendly AI research lab story in soft gouache and colored pencil panels",
+      "width": 1024,
+      "height": 1536,
+      "createdAt": "2026-05-04 11:43:26",
+      "batch": "019deea0-d48d-7ff0-a744-b63c81caa1bd",
+      "tags": [
+        "x-prompt-redraw",
+        "gpt-image-2",
+        "children-picture-book",
+        "storybook-layout",
+        "multi-panel-illustration",
+        "gouache",
+        "colored-pencil",
+        "ai-education",
+        "social-workflow"
+      ],
+      "prompt": "Create a children’s picture book interior page in a vertical format, with a warm off-white paper background and a multi-panel storybook layout. Use a hand-drawn children’s book illustration style with soft gouache, colored pencil, and crayon textures, visible paper grain, natural sketch-like lines, and rounded, charming characters. Add clear and readable story text, laid out like a real picture book page. Key words may be highlighted in color, with a few small hand-drawn decorative elements throughout the page.\n\nStory content: The story of a friendly AI research lab, told as one page from a longer children’s book. Do not use any real company logo, trademark symbol, or branded product design. The page should show a small group of kind inventors, curious children, helpful glowing robot companions, notebooks, stars, blocks, and warm classroom-lab scenes. Include simple readable storybook text such as: “In a little lab full of questions, friends taught a bright machine to listen, learn, and help.” Make the page feel gentle, optimistic, educational, and suitable for a children’s picture book.",
+      "originalPrompt": "Create a children’s picture book interior page in a vertical format, with a warm off-white paper background and a multi-panel storybook layout. Use a hand-drawn children’s book illustration style with soft gouache, colored pencil, and crayon textures, visible paper grain, natural sketch- like lines, and rounded, charming characters. Add clear and readable story text, laid out like a real picture book page. Key words may be highlighted in color, with a few small hand-drawn decorative elements throughout the page.\n\n----\nThe story of OpenAI, multiple pages",
+      "generationPromptChange": "Replaced the real brand reference “OpenAI” with “a friendly AI research lab”, added a no-logo/no-trademark instruction, and excluded the same-author reply example because it referenced copyrighted characters.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Prompt extracted from a public X/Twitter post by 宝玉 and reused with attribution at the user's request. Edits from originalPrompt to generationPrompt were limited to rights/safety handling for a real brand reference and copyrighted-character examples in a same-author reply."
+      },
+      "promptSources": [
+        {
+          "title": "GPT Image 2 children's picture book interior page prompt",
+          "url": "https://x.com/dotey/status/2051128061962166487?s=20",
+          "authorOrPublisher": "宝玉 / @dotey",
+          "license": "public social post; prompt reused with attribution at user request",
+          "accessedAt": "2026-05-04",
+          "usedAs": "original_prompt_source / author_credit / social_workflow_reference"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-05-04",
+        "reviewNote": "Recorded after screening the reused prompt for policy and rights issues; the real brand story reference was generalized and copyrighted-character reply content was not used."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019deea0-d48d-7ff0-a744-b63c81caa1bd/ig_0b0d19e3f3df7fcb0169f8152918c0819580c7e48dd6209858.png"
+    },
+    {
       "title": "GPT Image 2 minimalist breathing line wind illustration",
       "caption": "复用虎小象在 X 分享的「线的呼吸场」极简线条意象转译 prompt，以关键词“风”重绘一张黑线白底、大量留白的连续单线插画。",
       "path": "assets/images/299-gpt-image-2-minimalist-breathing-line-wind-illustration.png",
