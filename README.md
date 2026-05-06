@@ -2,7 +2,7 @@
 
 > Curated GPT Image 2 prompt examples for product mockups, UI concepts, typography, diagrams, games, educational visuals, and image-generation workflows.
 
-This repository tracks 284 generated examples. The README is generated from `gallery.json` and `readme.config.json`; the live site keeps full prompt text, source attribution, provenance notes, tags, and static detail pages.
+This repository tracks 285 generated examples. The README is generated from `gallery.json` and `readme.config.json`; the live site keeps full prompt text, source attribution, provenance notes, tags, and static detail pages.
 
 ## Contents
 
@@ -14,7 +14,7 @@ This repository tracks 284 generated examples. The README is generated from `gal
 
 ## Start Here
 
-- [Live gallery](https://gptimg2.best/) - Visual homepage for all 284 examples.
+- [Live gallery](https://gptimg2.best/) - Visual homepage for all 285 examples.
 - [All prompts](https://gptimg2.best/prompts/) - Complete prompt index with images and prompt text.
 - [Tags](https://gptimg2.best/tags/) - Browse by topic, format, and workflow pattern.
 - [Lucky prompt](https://gptimg2.best/lucky/) - Open a random GPT Image 2 example.
@@ -22,6 +22,7 @@ This repository tracks 284 generated examples. The README is generated from `gal
 
 ## Full List
 
+- [GPT Image 2 cute 3D kneaded clay icon prompt](https://gptimg2.best/prompts/303-gpt-image-2-cute-3d-kneaded-clay-icon-prompt/) - Use Amira Zairi’s X prompt to make cute matte 3D kneaded-clay icon characters with rounded proportions, vibrant color accents, a clean white background, and soft ambient lighting.<br>Topics: X Prompt Ingest, Source Image Asset, Social Workflow.<br><img src="https://pub-d133211bf65a4d3daa7ab996ea945303.r2.dev/thumbs/303-gpt-image-2-cute-3d-kneaded-clay-icon-prompt.jpg" width="180" alt="Four cute 3D kneaded clay icon-style character examples from an attributed X prompt share">
 - [GPT Image 2 monochrome cloud archivist editorial illustration](https://gptimg2.best/prompts/302-gpt-image-2-monochrome-cloud-archivist-editorial-illustration/) - 复用 Amira Zairi 在 X 分享的黑白极简 editorial 模板 prompt，将占位符实例化为一位穿大风衣、整理漂浮卡片的原创云端档案管理员插画。<br>Topics: X Prompt Redraw, Monochrome Editorial, Minimal Line Art.<br><img src="https://pub-d133211bf65a4d3daa7ab996ea945303.r2.dev/thumbs/302-gpt-image-2-monochrome-cloud-archivist-editorial-illustration.jpg" width="180" alt="Minimal black-and-white editorial illustration of a young cloud archivist in a trench coat sorting floating note cards on a white background">
 - [GPT Image 2 plush pop teal cloud dragon collectible render](https://gptimg2.best/prompts/301-gpt-image-2-plush-pop-teal-cloud-dragon-collectible-render/) - 复用 Amira Zairi 在 X 分享的 Plush Pop Render 模板 prompt，将占位符实例化为一只带珍珠光翅膀和星星背包的原创青绿色云朵小龙毛绒玩具渲染。<br>Topics: X Prompt Redraw, Plush Pop Render, 3d Render.<br><img src="https://pub-d133211bf65a4d3daa7ab996ea945303.r2.dev/thumbs/301-gpt-image-2-plush-pop-teal-cloud-dragon-collectible-render.jpg" width="180" alt="Cute centered 3D render of a teal plush cloud dragon collectible with pearlescent wings and a small star backpack on a clean white background">
 - [GPT Image 2 children's picture book AI lab story page](https://gptimg2.best/prompts/300-gpt-image-2-children-s-picture-book-ai-lab-story-page/) - 复用宝玉在 X 分享的 GPT Image 2 儿童绘本内页 prompt，重绘一张米白纸张、多分镜、手绘水粉和彩铅质感的友好 AI 实验室故事页。<br>Topics: X Prompt Redraw, Children Picture Book, Storybook Layout.<br><img src="https://pub-d133211bf65a4d3daa7ab996ea945303.r2.dev/thumbs/300-gpt-image-2-children-s-picture-book-ai-lab-story-page.jpg" width="180" alt="Vertical children's picture book page on warm off-white paper showing a friendly AI research lab story in soft gouache and colored pencil panels">
@@ -309,9 +310,9 @@ This repository tracks 284 generated examples. The README is generated from `gal
 
 ## Popular Topics
 
+- [Social Workflow](https://gptimg2.best/tags/social-workflow/) - 25 examples.
+- [X Prompt Redraw](https://gptimg2.best/tags/x-prompt-redraw/) - 25 examples.
 - [Derived Play](https://gptimg2.best/tags/derived-play/) - 24 examples.
-- [Social Workflow](https://gptimg2.best/tags/social-workflow/) - 24 examples.
-- [X Prompt Redraw](https://gptimg2.best/tags/x-prompt-redraw/) - 24 examples.
 - [Use Case](https://gptimg2.best/tags/use-case/) - 22 examples.
 - [Source Seal](https://gptimg2.best/tags/source-seal/) - 4 examples.
 - [Ui Mockup](https://gptimg2.best/tags/ui-mockup/) - 4 examples.
@@ -321,12 +322,12 @@ This repository tracks 284 generated examples. The README is generated from `gal
 - [Crop Gate](https://gptimg2.best/tags/crop-gate/) - 3 examples.
 - [Education](https://gptimg2.best/tags/education/) - 3 examples.
 - [Poster](https://gptimg2.best/tags/poster/) - 3 examples.
+- [3d Render](https://gptimg2.best/tags/3d-render/) - 2 examples.
 - [Accessibility](https://gptimg2.best/tags/accessibility/) - 2 examples.
 - [Accessibility Check](https://gptimg2.best/tags/accessibility-check/) - 2 examples.
 - [Archaeology Recording](https://gptimg2.best/tags/archaeology-recording/) - 2 examples.
 - [Arrival Proof](https://gptimg2.best/tags/arrival-proof/) - 2 examples.
 - [Arrow Edit](https://gptimg2.best/tags/arrow-edit/) - 2 examples.
-- [Aspect Rail](https://gptimg2.best/tags/aspect-rail/) - 2 examples.
 
 ## Creator Tools
 

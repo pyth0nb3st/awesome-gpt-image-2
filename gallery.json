@@ -18,6 +18,52 @@
   },
   "images": [
     {
+      "title": "GPT Image 2 cute 3D kneaded clay icon prompt",
+      "caption": "Use Amira Zairi’s X prompt to make cute matte 3D kneaded-clay icon characters with rounded proportions, vibrant color accents, a clean white background, and soft ambient lighting.",
+      "path": "assets/images/303-gpt-image-2-cute-3d-kneaded-clay-icon-prompt.webp",
+      "alt": "Four cute 3D kneaded clay icon-style character examples from an attributed X prompt share",
+      "width": 2698,
+      "height": 1802,
+      "createdAt": "2026-05-06 12:43:32",
+      "batch": "x-ingest-20260506T124327-5479c20e09",
+      "tags": [
+        "x-prompt-ingest",
+        "gpt-image-2",
+        "source-image-asset",
+        "social-workflow",
+        "x-prompt-redraw",
+        "3d-render",
+        "icon-design",
+        "kneaded-clay",
+        "character-design"
+      ],
+      "prompt": "Cute 3D render of a [subject], matte surface, kneaded clay icon style, simple stylized design, [doing action], [emotion or mood], rounded proportions, soft sculpted details, playful body language, vibrant [color1], [color2], and [color3] accents, clean white background, minimal composition, soft ambient lighting, subtle shadow, charming character design, high-resolution, polished toy-like aesthetic",
+      "originalPrompt": "Cute 3D render of a [subject], matte surface, kneaded clay icon style, simple stylized design, [doing action], [emotion or mood], rounded proportions, soft sculpted details, playful body language, vibrant [color1], [color2], and [color3] accents, clean white background, minimal composition, soft ambient lighting, subtle shadow, charming character design, high-resolution, polished toy-like aesthetic",
+      "generationPromptChange": "Skipped generation: prompt and source image were both extracted from the X/Twitter post, so the credited social image was ingested directly.",
+      "sourceImageUrl": "https://mosaic.fxtwitter.com/webp/2051965725452239128/HHoL8bdaUAAi5-2/HHoL8n3aEAARd-8/HHoL80zbAAAxDmY/HHoL8_8aMAAYTIp",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "x_post_image_ingest",
+        "sourceNote": "Prompt and image were extracted from a public X/Twitter post and reused with attribution at the user's request. No new image was generated for this record."
+      },
+      "promptSources": [
+        {
+          "title": "Amira Zairi cute 3D prompt share",
+          "url": "https://x.com/azed_ai/status/2051965725452239128?s=20",
+          "authorOrPublisher": "Amira Zairi / @azed_ai",
+          "license": "public social post; prompt and attached image reused with attribution at user request",
+          "accessedAt": "2026-05-06",
+          "usedAs": "original_prompt_source / source_image_asset / author_credit / social_workflow_reference"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-05-06",
+        "reviewNote": "Prompt and attached social image should be screened for rights and safety before publication; no additional generation was performed."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/x-ingest/x-ingest-20260506T124327-5479c20e09/gpt-image-2-cute-3d-kneaded-clay-icon-prompt.webp"
+    },
+    {
       "title": "GPT Image 2 monochrome cloud archivist editorial illustration",
       "caption": "复用 Amira Zairi 在 X 分享的黑白极简 editorial 模板 prompt，将占位符实例化为一位穿大风衣、整理漂浮卡片的原创云端档案管理员插画。",
       "path": "assets/images/302-gpt-image-2-monochrome-cloud-archivist-editorial-illustration.png",

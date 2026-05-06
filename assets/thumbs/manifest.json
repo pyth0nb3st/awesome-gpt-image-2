@@ -2,5 +2,11 @@
   "version": 1,
   "sourceWidth": 768,
   "format": "jpg",
-  "images": {}
+  "images": {
+    "assets/images/303-gpt-image-2-cute-3d-kneaded-clay-icon-prompt.webp": {
+      "path": "assets/thumbs/303-gpt-image-2-cute-3d-kneaded-clay-icon-prompt.jpg",
+      "width": 768,
+      "height": 512
+    }
+  }
 }
