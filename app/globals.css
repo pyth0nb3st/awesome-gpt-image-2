@@ -608,9 +608,26 @@ input[type="search"]:focus {
 .tag-filter.is-active span { color: var(--accent-warm-deep); }
 
 /* =============================================================
-   Gallery — masonry / waterfall (native aspect ratios)
+   Gallery — row-ordered masonry
    ============================================================= */
-.gallery,
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: clamp(14px, 2vw, 22px);
+  align-items: start;
+}
+
+.masonry-column {
+  display: grid;
+  align-content: start;
+  gap: clamp(14px, 2vw, 22px);
+  min-width: 0;
+}
+
+.masonry-pool {
+  display: none;
+}
+
 .grid {
   column-count: 3;
   column-gap: clamp(18px, 2.2vw, 28px);
@@ -618,13 +635,28 @@ input[type="search"]:focus {
 
 .card {
   display: block;
-  break-inside: avoid;
-  margin-bottom: clamp(28px, 3vw, 44px);
+  margin-bottom: 0;
   width: 100%;
   background: transparent;
   border: 0;
   position: relative;
-  /* Hint to the renderer so columns can size cards correctly */
+}
+
+.gallery .card {
+  display: block;
+}
+
+.gallery .card .image-link {
+  height: auto;
+}
+
+.gallery .card img {
+  height: auto;
+  object-fit: contain;
+}
+
+.grid .card {
+  break-inside: avoid;
   -webkit-column-break-inside: avoid;
   page-break-inside: avoid;
 }
@@ -1471,6 +1503,38 @@ pre {
 }
 body.disclaimer-hidden { padding-bottom: 0; }
 
+.back-to-top {
+  position: fixed;
+  right: max(18px, calc((100vw - var(--shell-w)) / 2 + 18px));
+  bottom: 64px;
+  z-index: 85;
+  display: inline-grid;
+  place-items: center;
+  width: 42px;
+  height: 42px;
+  border: 1px solid var(--ink);
+  border-radius: 999px;
+  background: oklch(97% 0.018 86 / 0.88);
+  color: var(--ink);
+  cursor: pointer;
+  font: 600 20px / 1 var(--font-mono);
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(8px);
+  transition: opacity 180ms ease, transform 180ms ease, background-color 180ms ease, color 180ms ease;
+}
+.back-to-top.is-visible {
+  opacity: 1;
+  pointer-events: auto;
+  transform: translateY(0);
+}
+.back-to-top:hover,
+.back-to-top:focus-visible {
+  background: var(--ink);
+  color: var(--paper);
+  outline: none;
+}
+
 /* =============================================================
    Page-load entrance — subtle stagger on first row of cards
    ============================================================= */
@@ -1507,8 +1571,8 @@ body.disclaimer-hidden { padding-bottom: 0; }
    Responsive
    ============================================================= */
 @media (min-width: 1400px) {
-  .gallery,
   .grid { column-count: 4; }
+  .gallery { grid-template-columns: repeat(3, minmax(0, 1fr)); }
 }
 
 @media (max-width: 980px) {
@@ -1519,8 +1583,8 @@ body.disclaimer-hidden { padding-bottom: 0; }
   }
   .hero { grid-template-columns: 1fr; gap: 28px; }
   .stats { grid-template-columns: repeat(4, minmax(0, 1fr)); }
-  .gallery,
   .grid { column-count: 2; }
+  .gallery { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .lucky-draw { grid-template-columns: 1fr; height: auto; }
   .lucky-side { position: static; }
   .lucky-inline-draw { display: block; }
@@ -1537,8 +1601,8 @@ body.disclaimer-hidden { padding-bottom: 0; }
   .promo-strip,
   .search-row,
   .hero-detail { grid-template-columns: 1fr; }
-  .gallery,
   .grid { column-count: 1; }
+  .gallery { grid-template-columns: 1fr; }
   .stats { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .lucky-shell {
     width: min(100% - 16px, 1760px);
