@@ -18,6 +18,50 @@
   },
   "images": [
     {
+      "title": "GPT Image 2 monochrome cloud archivist editorial illustration",
+      "caption": "复用 Amira Zairi 在 X 分享的黑白极简 editorial 模板 prompt，将占位符实例化为一位穿大风衣、整理漂浮卡片的原创云端档案管理员插画。",
+      "path": "assets/images/302-gpt-image-2-monochrome-cloud-archivist-editorial-illustration.png",
+      "alt": "Minimal black-and-white editorial illustration of a young cloud archivist in a trench coat sorting floating note cards on a white background",
+      "width": 1024,
+      "height": 1536,
+      "createdAt": "2026-05-05 23:48:45",
+      "batch": "019deea0-d48d-7ff0-a744-b63c81caa1bd",
+      "tags": [
+        "x-prompt-redraw",
+        "gpt-image-2",
+        "monochrome-editorial",
+        "minimal-line-art",
+        "character-illustration",
+        "black-and-white",
+        "flat-design",
+        "social-workflow"
+      ],
+      "prompt": "A simple black-and-white illustration of a young cloud archivist in an oversized trench coat, carefully sorting floating note cards, with a curious expression, in a minimalist monochrome editorial app-illustration aesthetic, clean line art, flat monochrome design, simple shapes, subtle hand-drawn feel, minimal detail, expressive posture, clean white background, neat modern layout, soft playful character style. No logos, no text, no watermark, no brand references.",
+      "originalPrompt": "A simple black-and-white illustration of a [subject] in [outfit], [doing action], with a [facial expression] expression, in a Notion-style minimalist editorial aesthetic, clean line art, flat monochrome design, simple shapes, subtle hand-drawn feel, minimal detail, expressive posture, clean white background, neat modern layout, soft playful character style",
+      "generationPromptChange": "Filled the template placeholders with an original cloud archivist scene and replaced the real-brand phrase “Notion-style” with a generic minimalist monochrome editorial app-illustration aesthetic; added no-logo/no-text/no-brand constraints.",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "local_codex_revised_prompt",
+        "sourceNote": "Prompt extracted from a public X/Twitter post by Amira Zairi and reused with attribution at the user's request. The original prompt is a reusable template; the redraw instantiates placeholders with an original scene and removes the brand-specific style reference."
+      },
+      "promptSources": [
+        {
+          "title": "Notion Mono Editorial prompt template",
+          "url": "https://x.com/azed_ai/status/2051603007109054865?s=20",
+          "authorOrPublisher": "Amira Zairi / @azed_ai",
+          "license": "public social post; prompt reused with attribution at user request",
+          "accessedAt": "2026-05-05",
+          "usedAs": "original_prompt_source / author_credit / social_workflow_reference"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-05-05",
+        "reviewNote": "Template prompt was screened for rights and safety issues; the brand-specific style cue was generalized and the filled subject is an original non-branded character scene."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/019deea0-d48d-7ff0-a744-b63c81caa1bd/ig_0b0d19e3f3df7fcb0169fa111a05dc8195bd9936a5f2ce0cc9.png"
+    },
+    {
       "title": "GPT Image 2 plush pop teal cloud dragon collectible render",
       "caption": "复用 Amira Zairi 在 X 分享的 Plush Pop Render 模板 prompt，将占位符实例化为一只带珍珠光翅膀和星星背包的原创青绿色云朵小龙毛绒玩具渲染。",
       "path": "assets/images/301-gpt-image-2-plush-pop-teal-cloud-dragon-collectible-render.png",

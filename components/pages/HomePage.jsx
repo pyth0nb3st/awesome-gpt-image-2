@@ -70,6 +70,20 @@ const promoCopy = {
   },
 };
 
+function renderEditorialTitle(title) {
+  if (!title) return title;
+  const trimmed = title.trim();
+  const lastSpace = trimmed.lastIndexOf(" ");
+  if (lastSpace === -1) {
+    return <em>{trimmed}</em>;
+  }
+  return (
+    <>
+      {trimmed.slice(0, lastSpace)} <em>{trimmed.slice(lastSpace + 1)}</em>
+    </>
+  );
+}
+
 export default function HomePageContent({ locale = "en" }) {
   const t = getCopy(locale);
   const promos = promoCopy[locale] ?? promoCopy.en;
@@ -84,7 +98,7 @@ export default function HomePageContent({ locale = "en" }) {
         <header className="hero">
           <div>
             <span className="kicker">{t.kicker}</span>
-            <h1>{t.homeTitle}</h1>
+            <h1>{renderEditorialTitle(t.homeTitle)}</h1>
             <p className="summary">{t.homeDescription}</p>
             <nav className="hero-links" aria-label={t.projectLinks}>
               <a href={localizedPath("/prompts/", locale)}>{t.examples}</a>
