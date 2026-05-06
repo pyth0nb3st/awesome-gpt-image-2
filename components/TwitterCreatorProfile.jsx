@@ -1,6 +1,6 @@
 import { localizedCreatorUrl } from "../lib/gallery";
 
-export default function TwitterCreatorProfile({ creator, locale = "en" }) {
+export default function TwitterCreatorProfile({ creator, locale = "en", showLocalLink = true }) {
   if (!creator) return null;
 
   const initial = (creator.handle || creator.name || "?").replace(/^@/, "").slice(0, 1).toUpperCase();
@@ -19,7 +19,7 @@ export default function TwitterCreatorProfile({ creator, locale = "en" }) {
         <em>{countLabel}</em>
       </div>
       <div className="twitter-profile-actions">
-        <a href={localizedCreatorUrl(creator.slug, locale)}>{localLabel}</a>
+        {showLocalLink ? <a href={localizedCreatorUrl(creator.slug, locale)}>{localLabel}</a> : null}
         {creator.profileUrl ? (
           <a href={creator.profileUrl} target="_blank" rel="noreferrer">
             {xLabel}

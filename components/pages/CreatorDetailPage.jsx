@@ -2,7 +2,7 @@ import Footer from "../Footer";
 import { CardGrid } from "../GalleryCards";
 import SiteNav from "../SiteNav";
 import TwitterCreatorProfile from "../TwitterCreatorProfile";
-import { absoluteUrl, humanizeTag, tagEntrySet } from "../../lib/gallery";
+import { absoluteUrl, humanizeTag, localizedTagUrl, tagEntrySet } from "../../lib/gallery";
 import { getCopy, tagLabel } from "../../lib/i18n";
 
 export default function CreatorDetailPageContent({ creator, entries, locale = "en" }) {
@@ -46,7 +46,7 @@ export default function CreatorDetailPageContent({ creator, entries, locale = "e
         <p className="meta">{entries.length} credited examples</p>
         <h1 className="page-title">{title}</h1>
         <p className="lead">{description}</p>
-        <TwitterCreatorProfile creator={creator} locale={locale} />
+        <TwitterCreatorProfile creator={creator} locale={locale} showLocalLink={false} />
         {creator.profileUrl ? (
           <div className="twitter-timeline-shell">
             <a
@@ -63,7 +63,9 @@ export default function CreatorDetailPageContent({ creator, entries, locale = "e
         {tags.length > 0 ? (
           <ul className="tags">
             {tags.map((tag) => (
-              <li key={tag}>{tagLabel(tag, locale) || humanizeTag(tag)}</li>
+              <li key={tag}>
+                <a href={localizedTagUrl(tag, locale)}>{tagLabel(tag, locale) || humanizeTag(tag)}</a>
+              </li>
             ))}
           </ul>
         ) : null}
