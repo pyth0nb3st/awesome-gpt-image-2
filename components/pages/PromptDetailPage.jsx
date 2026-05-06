@@ -3,12 +3,15 @@ import CopyPromptButton from "../CopyPromptButton";
 import { CardGrid } from "../GalleryCards";
 import ImageModal from "../ImageModal";
 import SiteNav from "../SiteNav";
+import TwitterCreatorProfile from "../TwitterCreatorProfile";
 import {
   DRILL_URL,
   VIBEART_URL,
   absoluteUrl,
+  getCreatorBySource,
   imageAbsoluteUrl,
   imageUrl,
+  isSocialCreditUrl,
   localizedTagUrl,
   promptExcerpt,
   relatedFor,
@@ -16,15 +19,6 @@ import {
   tagEntrySet,
 } from "../../lib/gallery";
 import { getCopy, tagLabel } from "../../lib/i18n";
-
-const isSocialCreditUrl = (value) => {
-  try {
-    const hostname = new URL(value).hostname.replace(/^www\./, "");
-    return hostname === "x.com" || hostname === "twitter.com";
-  } catch {
-    return false;
-  }
-};
 
 const tweetCardCache = new Map();
 
@@ -69,6 +63,7 @@ export default async function PromptDetailPageContent({ entry, locale = "en" }) 
   const sources = await Promise.all(
     promptSources.map(async (source) => ({
       ...source,
+      creator: getCreatorBySource(source),
       tweetCardHtml: await fetchTweetCardHtml(source.url),
     })),
   );
@@ -179,6 +174,7 @@ export default async function PromptDetailPageContent({ entry, locale = "en" }) 
                   <p className="source-meta">
                     <strong>{source.authorOrPublisher}</strong>
                   </p>
+                  {source.creator ? <TwitterCreatorProfile creator={source.creator} locale={locale} /> : null}
                   <p className="source-meta">{source.usedAs}</p>
                   <p className="source-meta">
                     {t.sourceAccessedLabel(source.accessedAt)} · {source.license}

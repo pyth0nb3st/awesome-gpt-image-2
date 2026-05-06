@@ -1,4 +1,4 @@
-import { SITE_URL, absoluteUrl, galleryEntries, imageAbsoluteUrl, tagEntries, tagUrl, updatedDate } from "../lib/gallery";
+import { SITE_URL, absoluteUrl, creatorEntries, creatorUrl, galleryEntries, imageAbsoluteUrl, tagEntries, tagUrl, updatedDate } from "../lib/gallery";
 
 export const dynamic = "force-static";
 
@@ -35,6 +35,12 @@ export default function sitemap() {
       changeFrequency: "weekly",
       priority: 0.8,
     }),
+    withAlternates("creators/", "zh/creators/", {
+      url: absoluteUrl("creators/"),
+      lastModified: updatedDate,
+      changeFrequency: "weekly",
+      priority: 0.75,
+    }),
     withAlternates("lucky/", "zh/lucky/", {
       url: absoluteUrl("lucky/"),
       lastModified: updatedDate,
@@ -60,6 +66,12 @@ export default function sitemap() {
       lastModified: updatedDate,
       changeFrequency: "weekly",
       priority: 0.75,
+    }),
+    withAlternates("creators/", "zh/creators/", {
+      url: absoluteUrl("zh/creators/"),
+      lastModified: updatedDate,
+      changeFrequency: "weekly",
+      priority: 0.7,
     }),
     withAlternates("lucky/", "zh/lucky/", {
       url: absoluteUrl("zh/lucky/"),
@@ -112,5 +124,25 @@ export default function sitemap() {
     ];
   });
 
-  return [...basePages, ...promptPages, ...tagPages];
+  const creatorPages = creatorEntries.flatMap((creator) => {
+    const path = creatorUrl(creator.slug).replace(/^\//, "");
+    const zhPath = `zh/${path}`;
+
+    return [
+      withAlternates(path, zhPath, {
+        url: absoluteUrl(path),
+        lastModified: updatedDate,
+        changeFrequency: "monthly",
+        priority: 0.48,
+      }),
+      withAlternates(path, zhPath, {
+        url: absoluteUrl(zhPath),
+        lastModified: updatedDate,
+        changeFrequency: "monthly",
+        priority: 0.43,
+      }),
+    ];
+  });
+
+  return [...basePages, ...promptPages, ...tagPages, ...creatorPages];
 }

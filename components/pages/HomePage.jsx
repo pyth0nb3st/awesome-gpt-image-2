@@ -103,6 +103,7 @@ export default function HomePageContent({ locale = "en" }) {
             <nav className="hero-links" aria-label={t.projectLinks}>
               <a href={localizedPath("/prompts/", locale)}>{t.examples}</a>
               <a href={localizedPath("/tags/", locale)}>{t.topics}</a>
+              <a href={localizedPath("/creators/", locale)}>{t.creators}</a>
               <a href={localizedPath("/lucky/", locale)}>{t.lucky}</a>
               <a className="nav-partner" href={referralUrl(DRILL_URL, "hero_drill")}>Drill</a>
               <a className="nav-partner" href={referralUrl(VIBEART_URL, "hero_vibeart")}>VibeArt</a>
