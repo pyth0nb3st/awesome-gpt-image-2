@@ -2,7 +2,7 @@
 
 > Curated GPT Image 2 prompt examples for product mockups, UI concepts, typography, diagrams, games, educational visuals, and image-generation workflows.
 
-This repository tracks 287 generated examples. The README is generated from `gallery.json` and `readme.config.json`; the live site keeps full prompt text, source attribution, provenance notes, tags, and static detail pages.
+This repository tracks 288 generated examples. The README is generated from `gallery.json` and `readme.config.json`; the live site keeps full prompt text, source attribution, provenance notes, tags, and static detail pages.
 
 ## Contents
 
@@ -14,7 +14,7 @@ This repository tracks 287 generated examples. The README is generated from `gal
 
 ## Start Here
 
-- [Live gallery](https://gptimg2.best/) - Visual homepage for all 287 examples.
+- [Live gallery](https://gptimg2.best/) - Visual homepage for all 288 examples.
 - [All prompts](https://gptimg2.best/prompts/) - Complete prompt index with images and prompt text.
 - [Tags](https://gptimg2.best/tags/) - Browse by topic, format, and workflow pattern.
 - [Lucky prompt](https://gptimg2.best/lucky/) - Open a random GPT Image 2 example.
@@ -22,6 +22,7 @@ This repository tracks 287 generated examples. The README is generated from `gal
 
 ## Full List
 
+- [GPT Image 2 mantis shrimp encyclopedia infographic prompt](https://gptimg2.best/prompts/306-gpt-image-2-mantis-shrimp-encyclopedia-infographic-prompt/) - Use Ciri’s high-performing GPT Image 2 prompt to create a premium encyclopedia-style educational infographic about the peacock mantis shrimp, with anatomy zoom panels, quick stats...<br>Topics: X Prompt Ingest, Source Image Asset, Social Workflow.<br><img src="https://pub-d133211bf65a4d3daa7ab996ea945303.r2.dev/thumbs/306-gpt-image-2-mantis-shrimp-encyclopedia-infographic-prompt.jpg" width="180" alt="Four mantis shrimp encyclopedia-style infographic examples from an attributed GPT Image 2 X prompt share">
 - [GPT Image 2 encyclopedia-style educational infographic prompt](https://gptimg2.best/prompts/305-gpt-image-2-encyclopedia-style-educational-infographic-prompt/) - Use Oogie’s high-performing GPT Image 2 prompt to create vertical encyclopedia-style educational infographic cards with modular panels, zoomed-in details, rating summaries, and ha...<br>Topics: X Prompt Ingest, Source Image Asset, Social Workflow.<br><img src="https://pub-d133211bf65a4d3daa7ab996ea945303.r2.dev/thumbs/305-gpt-image-2-encyclopedia-style-educational-infographic-prompt.jpg" width="180" alt="Four encyclopedia-style educational infographic examples from an attributed GPT Image 2 X prompt share">
 - [GPT Image 2 realistic white papercraft illustration transform prompt](https://gptimg2.best/prompts/304-gpt-image-2-realistic-white-papercraft-illustration-transform-pr/) - Use のとろ’s GPT Image prompt to transform an illustration into a precise realistic white papercraft artwork with layered cardboard cuts, subtle folds, paper fiber texture, and natur...<br>Topics: X Prompt Ingest, Source Image Asset, Social Workflow.<br><img src="https://pub-d133211bf65a4d3daa7ab996ea945303.r2.dev/thumbs/304-gpt-image-2-realistic-white-papercraft-illustration-transform-pr.jpg" width="180" alt="Four realistic white papercraft illustration transformation examples from an attributed X prompt share">
 - [GPT Image 2 cute 3D kneaded clay icon prompt](https://gptimg2.best/prompts/303-gpt-image-2-cute-3d-kneaded-clay-icon-prompt/) - Use Amira Zairi’s X prompt to make cute matte 3D kneaded-clay icon characters with rounded proportions, vibrant color accents, a clean white background, and soft ambient lighting.<br>Topics: X Prompt Ingest, Source Image Asset, Social Workflow.<br><img src="https://pub-d133211bf65a4d3daa7ab996ea945303.r2.dev/thumbs/303-gpt-image-2-cute-3d-kneaded-clay-icon-prompt.jpg" width="180" alt="Four cute 3D kneaded clay icon-style character examples from an attributed X prompt share">
@@ -312,21 +313,21 @@ This repository tracks 287 generated examples. The README is generated from `gal
 
 ## Popular Topics
 
-- [Social Workflow](https://gptimg2.best/tags/social-workflow/) - 27 examples.
-- [X Prompt Redraw](https://gptimg2.best/tags/x-prompt-redraw/) - 27 examples.
+- [Social Workflow](https://gptimg2.best/tags/social-workflow/) - 28 examples.
+- [X Prompt Redraw](https://gptimg2.best/tags/x-prompt-redraw/) - 28 examples.
 - [Derived Play](https://gptimg2.best/tags/derived-play/) - 24 examples.
 - [Use Case](https://gptimg2.best/tags/use-case/) - 22 examples.
-- [Education](https://gptimg2.best/tags/education/) - 4 examples.
+- [Education](https://gptimg2.best/tags/education/) - 5 examples.
+- [Infographic](https://gptimg2.best/tags/infographic/) - 4 examples.
+- [Source Image Asset](https://gptimg2.best/tags/source-image-asset/) - 4 examples.
 - [Source Seal](https://gptimg2.best/tags/source-seal/) - 4 examples.
 - [Ui Mockup](https://gptimg2.best/tags/ui-mockup/) - 4 examples.
 - [Visual Qa](https://gptimg2.best/tags/visual-qa/) - 4 examples.
 - [White Background](https://gptimg2.best/tags/white-background/) - 4 examples.
+- [X Prompt Ingest](https://gptimg2.best/tags/x-prompt-ingest/) - 4 examples.
 - [Alt Text](https://gptimg2.best/tags/alt-text/) - 3 examples.
 - [Crop Gate](https://gptimg2.best/tags/crop-gate/) - 3 examples.
-- [Infographic](https://gptimg2.best/tags/infographic/) - 3 examples.
 - [Poster](https://gptimg2.best/tags/poster/) - 3 examples.
-- [Source Image Asset](https://gptimg2.best/tags/source-image-asset/) - 3 examples.
-- [X Prompt Ingest](https://gptimg2.best/tags/x-prompt-ingest/) - 3 examples.
 - [3d Render](https://gptimg2.best/tags/3d-render/) - 2 examples.
 - [Accessibility](https://gptimg2.best/tags/accessibility/) - 2 examples.
 - [Accessibility Check](https://gptimg2.best/tags/accessibility-check/) - 2 examples.
