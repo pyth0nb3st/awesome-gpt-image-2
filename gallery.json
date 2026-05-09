@@ -40,14 +40,14 @@
         "pastel lifestyle",
         "influencer aesthetic"
       ],
-      "prompt": "一只手中握着一张3D社交媒体个人资料卡，卡片中间方形镂空，一个女孩随意地坐在卡片镂空的边缘，温暖的米色和柔和的粉彩美学背景，逼真的深度和阴影，电影般的柔和光线，闪亮光滑的纹理，原创生活方式社交App风格UI，漂浮的互动图标（点赞、评论、分享）带有发光的霓虹效果，闪光和光晕，背景中温馨的美学布置包括书籍、花瓶里的花和一台复古相机，梦幻氛围，原创半写实3D动画质感与高端生活方式视觉融合，超高品质，4K，居中构图，高端影响者美学。",
-      "originalPrompt": "一只手中握着一张3D社交媒体个人资料卡，卡片中间方形镂空，一个女孩随意地坐在卡片镂空的边缘，温暖的米色和柔和的粉彩美学背景，逼真的深度和阴影，电影般的柔和光线，闪亮光滑的纹理，原创生活方式社交App风格UI，漂浮的互动图标（点赞、评论、分享）带有发光的霓虹效果，闪光和光晕，背景中温馨的美学布置包括书籍、花瓶里的花和一台复古相机，梦幻氛围，原创半写实3D动画质感与高端生活方式视觉融合，超高品质，4K，居中构图，高端影响者美学。",
-      "generationPromptChange": "Skipped generation: prompt and source image were both extracted from the X/Twitter post, so the credited social image was ingested directly.",
+      "prompt": "一只手中握着一张3D小红书个人资料卡，卡片中间方形镂空，一个女孩随意地坐在卡片镂空的边缘，温暖的米色和柔和的粉彩美学背景，逼真的深度和阴影，电影般的柔和光线，闪亮光滑的纹理，小红书风格的UI，漂浮的互动图标（点赞、评论、分享）带有发光的霓虹效果，闪光和光晕，背景中温馨的美学布置包括书籍、花瓶里的花和一台复古相机，梦幻氛围，Pixar风格+半现实主义融合，超高品质，4K，居中构图，高端影响者美学",
+      "originalPrompt": "一只手中握着一张3D小红书个人资料卡，卡片中间方形镂空，一个女孩随意地坐在卡片镂空的边缘，温暖的米色和柔和的粉彩美学背景，逼真的深度和阴影，电影般的柔和光线，闪亮光滑的纹理，小红书风格的UI，漂浮的互动图标（点赞、评论、分享）带有发光的霓虹效果，闪光和光晕，背景中温馨的美学布置包括书籍、花瓶里的花和一台复古相机，梦幻氛围，Pixar风格+半现实主义融合，超高品质，4K，居中构图，高端影响者美学",
+      "generationPromptChange": "No generation or prompt rewrite: prompt and source image were extracted from the attributed X/Twitter post and ingested directly at user request.",
       "sourceImageUrl": "https://pbs.twimg.com/media/HHtPAdJbQAAEfeI.jpg?name=orig",
       "provenance": {
         "status": "external_attributed",
         "origin": "x_post_image_ingest",
-        "sourceNote": "Prompt and image were extracted from a public X/Twitter post and reused with attribution at the user's request. No new image was generated for this record."
+        "sourceNote": "Prompt and image were extracted from a public X/Twitter post and reused with attribution at the user's request. No new image was generated and the original prompt text was preserved."
       },
       "promptSources": [
         {
@@ -62,7 +62,7 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-05-09",
-        "reviewNote": "Prompt and attached social image should be screened for rights and safety before publication; no additional generation was performed."
+        "reviewNote": "Attributed source-image ingest. Original prompt text is preserved because the record credits the creator and source post; no additional generation was performed."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/x-ingest/x-ingest-20260509T080157-0b5e6f553b/gpt-image-2-3d-social-profile-card-diorama.jpg"
     },
@@ -89,14 +89,14 @@
         "energy particles",
         "motion blur"
       ],
-      "prompt": "超高细节二次元热血漫画风原创角色海报，虚构橙发少年战士正面半身特写，橙色炸毛短发，琥珀色眼睛，佩戴黑色圆框复古墨镜，冷峻严肃表情，正中央对称构图，镜头直视观众，强烈压迫感。\n\n眼镜镜片中倒映大量黑白漫画分镜与原创动作画面，背景也由密集的虚构漫画页拼贴组成，形成“角色记忆 / 名场面回顾”的视觉效果。前景漂浮多条高速运动的漫画分镜条带，带有动态模糊与景深虚化效果，穿插画面上下，营造速度感与空间层次。\n\n画面中散落蓝色能量粒子 / 荧光碎片，形成冷暖撞色（橙发 vs 蓝色粒子）。整体采用原创热血少年漫画海报美学，融合现代潮流视觉设计与高级动漫商业视觉。\n\nanime key visual, original shonen-inspired manga collage poster, cinematic anime lighting, reflective glasses, manga panels reflection, dynamic motion blur, orange spiky hair, intense stare, ultra detailed anime illustration, layered composition, high contrast shading, cel shading, glowing blue particles, dramatic close-up portrait, symmetrical composition, manga montage background, Japanese comic-inspired aesthetic, premium anime poster, no existing copyrighted characters, no specific franchise style, no living artist imitation.",
-      "originalPrompt": "超高细节二次元热血漫画风原创角色海报，虚构橙发少年战士正面半身特写，橙色炸毛短发，琥珀色眼睛，佩戴黑色圆框复古墨镜，冷峻严肃表情，正中央对称构图，镜头直视观众，强烈压迫感。\n\n眼镜镜片中倒映大量黑白漫画分镜与原创动作画面，背景也由密集的虚构漫画页拼贴组成，形成“角色记忆 / 名场面回顾”的视觉效果。前景漂浮多条高速运动的漫画分镜条带，带有动态模糊与景深虚化效果，穿插画面上下，营造速度感与空间层次。\n\n画面中散落蓝色能量粒子 / 荧光碎片，形成冷暖撞色（橙发 vs 蓝色粒子）。整体采用原创热血少年漫画海报美学，融合现代潮流视觉设计与高级动漫商业视觉。\n\nanime key visual, original shonen-inspired manga collage poster, cinematic anime lighting, reflective glasses, manga panels reflection, dynamic motion blur, orange spiky hair, intense stare, ultra detailed anime illustration, layered composition, high contrast shading, cel shading, glowing blue particles, dramatic close-up portrait, symmetrical composition, manga montage background, Japanese comic-inspired aesthetic, premium anime poster, no existing copyrighted characters, no specific franchise style, no living artist imitation.",
-      "generationPromptChange": "Skipped generation: prompt and source image were both extracted from the X/Twitter post, so the credited social image was ingested directly.",
+      "prompt": "🤣小时候看《Bleach》：\n“卍解！！！”\n长大后玩 AI：\n“镜片里倒映漫画分镜 + 前景动态条漫 + 蓝色灵压粒子 + 日漫拼贴构图 + 电影级光影 + 超近景压迫感……”\n\n以前以为久保带人是在画漫画。\n现在发现他其实是在提前给 GPT-Image-2 写提示词。\n这次测试我最上头的点不是“还原角色”，\n而是它终于能理解那种——\n“潮流视觉海报感 + 漫画叙事层次 + 动态镜头语言” 的混合审美。\n\nAI 现在已经不是“生成一张动漫图”了。\n而是在帮我们做：\n「不存在的动漫宇宙视觉总监」。\n顺便说一句——\n那个戴斗笠戴墨镜的版本，真的很像：\n“如果京乐春水开始做潮流品牌主理人。” 😂\n\n♥️提示词在这里，麻烦给个赞！\n超高细节二次元热血漫画风角色海报，少年死神角色正面半身特写，橙色炸毛短发，琥珀色眼睛，佩戴黑色圆框复古墨镜，冷峻严肃表情，正中央对称构图，镜头直视观众，强烈压迫感。\n\n眼镜镜片中倒映大量黑白漫画分镜与角色画面，背景也由密集的日漫漫画页拼贴组成，形成“角色记忆 / 名场面回顾”的视觉效果。前景漂浮多条高速运动的漫画分镜条带，带有动态模糊与景深虚化效果，穿插画面上下，营造速度感与空间层次。\n\n画面中散落蓝色灵压粒子 / 荧光能量碎片，形成冷暖撞色（橙发 vs 蓝色粒子）。整体采用《BLEACH》式热血少年漫画美学，融合现代潮流海报设计与高级动漫商业视觉。\n\nanime key visual, BLEACH style, manga collage poster, cinematic anime lighting, reflective glasses, manga panels reflection, dynamic motion blur, orange spiky hair, intense stare, ultra detailed anime illustration, shonen jump aesthetic, layered composition, high contrast shading, cel shading, glowing blue particles, dramatic close-up portrait, symmetrical composition, manga montage background, Japanese comic aesthetic, premium anime poster",
+      "originalPrompt": "🤣小时候看《Bleach》：\n“卍解！！！”\n长大后玩 AI：\n“镜片里倒映漫画分镜 + 前景动态条漫 + 蓝色灵压粒子 + 日漫拼贴构图 + 电影级光影 + 超近景压迫感……”\n\n以前以为久保带人是在画漫画。\n现在发现他其实是在提前给 GPT-Image-2 写提示词。\n这次测试我最上头的点不是“还原角色”，\n而是它终于能理解那种——\n“潮流视觉海报感 + 漫画叙事层次 + 动态镜头语言” 的混合审美。\n\nAI 现在已经不是“生成一张动漫图”了。\n而是在帮我们做：\n「不存在的动漫宇宙视觉总监」。\n顺便说一句——\n那个戴斗笠戴墨镜的版本，真的很像：\n“如果京乐春水开始做潮流品牌主理人。” 😂\n\n♥️提示词在这里，麻烦给个赞！\n超高细节二次元热血漫画风角色海报，少年死神角色正面半身特写，橙色炸毛短发，琥珀色眼睛，佩戴黑色圆框复古墨镜，冷峻严肃表情，正中央对称构图，镜头直视观众，强烈压迫感。\n\n眼镜镜片中倒映大量黑白漫画分镜与角色画面，背景也由密集的日漫漫画页拼贴组成，形成“角色记忆 / 名场面回顾”的视觉效果。前景漂浮多条高速运动的漫画分镜条带，带有动态模糊与景深虚化效果，穿插画面上下，营造速度感与空间层次。\n\n画面中散落蓝色灵压粒子 / 荧光能量碎片，形成冷暖撞色（橙发 vs 蓝色粒子）。整体采用《BLEACH》式热血少年漫画美学，融合现代潮流海报设计与高级动漫商业视觉。\n\nanime key visual, BLEACH style, manga collage poster, cinematic anime lighting, reflective glasses, manga panels reflection, dynamic motion blur, orange spiky hair, intense stare, ultra detailed anime illustration, shonen jump aesthetic, layered composition, high contrast shading, cel shading, glowing blue particles, dramatic close-up portrait, symmetrical composition, manga montage background, Japanese comic aesthetic, premium anime poster",
+      "generationPromptChange": "No generation or prompt rewrite: prompt and source image were extracted from the attributed X/Twitter post and ingested directly at user request.",
       "sourceImageUrl": "https://pbs.twimg.com/media/HH2o1f4aMAA4QeZ.jpg?name=orig",
       "provenance": {
         "status": "external_attributed",
         "origin": "x_post_image_ingest",
-        "sourceNote": "Prompt and image were extracted from a public X/Twitter post and reused with attribution at the user's request. No new image was generated for this record."
+        "sourceNote": "Prompt and image were extracted from a public X/Twitter post and reused with attribution at the user's request. No new image was generated and the original prompt text was preserved."
       },
       "promptSources": [
         {
@@ -111,7 +111,7 @@
       "contentSafety": {
         "status": "screened",
         "checkedAt": "2026-05-09",
-        "reviewNote": "Prompt and attached social image should be screened for rights and safety before publication; no additional generation was performed."
+        "reviewNote": "Attributed source-image ingest. Original prompt text is preserved because the record credits the creator and source post; no additional generation was performed."
       },
       "localSourcePath": "/Users/xuyanyue/.codex/generated_images/x-ingest/x-ingest-20260509T075054-9ae1c996fb/gpt-image-2-shonen-manga-collage-poster.jpg"
     },
