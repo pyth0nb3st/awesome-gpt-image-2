@@ -18,6 +18,55 @@
   },
   "images": [
     {
+      "title": "GPT Image 2 3D Social Profile Card Diorama",
+      "caption": "A safely generalized GPT Image 2 prompt for a hand-held 3D social profile card diorama with a girl seated in the cutout, pastel lifestyle styling, floating interaction icons, cinematic soft light, and polished influencer aesthetics.",
+      "path": "assets/images/314-gpt-image-2-3d-social-profile-card-diorama.webp",
+      "alt": "GPT Image 2 3D Social Profile Card Diorama",
+      "width": 1086,
+      "height": 1448,
+      "createdAt": "2026-05-09 08:01:58",
+      "batch": "x-ingest-20260509T080157-0b5e6f553b",
+      "tags": [
+        "x-prompt-ingest",
+        "gpt-image-2",
+        "source-image-asset",
+        "social-workflow",
+        "gpt image 2",
+        "x prompt ingest",
+        "3d social card",
+        "profile card",
+        "diorama",
+        "social ui",
+        "pastel lifestyle",
+        "influencer aesthetic"
+      ],
+      "prompt": "一只手中握着一张3D社交媒体个人资料卡，卡片中间方形镂空，一个女孩随意地坐在卡片镂空的边缘，温暖的米色和柔和的粉彩美学背景，逼真的深度和阴影，电影般的柔和光线，闪亮光滑的纹理，原创生活方式社交App风格UI，漂浮的互动图标（点赞、评论、分享）带有发光的霓虹效果，闪光和光晕，背景中温馨的美学布置包括书籍、花瓶里的花和一台复古相机，梦幻氛围，原创半写实3D动画质感与高端生活方式视觉融合，超高品质，4K，居中构图，高端影响者美学。",
+      "originalPrompt": "一只手中握着一张3D社交媒体个人资料卡，卡片中间方形镂空，一个女孩随意地坐在卡片镂空的边缘，温暖的米色和柔和的粉彩美学背景，逼真的深度和阴影，电影般的柔和光线，闪亮光滑的纹理，原创生活方式社交App风格UI，漂浮的互动图标（点赞、评论、分享）带有发光的霓虹效果，闪光和光晕，背景中温馨的美学布置包括书籍、花瓶里的花和一台复古相机，梦幻氛围，原创半写实3D动画质感与高端生活方式视觉融合，超高品质，4K，居中构图，高端影响者美学。",
+      "generationPromptChange": "Skipped generation: prompt and source image were both extracted from the X/Twitter post, so the credited social image was ingested directly.",
+      "sourceImageUrl": "https://pbs.twimg.com/media/HHtPAdJbQAAEfeI.jpg?name=orig",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "x_post_image_ingest",
+        "sourceNote": "Prompt and image were extracted from a public X/Twitter post and reused with attribution at the user's request. No new image was generated for this record."
+      },
+      "promptSources": [
+        {
+          "title": "GPT Image 2 3D Social Profile Card Diorama source prompt and image",
+          "url": "https://x.com/MrGafish/status/2052323461268467860",
+          "authorOrPublisher": "Mr Gafish / @MrGafish",
+          "license": "public social post; prompt and attached image reused with attribution at user request",
+          "accessedAt": "2026-05-09",
+          "usedAs": "original_prompt_source / source_image_asset / author_credit / social_workflow_reference"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-05-09",
+        "reviewNote": "Prompt and attached social image should be screened for rights and safety before publication; no additional generation was performed."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/x-ingest/x-ingest-20260509T080157-0b5e6f553b/gpt-image-2-3d-social-profile-card-diorama.jpg"
+    },
+    {
       "title": "GPT Image 2 Shonen Manga Collage Poster",
       "caption": "A safely generalized GPT Image 2 prompt for an original shonen-inspired manga collage poster with reflective glasses, layered comic panels, blue energy particles, motion-blurred foreground strips, and cinematic close-up pressure.",
       "path": "assets/images/313-gpt-image-2-shonen-manga-collage-poster.webp",
