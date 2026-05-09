@@ -18,6 +18,55 @@
   },
   "images": [
     {
+      "title": "GPT Image 2 Shonen Manga Collage Poster",
+      "caption": "A safely generalized GPT Image 2 prompt for an original shonen-inspired manga collage poster with reflective glasses, layered comic panels, blue energy particles, motion-blurred foreground strips, and cinematic close-up pressure.",
+      "path": "assets/images/313-gpt-image-2-shonen-manga-collage-poster.webp",
+      "alt": "GPT Image 2 Shonen Manga Collage Poster",
+      "width": 941,
+      "height": 1672,
+      "createdAt": "2026-05-09 07:50:56",
+      "batch": "x-ingest-20260509T075054-9ae1c996fb",
+      "tags": [
+        "x-prompt-ingest",
+        "gpt-image-2",
+        "source-image-asset",
+        "social-workflow",
+        "gpt image 2",
+        "x prompt ingest",
+        "shonen manga",
+        "anime poster",
+        "manga collage",
+        "reflective glasses",
+        "energy particles",
+        "motion blur"
+      ],
+      "prompt": "超高细节二次元热血漫画风原创角色海报，虚构橙发少年战士正面半身特写，橙色炸毛短发，琥珀色眼睛，佩戴黑色圆框复古墨镜，冷峻严肃表情，正中央对称构图，镜头直视观众，强烈压迫感。\n\n眼镜镜片中倒映大量黑白漫画分镜与原创动作画面，背景也由密集的虚构漫画页拼贴组成，形成“角色记忆 / 名场面回顾”的视觉效果。前景漂浮多条高速运动的漫画分镜条带，带有动态模糊与景深虚化效果，穿插画面上下，营造速度感与空间层次。\n\n画面中散落蓝色能量粒子 / 荧光碎片，形成冷暖撞色（橙发 vs 蓝色粒子）。整体采用原创热血少年漫画海报美学，融合现代潮流视觉设计与高级动漫商业视觉。\n\nanime key visual, original shonen-inspired manga collage poster, cinematic anime lighting, reflective glasses, manga panels reflection, dynamic motion blur, orange spiky hair, intense stare, ultra detailed anime illustration, layered composition, high contrast shading, cel shading, glowing blue particles, dramatic close-up portrait, symmetrical composition, manga montage background, Japanese comic-inspired aesthetic, premium anime poster, no existing copyrighted characters, no specific franchise style, no living artist imitation.",
+      "originalPrompt": "超高细节二次元热血漫画风原创角色海报，虚构橙发少年战士正面半身特写，橙色炸毛短发，琥珀色眼睛，佩戴黑色圆框复古墨镜，冷峻严肃表情，正中央对称构图，镜头直视观众，强烈压迫感。\n\n眼镜镜片中倒映大量黑白漫画分镜与原创动作画面，背景也由密集的虚构漫画页拼贴组成，形成“角色记忆 / 名场面回顾”的视觉效果。前景漂浮多条高速运动的漫画分镜条带，带有动态模糊与景深虚化效果，穿插画面上下，营造速度感与空间层次。\n\n画面中散落蓝色能量粒子 / 荧光碎片，形成冷暖撞色（橙发 vs 蓝色粒子）。整体采用原创热血少年漫画海报美学，融合现代潮流视觉设计与高级动漫商业视觉。\n\nanime key visual, original shonen-inspired manga collage poster, cinematic anime lighting, reflective glasses, manga panels reflection, dynamic motion blur, orange spiky hair, intense stare, ultra detailed anime illustration, layered composition, high contrast shading, cel shading, glowing blue particles, dramatic close-up portrait, symmetrical composition, manga montage background, Japanese comic-inspired aesthetic, premium anime poster, no existing copyrighted characters, no specific franchise style, no living artist imitation.",
+      "generationPromptChange": "Skipped generation: prompt and source image were both extracted from the X/Twitter post, so the credited social image was ingested directly.",
+      "sourceImageUrl": "https://pbs.twimg.com/media/HH2o1f4aMAA4QeZ.jpg?name=orig",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "x_post_image_ingest",
+        "sourceNote": "Prompt and image were extracted from a public X/Twitter post and reused with attribution at the user's request. No new image was generated for this record."
+      },
+      "promptSources": [
+        {
+          "title": "GPT Image 2 Shonen Manga Collage Poster source prompt and image",
+          "url": "https://x.com/ponyodong/status/2052983036724355468",
+          "authorOrPublisher": "波妞PONYO / @ponyodong",
+          "license": "public social post; prompt and attached image reused with attribution at user request",
+          "accessedAt": "2026-05-09",
+          "usedAs": "original_prompt_source / source_image_asset / author_credit / social_workflow_reference"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-05-09",
+        "reviewNote": "Prompt and attached social image should be screened for rights and safety before publication; no additional generation was performed."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/x-ingest/x-ingest-20260509T075054-9ae1c996fb/gpt-image-2-shonen-manga-collage-poster.jpg"
+    },
+    {
       "title": "GPT Image 2 Social Media Screen Breakout Poster",
       "caption": "A GPT Image 2 prompt for a cinematic luxury commercial poster where a stylized figure bursts out of a smartphone interface with shattered glass, 3D depth, UI graphics, and orange-gold advertising energy.",
       "path": "assets/images/311-gpt-image-2-social-media-screen-breakout-poster.jpg",
