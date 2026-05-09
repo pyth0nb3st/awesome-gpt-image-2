@@ -18,6 +18,101 @@
   },
   "images": [
     {
+      "title": "GPT Image 2 Social Media Screen Breakout Poster",
+      "caption": "A GPT Image 2 prompt for a cinematic luxury commercial poster where a stylized figure bursts out of a smartphone interface with shattered glass, 3D depth, UI graphics, and orange-gold advertising energy.",
+      "path": "assets/images/311-gpt-image-2-social-media-screen-breakout-poster.jpg",
+      "alt": "GPT Image 2 Social Media Screen Breakout Poster",
+      "width": 1086,
+      "height": 1448,
+      "createdAt": "2026-05-09 03:03:26",
+      "batch": "x-ingest-20260509T030325-9cec5462de",
+      "tags": [
+        "x-prompt-ingest",
+        "gpt-image-2",
+        "source-image-asset",
+        "social-workflow",
+        "gpt image 2",
+        "x prompt ingest",
+        "social media poster",
+        "commercial advertising",
+        "3d depth",
+        "screen breakout",
+        "orange gold"
+      ],
+      "prompt": "动态的豪华商业广告海报，特色是超现实3D渲染的充满活力的年轻女性，以上传的女性面部作为参考，穿着高级亮橙色设计师服装、豪华配饰以及时尚的金色墨镜，自信地从一个巨大的金色智能手机屏幕中爆发出色。她的姿势有力且时尚，一只运动鞋通过强烈的强制透视戏剧性地穿过数字显示屏，踏入现实。\n\n构图在前台强调她白色豪华运动鞋，带有纹理口香糖鞋底，通过电影般的广角镜头失真和浅景深增强。漂浮的闪亮3D社交媒体图标、金色几何元素和豪华品牌图形环绕着她，营造出高端影响者营销美学。\n\n明亮的摄影棚灯光营造出充满活力的优质促销氛围，金属金色手机边缘的丰富反射与哑光织物质地形成对比。主导的橙色、白色和金色调色板传递出超现代豪华X / Twitter 广告氛围。干净的白色背景上带有大胆的编辑排版、优质软件品牌元素、优雅的UI图形、漂浮的互动图标以及时尚的二维码区域。\n\n超现实8K品质、电影般的阴影、精致的商业艺术指导、豪华女性能量、时尚营销美学、现代社交媒体品牌、闪亮反射以及高端数字广告风格。\n\n宽高比：3:4。",
+      "originalPrompt": "动态的豪华商业广告海报，特色是超现实3D渲染的充满活力的年轻女性，以上传的女性面部作为参考，穿着高级亮橙色设计师服装、豪华配饰以及时尚的金色墨镜，自信地从一个巨大的金色智能手机屏幕中爆发出色。她的姿势有力且时尚，一只运动鞋通过强烈的强制透视戏剧性地穿过数字显示屏，踏入现实。\n\n构图在前台强调她白色豪华运动鞋，带有纹理口香糖鞋底，通过电影般的广角镜头失真和浅景深增强。漂浮的闪亮3D社交媒体图标、金色几何元素和豪华品牌图形环绕着她，营造出高端影响者营销美学。\n\n明亮的摄影棚灯光营造出充满活力的优质促销氛围，金属金色手机边缘的丰富反射与哑光织物质地形成对比。主导的橙色、白色和金色调色板传递出超现代豪华X / Twitter 广告氛围。干净的白色背景上带有大胆的编辑排版、优质软件品牌元素、优雅的UI图形、漂浮的互动图标以及时尚的二维码区域。\n\n超现实8K品质、电影般的阴影、精致的商业艺术指导、豪华女性能量、时尚营销美学、现代社交媒体品牌、闪亮反射以及高端数字广告风格。\n\n宽高比：3:4。",
+      "generationPromptChange": "Skipped generation: prompt and source image were both extracted from the X/Twitter post, so the credited social image was ingested directly.",
+      "sourceImageUrl": "https://pbs.twimg.com/media/HHxiwtoaEAA6iRI.jpg?name=orig",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "x_post_image_ingest",
+        "sourceNote": "Prompt and image were extracted from a public X/Twitter post and reused with attribution at the user's request. No new image was generated for this record."
+      },
+      "promptSources": [
+        {
+          "title": "GPT Image 2 Social Media Screen Breakout Poster source prompt and image",
+          "url": "https://x.com/you1873118/status/2052624395932455061",
+          "authorOrPublisher": "serein / @you1873118",
+          "license": "public social post; prompt and attached image reused with attribution at user request",
+          "accessedAt": "2026-05-09",
+          "usedAs": "original_prompt_source / source_image_asset / author_credit / social_workflow_reference"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-05-09",
+        "reviewNote": "Prompt and attached social image should be screened for rights and safety before publication; no additional generation was performed."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/x-ingest/x-ingest-20260509T030325-9cec5462de/gpt-image-2-social-media-screen-breakout-poster.jpg"
+    },
+    {
+      "title": "GPT Image 2 Trending Anime Art Style Redraw",
+      "caption": "A GPT Image 2 prompt for transforming an uploaded subject into a lively, comedic anime-style scene with confident line-work, flat cel shading, saturated colors, and playful perspective distortion.",
+      "path": "assets/images/312-gpt-image-2-trending-anime-art-style-redraw.jpg",
+      "alt": "GPT Image 2 Trending Anime Art Style Redraw",
+      "width": 1086,
+      "height": 1448,
+      "createdAt": "2026-05-09 03:03:25",
+      "batch": "x-ingest-20260509T030323-a17fe99589",
+      "tags": [
+        "x-prompt-ingest",
+        "gpt-image-2",
+        "source-image-asset",
+        "social-workflow",
+        "gpt image 2",
+        "x prompt ingest",
+        "anime art style",
+        "cel shading",
+        "stylized character",
+        "playful perspective"
+      ],
+      "prompt": "Create a trending anime art style image from the uploaded subject. Use confident line-work with slight variation and minimal cel shading using flat shadow shapes. Use bright, saturated colors and clean graphic lighting. The style is defined by exaggerated, cartoonish character proportions featuring highly expressive, simplistic facial features that allow for immense emotional range, with highly varied stretched anatomy.Transform the environment into a slightly warped space with playful perspective distortion and simplified objects. Composition and tone should be energetic, lively, and comedic in a fully stylized, non-realistic world",
+      "originalPrompt": "Create a trending anime art style image from the uploaded subject. Use confident line-work with slight variation and minimal cel shading using flat shadow shapes. Use bright, saturated colors and clean graphic lighting. The style is defined by exaggerated, cartoonish character proportions featuring highly expressive, simplistic facial features that allow for immense emotional range, with highly varied stretched anatomy.Transform the environment into a slightly warped space with playful perspective distortion and simplified objects. Composition and tone should be energetic, lively, and comedic in a fully stylized, non-realistic world",
+      "generationPromptChange": "Skipped generation: prompt and source image were both extracted from the X/Twitter post, so the credited social image was ingested directly.",
+      "sourceImageUrl": "https://pbs.twimg.com/media/HHzkhkVboAAeLeF.jpg?name=orig",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "x_post_image_ingest",
+        "sourceNote": "Prompt and image were extracted from a public X/Twitter post and reused with attribution at the user's request. No new image was generated for this record."
+      },
+      "promptSources": [
+        {
+          "title": "GPT Image 2 Trending Anime Art Style Redraw source prompt and image",
+          "url": "https://x.com/Zyrellix/status/2052766810500649197",
+          "authorOrPublisher": "Zyrella / @Zyrellix",
+          "license": "public social post; prompt and attached image reused with attribution at user request",
+          "accessedAt": "2026-05-09",
+          "usedAs": "original_prompt_source / source_image_asset / author_credit / social_workflow_reference"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-05-09",
+        "reviewNote": "Prompt and attached social image should be screened for rights and safety before publication; no additional generation was performed."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/x-ingest/x-ingest-20260509T030323-a17fe99589/gpt-image-2-trending-anime-art-style-redraw.jpg"
+    },
+    {
       "title": "GPT Image 2 Y2K Pop-Street Editorial Collage",
       "caption": "A bold Y2K pop-street editorial collage prompt with orange poster energy, graffiti typography, filmstrip panels, and idol-inspired fashion styling.",
       "path": "assets/images/310-gpt-image-2-y2k-pop-street-editorial-collage.jpg",
