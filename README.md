@@ -2,7 +2,7 @@
 
 > Curated GPT Image 2 prompt examples for product mockups, UI concepts, typography, diagrams, games, educational visuals, and image-generation workflows.
 
-This repository tracks 296 generated examples. The README is generated from `gallery.json` and `readme.config.json`; the live site keeps full prompt text, source attribution, provenance notes, tags, and static detail pages.
+This repository tracks 298 generated examples. The README is generated from `gallery.json` and `readme.config.json`; the live site keeps full prompt text, source attribution, provenance notes, tags, and static detail pages.
 
 ## Contents
 
@@ -14,7 +14,7 @@ This repository tracks 296 generated examples. The README is generated from `gal
 
 ## Start Here
 
-- [Live gallery](https://gptimg2.best/) - Visual homepage for all 296 examples.
+- [Live gallery](https://gptimg2.best/) - Visual homepage for all 298 examples.
 - [All prompts](https://gptimg2.best/prompts/) - Complete prompt index with images and prompt text.
 - [Tags](https://gptimg2.best/tags/) - Browse by topic, format, and workflow pattern.
 - [Lucky prompt](https://gptimg2.best/lucky/) - Open a random GPT Image 2 example.
@@ -22,6 +22,8 @@ This repository tracks 296 generated examples. The README is generated from `gal
 
 ## Full List
 
+- [GPT Image 2 Interior Design Mood Board Generator](https://gptimg2.best/prompts/316-gpt-image-2-interior-design-mood-board-generator/) - A GPT Image 2 prompt for generating high-end vertical interior design mood boards with a photorealistic room render, matching material samples, color palette legend, and professio...<br>Topics: X Prompt Ingest, Source Image Asset, Social Workflow.<br><img src="https://pub-d133211bf65a4d3daa7ab996ea945303.r2.dev/thumbs/316-gpt-image-2-interior-design-mood-board-generator.jpg" width="180" alt="GPT Image 2 Interior Design Mood Board Generator">
+- [GPT Image 2 Warm Home Appliance Product Poster](https://gptimg2.best/prompts/315-gpt-image-2-warm-home-appliance-product-poster/) - A GPT Image 2 prompt for generating warm, high-quality home appliance advertising posters with product-centered lifestyle scenes, selling-point badges, feature icons, and clean co...<br>Topics: X Prompt Ingest, Source Image Asset, Social Workflow.<br><img src="https://pub-d133211bf65a4d3daa7ab996ea945303.r2.dev/thumbs/315-gpt-image-2-warm-home-appliance-product-poster.jpg" width="180" alt="GPT Image 2 Warm Home Appliance Product Poster">
 - [GPT Image 2 3D Social Profile Card Diorama](https://gptimg2.best/prompts/314-gpt-image-2-3d-social-profile-card-diorama/) - A safely generalized GPT Image 2 prompt for a hand-held 3D social profile card diorama with a girl seated in the cutout, pastel lifestyle styling, floating interaction icons, cine...<br>Topics: X Prompt Ingest, Source Image Asset, Social Workflow.<br><img src="https://pub-d133211bf65a4d3daa7ab996ea945303.r2.dev/thumbs/314-gpt-image-2-3d-social-profile-card-diorama.jpg" width="180" alt="GPT Image 2 3D Social Profile Card Diorama">
 - [GPT Image 2 Shonen Manga Collage Poster](https://gptimg2.best/prompts/313-gpt-image-2-shonen-manga-collage-poster/) - A safely generalized GPT Image 2 prompt for an original shonen-inspired manga collage poster with reflective glasses, layered comic panels, blue energy particles, motion-blurred f...<br>Topics: X Prompt Ingest, Source Image Asset, Social Workflow.<br><img src="https://pub-d133211bf65a4d3daa7ab996ea945303.r2.dev/thumbs/313-gpt-image-2-shonen-manga-collage-poster.jpg" width="180" alt="GPT Image 2 Shonen Manga Collage Poster">
 - [GPT Image 2 Trending Anime Art Style Redraw](https://gptimg2.best/prompts/312-gpt-image-2-trending-anime-art-style-redraw/) - A GPT Image 2 prompt for transforming an uploaded subject into a lively, comedic anime-style scene with confident line-work, flat cel shading, saturated colors, and playful perspe...<br>Topics: X Prompt Ingest, Source Image Asset, Social Workflow.<br><img src="https://pub-d133211bf65a4d3daa7ab996ea945303.r2.dev/thumbs/312-gpt-image-2-trending-anime-art-style-redraw.jpg" width="180" alt="GPT Image 2 Trending Anime Art Style Redraw">
@@ -321,20 +323,20 @@ This repository tracks 296 generated examples. The README is generated from `gal
 
 ## Popular Topics
 
-- [Social Workflow](https://gptimg2.best/tags/social-workflow/) - 36 examples.
+- [Social Workflow](https://gptimg2.best/tags/social-workflow/) - 38 examples.
 - [X Prompt Redraw](https://gptimg2.best/tags/x-prompt-redraw/) - 29 examples.
 - [Derived Play](https://gptimg2.best/tags/derived-play/) - 24 examples.
 - [Use Case](https://gptimg2.best/tags/use-case/) - 22 examples.
-- [Source Image Asset](https://gptimg2.best/tags/source-image-asset/) - 12 examples.
-- [X Prompt Ingest](https://gptimg2.best/tags/x-prompt-ingest/) - 12 examples.
+- [Source Image Asset](https://gptimg2.best/tags/source-image-asset/) - 14 examples.
+- [X Prompt Ingest](https://gptimg2.best/tags/x-prompt-ingest/) - 14 examples.
 - [Education](https://gptimg2.best/tags/education/) - 7 examples.
-- [Gpt image 2](https://gptimg2.best/tags/gpt image 2/) - 5 examples.
+- [Gpt image 2](https://gptimg2.best/tags/gpt image 2/) - 7 examples.
+- [X prompt ingest](https://gptimg2.best/tags/x prompt ingest/) - 6 examples.
 - [Infographic](https://gptimg2.best/tags/infographic/) - 5 examples.
 - [Source Seal](https://gptimg2.best/tags/source-seal/) - 4 examples.
 - [Ui Mockup](https://gptimg2.best/tags/ui-mockup/) - 4 examples.
 - [Visual Qa](https://gptimg2.best/tags/visual-qa/) - 4 examples.
 - [White Background](https://gptimg2.best/tags/white-background/) - 4 examples.
-- [X prompt ingest](https://gptimg2.best/tags/x prompt ingest/) - 4 examples.
 - [Alt Text](https://gptimg2.best/tags/alt-text/) - 3 examples.
 - [Character Sheet](https://gptimg2.best/tags/character-sheet/) - 3 examples.
 - [Crop Gate](https://gptimg2.best/tags/crop-gate/) - 3 examples.

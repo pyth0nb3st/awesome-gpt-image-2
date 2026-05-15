@@ -18,6 +18,102 @@
   },
   "images": [
     {
+      "title": "GPT Image 2 Warm Home Appliance Product Poster",
+      "caption": "A GPT Image 2 prompt for generating warm, high-quality home appliance advertising posters with product-centered lifestyle scenes, selling-point badges, feature icons, and clean commercial layout.",
+      "path": "assets/images/315-gpt-image-2-warm-home-appliance-product-poster.webp",
+      "alt": "GPT Image 2 Warm Home Appliance Product Poster",
+      "width": 1024,
+      "height": 1536,
+      "createdAt": "2026-05-15 01:52:39",
+      "batch": "x-ingest-20260515T015236-74d3cd0c2a",
+      "tags": [
+        "x-prompt-ingest",
+        "gpt-image-2",
+        "source-image-asset",
+        "social-workflow",
+        "gpt image 2",
+        "x prompt ingest",
+        "product poster",
+        "home appliance",
+        "advertising poster",
+        "ecommerce visual",
+        "warm lifestyle"
+      ],
+      "prompt": "请生成一张高质感家电产品广告海报，主体为「{主体}」。以主体为视觉核心，自动适配其对应的生活方式场景、辅助物品、装饰元素、关键词、卖点徽章、功能图标说明与整体色彩风格。画面布局为：顶部大号主标题 + 手写感副标题 + 关键词；中部主体产品置于符合其使用逻辑的精致生活场景中；左右加入圆形卖点徽章与 4~5 个功能图标说明；底部展示产品名称标签。整体风格要求温暖治愈、柔和暖光、真实材质、现代干净排版、商业广告质感、低饱和协调配色、4K 超清，适合品牌宣传、电商海报、社交媒体视觉展示。一切元素围绕主体自动生成并服务于主体，不喧宾夺主，不杂乱，不低质。\n\n主体：咖啡壶",
+      "originalPrompt": "请生成一张高质感家电产品广告海报，主体为「{主体}」。以主体为视觉核心，自动适配其对应的生活方式场景、辅助物品、装饰元素、关键词、卖点徽章、功能图标说明与整体色彩风格。画面布局为：顶部大号主标题 + 手写感副标题 + 关键词；中部主体产品置于符合其使用逻辑的精致生活场景中；左右加入圆形卖点徽章与 4~5 个功能图标说明；底部展示产品名称标签。整体风格要求温暖治愈、柔和暖光、真实材质、现代干净排版、商业广告质感、低饱和协调配色、4K 超清，适合品牌宣传、电商海报、社交媒体视觉展示。一切元素围绕主体自动生成并服务于主体，不喧宾夺主，不杂乱，不低质。\n\n主体：咖啡壶",
+      "generationPromptChange": "Skipped generation: prompt and source image were both extracted from the X/Twitter post, so the credited social image was ingested directly.",
+      "sourceImageUrl": "https://pbs.twimg.com/media/HISB1pEaMAEfdoF.jpg?name=orig",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "x_post_image_ingest",
+        "sourceNote": "Prompt and image were extracted from a public X/Twitter post and reused with attribution at the user's request. No new image was generated for this record."
+      },
+      "promptSources": [
+        {
+          "title": "GPT Image 2 Warm Home Appliance Product Poster source prompt and image",
+          "url": "https://x.com/GeekCatX/status/2054910164365639811",
+          "authorOrPublisher": "知识猫图解 / @GeekCatX",
+          "license": "public social post; prompt and attached image reused with attribution at user request",
+          "accessedAt": "2026-05-15",
+          "usedAs": "original_prompt_source / source_image_asset / author_credit / social_workflow_reference"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-05-15",
+        "reviewNote": "Prompt and attached social image should be screened for rights and safety before publication; no additional generation was performed."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/x-ingest/x-ingest-20260515T015236-74d3cd0c2a/gpt-image-2-warm-home-appliance-product-poster.jpg"
+    },
+    {
+      "title": "GPT Image 2 Interior Design Mood Board Generator",
+      "caption": "A GPT Image 2 prompt for generating high-end vertical interior design mood boards with a photorealistic room render, matching material samples, color palette legend, and professional proposal-style layout.",
+      "path": "assets/images/316-gpt-image-2-interior-design-mood-board-generator.webp",
+      "alt": "GPT Image 2 Interior Design Mood Board Generator",
+      "width": 1024,
+      "height": 1536,
+      "createdAt": "2026-05-15 01:52:35",
+      "batch": "x-ingest-20260515T015230-26b1856f0b",
+      "tags": [
+        "x-prompt-ingest",
+        "gpt-image-2",
+        "source-image-asset",
+        "social-workflow",
+        "gpt image 2",
+        "x prompt ingest",
+        "interior design",
+        "mood board",
+        "material samples",
+        "color palette",
+        "design proposal"
+      ],
+      "prompt": "（室内设计情绪板生成器 / Interior Design Mood Board Generator）\n你是一名专业的室内设计 Mood Board 创作者。请基于用户提供的 [Space Type] 室内设计照片，生成一张 竖版 3:4 的高端室内设计情绪板。整体视觉参考专业室内设计提案图，呈现 [Style Keywords] 的审美特征，画面应具备 [Mood Keywords] 的空间氛围，并符合 [Branding Tone] 的高级设计表达。\n场景类型（Space Type）：[Space Type]\n画面布局要求\n上半部分：呈现一张高分辨率、照片级真实感的 [Space Type] 室内设计效果图。\n\n该效果图需要在空间结构、家具语言、材质关系、色彩搭配、光影氛围上与用户输入照片保持一致，同时提升为更完整、更精致、更具设计提案感的视觉呈现。\n\n重点体现：[Key Furniture Elements]、[Material Keywords]、[Color Palette]、[Lighting Style]。\n下半部分：展示与上方空间设计严格对应的材质与软装样本，包括：\n材料样板\n面料样本\n色卡\n饰面样本\n与该空间相关的木材、石材、金属、玻璃、织物、皮革或涂料样本\n\n所有样本必须与上方空间保持一致，并准确反映该设计方案中的核心材质与色彩逻辑。\n右下角：设置一个 Design Legend / Color Palette 信息框，统一展示本方案的：\n主色\n辅助色\n点缀色\n核心材质\n饰面说明\n风格关键词\n风格与输出要求\n专业室内设计公司级别的 Mood Board 版式\n极简、整洁、克制、有秩序的排版\n明确的视觉层级与留白控制\n材质、色彩、面料、饰面与上方空间完全匹配\n标签清晰、现代、简洁，具有高级编辑设计感\n整体气质需符合 [Style Keywords]\n呈现 [Render Quality]\n竖版 3:4 构图\n4K Ultra HD\n超高细节\n写实渲染\n直接用于图像生成\n标签要求\n每个材质或色彩样本配有清晰标签，标签内容围绕以下信息组织：\n\n[Label Language] 的材质名称、颜色名称、饰面名称或织物类型。\n\n标签风格应简洁、专业、排版规整，不喧宾夺主。\n主题定义\n[Space Type] Interior Design Mood Board\n\n风格方向：[Style Name]\n\n关键词：[Style Keywords], [Material Keywords], [Color Palette], [Mood Keywords]\n负面约束\n避免杂乱拼贴、避免廉价海报风、避免材质与空间不匹配、避免错误透视、避免低质字体、避免装饰元素过多、避免卡通感、避免过饱和色彩、避免信息层级混乱、避免伪随机材质堆砌。\n\n空间类型：卧室\n风格名称：现代中古\n\n变量当成可替换字段：\n[Space Type]：空间类型\n例如：客厅、卧室、餐厅、厨房、书房、玄关、浴室、会客区、酒店大堂\n[Style Name]：风格名称\n\n例如：现代极简、意式极简、侘寂、奶油风、轻法式、现代中古、北欧自然、深色豪宅、日式原木、当代奢雅\n[Style Keywords]：风格关键词\n\n例如：modern minimalist, clean lines, refined luxury, warm contemporary\n[Mood Keywords]：氛围关键词\n\n例如：温暖宁静、克制高级、通透自然、沉稳静奢、明亮柔和\n[Branding Tone]：品牌化视觉语气\n\n例如：高端设计事务所提案感、国际家居品牌视觉、编辑型画册审美、奢华但克制\n[Key Furniture Elements]：重点家具/造型元素\n\n例如：低矮沙发、弧形单椅、岩板茶几、悬浮电视柜、落地灯、艺术摆件\n[Material Keywords]：关键材质\n\n例如：白蜡木、胡桃木、洞石、亚麻、羊毛、拉丝金属、微水泥、皮革、玻璃\n[Color Palette]：配色方案\n\n例如：米白、暖灰、燕麦色、焦糖棕、炭灰、鼠尾草绿、黑胡桃色\n[Lighting Style]：光线风格\n\n例如：自然漫射光、晨间柔光、傍晚暖光、均匀展厅光、低照度氛围光\n[Label Language]：标签语言\n\n例如：英文、中英双语、纯中文\n[Render Quality]：渲染质量描述\n\n例如：照片级真实感、high-end editorial rendering、luxury interior visualization",
+      "originalPrompt": "（室内设计情绪板生成器 / Interior Design Mood Board Generator）\n你是一名专业的室内设计 Mood Board 创作者。请基于用户提供的 [Space Type] 室内设计照片，生成一张 竖版 3:4 的高端室内设计情绪板。整体视觉参考专业室内设计提案图，呈现 [Style Keywords] 的审美特征，画面应具备 [Mood Keywords] 的空间氛围，并符合 [Branding Tone] 的高级设计表达。\n场景类型（Space Type）：[Space Type]\n画面布局要求\n上半部分：呈现一张高分辨率、照片级真实感的 [Space Type] 室内设计效果图。\n\n该效果图需要在空间结构、家具语言、材质关系、色彩搭配、光影氛围上与用户输入照片保持一致，同时提升为更完整、更精致、更具设计提案感的视觉呈现。\n\n重点体现：[Key Furniture Elements]、[Material Keywords]、[Color Palette]、[Lighting Style]。\n下半部分：展示与上方空间设计严格对应的材质与软装样本，包括：\n材料样板\n面料样本\n色卡\n饰面样本\n与该空间相关的木材、石材、金属、玻璃、织物、皮革或涂料样本\n\n所有样本必须与上方空间保持一致，并准确反映该设计方案中的核心材质与色彩逻辑。\n右下角：设置一个 Design Legend / Color Palette 信息框，统一展示本方案的：\n主色\n辅助色\n点缀色\n核心材质\n饰面说明\n风格关键词\n风格与输出要求\n专业室内设计公司级别的 Mood Board 版式\n极简、整洁、克制、有秩序的排版\n明确的视觉层级与留白控制\n材质、色彩、面料、饰面与上方空间完全匹配\n标签清晰、现代、简洁，具有高级编辑设计感\n整体气质需符合 [Style Keywords]\n呈现 [Render Quality]\n竖版 3:4 构图\n4K Ultra HD\n超高细节\n写实渲染\n直接用于图像生成\n标签要求\n每个材质或色彩样本配有清晰标签，标签内容围绕以下信息组织：\n\n[Label Language] 的材质名称、颜色名称、饰面名称或织物类型。\n\n标签风格应简洁、专业、排版规整，不喧宾夺主。\n主题定义\n[Space Type] Interior Design Mood Board\n\n风格方向：[Style Name]\n\n关键词：[Style Keywords], [Material Keywords], [Color Palette], [Mood Keywords]\n负面约束\n避免杂乱拼贴、避免廉价海报风、避免材质与空间不匹配、避免错误透视、避免低质字体、避免装饰元素过多、避免卡通感、避免过饱和色彩、避免信息层级混乱、避免伪随机材质堆砌。\n\n空间类型：卧室\n风格名称：现代中古\n\n变量当成可替换字段：\n[Space Type]：空间类型\n例如：客厅、卧室、餐厅、厨房、书房、玄关、浴室、会客区、酒店大堂\n[Style Name]：风格名称\n\n例如：现代极简、意式极简、侘寂、奶油风、轻法式、现代中古、北欧自然、深色豪宅、日式原木、当代奢雅\n[Style Keywords]：风格关键词\n\n例如：modern minimalist, clean lines, refined luxury, warm contemporary\n[Mood Keywords]：氛围关键词\n\n例如：温暖宁静、克制高级、通透自然、沉稳静奢、明亮柔和\n[Branding Tone]：品牌化视觉语气\n\n例如：高端设计事务所提案感、国际家居品牌视觉、编辑型画册审美、奢华但克制\n[Key Furniture Elements]：重点家具/造型元素\n\n例如：低矮沙发、弧形单椅、岩板茶几、悬浮电视柜、落地灯、艺术摆件\n[Material Keywords]：关键材质\n\n例如：白蜡木、胡桃木、洞石、亚麻、羊毛、拉丝金属、微水泥、皮革、玻璃\n[Color Palette]：配色方案\n\n例如：米白、暖灰、燕麦色、焦糖棕、炭灰、鼠尾草绿、黑胡桃色\n[Lighting Style]：光线风格\n\n例如：自然漫射光、晨间柔光、傍晚暖光、均匀展厅光、低照度氛围光\n[Label Language]：标签语言\n\n例如：英文、中英双语、纯中文\n[Render Quality]：渲染质量描述\n\n例如：照片级真实感、high-end editorial rendering、luxury interior visualization",
+      "generationPromptChange": "Skipped generation: prompt and source image were both extracted from the X/Twitter post, so the credited social image was ingested directly.",
+      "sourceImageUrl": "https://pbs.twimg.com/media/HH2Kv_9bIAA26Qi.jpg?name=orig",
+      "provenance": {
+        "status": "external_attributed",
+        "origin": "x_post_image_ingest",
+        "sourceNote": "Prompt and image were extracted from a public X/Twitter post and reused with attribution at the user's request. No new image was generated for this record."
+      },
+      "promptSources": [
+        {
+          "title": "GPT Image 2 Interior Design Mood Board Generator source prompt and image",
+          "url": "https://x.com/GeekCatX/status/2052949583563784620",
+          "authorOrPublisher": "知识猫图解 / @GeekCatX",
+          "license": "public social post; prompt and attached image reused with attribution at user request",
+          "accessedAt": "2026-05-15",
+          "usedAs": "original_prompt_source / source_image_asset / author_credit / social_workflow_reference"
+        }
+      ],
+      "contentSafety": {
+        "status": "screened",
+        "checkedAt": "2026-05-15",
+        "reviewNote": "Prompt and attached social image should be screened for rights and safety before publication; no additional generation was performed."
+      },
+      "localSourcePath": "/Users/xuyanyue/.codex/generated_images/x-ingest/x-ingest-20260515T015230-26b1856f0b/gpt-image-2-interior-design-mood-board-generator.jpg"
+    },
+    {
       "title": "GPT Image 2 3D Social Profile Card Diorama",
       "caption": "A safely generalized GPT Image 2 prompt for a hand-held 3D social profile card diorama with a girl seated in the cutout, pastel lifestyle styling, floating interaction icons, cinematic soft light, and polished influencer aesthetics.",
       "path": "assets/images/314-gpt-image-2-3d-social-profile-card-diorama.webp",

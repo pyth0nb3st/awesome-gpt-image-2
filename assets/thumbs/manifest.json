@@ -62,6 +62,16 @@
       "path": "assets/thumbs/314-gpt-image-2-3d-social-profile-card-diorama.jpg",
       "width": 768,
       "height": 1024
+    },
+    "assets/images/315-gpt-image-2-warm-home-appliance-product-poster.webp": {
+      "path": "assets/thumbs/315-gpt-image-2-warm-home-appliance-product-poster.jpg",
+      "width": 768,
+      "height": 1152
+    },
+    "assets/images/316-gpt-image-2-interior-design-mood-board-generator.webp": {
+      "path": "assets/thumbs/316-gpt-image-2-interior-design-mood-board-generator.jpg",
+      "width": 768,
+      "height": 1152
     }
   }
 }
